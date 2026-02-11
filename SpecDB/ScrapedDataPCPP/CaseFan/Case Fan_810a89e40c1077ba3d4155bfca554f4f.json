@@ -1,0 +1,17 @@
+{
+    "name": "Asiahorse Nyota 61.5 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Asiahorse",
+    "Part #": "Nyota-A12-White-3PACK-DE",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2000 RPM",
+    "Airflow": "61.5 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.16 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nsFCmG/asiahorse-nyota-615-cfm-120-mm-fans-3-pack-nyota-a12-white-3pack-de"
+}

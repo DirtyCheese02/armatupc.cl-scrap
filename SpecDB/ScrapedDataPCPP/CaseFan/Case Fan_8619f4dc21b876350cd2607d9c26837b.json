@@ -1,0 +1,17 @@
+{
+    "name": "MSI MPG EZ120R ARGB WHITE-3W 66.72 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "MSI",
+    "Part #": "[MPG EZ120R ARGB WHITE-3W, EZ120R ARGB WHITE-3W, EZ120R ARGB-3W]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "Airflow": "66.72 CFM",
+    "Noise Level": "30.78 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "1.82 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pbHp99/msi-mpg-ez120r-argb-white-3w-6672-cfm-120-mm-fans-3-pack-mpg-ez120r-argb-white-3w"
+}

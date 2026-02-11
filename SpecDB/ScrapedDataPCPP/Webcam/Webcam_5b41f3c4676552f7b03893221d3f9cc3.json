@@ -1,0 +1,14 @@
+{
+    "name": "VIZOLINK W4DS Webcam",
+    "Manufacturer": "VIZOLINK",
+    "Model": "W4DS",
+    "Part #": "TLSX-W4DS-US",
+    "Resolution": "[2k, 1080p, 720p]",
+    "Connection": "USB 2.0 Type-A",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X, ChromeOS, Android]",
+    "FOV Angle": "65°",
+    "Privacy Shutter": "Yes",
+    "Built-In Lighting": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tYKnTW/vizolink-w4ds-webcam-tlsx-w4ds-us"
+}

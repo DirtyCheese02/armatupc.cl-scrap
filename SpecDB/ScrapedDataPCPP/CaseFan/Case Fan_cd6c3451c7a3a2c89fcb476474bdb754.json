@@ -1,0 +1,17 @@
+{
+    "name": "MSI MPG EZ120R ARGB-4B 66.72 CFM 120 mm Fans 4-Pack",
+    "Manufacturer": "MSI",
+    "Part #": "[MPG EZ120R ARGB-4B, EZ120R ARGB-4B]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "4-Pack",
+    "Flow Direction": "Reverse",
+    "Airflow": "66.72 CFM",
+    "Noise Level": "30.78 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "1.82 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tJQwrH/msi-mpg-ez120r-argb-4b-6672-cfm-120-mm-fans-4-pack-mpg-ez120r-argb-4b"
+}

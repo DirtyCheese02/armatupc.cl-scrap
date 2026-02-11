@@ -1,0 +1,18 @@
+{
+    "name": "Montech E28 85.09 CFM 120 mm Fan",
+    "Manufacturer": "Montech",
+    "Part #": "4710562749823",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2000 RPM",
+    "Airflow": "85.09 CFM",
+    "Noise Level": "34.17 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.35 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2jDnTW/montech-e28-8509-cfm-120-mm-fan-4710562749823"
+}

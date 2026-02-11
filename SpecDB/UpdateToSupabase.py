@@ -110,7 +110,7 @@ def main():
             table_name = CATEGORY_TO_TABLE.get(category_folder)
 
         if not table_name:
-            # print(f"⚠️ Saltando carpeta desconocida: {category_folder}")
+            print(f"⚠️ Saltando carpeta desconocida: {category_folder}")
             continue
 
         folder_path = os.path.join(DATA_DIR, category_folder)

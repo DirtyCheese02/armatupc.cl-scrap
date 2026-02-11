@@ -16,6 +16,7 @@ OUTPUT_DIR = "SpecDB/ScrapedDataPCPP"
 VISITED_FILE = f"{CACHE_DIR}/pcpp_links.txt"
 LINKSTOVISIT_FILE = f"{CACHE_DIR}/pcpp_links_to_visit.txt"
 
+
 MAX_CONCURRENT_TABS_COLLECTOR = 10  # Pestañas para buscar links
 MAX_CONCURRENT_TABS_SCRAPER = 6    # Pestañas para scrapear productos
 
@@ -168,6 +169,8 @@ async def scrape_product_details(sem, browser, url):
             try:
                 product_name = await page.query("/html/body/div[4]/div[1]/section/h1")
                 product_name = await product_name.text
+                
+                
             except:
                 pass
             
