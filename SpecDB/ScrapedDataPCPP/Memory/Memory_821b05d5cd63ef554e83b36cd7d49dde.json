@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Vesta RGB 32 GB (2 x 16 GB) DDR4-3600 CL14 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "BL.9BWWR.300",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver",
+    "First Word Latency": "7.778 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.45 V",
+    "Timing": "14-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rvPQzy/acer-predator-vesta-rgb-32-gb-2-x-16-gb-ddr4-3600-cl14-memory-bl9bwwr300"
+}

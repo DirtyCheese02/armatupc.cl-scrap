@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Zeta R5 128 GB (8 x 16 GB) Registered DDR5-6400 CL32 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6400R3239G16GE8-ZR5K",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "8 x 16GB",
+    "Price / GB": "$16.875",
+    "Color": "Black / White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KPV2FT/gskill-zeta-r5-128-gb-8-x-16-gb-registered-ddr5-6400-cl32-memory-f5-6400r3239g16ge8-zr5k"
+}

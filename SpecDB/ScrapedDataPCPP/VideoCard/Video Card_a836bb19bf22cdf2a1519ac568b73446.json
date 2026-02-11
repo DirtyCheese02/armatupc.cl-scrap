@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS ELITE GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N3060AORUS E-12GD",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1867 MHz",
+    "Effective Memory Clock": "15000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "296 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XM8bt6/gigabyte-geforce-rtx-3060-12-gb-aorus-elite-video-card-gv-n3060aorus-e-12gd"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite INTERNET550SER UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "INTERNET550SER",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "550 VA",
+    "Alarm": "Battery Backup",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Cabinet",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Black Out, Brownout]",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zBPzK8/tripp-lite-ups-internet550ser"
+}

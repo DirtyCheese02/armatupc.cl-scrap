@@ -1,0 +1,15 @@
+{
+    "name": "Tripp Lite OMNISMARTINT500PNP UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNISMARTINT500PNP",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "On Battery",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Cabinet",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "3 x IEC 320-C13",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/67hj4D/tripp-lite-ups-omnismartint500pnp"
+}

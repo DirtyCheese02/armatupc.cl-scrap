@@ -1,0 +1,18 @@
+{
+    "name": "Enermax T.B. RGB AD 47.53 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTBRGBA12P-BP3",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "13.71 - 47.53 CFM",
+    "Noise Level": "14 - 22 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "Static Pressure": "1.66 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y66qqs/enermax-tb-rgb-ad-4753-cfm-120-mm-fans-3-pack-uctbrgba12p-bp3"
+}

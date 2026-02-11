@@ -1,0 +1,17 @@
+{
+    "name": "Streacom BC1 ATX Test Bench Case",
+    "Manufacturer": "Streacom",
+    "Part #": "ST-BC1R",
+    "Type": "ATX Test Bench",
+    "Color": "Red",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "None",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, XL ATX]",
+    "Drive Bays": "2 x Internal 3.5\"",
+    "Expansion Slots": "4 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nfprxr/streacom-bc1-red-atx-test-bench-case-st-bc1r"
+}

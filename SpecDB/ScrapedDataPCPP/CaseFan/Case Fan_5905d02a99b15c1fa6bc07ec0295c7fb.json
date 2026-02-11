@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master MasterFan MF Halo 47.2 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "MFL-B2DN-18NPA-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 1800 RPM",
+    "Airflow": "47.2 CFM",
+    "Noise Level": "6 - 30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.6 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nVmFf7/cooler-master-masterfan-mf120-halo-472-cfm-120-mm-fan-mfl-b2dn-18npa-r1"
+}

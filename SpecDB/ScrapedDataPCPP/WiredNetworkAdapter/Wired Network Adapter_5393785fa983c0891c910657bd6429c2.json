@@ -1,0 +1,8 @@
+{
+    "name": "TRENDnet TEG-PCITXR Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEG-PCITXR",
+    "Interface": "PCI",
+    "Features": "[Protocol: CSMA/CD, Power Consumption: 3.7watts, Certification: CE, FCC, Built-in FIFO (8K/64K) buffers reduce overhead of memory transfers., Plug and Play]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Kp7wrH/trendnet-wired-network-card-tegpcitxr"
+}

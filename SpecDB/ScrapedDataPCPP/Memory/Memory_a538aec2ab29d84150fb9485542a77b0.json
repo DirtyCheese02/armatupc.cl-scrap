@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO Potenza AMD Edition 8 GB (2 x 4 GB) DDR4-3000 CL14 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAPB48GB3000C14ADC",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "Timing": "14-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/92C48d/geil-evo-potenza-amd-edition-8-gb-2-x-4-gb-ddr4-3000-cl14-memory-gapb48gb3000c14adc"
+}

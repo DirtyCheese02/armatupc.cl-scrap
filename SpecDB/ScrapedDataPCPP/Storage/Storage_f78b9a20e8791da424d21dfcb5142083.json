@@ -1,0 +1,12 @@
+{
+    "name": "Intel P3700 1.6 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDMD016T401",
+    "Capacity": "1.6 TB",
+    "Price / GB": "$1.156",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T7YWGX/intel-internal-hard-drive-ssdpedmd016t401"
+}

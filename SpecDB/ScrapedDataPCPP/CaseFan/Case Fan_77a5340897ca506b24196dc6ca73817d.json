@@ -1,0 +1,18 @@
+{
+    "name": "Noctua A12x25 ULN 32.78 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A12x25 ULN",
+    "Part #": "NF-A12x25 ULN",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1200 RPM",
+    "Airflow": "23.19 - 32.78 CFM",
+    "Noise Level": "7.6 - 12.1 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Krprxr/noctua-nf-a12x25-uln-328-cfm-120mm-fan-nf-a12x25-uln"
+}

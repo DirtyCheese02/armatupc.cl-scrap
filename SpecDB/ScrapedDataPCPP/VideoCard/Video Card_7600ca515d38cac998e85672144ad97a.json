@@ -1,0 +1,23 @@
+{
+    "name": "Yeston Sakura Radeon RX 7700 XT 12 GB Video Card",
+    "Manufacturer": "Yeston",
+    "Part #": "RX7700XT-12G SA",
+    "Chipset": "Radeon RX 7700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2171 MHz",
+    "Boost Clock": "2599 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Blue",
+    "Frame Sync": "FreeSync",
+    "Length": "340 mm",
+    "TDP": "245 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N62j4D/yeston-sakura-radeon-rx-7700-xt-12-gb-video-card-rx7700xt-12g-sa"
+}

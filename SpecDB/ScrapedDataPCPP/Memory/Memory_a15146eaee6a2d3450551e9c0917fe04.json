@@ -1,0 +1,15 @@
+{
+    "name": "Patriot PSD32G13332 2 GB (1 x 2 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PSD32G13332",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "Color": "Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/v6zv6h/patriot-memory-psd32g13332"
+}

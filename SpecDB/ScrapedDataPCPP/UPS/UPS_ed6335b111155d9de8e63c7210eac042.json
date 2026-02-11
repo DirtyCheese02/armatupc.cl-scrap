@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SU6000RT4UHVG UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU6000RT4UHVG",
+    "Capacity (W)": "5400 W",
+    "Capacity (VA)": "6000 VA",
+    "Rack Height": "4U",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "8.50 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "[240 V AC, 230 V AC, 208 V AC]",
+    "Receptacles": "4",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Dpbkcf/tripp-lite-ups-su6000rt4uhvg"
+}

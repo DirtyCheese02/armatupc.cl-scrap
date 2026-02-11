@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance 32 GB (1 x 32 GB) DDR5-5600 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK32GX5M1B5600C40",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 32GB",
+    "Price / GB": "$12.937",
+    "Color": "Black / Gray",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-78",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pLzhP6/corsair-vengeance-32-gb-1-x-32-gb-ddr5-5600-cl40-memory-cmk32gx5m1b5600c40"
+}

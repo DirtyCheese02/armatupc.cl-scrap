@@ -1,0 +1,19 @@
+{
+    "name": "CRYORIG QF120 Performance 83 CFM 120 mm Fan",
+    "Manufacturer": "CRYORIG",
+    "Model": "QF120 Performance",
+    "Part #": "CR-QFC-LED",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2200 RPM",
+    "Airflow": "83 CFM",
+    "Noise Level": "13 - 37 dB",
+    "PWM": "Yes",
+    "LED": "White",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.33 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tH9tt6/cryorig-qf120-led-performance-83-cfm-120-mm-fan-cr-qfc-led"
+}

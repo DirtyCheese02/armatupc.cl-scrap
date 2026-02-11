@@ -1,0 +1,20 @@
+{
+    "name": "Masscool BLD-12025V1G 60 CFM 120 mm Fan",
+    "Manufacturer": "Masscool",
+    "Part #": "BLD-12025V1G",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "60 CFM",
+    "Noise Level": "23.5 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2 mmH₂O",
+    "Bearing Type": "Ball",
+    "Features": "[Max. Fan Air Pressure: 2.01 mmH2O, Rated Voltage: 12 V, Rated Current: 0.30 A, Rated Power: 3.60 W, Application: Second case fan or other purpose, 50,000 long life hours, RoHS compliance for protecting the environment]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kJFPxr/masscool-case-fan-bld12025v1g"
+}

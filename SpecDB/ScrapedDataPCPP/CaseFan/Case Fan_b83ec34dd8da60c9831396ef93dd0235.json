@@ -1,0 +1,19 @@
+{
+    "name": "GameMax Mirage White Fins 36 CFM 120 mm Fan",
+    "Manufacturer": "GameMax",
+    "Model": "Mirage White Fins",
+    "Part #": "MIRAGEWHITEFINS",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1100 RPM",
+    "Airflow": "36 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.08 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9HBhP6/gamemax-mirage-white-fins-36-cfm-120-mm-fan-miragewhitefins"
+}

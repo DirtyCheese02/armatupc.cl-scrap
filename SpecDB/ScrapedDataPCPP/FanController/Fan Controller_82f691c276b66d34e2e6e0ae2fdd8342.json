@@ -1,0 +1,11 @@
+{
+    "name": "Aerocool V12XT Fan Controller",
+    "Manufacturer": "Aerocool",
+    "Part #": "[V12XT, EN55369]",
+    "Channels": "4",
+    "Channel Wattage": "6 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "2 x 5.25\"",
+    "Features": "[Large LCD screen, LCD backlight on/off, Switch between Celsius and Fahrenheit, Overheating alarm temperature warning, HDD working display, \"Lock\" function provided to prevent careless miss-touch, LCD viewable area: 115 (W) x 57 (H) mm, Connectors: 4 x 3-pin connectors / 4 x heat sensors, Material: ABS front bezel w/ steel bracket, Max wattage per fan channel: 6W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jXg323/aerocool-fan-controller-v12xt"
+}

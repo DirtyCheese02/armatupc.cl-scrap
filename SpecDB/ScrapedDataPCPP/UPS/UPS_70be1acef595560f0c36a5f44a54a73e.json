@@ -1,0 +1,19 @@
+{
+    "name": "APC SURTA1500RMXL2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTA1500RMXL2U",
+    "Capacity (W)": "1050 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "8.60 Minutes",
+    "Backup/Run Time (Half Load)": "22.20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YFdFf7/apc-ups-surta1500rmxl2u"
+}

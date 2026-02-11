@@ -1,0 +1,12 @@
+{
+    "name": "Tripp Lite SMART2200 UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART2200",
+    "Capacity (W)": "1700 W",
+    "Capacity (VA)": "2200 VA",
+    "Backup/Run Time (Full Load)": "11 Minutes",
+    "Backup/Run Time (Half Load)": "27 Minutes",
+    "Input Voltage": "110 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3VYWGX/tripp-lite-ups-smart2200"
+}

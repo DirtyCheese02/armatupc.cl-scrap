@@ -1,0 +1,16 @@
+{
+    "name": "Phanteks FSK 84.5 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "Phanteks",
+    "Part #": "PH-F140SK_DRGB_PWM_3P",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.23 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/24VG3C/phanteks-fsk-845-cfm-140-mm-fans-3-pack-ph-f140sk_drgb_pwm_3p"
+}

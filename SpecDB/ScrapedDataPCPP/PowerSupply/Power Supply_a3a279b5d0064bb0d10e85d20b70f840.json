@@ -1,0 +1,21 @@
+{
+    "name": "SeaSonic SSP-300ST 300 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Part #": "SSP-300ST",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "300 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hgL7YJ/seasonic-power-supply-ssp300st"
+}

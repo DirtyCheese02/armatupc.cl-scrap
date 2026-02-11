@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D Twin X2 OC GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N30502-08D6X-11902130",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1822 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "240 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N4Tp99/inno3d-geforce-rtx-3050-8gb-8-gb-twin-x2-oc-video-card-n30502-08d6x-11902130"
+}

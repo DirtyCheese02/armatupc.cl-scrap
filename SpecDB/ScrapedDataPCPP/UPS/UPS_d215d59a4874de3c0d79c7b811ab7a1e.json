@@ -1,0 +1,19 @@
+{
+    "name": "APC SUA3000XL UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA3000XL",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "5U",
+    "Backup/Run Time (Full Load)": "5.50 Minutes",
+    "Backup/Run Time (Half Load)": "13.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[9 x NEMA 5-15R, 2 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yNNypg/apc-ups-sua3000xl"
+}

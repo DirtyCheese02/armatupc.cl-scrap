@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Aegis 8 GB (1 x 8 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3000C16S-8GISB",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$7.811",
+    "Color": "Black / Red",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XJYWGX/gskill-aegis-8-gb-1-x-8-gb-ddr4-3000-cl16-memory-f4-3000c16s-8gisb"
+}

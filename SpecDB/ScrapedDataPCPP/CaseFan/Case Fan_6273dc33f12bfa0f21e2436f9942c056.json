@@ -1,0 +1,19 @@
+{
+    "name": "RAIJINTEK IRIS 12 RBW ADD-3 35.8 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "RAIJINTEK",
+    "Model": "IRIS 12 RBW ADD-3",
+    "Part #": "0R40B00112",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1800 RPM",
+    "Airflow": "35.8 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "1.16 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vqzFf7/raijintek-iris-12-rbw-add-3-358-cfm-120-mm-fans-3-pack-0r40b00112"
+}

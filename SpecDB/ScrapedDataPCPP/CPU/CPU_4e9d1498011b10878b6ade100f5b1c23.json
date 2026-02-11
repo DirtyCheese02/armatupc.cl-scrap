@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Extreme X6800 2.93 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "HH80557PH0774M",
+    "Series": "Intel Core 2 Extreme",
+    "Microarchitecture": "Core",
+    "Core Family": "Conroe",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.93 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "75 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T2DwrH/intel-cpu-hh80557ph0774m"
+}

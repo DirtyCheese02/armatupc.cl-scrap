@@ -1,0 +1,11 @@
+{
+    "name": "Asus USB-AC56 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Asus",
+    "Part #": "[USB-AC56, 90IG00A0-BM0N00]",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPS support",
+    "Antenna": "Internal 2 dBi PCB antenna x 2<br/>External dipole antenna x 1",
+    "Features": "[Next-generation 802.11ac Wi-Fi - up to three times faster than 2x2 802.11n adapters, Selectable 5GHz/2.4GHz dual bands increase signal clarity for better HD multimedia, AiRadar technology provides a stronger signal over greater distances, External high-gain antenna for 150% stronger Wi-Fi signal, USB 3.0 connection for high-performance wireless networking with desktop and notebook PCs.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dmYXsY/asus-wireless-network-card-usbac56"
+}

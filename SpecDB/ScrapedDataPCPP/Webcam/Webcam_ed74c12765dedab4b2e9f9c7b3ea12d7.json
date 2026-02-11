@@ -1,0 +1,16 @@
+{
+    "name": "Microsoft LifeCam Studio Webcam",
+    "Manufacturer": "Microsoft",
+    "Model": "LifeCam Studio",
+    "Part #": "Q2F-00013",
+    "Resolution": "[1080p, 720p]",
+    "Connection": "USB 2.0 Type-A",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X]",
+    "FOV Angle": "75°",
+    "Digital Zoom": "3X",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nqMTwP/microsoft-lifecam-studio-webcam-q2f-00013"
+}

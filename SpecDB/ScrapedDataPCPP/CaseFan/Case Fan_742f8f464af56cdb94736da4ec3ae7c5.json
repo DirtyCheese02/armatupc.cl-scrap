@@ -1,0 +1,15 @@
+{
+    "name": "SilentiumPC Stella HP RGB 120 mm Fan",
+    "Manufacturer": "SilentiumPC",
+    "Part #": "SPC234",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 2300 RPM",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YQzp99/silentiumpc-stella-hp-rgb-120-mm-fan-spc234"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Phantom Gaming Radeon RX 6500 XT 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX6500XT PG 8GO, 90-GA3VZZ-00UANF]",
+    "Chipset": "Radeon RX 6500 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2420 MHz",
+    "Boost Clock": "2825 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "240 mm",
+    "TDP": "107 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B4zXsY/asrock-phantom-gaming-radeon-rx-6500-xt-8-gb-video-card-rx6500xt-pg-8go"
+}

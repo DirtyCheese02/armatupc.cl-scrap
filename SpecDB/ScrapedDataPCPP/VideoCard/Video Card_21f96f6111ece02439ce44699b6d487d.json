@@ -1,0 +1,22 @@
+{
+    "name": "Gainward Ghost OC GeForce RTX 4060 8 GB PCIe x8 Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NE64060T19P1-1070B",
+    "Chipset": "GeForce RTX 4060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1830 MHz",
+    "Boost Clock": "2670 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "250 mm",
+    "TDP": "115 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FvZXsY/gainward-ghost-oc-geforce-rtx-4060-8-gb-pcie-x8-video-card-ne64060t19p1-1070b"
+}

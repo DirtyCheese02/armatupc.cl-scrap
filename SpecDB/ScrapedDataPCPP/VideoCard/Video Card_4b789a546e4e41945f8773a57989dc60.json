@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D Compact GeForce GTX 1650 G5 4 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N16501-04D5-1510VA19",
+    "Chipset": "GeForce GTX 1650 G5",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1485 MHz",
+    "Boost Clock": "1665 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "160 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LJvbt6/inno3d-geforce-gtx-1650-4-gb-compact-video-card-n16501-04d5-1510va19"
+}

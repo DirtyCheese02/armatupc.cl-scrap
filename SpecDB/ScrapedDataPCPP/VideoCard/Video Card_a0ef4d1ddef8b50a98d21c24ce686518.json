@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 3X OC GeForce RTX 4080 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4080 16GB VENTUS 3X OC, G408016V3XC, GeForce RTX 4080 16GB VENTUS 3X OC, V511-009R]",
+    "Chipset": "GeForce RTX 4080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2205 MHz",
+    "Effective Memory Clock": "22400 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "322 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9YVmP6/msi-ventus-3x-oc-geforce-rtx-4080-16-gb-video-card-rtx-4080-16gb-ventus-3x-oc"
+}

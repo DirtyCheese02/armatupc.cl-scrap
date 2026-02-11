@@ -1,0 +1,18 @@
+{
+    "name": "EK Quantum Impulse D-RGB 57.5 CFM 120 mm Fan",
+    "Manufacturer": "EK",
+    "Part #": "[3831109854198, EK-QTM-IMP-120-DRGB-BK]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1800 RPM",
+    "Airflow": "57.5 CFM",
+    "Noise Level": "24.3 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.94 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fwkH99/ek-quantum-impulse-d-rgb-575-cfm-120-mm-fan-3831109854198"
+}

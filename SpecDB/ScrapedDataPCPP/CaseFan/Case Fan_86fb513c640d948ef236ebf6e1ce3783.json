@@ -1,0 +1,20 @@
+{
+    "name": "Prolimatech Vortex 72.67 CFM 120 mm Fan",
+    "Manufacturer": "Prolimatech",
+    "Part #": "[PRO-BV12LED, Blue Vortex 12 LED]",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 1600 RPM",
+    "Airflow": "72.67 CFM",
+    "Noise Level": "29.1 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.05 mmH₂O",
+    "Bearing Type": "Sleeve",
+    "Features": "[Power:, Rated Voltage: 12 VDC / 9 VDC, Operating Voltage Range: 6~13.8 VDC, Rated Current: 0.3 Max.Amp, Rated Power: 3.6 Max.Watt, Connector: Terminal Connector(3-pin plus 4-pin molex), Specifically designed to work with Prolimatech coolers for best performance to noise ratio., Stable bearing for long life operation at minimal noise level., Quality material used in fan blades for a solid structure design., Quad Sapphire Blue LED.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JFvRsY/prolimatech-case-fan-probv12led"
+}

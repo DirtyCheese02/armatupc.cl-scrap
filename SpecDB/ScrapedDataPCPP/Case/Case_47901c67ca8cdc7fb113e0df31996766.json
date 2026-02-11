@@ -1,0 +1,19 @@
+{
+    "name": "KOLINK Satellite MicroATX Desktop Case",
+    "Manufacturer": "KOLINK",
+    "Part #": "SATELLITE",
+    "Type": "MicroATX Desktop",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Mesh",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[280 mm, 11.024\"]",
+    "Drive Bays": "[3 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "2 x Full-Height",
+    "Fan Support": "120 mm",
+    "Dimensions": "[280 mm x 260 mm x 190 mm, 11.024\" x 10.236\" x 7.48\"]",
+    "Volume": "[13.832 L, 0.488 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KJstt6/kolink-satellite-microatx-desktop-case-satellite"
+}

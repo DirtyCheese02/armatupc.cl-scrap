@@ -1,0 +1,21 @@
+{
+    "name": "Corsair LL120 43.25 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "LL120",
+    "Part #": "CO-9050071-WW",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1500 RPM",
+    "Airflow": "43.25 CFM",
+    "Noise Level": "24.8 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "1.61 mmH₂O",
+    "Bearing Type": "Hydraulic Bearing",
+    "Features": "[Dual RGB Lighting Loop: 16 Independent RGB LEDs in every fan, split between two separate light loops, allow for nearly endless customization, Expansion Kit: This product is intended as an expansion of the LL120 RGB LED 3 fan kit with Lighting Node PRO. The RGB functionality of this product requires a RGB Lighting hub and Lighting Node PRO., Complete PWM Control: Dynamically control fan speed from 600 RPM to 1,500 RPM to minimize noise or maximize airflow, Created for Quiet: 120mm Fan blade engineered for low-noise operation without sacrificing performance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m8hj4D/corsair-ll120-rgb-led-4325-cfm-120-mm-fan-co-9050071-ww"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Antec Prizm 45.03 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Model": "Prizm",
+    "Part #": "Prizm 120 RGB",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "45.03 CFM",
+    "Noise Level": "32.6 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "2.56 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jTL48d/antec-prizm-120-rgb-4503-cfm-120-mm-fan-prizm-120-rgb"
+}

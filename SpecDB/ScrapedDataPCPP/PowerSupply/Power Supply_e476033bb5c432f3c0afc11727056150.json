@@ -1,0 +1,22 @@
+{
+    "name": "PC Power & Cooling S75CF-B 750 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "PC Power & Cooling",
+    "Part #": "S75CF-B",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "750 W",
+    "Length": "180 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@24A,+5V@30A,+12V@60A,-12V@0.8A,+5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g6tCmG/pc-power--cooling-power-supply-s75cfb"
+}

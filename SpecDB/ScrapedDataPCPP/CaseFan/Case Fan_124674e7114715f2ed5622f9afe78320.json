@@ -1,0 +1,18 @@
+{
+    "name": "Logisys LT400GN 21.71 CFM 80 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "LT400GN",
+    "Size": "80 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "21.71 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FfXfrH/logisys-case-fan-lt400gn"
+}

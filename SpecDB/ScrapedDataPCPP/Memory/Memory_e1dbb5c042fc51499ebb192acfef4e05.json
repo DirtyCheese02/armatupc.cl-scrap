@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 96 GB (2 x 48 GB) DDR5-7000 CL34 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF3D596G7000HC34ADC01",
+    "Speed": "DDR5-7000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Color": "Black",
+    "First Word Latency": "9.714 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-42-42-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nZkH99/teamgroup-t-force-delta-rgb-96-gb-2-x-48-gb-ddr5-7000-cl34-memory-ff3d596g7000hc34adc01"
+}

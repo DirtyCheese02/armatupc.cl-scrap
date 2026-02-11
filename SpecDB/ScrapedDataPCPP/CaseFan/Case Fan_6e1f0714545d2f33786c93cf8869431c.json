@@ -1,0 +1,18 @@
+{
+    "name": "Antec TRICOOL 34 CFM 80 mm Fan",
+    "Manufacturer": "Antec",
+    "Part #": "[75022, CA-TRI80R, TRICOOL 80MM RED LED, TRICOOL R-LED 80]",
+    "Size": "80 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 - 2600 RPM",
+    "Airflow": "20 - 34 CFM",
+    "Noise Level": "18 - 30 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Features": "[3-speed switch lets you balance quiet performance with maximum cooling, 3-pin and 4-pin power connectors provide convenient connections to your motherboard or power supply, Fan-speed monitoring capability included (requires compatible motherboard)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GWFPxr/antec-case-fan-75022"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Apevia ATX-ES700-RGB 700 W Semi-modular ATX Power Supply",
+    "Manufacturer": "Apevia",
+    "Part #": "ATX-ES700-RGB",
+    "Type": "ATX",
+    "Wattage": "700 W",
+    "Length": "160 mm",
+    "Modular": "Semi",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2fqrxr/apevia-atx-es700-rgb-700-w-semi-modular-atx-power-supply-atx-es700-rgb"
+}

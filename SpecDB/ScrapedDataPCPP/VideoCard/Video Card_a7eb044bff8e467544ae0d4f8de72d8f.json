@@ -1,0 +1,23 @@
+{
+    "name": "MSI Radeon VII 16G Radeon VII 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "Radeon VII 16G",
+    "Chipset": "Radeon VII",
+    "Memory": "16 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1400 MHz",
+    "Boost Clock": "1750 MHz",
+    "Effective Memory Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "267 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cXDJ7P/msi-radeon-vii-16-gb-video-card-radeon-vii-16g"
+}

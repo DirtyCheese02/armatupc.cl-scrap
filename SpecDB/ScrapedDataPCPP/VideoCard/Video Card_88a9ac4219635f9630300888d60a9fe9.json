@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D iChill X4 GeForce RTX 3070 Ti 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "C307T4-086XX-1820VA35",
+    "Chipset": "GeForce RTX 3070 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1575 MHz",
+    "Boost Clock": "1830 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "290 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "4 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TsKKHx/inno3d-geforce-rtx-3070-ti-8-gb-ichill-x4-video-card-c307t4-086xx-1820va35"
+}

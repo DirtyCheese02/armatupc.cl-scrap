@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper 4 Blackout 8 GB (2 x 4 GB) DDR4-3200 CL19 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVB48G320C6K",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "11.875 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yygQzy/patriot-viper-4-blackout-8-gb-2-x-4-gb-ddr4-3200-memory-pvb48g320c6k"
+}

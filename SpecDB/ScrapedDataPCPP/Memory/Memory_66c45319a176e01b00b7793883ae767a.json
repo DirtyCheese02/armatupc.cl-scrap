@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline ST 8 GB (2 x 4 GB) DDR3-2400 CL11 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRF3U240BDDZ4GX2",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "9.167 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "Timing": "11-13-13-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bHtLrH/mushkin-redline-st-8-gb-2-x-4-gb-ddr3-2400-cl11-memory-mrf3u240bddz4gx2"
+}

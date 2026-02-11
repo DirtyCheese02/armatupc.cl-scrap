@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX18LS11P1K2/8 8 GB (2 x 4 GB) DDR3-1866 SODIMM CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX18LS11P1K2/8",
+    "Speed": "DDR3-1866",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Silver",
+    "First Word Latency": "11.79 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pwTmP6/kingston-memory-khx18ls11p1k28"
+}

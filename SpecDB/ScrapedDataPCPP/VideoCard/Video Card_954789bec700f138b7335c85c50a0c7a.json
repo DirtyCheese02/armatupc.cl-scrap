@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Hellhound Spectral White Radeon RX 6650 XT 8 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Model": "Hellhound Spectral White",
+    "Part #": "AXRX 6650XT 8GBD6-3DHLV2/OC",
+    "Chipset": "Radeon RX 6650 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2055 MHz",
+    "Boost Clock": "2689 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "220 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TDvdnQ/powercolor-radeon-rx-6650-xt-8-gb-hellhound-video-card-axrx-6650xt-8gbd6-3dhlv2oc"
+}

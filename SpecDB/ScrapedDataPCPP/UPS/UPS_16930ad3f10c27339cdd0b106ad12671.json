@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite SU5000RT3U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU5000RT3U",
+    "Capacity (W)": "3500 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "7U",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "[2 x NEMA L6-30R, 2 x NEMA L6-20R, 12 x NEMA 5-15/20R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NJVBD3/tripp-lite-ups-su5000rt3u"
+}

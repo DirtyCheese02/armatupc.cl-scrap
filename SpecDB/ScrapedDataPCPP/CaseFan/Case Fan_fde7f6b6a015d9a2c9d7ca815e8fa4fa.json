@@ -1,0 +1,19 @@
+{
+    "name": "Gelid Solutions Silent 74.5 CFM 140 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Part #": "FN-PX14-12",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "750 - 1200 RPM",
+    "Airflow": "74.5 CFM",
+    "Noise Level": "12 - 25.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Hydro Dynamic Bearing",
+    "Features": "[Pulse Width Modulation  (PWM), Silent Operation w/ Rubber Fan Mounts, Optimized Fan Blades, High Airflow & High Static Pressure, Long Lifetime (50000 h MTTF at 40 degrees C)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XTGkcf/gelid-solutions-case-fan-fnpx1412"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR4-3600 CL14 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TF4D432G3600HC14CDC01",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "7.778 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.45 V",
+    "Timing": "14-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FhXJ7P/team-t-force-delta-rgb-32-gb-2-x-16-gb-ddr4-3600-cl14-memory-tf4d432g3600hc14cdc01"
+}

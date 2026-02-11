@@ -1,0 +1,8 @@
+{
+    "name": "QLogic QLE3242-CU-CK 2 x 10 Gb/s Ethernet PCIe x8 Network Adapter",
+    "Manufacturer": "QLogic",
+    "Part #": "QLE3242-CU-CK",
+    "Interface": "PCIe x8",
+    "Features": "[Card Height: Low-profile, Form Factor: Internal, Operating systems: Microsoft Windows Server; Red Hat Linux; Novell SLES; VMware ESX/ESXi; Oracle Solaris, OpenSolaris; Citrix XenServer., Throughput: 10Gbps full-duplex line rate per port., Ethernet Frame: 1500 byte or 9600 byte (jumbo frame)., Stateless Offload: IP, TCP, and UDP checksum offloads., Large and giant send offload (LSO, GSO)., Large receive offload (LRO)., Receive side scaling (RSS)., Interrupt coalescing., VMware NetQueue and Microsoft VMQ., Compliance: IEEE: 802.3ae (10Gb Ethernet), 802.1q (VLAN), 802.3ad (Link Aggregation), 802.1p (Priority Encoding), 802.3x (Flow Control), IPv4 (RFQ 791), IPv6 (RFC 2460).]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QWg323/qlogic-wired-network-card-qle3242cuck"
+}

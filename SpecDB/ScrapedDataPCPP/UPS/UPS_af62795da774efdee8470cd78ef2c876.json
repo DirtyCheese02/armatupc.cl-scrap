@@ -1,0 +1,16 @@
+{
+    "name": "APC SMX1500RMI2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMX1500RMI2U",
+    "Capacity (W)": "1200 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nRGj4D/apc-ups-smx1500rmi2u"
+}

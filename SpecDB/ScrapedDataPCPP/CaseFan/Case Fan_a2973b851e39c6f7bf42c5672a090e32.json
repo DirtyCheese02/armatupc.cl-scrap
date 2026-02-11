@@ -1,0 +1,20 @@
+{
+    "name": "Cougar CFD 64.5 CFM 140 mm Fans 4-Pack",
+    "Manufacturer": "Cougar",
+    "Part #": "CFT14S4",
+    "Size": "140 mm",
+    "Color": "Orange",
+    "Quantity": "4-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "64.5 CFM",
+    "Noise Level": "17.89 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.18 mmH₂O",
+    "Bearing Type": "Hyper-spin",
+    "Features": "[Optimum cooling efficiency & super silence performance, Diversion groove blade design, Aero-dynamical design, Air-flow optimized nine-blade design]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xqmxFT/cougar-case-fan-cft14s4"
+}

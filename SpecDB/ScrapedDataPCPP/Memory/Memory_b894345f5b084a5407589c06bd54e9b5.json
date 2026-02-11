@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Titanium 48 GB (2 x 24 GB) DDR5-7200 CL36 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMP48GX5M2X7200C36",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.4 V",
+    "Timing": "36-46-46-116",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7f26Mp/corsair-dominator-titanium-48-gb-2-x-24-gb-ddr5-7200-cl36-memory-cmp48gx5m2x7200c36"
+}

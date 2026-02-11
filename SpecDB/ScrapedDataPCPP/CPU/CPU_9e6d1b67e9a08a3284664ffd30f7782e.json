@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Extreme QX9770 3.2 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80569QX9770",
+    "Series": "Intel Core 2 Extreme",
+    "Microarchitecture": "Yorkfield",
+    "Core Family": "Yorkfield",
+    "Socket": "LGA775",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "12 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "136 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8fLypg/intel-cpu-bx80569qx9770"
+}

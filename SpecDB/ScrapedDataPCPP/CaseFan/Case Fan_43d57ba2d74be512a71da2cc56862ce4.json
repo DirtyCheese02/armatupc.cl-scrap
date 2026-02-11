@@ -1,0 +1,19 @@
+{
+    "name": "HYTE flow FA12 72 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "HYTE",
+    "Model": "flow FA12",
+    "Part #": "[FAN-HYTE-001, HYTE-FAN-001]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "72 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.6 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BmpQzy/hyte-flow-fa12-72-cfm-120-mm-fans-3-pack-fan-hyte-001"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Asus GT610-2GD3-CSM GeForce GT 610 2 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "GT610-2GD3-CSM",
+    "Chipset": "GeForce GT 610",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "185 mm",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DkYXsY/asus-video-card-gt6102gd3csm"
+}

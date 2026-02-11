@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCGGTX550TXPB-OC GeForce GTX 550 Ti 1 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGGTX550TXPB-OC",
+    "Chipset": "GeForce GTX 550 Ti",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "966 MHz",
+    "Effective Memory Clock": "4356 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "116 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H4Lypg/pny-video-card-vcggtx550txpboc"
+}

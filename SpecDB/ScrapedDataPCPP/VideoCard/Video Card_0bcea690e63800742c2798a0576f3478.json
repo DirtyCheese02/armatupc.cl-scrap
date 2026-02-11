@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-60203-10L GeForce GT 640 2 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-60203-10L",
+    "Chipset": "GeForce GT 640",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "1782 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "Frame Sync": "None",
+    "Length": "144 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MPCwrH/zotac-video-card-zt6020310l"
+}

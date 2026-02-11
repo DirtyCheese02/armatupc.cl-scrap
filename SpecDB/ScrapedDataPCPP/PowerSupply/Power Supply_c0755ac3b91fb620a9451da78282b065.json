@@ -1,0 +1,22 @@
+{
+    "name": "SeaSonic SSP-450RT 450 W 80+ Gold Certified ATX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Part #": "SSP-450RT",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "450 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@20A, +5V@20A, +12V1@37A, +12V2@37A, -12V@0.3A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Cb7wrH/seasonic-power-supply-ssp450rt"
+}

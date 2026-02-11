@@ -1,0 +1,22 @@
+{
+    "name": "XFX Swift Radeon RX 9070 XT 16 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-97TSWF3W9",
+    "Chipset": "Radeon RX 9070 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1660 MHz",
+    "Boost Clock": "2970 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "325 mm",
+    "TDP": "304 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZdHp99/xfx-swift-radeon-rx-9070-xt-16-gb-video-card-rx-97tswf3w9"
+}

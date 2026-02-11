@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake CT140 Reverse ARGB Sync 65.82 CFM 120 mm Fans 2-Pack",
+    "Manufacturer": "Thermaltake",
+    "Model": "CT140 Reverse ARGB Sync",
+    "Part #": "CL-F173-PL12SW-A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "65.82 CFM",
+    "Noise Level": "31.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.87 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mKZWGX/thermaltake-ct140-reverse-argb-sync-6582-cfm-120-mm-fans-2-pack-cl-f173-pl12sw-a"
+}

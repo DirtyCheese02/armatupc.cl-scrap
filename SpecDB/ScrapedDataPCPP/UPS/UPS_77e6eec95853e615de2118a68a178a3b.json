@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SU3000XL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU3000XL",
+    "Capacity (W)": "2400 W",
+    "Capacity (VA)": "3000 VA",
+    "Alarm": "[On Battery, Low Battery, Overload, UPS Fault]",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA 5-20R, 1 x NEMA L5-30R]",
+    "Switching Time": "0 ns",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4XH48d/tripp-lite-ups-su3000xl"
+}

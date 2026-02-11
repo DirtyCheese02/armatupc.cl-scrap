@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire 100326UL Radeon HD 6670 1 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100326UL",
+    "Chipset": "Radeon HD 6670",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "800 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "TDP": "66 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7KtCmG/sapphire-video-card-100326ul"
+}

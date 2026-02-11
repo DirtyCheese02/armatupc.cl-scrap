@@ -1,0 +1,19 @@
+{
+    "name": "TEAMGROUP T-FORCE RT-S120 104.1 CFM 140 mm Fan",
+    "Manufacturer": "TEAMGROUP",
+    "Model": "T-FORCE RT-S120",
+    "Part #": "TF380501",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2000 RPM",
+    "Airflow": "77 - 104.1 CFM",
+    "Noise Level": "36.97 - 40 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.4 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6GmNnQ/teamgroup-t-force-rt-s120-1041-cfm-140-mm-fan-tf380501"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "GeIL EVO CORSA 32 GB (8 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GOC332GB1600C9DQC",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "8 x 4GB",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sQ4gXL/geil-memory-goc332gb1600c9dqc"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Lancer Blade 32 GB (2 x 16 GB) DDR5-5600 CL46 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX5U5600C4616G-DTLABWH",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "16.429 ns",
+    "CAS Latency": "46",
+    "Voltage": "1.4 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z6DnTW/adata-xpg-lancer-blade-32-gb-2-x-16-gb-ddr5-5600-cl46-memory-ax5u5600c4616g-dtlabwh"
+}

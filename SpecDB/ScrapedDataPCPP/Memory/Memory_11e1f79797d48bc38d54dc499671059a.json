@@ -1,0 +1,16 @@
+{
+    "name": "GeIL ORION V 32 GB (2 x 16 GB) DDR5-6000 CL32 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GVG532GB6000C32ADC",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.25 V",
+    "Timing": "32-38-38-80",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dK7scf/geil-orion-v-32-gb-2-x-16-gb-ddr5-6000-cl32-memory-gvg532gb6000c32adc"
+}

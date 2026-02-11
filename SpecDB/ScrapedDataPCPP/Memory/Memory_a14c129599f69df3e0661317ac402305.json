@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Value PLUS 6 GB (3 x 2 GB) DDR3-1066 CL7 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GVP36GB1066C7TC",
+    "Speed": "DDR3-1066",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 2GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bhckcf/geil-memory-gvp36gb1066c7tc"
+}

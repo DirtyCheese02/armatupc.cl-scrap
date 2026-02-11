@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II X4 610e 2.4 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD610EHDGMBOX",
+    "Series": "AMD Athlon II X4",
+    "Microarchitecture": "K10",
+    "Core Family": "Propus",
+    "Socket": "AM3",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.4 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "45 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nsNp99/amd-cpu-ad610ehdgmbox"
+}

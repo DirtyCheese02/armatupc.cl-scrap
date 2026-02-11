@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 16 GB (1 x 16 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TF4D416G2666HC15B01",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "White",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K9WfrH/team-t-force-delta-rgb-16gb-1-x-16gb-ddr4-2666-memory-tf4d416g2666hc15b01"
+}

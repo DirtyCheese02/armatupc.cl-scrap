@@ -1,0 +1,21 @@
+{
+    "name": "PNY VCGGTX7501XPB-BB GeForce GTX 750 1 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGGTX7501XPB-BB",
+    "Chipset": "GeForce GTX 750",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1020 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "TDP": "55 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/f8Jkcf/pny-video-card-vcggtx7501xpbbb"
+}

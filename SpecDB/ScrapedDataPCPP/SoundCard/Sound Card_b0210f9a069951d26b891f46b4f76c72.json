@@ -1,0 +1,10 @@
+{
+    "name": "HT Omega FENIX 24-bit 192 kHz Sound Card",
+    "Manufacturer": "HT Omega",
+    "Part #": "FENIX",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Sample Rate": "192 kHz",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/crx9TW/ht-omega-sound-card-fenix"
+}

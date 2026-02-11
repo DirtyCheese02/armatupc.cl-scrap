@@ -1,0 +1,22 @@
+{
+    "name": "Silverstone Strider 600 W 80+ Silver Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Part #": "[ST60F-PS, SST-ST60F-PS]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "600 W",
+    "Length": "139 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@20A, +5V@20A, +12V@49A, -12V@0.5A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8xphP6/silverstone-power-supply-st60fps"
+}

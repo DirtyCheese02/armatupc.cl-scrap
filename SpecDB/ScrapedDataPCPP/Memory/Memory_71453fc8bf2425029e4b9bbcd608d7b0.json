@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Ripjaws 8 GB (1 x 8 GB) DDR4-2666 SODIMM CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2666C19S-8GRS",
+    "Speed": "DDR4-2666",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$8.439",
+    "Color": "Green",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "Timing": "19-19-19-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qxCD4D/gskill-ripjaws-8gb-1-x-8gb-ddr4-2666-memory-f4-2666c19s-8grs"
+}

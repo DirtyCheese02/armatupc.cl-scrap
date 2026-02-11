@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte MINI ITX OC Rev 2.0 GeForce RTX 2060 6 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N2060IXOC-6GD Rev 2.0",
+    "Chipset": "GeForce RTX 2060",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1695 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "170 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WrLwrH/gigabyte-geforce-rtx-2060-6-gb-mini-itx-oc-rev-20-video-card-gv-n2060ixoc-6gd-rev-20"
+}

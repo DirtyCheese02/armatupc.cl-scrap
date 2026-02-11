@@ -1,0 +1,10 @@
+{
+    "name": "Cisco AIR-PI21AG-A-K9 802.11b/g PCI Wi-Fi Adapter",
+    "Manufacturer": "Cisco",
+    "Part #": "AIR-PI21AG-A-K9",
+    "Protocol": "Wi-Fi 3",
+    "Interface": "PCI",
+    "Antenna": "Integrated dual-band 2.4/5-GHz, 1-dBi, effective-gain antenna on a two-meter cable",
+    "Features": "[CISCO Wireless Security Suite, Bundled with comprehensive, easy-to-use client network management utilities to provide a secure, intuitive, and convenient way to manage and configure the adapter, CISCO LEAP Single Sign-on, CISCO Wireless Domain Services (WDS)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2gGkcf/cisco-wireless-network-card-airpi21agak9"
+}

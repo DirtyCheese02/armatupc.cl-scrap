@@ -1,0 +1,22 @@
+{
+    "name": "PNY RTX A-Series RTX A2000 6GB 6 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTXA2000-PB",
+    "Chipset": "RTX A2000 6GB",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "562 MHz",
+    "Boost Clock": "1200 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "167 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L4zhP6/pny-rtx-a2000-6gb-6-gb-rtx-a-series-video-card-vcnrtxa2000-pb"
+}

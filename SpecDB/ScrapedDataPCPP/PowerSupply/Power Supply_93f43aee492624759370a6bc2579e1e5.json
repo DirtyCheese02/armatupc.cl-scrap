@@ -1,0 +1,22 @@
+{
+    "name": "Corsair HX650 650 W 80+ Gold Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Part #": "[HX650, CP-9020030-NA, CMPSU-650HX, CMPSU-650HXUK]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "650 W",
+    "Length": "149 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@24A, +5V@30A, +12V@52A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KdLypg/corsair-hx650-650-w-80-gold-certified-semi-modular-atx-power-supply-hx650"
+}

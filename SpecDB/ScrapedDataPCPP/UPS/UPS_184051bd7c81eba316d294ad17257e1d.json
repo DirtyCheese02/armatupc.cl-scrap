@@ -1,0 +1,16 @@
+{
+    "name": "Fujitsu S26113-E400-L1 UPS",
+    "Manufacturer": "Fujitsu",
+    "Part #": "S26113-E400-L1",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L8KhP6/fujitsu-ups-s26113e400l1"
+}

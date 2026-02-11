@@ -1,0 +1,17 @@
+{
+    "name": "KOLINK UMBRA 35 CFM 120 mm Fan",
+    "Manufacturer": "KOLINK",
+    "Part #": "UMBRA 120MM",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "35 CFM",
+    "Noise Level": "17.8 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xThv6h/kolink-umbra-35-cfm-120-mm-fan-umbra-120mm"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Corsair HX1000 1000 W 80+ Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "HX1000",
+    "Part #": "CMPSU-1000HX",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "1000 W",
+    "Length": "200 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "12",
+    "Output": "+3.3V@30A, +5V30A, +12V1@40A, +12V2@40A, -12V@0.8A, +5VSB@3.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zxMFf7/corsair-hx1000-1000-w-80-certified-semi-modular-atx-power-supply-cmpsu-1000hx"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-5200 CL28 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5200J2834F16GX2-RS5W",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10.769 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.35 V",
+    "Timing": "28-34-34-83",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rFD7YJ/gskill-ripjaws-s5-32-gb-2-x-16-gb-ddr5-5200-cl28-memory-f5-5200j2834f16gx2-rs5w"
+}

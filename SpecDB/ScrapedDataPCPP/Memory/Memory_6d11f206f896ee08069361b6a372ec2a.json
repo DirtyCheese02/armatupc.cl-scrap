@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z Royal 256 GB (8 x 32 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C18Q2-256GTRS",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 32GB",
+    "Price / GB": "$6.250",
+    "Color": "Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6xNgXL/gskill-trident-z-royal-256-gb-8-x-32-gb-ddr4-3600-memory-f4-3600c18q2-256gtrs"
+}

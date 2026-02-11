@@ -1,0 +1,17 @@
+{
+    "name": "Lian Li Uni Fan SL 70.5 CFM 140 mm Fans 2-Pack",
+    "Manufacturer": "Lian Li",
+    "Part #": "[UF-SL140-2W, 14UF2W, G99.14UF2W.00]",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "70.5 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tjjNnQ/lian-li-uni-fan-sl-705-cfm-140-mm-fans-2-pack-uf-sl140-2w"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ADATA XPG V1.0 8 GB (2 x 4 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX3U1600W4G11-DR",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Red / White",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "Timing": "11-11-11-28",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qWc48d/adata-xpg-v10-82gb-2-x-41gb-ddr3-1600-memory-ax3u1600w4g11-dr"
+}

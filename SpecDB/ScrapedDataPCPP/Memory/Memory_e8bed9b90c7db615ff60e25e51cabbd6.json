@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Dragon RAM 32 GB (2 x 16 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GWW432GB3000C15DC",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "White / Gold",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fxs8TW/geil-memory-gww432gb3000c15dc"
+}

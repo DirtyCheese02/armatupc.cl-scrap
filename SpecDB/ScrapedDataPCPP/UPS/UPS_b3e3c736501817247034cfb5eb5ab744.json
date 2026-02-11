@@ -1,0 +1,23 @@
+{
+    "name": "CyberPower PR6000LCDRTXL5U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR6000LCDRTXL5U",
+    "Capacity (W)": "4500 W",
+    "Capacity (VA)": "6000 VA",
+    "Rack Height": "5U",
+    "Backup/Run Time (Full Load)": "10 Minutes",
+    "Backup/Run Time (Half Load)": "26 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[2 x NEMA L6-20R, 3 x NEMA L6-30R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yYrcCJ/cyberpower-ups-pr6000lcdrtxl5u"
+}

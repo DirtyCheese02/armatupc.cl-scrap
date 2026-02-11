@@ -1,0 +1,23 @@
+{
+    "name": "Corsair HX1050 1050 W 80+ Gold Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "HX1050",
+    "Part #": "[CMPSU-1050HX, CP-9020033-NA, HX1050]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1050 W",
+    "Length": "180 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "12",
+    "Output": "+3.3V@30A, +5V@30A, +12V@87.5A, -12V@0.8A, +5VSB@3.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9dh9TW/corsair-hx1050-1050-w-80-gold-certified-semi-modular-atx-power-supply-cmpsu-1050hx"
+}

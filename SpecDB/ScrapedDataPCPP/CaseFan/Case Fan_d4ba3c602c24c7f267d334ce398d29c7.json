@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master MasterFan MFR RGB 49 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "R4-122R-20PC-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 2000 RPM",
+    "Airflow": "49 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "2.17 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/txcRsY/cooler-master-masterfan-mf122r-rgb-49-cfm-120-mm-fan-r4-122r-20pc-r1"
+}

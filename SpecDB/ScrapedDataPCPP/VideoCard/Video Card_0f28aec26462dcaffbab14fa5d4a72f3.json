@@ -1,0 +1,22 @@
+{
+    "name": "Acer Nitro OC Radeon RX 7600 XT 16 GB Video Card",
+    "Manufacturer": "Acer",
+    "Part #": "DP.Z3LWW.P02",
+    "Chipset": "Radeon RX 7600 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1720 MHz",
+    "Boost Clock": "2810 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "265 mm",
+    "TDP": "190 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/prQKHx/acer-nitro-oc-radeon-rx-7600-xt-16-gb-video-card-dpz3lwwp02"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF GAMING OC V2 GeForce GTX 1650 G6 4 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[tuf-gtx1650-o4gd6-p-v2-gaming, 90YV0GX2-M0NA00]",
+    "Chipset": "GeForce GTX 1650 G6",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1665 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "205 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.0b Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XMPQzy/asus-tuf-gaming-oc-v2-geforce-gtx-1650-g6-4-gb-video-card-tuf-gtx1650-o4gd6-p-v2-gaming"
+}

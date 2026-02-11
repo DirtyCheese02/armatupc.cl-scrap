@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker ELoop B 77.92 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "NB-ELoop B12-P",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "77.92 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wVxfrH/noiseblocker-nb-eloop-b12-p-7792-cfm-120-mm-fan-nb-eloop-b12-p"
+}

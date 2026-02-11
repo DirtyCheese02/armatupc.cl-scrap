@@ -1,0 +1,17 @@
+{
+    "name": "Enermax T.B. RGB 56.89 CFM 140 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTBRGB14-SG",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1200 RPM",
+    "Airflow": "56.89 CFM",
+    "Noise Level": "21 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "12V RGB",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KR3H99/enermax-uctbrgb14-sg-5689-cfm-140-mm-fan-uctbrgb14-sg"
+}

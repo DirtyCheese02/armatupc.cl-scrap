@@ -1,0 +1,16 @@
+{
+    "name": "Crucial Ballistix Elite 8 GB (2 x 4 GB) DDR3-2000 CL9 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLE2CP4G3D2001CE1TX0CEU",
+    "Speed": "DDR3-2000",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.6 V",
+    "Timing": "9-1-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qDjJ7P/crucial-ballistix-elite-8gb-2-x-4gb-ddr3-2000-memory-ble2cp4g3d2001ce1tx0ceu"
+}

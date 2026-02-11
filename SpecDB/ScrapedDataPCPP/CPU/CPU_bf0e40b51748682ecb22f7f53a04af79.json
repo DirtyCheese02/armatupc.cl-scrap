@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X2 550 3.1 GHz Dual-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDX550WFGMBOX",
+    "Series": "AMD Phenom II X2",
+    "Microarchitecture": "K10",
+    "Core Family": "Callisto",
+    "Socket": "AM3",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.1 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "80 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ms7wrH/amd-cpu-hdx550wfgmbox"
+}

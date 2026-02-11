@@ -1,0 +1,23 @@
+{
+    "name": "Asus DUAL OC Radeon RX 6500 XT 4 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RX6500XT-O4G, 90YV0HA1-M0NA00]",
+    "Chipset": "Radeon RX 6500 XT",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2820 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "201 mm",
+    "TDP": "107 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CLnypg/asus-radeon-rx-6500-xt-4-gb-dual-oc-video-card-dual-rx6500xt-o4g"
+}

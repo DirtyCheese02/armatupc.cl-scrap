@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury RGB 8 GB (1 x 8 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX426C16FB3A/8",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WGqBD3/kingston-hyperx-fury-rgb-8-gb-1-x-8-gb-ddr4-2666-memory-hx426c16fb3a8"
+}

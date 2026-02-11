@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone VISTA 66 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-VS120B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 66 CFM",
+    "Noise Level": "0 - 30.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.22 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VhFCmG/silverstone-vista-66-cfm-120-mm-fan-sst-vs120b"
+}

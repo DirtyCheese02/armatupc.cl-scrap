@@ -1,0 +1,22 @@
+{
+    "name": "MSI R5 230 2GD5H LP Radeon R5 230 2 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "R5 230 2GD5H LP",
+    "Chipset": "Radeon R5 230",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "625 MHz",
+    "Effective Memory Clock": "3200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7qHRsY/msi-radeon-r5-230-2-gb-video-card-r5-230-2gd5h-lp"
+}

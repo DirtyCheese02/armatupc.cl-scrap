@@ -1,0 +1,12 @@
+{
+    "name": "Asus Essence STX II 7.1 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Asus",
+    "Part #": "[Essence STX II 7.1, XONAR ESSENCE STX II 7.1, 90YA00MN-M0UA00, 90YA00NN-M0UA00]",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "124 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "ASUS AV100",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8Pbp99/asus-sound-card-essencestxii71"
+}

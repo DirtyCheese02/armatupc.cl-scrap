@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z Neo 128 GB (4 x 32 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C16Q-128GTZN",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "Price / GB": "$5.859",
+    "Color": "Black / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TfVG3C/gskill-trident-z-neo-128-gb-4-x-32-gb-ddr4-3200-cl16-memory-f4-3200c16q-128gtzn"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Samsung 960 Pro 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Samsung",
+    "Part #": "[MZ-V6P1T0BW, MZ-V6P1T0]",
+    "Capacity": "1 TB",
+    "Price / GB": "$0.400",
+    "Type": "SSD",
+    "Cache": "1024 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D V-NAND",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C3mxFT/samsung-960-pro-10tb-m2-2280-solid-state-drive-mz-v6p1t0bw"
+}

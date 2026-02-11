@@ -1,0 +1,22 @@
+{
+    "name": "AMD 100-438385 Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-438385",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Boost Clock": "2581 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "267 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2ZWzK8/amd-radeon-rx-6700-xt-12-gb-video-card-100-438385"
+}

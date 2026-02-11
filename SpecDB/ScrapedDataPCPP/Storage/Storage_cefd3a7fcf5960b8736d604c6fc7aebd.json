@@ -1,0 +1,13 @@
+{
+    "name": "OCZ RevoDrive 3 X2 960 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "RVD3X2-FHPX4-960G",
+    "Capacity": "960 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (asynchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jyCwrH/ocz-internal-hard-drive-rvd3x2fhpx4960g"
+}

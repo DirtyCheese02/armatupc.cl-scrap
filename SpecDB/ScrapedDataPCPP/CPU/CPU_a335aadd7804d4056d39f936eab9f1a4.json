@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-4130 3.8 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD4130FRGUBOX",
+    "Series": "AMD FX",
+    "Microarchitecture": "Bulldozer",
+    "Core Family": "Zambezi",
+    "Socket": "AM3+",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.8 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "4 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6bbp99/amd-cpu-fd4130frgubox"
+}

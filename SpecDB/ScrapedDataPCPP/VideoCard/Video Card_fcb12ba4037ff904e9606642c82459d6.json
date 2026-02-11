@@ -1,0 +1,23 @@
+{
+    "name": "Gainward Ghost OC GeForce GTX 1650 G5 4 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "471056224-0863",
+    "Chipset": "GeForce GTX 1650 G5",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1485 MHz",
+    "Boost Clock": "1815 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "170 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TBsmP6/gainward-geforce-gtx-1650-4-gb-ghost-oc-video-card-471056224-0863"
+}

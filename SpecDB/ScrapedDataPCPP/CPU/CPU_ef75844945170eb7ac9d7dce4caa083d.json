@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X6 1065T 2.7 GHz 6-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDT65TWFK6DGR",
+    "Series": "AMD Phenom II X6",
+    "Microarchitecture": "K10",
+    "Core Family": "Thuban",
+    "Socket": "AM3",
+    "Core Count": "6",
+    "Thread Count": "6",
+    "Performance Core Clock": "2.7 GHz",
+    "L2 Cache": "3 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tLkwrH/amd-cpu-hdt65twfk6dgr"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Palit GameRock OC GeForce RTX 3080 Ti 12 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NED308TT19KB-1020G",
+    "Chipset": "GeForce RTX 3080 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1725 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "304 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WW92FT/palit-geforce-rtx-3080-ti-12-gb-gamerock-oc-video-card-ned308tt19kb-1020g"
+}

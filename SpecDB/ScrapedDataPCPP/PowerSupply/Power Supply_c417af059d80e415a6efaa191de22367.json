@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 550 GS 550 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 550 GS",
+    "Part #": "[220-GS-0550-V1, 220-GS-0550-V2, 220-GS-0550-V3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "550 W",
+    "Length": "150 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@20A, +5V@20A, +12V@45A, +5VSB@2.5A, -12V@0.3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N6X2FT/evga-supernova-550-gs-550-w-80-gold-certified-fully-modular-atx-power-supply-220-gs-0550-v1"
+}

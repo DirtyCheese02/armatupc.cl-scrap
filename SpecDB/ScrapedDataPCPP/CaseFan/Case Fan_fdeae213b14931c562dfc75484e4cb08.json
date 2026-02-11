@@ -1,0 +1,18 @@
+{
+    "name": "Rosewill RFA-80-BL 33.21 CFM 80 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFA-80-BL",
+    "Size": "80 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2500 RPM",
+    "Airflow": "33.21 CFM",
+    "Noise Level": "22.41 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kr4gXL/rosewill-case-fan-rfa80bl"
+}

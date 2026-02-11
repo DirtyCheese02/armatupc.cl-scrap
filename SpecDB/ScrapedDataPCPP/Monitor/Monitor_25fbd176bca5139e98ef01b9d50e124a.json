@@ -1,0 +1,23 @@
+{
+    "name": "HP LE2002x 20.0\" 1600 x 900 60 Hz Monitor",
+    "Manufacturer": "HP",
+    "Model": "LE2002x",
+    "Part #": "LL763AA#ABA",
+    "Screen Size": "20\"",
+    "Resolution": "1600 x 900",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "5 ms",
+    "Aspect Ratio": "16:9",
+    "Brightness": "250 cd/m²",
+    "Pixel Pitch": "0.277 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "No",
+    "VESA Mounting": "100 x 100",
+    "Viewing Angle": "170° H x 160° V",
+    "Display Colors": "16700000",
+    "Contrast Ratio": "DC 3,000,000:1(1000:1)",
+    "Inputs": "[1 x DVI, 1 x VGA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xKw323/hp-monitor-ll763aaaba"
+}

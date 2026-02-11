@@ -1,0 +1,22 @@
+{
+    "name": "Lenovo 4X61J52233 T1000 8GB 8 GB Video Card",
+    "Manufacturer": "Lenovo",
+    "Part #": "4X61J52233",
+    "Chipset": "T1000 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1065 MHz",
+    "Boost Clock": "1395 MHz",
+    "Effective Memory Clock": "10000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VwTp99/lenovo-4x61j52233-t1000-8gb-8-gb-video-card-4x61j52233"
+}

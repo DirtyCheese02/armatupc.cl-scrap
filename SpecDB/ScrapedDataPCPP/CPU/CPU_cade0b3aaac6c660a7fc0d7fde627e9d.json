@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E5-2620 2 GHz 6-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "SR0KW",
+    "Series": "Intel Xeon E5",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge-EP",
+    "Socket": "LGA2011",
+    "Core Count": "6",
+    "Thread Count": "12",
+    "Performance Core Clock": "2 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "15 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vXw7YJ/intel-xeon-e5-2620-2-ghz-6-core-oemtray-processor-sr0kw"
+}

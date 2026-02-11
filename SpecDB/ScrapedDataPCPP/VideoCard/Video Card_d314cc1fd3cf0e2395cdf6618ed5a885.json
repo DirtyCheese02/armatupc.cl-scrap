@@ -1,0 +1,23 @@
+{
+    "name": "Diamond 5670PE51G Radeon HD 5670 1 GB Video Card",
+    "Manufacturer": "Diamond",
+    "Part #": "5670PE51G",
+    "Chipset": "Radeon HD 5670",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "775 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "182 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mYGkcf/diamond-video-card-5670pe51g"
+}

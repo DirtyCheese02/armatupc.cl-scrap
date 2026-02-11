@@ -1,0 +1,22 @@
+{
+    "name": "APC SMX3000RMLV2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMX3000RMLV2U",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "18 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[1 x NEMA L5-30R, 3 x NEMA 5-15R, 3 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rFdFf7/apc-ups-smx3000rmlv2u"
+}

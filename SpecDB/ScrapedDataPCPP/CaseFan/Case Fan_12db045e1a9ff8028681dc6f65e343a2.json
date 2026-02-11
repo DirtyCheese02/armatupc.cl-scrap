@@ -1,0 +1,18 @@
+{
+    "name": "Antec Neo Prizm T3 69.86 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Antec",
+    "Part #": "0-761345-40044-2",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2000 RPM",
+    "Airflow": "19.24 - 69.86 CFM",
+    "Noise Level": "9.73 - 31.62 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "Static Pressure": "2.05 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8CGhP6/antec-neo-prizm-t3-6986-cfm-120-mm-fans-3-pack-0-761345-40044-2"
+}

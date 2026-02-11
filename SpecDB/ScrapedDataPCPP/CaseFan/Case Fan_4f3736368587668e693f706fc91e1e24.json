@@ -1,0 +1,17 @@
+{
+    "name": "Xilence Performance C 32.1 CFM 92 mm Fan",
+    "Manufacturer": "Xilence",
+    "Part #": "COO-XPF92.R.PWM",
+    "Size": "92 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "32.1 CFM",
+    "Noise Level": "22 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nL98TW/xilence-coo-xpf92rpwm-321-cfm-92mm-fan-coo-xpf92rpwm"
+}

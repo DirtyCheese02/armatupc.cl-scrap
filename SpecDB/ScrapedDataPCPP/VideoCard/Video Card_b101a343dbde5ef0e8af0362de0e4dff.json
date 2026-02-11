@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D N506T2-16D7X-191073W GeForce RTX 5060 Ti 16 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N506T2-16D7X-191073W",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2407 MHz",
+    "Boost Clock": "2602 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "250 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mdrp99/inno3d-n506t2-16d7x-191073w-geforce-rtx-5060-ti-16-gb-video-card-n506t2-16d7x-191073w"
+}

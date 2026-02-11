@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z 32 GB (4 x 8 GB) DDR4-3200 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4000C18Q-32GTZKW",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / White",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XgndnQ/gskill-trident-z-32gb-4-x-8gb-ddr4-3200-memory-f4-4000c18q-32gtzkw"
+}

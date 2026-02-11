@@ -1,0 +1,23 @@
+{
+    "name": "Zotac GAMING GeForce GTX 1660 6 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-T16600F-10L",
+    "Chipset": "GeForce GTX 1660",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1785 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "173 mm",
+    "TDP": "120 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hNKcCJ/zotac-geforce-gtx-1660-6-gb-gaming-video-card-zt-t16600f-10l"
+}

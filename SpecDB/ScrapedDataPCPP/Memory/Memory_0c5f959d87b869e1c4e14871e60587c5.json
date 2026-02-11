@@ -1,0 +1,15 @@
+{
+    "name": "TEAMGROUP TLD316G1600HC10ADC01 16 GB (2 x 8 GB) DDR3-1600 CL10 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLD316G1600HC10ADC01",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sLzv6h/team-memory-tld316g1600hc10adc01"
+}

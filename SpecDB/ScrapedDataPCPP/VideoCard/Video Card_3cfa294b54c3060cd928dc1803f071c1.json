@@ -1,0 +1,23 @@
+{
+    "name": "ATI FirePro W7000 FirePro W7000 4 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro W7000",
+    "Part #": "100 - 505634",
+    "Chipset": "FirePro W7000",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "950 MHz",
+    "Effective Memory Clock": "4800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "242 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6sDwrH/ati-video-card-100505634"
+}

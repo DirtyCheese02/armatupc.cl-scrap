@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 16 GB (1 x 16 GB) DDR4-2666 SODIMM CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLRD416G2666HC18F-S01",
+    "Speed": "DDR4-2666",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Black / Red",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P497YJ/team-t-force-vulcan-16gb-1-x-16gb-ddr4-2666-memory-tlrd416g2666hc18f-s01"
+}

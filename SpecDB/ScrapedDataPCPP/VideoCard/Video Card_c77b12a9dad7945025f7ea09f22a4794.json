@@ -1,0 +1,21 @@
+{
+    "name": "ASRock Challenger ITX Radeon RX 6600 XT 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX6600XT CLI 8G, 90-GA32ZZ-00UANF]",
+    "Chipset": "Radeon RX 6600 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1968 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "179 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w2WzK8/asrock-radeon-rx-6600-xt-8-gb-challenger-itx-video-card-rx6600xt-cli-8g"
+}

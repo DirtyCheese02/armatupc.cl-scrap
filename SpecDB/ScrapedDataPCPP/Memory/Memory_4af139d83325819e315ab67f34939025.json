@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2400 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK16GX4M2A2400C16",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$8.937",
+    "Color": "Black / Yellow",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y9rcCJ/corsair-memory-cmk16gx4m2a2400c16"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ADATA AX4U3300W4G16-DGZ 8 GB (2 x 4 GB) DDR4-3300 CL16 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX4U3300W4G16-DGZ",
+    "Speed": "DDR4-3300",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "9.697 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WRkwrH/a-data-memory-ax4u3300w4g16dgz"
+}

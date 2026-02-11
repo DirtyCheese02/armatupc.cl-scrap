@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 32 GB (2 x 16 GB) DDR4-3466 CL19 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX434C19FWK2/32",
+    "Speed": "DDR4-3466",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "White / Silver",
+    "First Word Latency": "10.964 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J3FKHx/kingston-hyperx-fury-32-gb-2-x-16-gb-ddr4-3466-memory-hx434c19fwk232"
+}

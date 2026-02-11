@@ -1,0 +1,16 @@
+{
+    "name": "Kingston KVR18L13Q4/32 32 GB (1 x 32 GB) DDR3-1866 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR18L13Q4/32",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 32GB",
+    "Price / GB": "$2.156",
+    "Color": "Gray",
+    "First Word Latency": "13.934 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vmV48d/kingston-memory-kvr18l13q432"
+}

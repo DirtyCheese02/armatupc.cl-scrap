@@ -1,0 +1,13 @@
+{
+    "name": "Intel 530 120 GB M.2-2280 SATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSCKHW120A401",
+    "Capacity": "120 GB",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 SATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jKFPxr/intel-internal-hard-drive-ssdsckhw120a401"
+}

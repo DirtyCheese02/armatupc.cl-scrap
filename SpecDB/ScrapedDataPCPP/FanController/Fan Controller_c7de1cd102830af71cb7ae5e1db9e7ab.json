@@ -1,0 +1,12 @@
+{
+    "name": "NZXT Sentry Mix 2 Fan Controller",
+    "Manufacturer": "NZXT",
+    "Model": "Sentry Mix 2",
+    "Part #": "[SEN-MIX2, AC-SEN-MIX2-M1]",
+    "Channels": "6",
+    "Channel Wattage": "30 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[Fan Connector: 4-Pin, Finish: Matte black bezel with glossy black sliders, Connections: 2x Molex, Cable Finish: Black Rubber, RGB Color Changing, Control Method: Sliders, Fan Channel Quantity: 6, Fan Channel Wattage: 30 Watts, Maximum Combined Wattage: 180 Watts, Included Accessories: 4x M3 Screws., Matte-black faceplate with glossy-black sliders, 6 channels for complete airflow control, 30 watts per channel, Integrated color LED lighting with five different colors to choose from, All black cabling, PWM sized connectors.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tWW9TW/nzxt-fan-controller-senmix2"
+}

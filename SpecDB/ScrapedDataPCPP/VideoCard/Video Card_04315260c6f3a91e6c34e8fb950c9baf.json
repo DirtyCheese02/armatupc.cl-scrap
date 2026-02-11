@@ -1,0 +1,23 @@
+{
+    "name": "MSI RTX 5060 Ti 16G INSPIRE 2X GeForce RTX 5060 Ti 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 5060 Ti 16G INSPIRE 2X, G506T-16I2, GeForce RTX 5060 Ti 16G INSPIRE 2X]",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2587 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Gold / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "204 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N98Pxr/msi-rtx-5060-ti-16g-inspire-2x-geforce-rtx-5060-ti-16-gb-video-card-rtx-5060-ti-16g-inspire-2x"
+}

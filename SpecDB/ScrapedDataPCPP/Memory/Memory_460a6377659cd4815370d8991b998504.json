@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Flare X 32 GB (4 x 8 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2133C15Q-32GFX",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6GFXsY/gskill-flare-x-32gb-4-x-8gb-ddr4-2133-memory-f4-2133c15q-32gfx"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Intel 710 200 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSA2BZ200G301",
+    "Capacity": "200 GB",
+    "Price / GB": "$2.250",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21BA0",
+    "SSD NAND Flash Type": "HET MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hWW9TW/intel-internal-hard-drive-ssdsa2bz200g301"
+}

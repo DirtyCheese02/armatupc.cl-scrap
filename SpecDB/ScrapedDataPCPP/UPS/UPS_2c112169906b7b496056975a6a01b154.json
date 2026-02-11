@@ -1,0 +1,16 @@
+{
+    "name": "APC SUA750IX38 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA750IX38",
+    "Capacity (W)": "500 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "4.80 Minutes",
+    "Backup/Run Time (Half Load)": "16.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Tower",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "240 V AC",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gWX2FT/apc-ups-sua750ix38"
+}

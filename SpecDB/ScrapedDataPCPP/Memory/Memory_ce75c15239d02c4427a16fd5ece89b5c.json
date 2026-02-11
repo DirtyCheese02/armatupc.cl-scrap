@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill F2-6400CL5Q-16GBPQ 16 GB (4 x 4 GB) DDR2-800 CL5 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F2-6400CL5Q-16GBPQ",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "4 x 4GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hjrG3C/gskill-memory-f26400cl5q16gbpq"
+}

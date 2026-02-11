@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO POTENZA 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAPR416GB3600C18ADC",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Red / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PZjNnQ/geil-evo-potenza-16-gb-2-x-8-gb-ddr4-3600-memory-gapr416gb3600c18adc"
+}

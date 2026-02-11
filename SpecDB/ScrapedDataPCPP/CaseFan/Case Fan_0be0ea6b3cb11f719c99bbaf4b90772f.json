@@ -1,0 +1,19 @@
+{
+    "name": "Valkyrie X12F 80 CFM 120 mm Fan",
+    "Manufacturer": "Valkyrie",
+    "Model": "X12F",
+    "Part #": "VK-FANX12FB",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2150 RPM",
+    "Airflow": "80 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.14 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DrKscf/valkyrie-x12f-80-cfm-120-mm-fan-vk-fanx12fb"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "VisionTek 900374 Radeon HD 3450 512 MB AGP Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900374",
+    "Chipset": "Radeon HD 3450",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "600 MHz",
+    "Interface": "AGP",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "TDP": "25 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BPrG3C/visiontek-video-card-900374"
+}

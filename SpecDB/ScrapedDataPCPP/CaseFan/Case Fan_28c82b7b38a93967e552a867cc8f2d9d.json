@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC P8 23.4 CFM 80 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P8",
+    "Part #": "ACFAN00149A",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 3000 RPM",
+    "Airflow": "23.4 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t3ZzK8/arctic-p8-pwm-234-cfm-80-mm-fan-acfan00149a"
+}

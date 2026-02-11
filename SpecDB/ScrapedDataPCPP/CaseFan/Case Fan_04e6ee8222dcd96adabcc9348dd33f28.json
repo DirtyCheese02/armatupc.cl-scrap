@@ -1,0 +1,19 @@
+{
+    "name": "Noctua S12A PWM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "S12A PWM",
+    "Part #": "NF-S12A PWM",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1200 RPM",
+    "Noise Level": "10.7 - 17.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "SSO2",
+    "Features": "[Award-winning S12 design, Anti-Stall Knobs, AAO Frame, Stepped Inlet Design, Inner Surface Microstructures, Integrated Anti-Vibration Pads, Custom designed PWM IC with SCD, Low-Noise Adaptor, Extensive Cabling Options, SSO2 Bearing, Metal bearing shell]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BgvRsY/noctua-case-fan-nfs12apwm"
+}

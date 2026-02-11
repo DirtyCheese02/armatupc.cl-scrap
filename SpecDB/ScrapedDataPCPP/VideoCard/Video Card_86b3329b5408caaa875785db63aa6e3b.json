@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Red Dragon Radeon RX 5700 8 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 5700 8GBD6-3DHR/OC",
+    "Chipset": "Radeon RX 5700",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1565 MHz",
+    "Boost Clock": "1750 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "240 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NLPgXL/powercolor-radeon-rx-5700-8-gb-red-dragon-video-card-axrx-5700-8gbd6-3dhroc"
+}

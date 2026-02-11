@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte AERO OC GeForce RTX 4060 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N4060AERO OC-8GD",
+    "Chipset": "GeForce RTX 4060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1830 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "281 mm",
+    "TDP": "115 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1a Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xh3NnQ/gigabyte-aero-oc-geforce-rtx-4060-8-gb-video-card-gv-n4060aero-oc-8gd"
+}

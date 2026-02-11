@@ -1,0 +1,16 @@
+{
+    "name": "Silicon Power XPOWER Storm RGB 32 GB (2 x 16 GB) DDR5-7600 CL36 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP032GXLWU760FDK",
+    "Speed": "DDR5-7600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.474 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.4 V",
+    "Timing": "36-46-46-121",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tqcgXL/silicon-power-xpower-storm-rgb-32-gb-2-x-16-gb-ddr5-7600-cl36-memory-sp032gxlwu760fdk"
+}

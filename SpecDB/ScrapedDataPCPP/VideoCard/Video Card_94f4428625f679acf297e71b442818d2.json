@@ -1,0 +1,23 @@
+{
+    "name": "Yeston Sakura Atlantis GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "Yeston",
+    "Part #": "RTX5080 16G D7 Atlantis OC YA",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2700 MHz",
+    "Effective Memory Clock": "30000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue / Pink",
+    "Frame Sync": "G-Sync",
+    "Length": "343 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fBHp99/yeston-sakura-atlantis-geforce-rtx-5080-16-gb-video-card-rtx5080-16g-d7-atlantis-oc-ya"
+}

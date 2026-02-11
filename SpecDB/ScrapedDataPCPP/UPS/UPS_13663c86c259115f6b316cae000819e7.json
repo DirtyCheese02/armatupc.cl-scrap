@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite HTRL15UPS UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "HTRL15UPS",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jtJkcf/tripp-lite-ups-htrl15ups"
+}

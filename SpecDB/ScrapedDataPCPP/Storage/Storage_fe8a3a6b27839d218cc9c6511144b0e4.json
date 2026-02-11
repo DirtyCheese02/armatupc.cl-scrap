@@ -1,0 +1,13 @@
+{
+    "name": "Asus ROG RAIDR 240 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Asus",
+    "Part #": "[RAIDR EXPRESS, 90MB0G60-M0EAY0]",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jbBv6h/asus-internal-hard-drive-raidrexpress"
+}

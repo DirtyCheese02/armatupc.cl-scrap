@@ -1,0 +1,21 @@
+{
+    "name": "Phanteks F140HP 88.6 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F140HP",
+    "Part #": "PH-F140HP_BL",
+    "Size": "140 mm",
+    "Color": "White / Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1300 RPM",
+    "Airflow": "40.9 - 88.6 CFM",
+    "Noise Level": "15.22 - 19 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.64 mmH₂O",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "Features": "[Blade Geometry: Nine Colored Blades with MVB(Maelstrom Vortex Booster) Design, Static Pressure: .39-1.64mm H2O, Input Current: 0.14 A, Rate Voltage: DC 12V, Input Power: 1.8 W, MTBF: >150,000 h, Cable Length: 400mm]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YMLypg/phanteks-case-fan-phf140hpbl"
+}

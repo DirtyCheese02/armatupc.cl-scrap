@@ -1,0 +1,23 @@
+{
+    "name": "Super Flower SF-1000F14MP White 1000 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Super Flower",
+    "Model": "SF-1000F14MP White",
+    "Part #": "SF-1000F14MP white",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "1000 W",
+    "Length": "200 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@20A ; +5V@20.0A ; +12V@83.3A ; -12V@0.5A ; +5Vsb@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G2qdnQ/super-flower-power-supply-sf1000f14mpwhite"
+}

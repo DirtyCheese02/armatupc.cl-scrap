@@ -1,0 +1,16 @@
+{
+    "name": "GOODRAM IRDM 32 GB (2 x 16 GB) DDR5-5600 CL30 Memory",
+    "Manufacturer": "GOODRAM",
+    "Part #": "IR-5600D564L30S/32GDC",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.25 V",
+    "Timing": "30-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KTNYcf/goodram-irdm-32-gb-2-x-16-gb-ddr5-5600-cl30-memory-ir-5600d564l30s32gdc"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LP 32 GB (4 x 8 GB) DDR3-1866 CL10 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CML32GX3M4A1866C10",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "10.718 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "Timing": "10-11-10-30",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cD9KHx/corsair-memory-cml32gx3m4a1866c10"
+}

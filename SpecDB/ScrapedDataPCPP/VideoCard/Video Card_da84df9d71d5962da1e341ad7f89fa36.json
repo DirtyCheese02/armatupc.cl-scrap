@@ -1,0 +1,21 @@
+{
+    "name": "PNY VCGG2105XXB GeForce 210 512 MB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGG2105XXB",
+    "Chipset": "GeForce 210",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "589 MHz",
+    "Effective Memory Clock": "800 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "TDP": "31 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GsGkcf/pny-video-card-vcgg2105xxb"
+}

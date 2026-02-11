@@ -1,0 +1,22 @@
+{
+    "name": "ATI FirePro W4100 FirePro W4100 2 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro W4100",
+    "Part #": "100-505817",
+    "Chipset": "FirePro W4100",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "630 MHz",
+    "Effective Memory Clock": "4500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "171 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xLCwrH/ati-video-card-100505817"
+}

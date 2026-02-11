@@ -1,0 +1,22 @@
+{
+    "name": "Lenovo 4X61J52234 T400 4GB 4 GB Video Card",
+    "Manufacturer": "Lenovo",
+    "Part #": "4X61J52234",
+    "Chipset": "T400 4GB",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "420 MHz",
+    "Boost Clock": "1425 MHz",
+    "Effective Memory Clock": "10000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hV7scf/lenovo-4x61j52234-t400-4gb-4-gb-video-card-4x61j52234"
+}

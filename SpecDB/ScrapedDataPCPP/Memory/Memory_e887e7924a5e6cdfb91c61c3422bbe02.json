@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance 96 GB (4 x 24 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK96GX5M4B6000C30",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 24GB",
+    "Price / GB": "$16.052",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.4 V",
+    "Timing": "30-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tbyH99/corsair-vengeance-96-gb-4-x-24-gb-ddr5-6000-cl30-memory-cmk96gx5m4b6000c30"
+}

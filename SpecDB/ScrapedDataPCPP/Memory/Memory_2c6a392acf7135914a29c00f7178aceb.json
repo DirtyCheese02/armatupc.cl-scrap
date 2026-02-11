@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Dominator Platinum RGB 64 GB (2 x 32 GB) DDR5-6800 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT64GX5M2B6800C40",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$18.594",
+    "Color": "Black",
+    "First Word Latency": "11.765 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.4 V",
+    "Timing": "40-50-50-110",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rGkH99/corsair-dominator-platinum-rgb-64-gb-2-x-32-gb-ddr5-6800-cl40-memory-cmt64gx5m2b6800c40"
+}

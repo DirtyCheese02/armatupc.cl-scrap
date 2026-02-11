@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Beast RGB 128 GB (4 x 32 GB) DDR5-5200 CL40 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF552C40BBAK4-128",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "15.385 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XQQKHx/kingston-fury-beast-rgb-128-gb-4-x-32-gb-ddr5-5200-cl40-memory-kf552c40bbak4-128"
+}

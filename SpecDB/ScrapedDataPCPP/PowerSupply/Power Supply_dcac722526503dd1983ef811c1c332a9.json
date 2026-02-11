@@ -1,0 +1,21 @@
+{
+    "name": "CoolMax CX-550B 550 W ATX Power Supply",
+    "Manufacturer": "CoolMax",
+    "Part #": "CX-550B",
+    "Type": "ATX",
+    "Wattage": "550 W",
+    "Length": "142 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@30A, +5V@50A, -5V@0.5A, +12V@35A, -12V@1A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mZTmP6/coolmax-power-supply-cx550b"
+}

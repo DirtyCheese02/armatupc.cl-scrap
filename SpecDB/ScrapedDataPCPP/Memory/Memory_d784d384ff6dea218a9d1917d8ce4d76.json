@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3866 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3866C18D-32GTZR",
+    "Speed": "DDR4-3866",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.312 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GnPzK8/gskill-trident-z-rgb-32gb-2-x-16gb-ddr4-3866-memory-f4-3866c18d-32gtzr"
+}

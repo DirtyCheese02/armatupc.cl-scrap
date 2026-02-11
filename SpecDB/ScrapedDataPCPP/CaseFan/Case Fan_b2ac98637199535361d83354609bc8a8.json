@@ -1,0 +1,19 @@
+{
+    "name": "Noctua P12-1300 54.36 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "P12-1300",
+    "Part #": "[NF-P12-1300, NF-P12]",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1300 RPM",
+    "Airflow": "37.33 - 54.36 CFM",
+    "Noise Level": "12.6 - 19.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "SSO",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sKzv6h/noctua-nf-p12-1300-5436-cfm-120-mm-fan-nf-p12-1300"
+}

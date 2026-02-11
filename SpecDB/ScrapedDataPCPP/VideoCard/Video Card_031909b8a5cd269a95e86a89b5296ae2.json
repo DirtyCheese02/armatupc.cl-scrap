@@ -1,0 +1,23 @@
+{
+    "name": "Palit GameRock GeForce RTX 3080 10GB 10 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NED3080U19IA-1020G",
+    "Chipset": "GeForce RTX 3080 10GB",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1755 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "304 mm",
+    "TDP": "340 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6ymFf7/palit-geforce-rtx-3080-10-gb-gamerock-video-card-ned3080u19ia-1020g"
+}

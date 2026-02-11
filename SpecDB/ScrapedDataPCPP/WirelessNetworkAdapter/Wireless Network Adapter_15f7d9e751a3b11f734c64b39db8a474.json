@@ -1,0 +1,11 @@
+{
+    "name": "Edimax EW-7711USN 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Edimax",
+    "Part #": "EW-7711USN",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "WEP 64/128, WPA, WPA2, Software WPS, Cisco CCX Support",
+    "Antenna": "3 dBi High-Gain rotatable detachable antenna",
+    "Features": "[Increases wireless coverage 3 times further, Supports QoS-WMM, WMM-Power Save mode, Supports software AP mode, *The EZMax Setup CD Wizard only supports Edimax wireless Series.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ggkD4D/edimax-wireless-network-card-ew7711usn"
+}

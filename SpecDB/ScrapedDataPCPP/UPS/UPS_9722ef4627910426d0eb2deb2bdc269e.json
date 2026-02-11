@@ -1,0 +1,21 @@
+{
+    "name": "APC BE650BB UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE650BB",
+    "Capacity (W)": "390 W",
+    "Capacity (VA)": "650 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "5.80 Minutes",
+    "Backup/Run Time (Half Load)": "17.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "5",
+    "Dataline Protection": "RJ-45",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Switching Time": "10 ms",
+    "USB": "Yes",
+    "Waveform Type": "Stepped Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VTH48d/apc-ups-be650bb"
+}

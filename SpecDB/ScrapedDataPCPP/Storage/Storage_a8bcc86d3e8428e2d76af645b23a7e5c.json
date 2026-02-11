@@ -1,0 +1,11 @@
+{
+    "name": "Intel DC P3608 4 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPECME040T401",
+    "Capacity": "4 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jHzZxr/intel-internal-hard-drive-ssdpecme040t401"
+}

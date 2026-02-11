@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SMART750SLT UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART750SLT",
+    "Capacity (W)": "500 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "145 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "8 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Mf8H99/tripp-lite-ups-smart750slt"
+}

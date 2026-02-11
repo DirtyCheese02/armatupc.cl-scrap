@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A12x15 PWM chromax.black.swap 55.44 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A12x15 PWM chromax.black.swap",
+    "Part #": "[NF-A12X15 PWM CHROMAX.BLACK.SWAP, NF-A12x15 PWM CH.BK.S, NF-A12x15-PWM-CH-BK-S]",
+    "Size": "120 mm",
+    "Color": "Black / Multicolor",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "450 - 1850 RPM",
+    "Airflow": "55.44 CFM",
+    "Noise Level": "23.9 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.53 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FM3mP6/noctua-nf-a12x15-pwm-chromaxblackswap-5544-cfm-120-mm-fan-nf-a12x15-pwm-chromaxblackswap"
+}

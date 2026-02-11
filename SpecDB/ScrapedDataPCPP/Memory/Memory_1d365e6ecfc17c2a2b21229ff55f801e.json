@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Sniper X 64 GB (4 x 16 GB) DDR4-3600 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C19Q-64GSXWB",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "10.556 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kBXJ7P/gskill-sniper-x-64-gb-4-x-16-gb-ddr4-3600-cl19-memory-f4-3600c19q-64gsxwb"
+}

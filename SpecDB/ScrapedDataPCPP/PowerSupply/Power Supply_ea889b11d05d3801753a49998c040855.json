@@ -1,0 +1,20 @@
+{
+    "name": "Athena Power AP-MFATX35 350 W 80+ Bronze Certified Mini ITX Power Supply",
+    "Manufacturer": "Athena Power",
+    "Part #": "AP-MFATX35",
+    "Type": "Mini ITX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "350 W",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "Output": "+3.3V@15A, +5V@15A, +12V1@11A, +12V2@11A, -5V@0.5A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2GZQzy/athena-power-ap-mfatx35-350-w-80-bronze-certified-mini-itx-power-supply-ap-mfatx35"
+}

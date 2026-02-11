@@ -1,0 +1,23 @@
+{
+    "name": "Asus GT620-DCSL-2GD3 GeForce GT 620 2 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "GT620-DCSL-2GD3",
+    "Chipset": "GeForce GT 620",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1820 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "187 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w4ckcf/asus-video-card-gt620dcsl2gd3"
+}

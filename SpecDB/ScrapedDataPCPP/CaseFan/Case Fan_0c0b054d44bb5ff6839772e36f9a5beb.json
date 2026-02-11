@@ -1,0 +1,19 @@
+{
+    "name": "Enermax Everest Advance 76 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCEVA12T",
+    "Size": "120 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 1600 RPM",
+    "Airflow": "46.1 - 76 CFM",
+    "Noise Level": "8 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Twister",
+    "Features": "[Built-in thermal sensor for auto-adjusted fan speed control, Smart APS (Adjustable peak speed) control providing 3 peak rpm options, Twister Bearing technology for long lifetime and low noise, Batwing Blade design and Carved Halo Frame for extra 20%~30% airflow, Detachable fan blades for easy cleaning, Isolator-mounts for shockproof and easy installation, Blue lightning LED on/off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7wR48d/enermax-case-fan-uceva12t"
+}

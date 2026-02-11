@@ -1,0 +1,14 @@
+{
+    "name": "OCZ V3LT-25SAT3-240G 240 GB 2.5\" Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Model": "V3LT-25SAT3-240G",
+    "Part #": "V3LT-25SAT3-240G.oem",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Phzv6h/ocz-internal-hard-drive-v3lt25sat3240goem"
+}

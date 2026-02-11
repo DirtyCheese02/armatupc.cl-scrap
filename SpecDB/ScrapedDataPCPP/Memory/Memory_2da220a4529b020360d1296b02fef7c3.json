@@ -1,0 +1,15 @@
+{
+    "name": "Panram Ninja-V 8 GB (2 x 4 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "Panram",
+    "Part #": "PUD43000C164G2NJK",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BrDzK8/panram-memory-pud43000c164g2njk"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3000C15D-16GTZR",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-16-16-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sHQRsY/gskill-tridentz-rgb-16gb-2-x-8gb-ddr4-3000-memory-f4-3000c15d-16gtzr"
+}

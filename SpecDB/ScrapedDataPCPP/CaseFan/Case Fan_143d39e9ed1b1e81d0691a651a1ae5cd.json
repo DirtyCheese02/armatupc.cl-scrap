@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek CFS 53.34 CFM 120 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "CFS-OXGKS-WU2",
+    "Size": "120 mm",
+    "Color": "Black / Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1400 RPM",
+    "Airflow": "53.34 CFM",
+    "Noise Level": "14 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Turbo Fan, bullet-shaped fan hub for improving air flow., Silent airflow design, 14dBA only., Multi-tunnel intake, extreme quiet performance., 500mm mesh shield cable application for full tower case., Operation under 6V ~ 13.8V, Great compatibility with mainboard and fan speed control function.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t7ckcf/xigmatek-case-fan-cfsoxgkswu2"
+}

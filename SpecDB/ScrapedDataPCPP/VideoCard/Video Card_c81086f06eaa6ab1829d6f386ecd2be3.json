@@ -1,0 +1,20 @@
+{
+    "name": "PNY VCNRTXA400LP-PB RTX A400 4 GB PCIe x8 Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTXA400LP-PB",
+    "Chipset": "RTX A400",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Boost Clock": "1755 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "163 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TzTZxr/pny-vcnrtxa400lp-pb-rtx-a400-4-gb-pcie-x8-video-card-vcnrtxa400lp-pb"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "EVGA XC GAMING GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "08G-P5-3663-KR",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1710 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "202 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZdpmP6/evga-geforce-rtx-3060-ti-8-gb-xc-gaming-video-card-08g-p5-3663-kr"
+}

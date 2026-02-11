@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li ST120 69.17 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Lian Li",
+    "Model": "ST120",
+    "Part #": "[ST120-3W, G99.12ST3W.00]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1900 RPM",
+    "Airflow": "69.17 CFM",
+    "Noise Level": "32 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "Static Pressure": "2.6 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fnpzK8/lian-li-st120-6917-cfm-120-mm-fans-3-pack-st120-3w"
+}

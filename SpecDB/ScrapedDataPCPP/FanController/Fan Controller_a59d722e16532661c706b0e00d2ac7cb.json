@@ -1,0 +1,12 @@
+{
+    "name": "Lamptron FC9 Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Model": "FC9",
+    "Part #": "FC-FC9B",
+    "Channels": "4",
+    "Channel Wattage": "50 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[CNC Milled Front Panel with lLaser Etched Logo and Channel Lettering, Customizable Channel LED's, Power Output: Up to 50 watts per channel for 4 channels, LED Color Available: White, Blue, Green, Cyan, Red, Purple, Yellow, Panel Color Available: Black Anodized, or Silver, DC Input: +12V via standard 4-pin molex male connector, Fan Connectors: 4 x 3-pin male connectors, Recommended power supply wattage: 600w or higher]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NfJwrH/lamptron-fan-controller-fcfc9b"
+}

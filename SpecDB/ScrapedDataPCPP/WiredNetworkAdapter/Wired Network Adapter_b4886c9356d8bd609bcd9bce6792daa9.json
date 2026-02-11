@@ -1,0 +1,8 @@
+{
+    "name": "Syba SD-ADA24032 Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SD-ADA24032",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Features": "[Capable of USB 3.0 Super-speed Data Transfer Rate, Fully Compliant with USB Specification Rev. 3.0 and Backward Compatible with USB Specification Rev. 2.0 and Rev. 1.1., Supports 10Base-t, 100Base-TX, and 1000Base-T with Auto-negotiation, Fully Compliant with IEEE 802.3/802.3u/802.3ab/802az (Energy Efficient Ethernet) Specification, Supports Full Duplex Operation with IEEE 802.3x Flow Control and Half Duplex Operation with Back-pressure Flow Control, Supports 4 KB Jumbo Frame, Supports IEEE 802.1q VLAN Tagging, USB Bus-powered, LED Indicators for Different Status.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YvBv6h/syba-wired-network-card-sdada24032"
+}

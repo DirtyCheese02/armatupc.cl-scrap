@@ -1,0 +1,21 @@
+{
+    "name": "PNY VCQP2200-SB Quadro P2200 5 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQP2200-SB",
+    "Chipset": "Quadro P2200",
+    "Memory": "5 GB",
+    "Memory Type": "GDDR5X",
+    "Core Clock": "1000 MHz",
+    "Boost Clock": "1493 MHz",
+    "Effective Memory Clock": "10024 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "Length": "201 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rNNgXL/pny-quadro-p2200-5-gb-video-card-vcqp2200-sb"
+}

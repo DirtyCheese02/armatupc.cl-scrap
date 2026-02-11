@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SMART2200VS UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART2200VS",
+    "Capacity (W)": "1600 W",
+    "Capacity (VA)": "2200 VA",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "19 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[7 x NEMA 5-15R, 2 x NEMA 5-20R]",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YPs8TW/tripp-lite-ups-smart2200vs"
+}

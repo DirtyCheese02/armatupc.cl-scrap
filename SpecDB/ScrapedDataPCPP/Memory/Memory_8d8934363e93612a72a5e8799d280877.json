@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 16 GB (1 x 16 GB) DDR5-5200 SODIMM CL38 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5200S3838A16GA1-RS",
+    "Speed": "DDR5-5200",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "14.615 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dczp99/gskill-ripjaws-16-gb-1-x-16-gb-ddr5-5200-sodimm-cl38-memory-f5-5200s3838a16ga1-rs"
+}

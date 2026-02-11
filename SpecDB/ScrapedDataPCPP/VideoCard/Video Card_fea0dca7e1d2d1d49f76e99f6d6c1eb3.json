@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS GeForce RTX 2060 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 2060 VENTUS 6G, GeForce RTX 2060 VENTUS 6G]",
+    "Chipset": "GeForce RTX 2060",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1680 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "226 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zvMwrH/msi-geforce-rtx-2060-6-gb-ventus-video-card-rtx-2060-ventus-6g"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal DW100 RGB 48 GB (2 x 24 GB) DDR5-8200 CL40 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "BXL54882DW1-D40FW",
+    "Speed": "DDR5-8200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "White",
+    "First Word Latency": "9.756 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.4 V",
+    "Timing": "40-50-50-126",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y28Pxr/biwin-black-opal-dw100-rgb-48-gb-2-x-24-gb-ddr5-8200-cl40-memory-bxl54882dw1-d40fw"
+}

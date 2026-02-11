@@ -1,0 +1,19 @@
+{
+    "name": "NZXT Duet HTPC Case",
+    "Manufacturer": "NZXT",
+    "Part #": "DUET BLK",
+    "Type": "HTPC",
+    "Color": "Black / Silver",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Drive Bays": "[2 x External 5.25\", 1 x External 3.5\", 1 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[80 mm, 120 mm]",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[454 mm x 147 mm x 454 mm, 17.874\" x 5.787\" x 17.874\"]",
+    "Volume": "[30.299 L, 1.07 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q2ckcf/nzxt-case-duetblk"
+}

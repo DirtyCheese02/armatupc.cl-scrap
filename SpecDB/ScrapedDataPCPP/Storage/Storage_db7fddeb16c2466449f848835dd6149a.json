@@ -1,0 +1,14 @@
+{
+    "name": "Intel DC S3500 600 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSC2BB600G401",
+    "Capacity": "600 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21CA",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sHXfrH/intel-internal-hard-drive-ssdsc2bb600g401"
+}

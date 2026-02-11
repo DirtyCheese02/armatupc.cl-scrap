@@ -1,0 +1,14 @@
+{
+    "name": "TEAMGROUP Vulcan 32 GB (4 x 8 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TXD332G1600HC9QC-V",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cbBv6h/team-memory-txd332g1600hc9qcv"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Tripp Lite ECO750UPS UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "ECO750UPS",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "750 VA",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "20 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "6 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8nnG3C/tripp-lite-ups-eco750ups"
+}

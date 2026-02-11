@@ -1,0 +1,21 @@
+{
+    "name": "PNY VCGGTX4601XPB-OC GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGGTX4601XPB-OC",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "765 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mFkD4D/pny-video-card-vcggtx4601xpboc"
+}

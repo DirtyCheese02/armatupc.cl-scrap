@@ -1,0 +1,15 @@
+{
+    "name": "GeIL EVO CORSA 16 GB (4 x 4 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GOC316GB2400C10QC",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TJLypg/geil-memory-goc316gb2400c10qc"
+}

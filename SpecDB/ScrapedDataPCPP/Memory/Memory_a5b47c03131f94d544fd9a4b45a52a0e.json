@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG SPECTRIX D60G 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX4U3200316G16-DT60",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g6Dkcf/adata-xpg-spectrix-d60g-32-gb-2-x-16-gb-ddr4-3200-memory-ax4u3200316g16-dt60"
+}

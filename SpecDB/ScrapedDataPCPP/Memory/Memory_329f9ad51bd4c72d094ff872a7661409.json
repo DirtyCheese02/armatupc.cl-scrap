@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 96 GB (2 x 48 GB) DDR5-6000 CL36 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH96GX5M2E6000Z36",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Price / GB": "$12.344",
+    "Color": "Gray",
+    "First Word Latency": "12 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.4 V",
+    "Timing": "36-44-44-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6rXMnQ/corsair-vengeance-rgb-96-gb-2-x-48-gb-ddr5-6000-cl36-memory-cmh96gx5m2e6000z36"
+}

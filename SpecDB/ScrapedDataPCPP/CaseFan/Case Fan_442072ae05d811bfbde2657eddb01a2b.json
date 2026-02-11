@@ -1,0 +1,19 @@
+{
+    "name": "Akasa Viper 110.61 CFM 140 mm Fan",
+    "Manufacturer": "Akasa",
+    "Part #": "AK-FN063",
+    "Size": "140 mm",
+    "Color": "Black / Yellow",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1600 RPM",
+    "Airflow": "110.61 CFM",
+    "Noise Level": "12.5 - 26.01 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.12 mmH₂O",
+    "Bearing Type": "Hydro Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cs9KHx/akasa-case-fan-akfn063"
+}

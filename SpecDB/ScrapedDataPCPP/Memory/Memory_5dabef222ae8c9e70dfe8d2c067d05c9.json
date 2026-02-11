@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal HX100 32 GB (2 x 16 GB) DDR5-6600 CL34 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "B5HX100326634FR2G-BB004",
+    "Speed": "DDR5-6600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10.303 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-40-40-105",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N4MXsY/biwin-black-opal-hx100-32-gb-2-x-16-gb-ddr5-6600-cl34-memory-b5hx100326634fr2g-bb004"
+}

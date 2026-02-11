@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle 700024 GeForce GTX 650 1 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "700024",
+    "Chipset": "GeForce GTX 650",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1098 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "162 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4bmLrH/sparkle-video-card-700024"
+}

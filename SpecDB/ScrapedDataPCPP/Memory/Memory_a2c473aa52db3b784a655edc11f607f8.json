@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP008GBSFU213B02 8 GB (1 x 8 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP008GBSFU213B02",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8WH7YJ/silicon-power-sp008gbsfu213b02-8-gb-1-x-8-gb-ddr4-2133-sodimm-cl15-memory-sp008gbsfu213b02"
+}

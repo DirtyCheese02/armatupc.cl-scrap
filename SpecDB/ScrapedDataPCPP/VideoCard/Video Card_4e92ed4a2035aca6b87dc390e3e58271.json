@@ -1,0 +1,22 @@
+{
+    "name": "Gainward Python III OC GeForce RTX 5060 8 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NE75060T19P1-GB2063T",
+    "Chipset": "GeForce RTX 5060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2280 MHz",
+    "Boost Clock": "2580 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "292 mm",
+    "TDP": "145 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pL7MnQ/gainward-python-iii-oc-geforce-rtx-5060-8-gb-video-card-ne75060t19p1-gb2063t"
+}

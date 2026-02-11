@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 64 GB (8 x 8 GB) DDR4-4000 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4000C15Q2-64GTRS",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 8GB",
+    "Color": "Silver",
+    "First Word Latency": "7.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.5 V",
+    "Timing": "15-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/68zFf7/gskill-trident-z-royal-64-gb-8-x-8-gb-ddr4-4000-memory-f4-4000c15q2-64gtrs"
+}

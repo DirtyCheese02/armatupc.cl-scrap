@@ -1,0 +1,21 @@
+{
+    "name": "Noctua B9 PWM 37.85 CFM 92 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "B9 PWM",
+    "Part #": "NF-B9 PWM",
+    "Size": "92 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1600 RPM",
+    "Airflow": "30.96 - 37.85 CFM",
+    "Noise Level": "13.1 - 17.6 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.61 mmH₂O",
+    "Bearing Type": "SSO-Bearing (Self-stabilising oil-presure bearing)",
+    "Features": "[Bevelled Blade Tips Design, Vortex-Control Notches, Smooth Commutation Drive, SSO Bearing (Self-stabilizing Oil-pressure bearing) design.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DD9KHx/noctua-nf-b9-pwm-3785-cfm-92-mm-fan-nf-b9-pwm"
+}

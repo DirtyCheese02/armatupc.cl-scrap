@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite SMX2200XLRT2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMX2200XLRT2U",
+    "Capacity (W)": "1920 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Alarm": "[UPS StartUp, Power Failure, Low Battery, Overload, UPS Fault, Remote Shutdown]",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "11.90 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "230 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "230 V AC",
+    "Protection Type": "[EMI, RFI]",
+    "Receptacles": "8 x IEC 60320 C13",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pure Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d8KhP6/tripp-lite-ups-smx2200xlrt2u"
+}

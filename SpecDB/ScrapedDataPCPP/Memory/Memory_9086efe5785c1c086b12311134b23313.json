@@ -1,0 +1,14 @@
+{
+    "name": "G.Skill Trident X 16 GB (4 x 4 GB) DDR3-2800 CL12 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-2800C12Q-16GTXDG",
+    "Speed": "DDR3-2800",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "First Word Latency": "8.571 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mgkD4D/gskill-memory-f32800c12q16gtxdg"
+}

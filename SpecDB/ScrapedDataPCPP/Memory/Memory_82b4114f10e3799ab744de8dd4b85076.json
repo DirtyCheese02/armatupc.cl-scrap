@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 8 GB (1 x 8 GB) DDR4-2800 SODIMM CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2800C18S-8GRS",
+    "Speed": "DDR4-2800",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "12.857 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9JM323/gskill-memory-f42800c18s8grs"
+}

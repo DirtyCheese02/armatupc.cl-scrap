@@ -1,0 +1,21 @@
+{
+    "name": "Phanteks F140SP 82.1 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F140SP",
+    "Part #": "PH-F140SP_BK_BLED",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "82.1 CFM",
+    "Noise Level": "19 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.33 mmH₂O",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "Features": "[4 BLUE LEDs, Blade Geometry: Nine Colored Blades with MVB(Maelström Vortex Booster) Design, Static Pressure: 1.33mm H2O, Input Current: 0.14 A, Rate Voltage: DC 12V, Input Power: 1.8 W, MTBF: >150,000 h, Cable Length: 500mm, LED ON/OFF Cable: 500mm]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Grdqqs/phanteks-case-fan-phf140spbkbled"
+}

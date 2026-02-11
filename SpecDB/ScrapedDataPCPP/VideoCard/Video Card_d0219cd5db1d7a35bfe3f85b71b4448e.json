@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 01G-P3-1563-A1 GeForce GTX 560 Ti 1 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "01G-P3-1563-A1",
+    "Chipset": "GeForce GTX 560 Ti",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "4212 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "228 mm",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W3YXsY/evga-video-card-01gp31563a1"
+}

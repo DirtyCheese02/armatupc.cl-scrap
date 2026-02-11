@@ -1,0 +1,23 @@
+{
+    "name": "Corsair CX400 400 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "CX400",
+    "Part #": "CMPSU-400CX",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "400 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@20A, +5V@20A, +12V@30A, -12V@0.8A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TNNypg/corsair-cx400-400-w-80-certified-atx-power-supply-cmpsu-400cx"
+}

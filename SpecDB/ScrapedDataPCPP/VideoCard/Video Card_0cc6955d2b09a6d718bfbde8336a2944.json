@@ -1,0 +1,22 @@
+{
+    "name": "PowerColor Reaper Radeon RX 9060 XT 8 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "RX9060XT 8G-A",
+    "Chipset": "Radeon RX 9060 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2220 MHz",
+    "Boost Clock": "3130 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "200 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "2",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4fnXsY/powercolor-reaper-radeon-rx-9060-xt-8-gb-video-card-rx9060xt-8g-a"
+}

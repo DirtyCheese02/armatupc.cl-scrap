@@ -1,0 +1,23 @@
+{
+    "name": "Asus Phoenix V2 GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[PH-RTX3050-8G-V2, 90YV0GH8-M0AA00, 90YV0GH8-M0NA00]",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1807 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "178 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.1 Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BY3NnQ/asus-phoenix-v2-geforce-rtx-3050-8gb-8-gb-video-card-ph-rtx3050-8g-v2"
+}

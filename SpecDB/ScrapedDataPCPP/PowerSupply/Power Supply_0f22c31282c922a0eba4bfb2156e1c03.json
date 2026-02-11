@@ -1,0 +1,22 @@
+{
+    "name": "FSP Group AURUM 92+ 550 W 80+ Platinum Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "FSP Group",
+    "Part #": "PT-550M",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "550 W",
+    "Length": "160 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "7",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "16A @ +3.3V DC<br/>16A @ +5V DC<br/>18A @ +12V1 DC<br/>18A @ +12V2 DC<br/>18A @ +12V3 DC<br/>18A @ +12V4 DC<br/>0.3A @ -12V DC<br/>3.0A @ +5Vsb DC Standby",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4pCwrH/fsp-group-power-supply-pt550m"
+}

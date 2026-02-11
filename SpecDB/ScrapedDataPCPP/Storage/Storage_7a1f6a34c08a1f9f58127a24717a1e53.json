@@ -1,0 +1,14 @@
+{
+    "name": "Crucial M500 480 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT480M500SSD1",
+    "Capacity": "480 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xb7wrH/crucial-internal-hard-drive-ct480m500ssd1"
+}

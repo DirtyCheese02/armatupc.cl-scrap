@@ -1,0 +1,19 @@
+{
+    "name": "ID-COOLING NO-8010 25.4 CFM 80 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Model": "NO-8010",
+    "Part #": "NO-8010-PWM",
+    "Size": "80 mm",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 3000 RPM",
+    "Airflow": "25.4 CFM",
+    "Noise Level": "27.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.1 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XQ26Mp/id-cooling-no-8010-254-cfm-80-mm-fan-no-8010-pwm"
+}

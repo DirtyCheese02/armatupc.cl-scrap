@@ -1,0 +1,8 @@
+{
+    "name": "Rosewill RC-400-LX Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RC-400-LX",
+    "Interface": "PCI",
+    "Features": "[Chipset: Realtek Gigabit Ethernet controller., OS Supports: Supports ODI, NDIS, Windows 98/98SE/ME/2000/XP/NT 4.0, Plug n Play support for Win7 and Win8(32/64 bit), Windows Server 2003, UNIX and Linux., Auto-Negotiation supports for Auto-Detect 10/100/1000Mbps data rate and Full/Half-Duplex operation mode., Support ACPI and PCI power management., Compliant to IEEE802.3, IEEE802.3u & IEEE802.3ab., Supports for IEEE802.3x Full Duplex flow control., Supports IEEE 802.1Q Virtual LAN (VLAN) Tag., Compliant to PC97, PC98, PC99 and PC2001 standards.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fy6BD3/rosewill-wired-network-card-rc400lx"
+}

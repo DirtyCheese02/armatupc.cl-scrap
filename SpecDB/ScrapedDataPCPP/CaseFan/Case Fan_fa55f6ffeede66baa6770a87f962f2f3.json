@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Silent Wings 2 60.4 CFM 140 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL063",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "60.4 CFM",
+    "Noise Level": "15.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.81 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NW2kcf/be-quiet-case-fan-bl063"
+}

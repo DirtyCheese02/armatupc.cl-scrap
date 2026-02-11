@@ -1,0 +1,12 @@
+{
+    "name": "Intel DC P3600 1.2 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDME012T401",
+    "Capacity": "1.2 TB",
+    "Price / GB": "$1.250",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/f48H99/intel-dc-p3600-12tb-pci-e-solid-state-drive-ssdpedme012t401"
+}

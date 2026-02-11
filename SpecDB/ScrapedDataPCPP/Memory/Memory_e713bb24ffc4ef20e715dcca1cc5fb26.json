@@ -1,0 +1,16 @@
+{
+    "name": "V-Color TE548G64D832SKK 96 GB (2 x 48 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "V-Color",
+    "Part #": "TE548G64D832SKK",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KGwD4D/v-color-te548g64d832skk-96-gb-2-x-48-gb-ddr5-6400-cl32-memory-te548g64d832skk"
+}

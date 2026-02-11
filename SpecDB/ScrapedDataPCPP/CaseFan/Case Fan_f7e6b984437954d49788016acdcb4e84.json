@@ -1,0 +1,20 @@
+{
+    "name": "Gelid Solutions Silent 7 19.8 CFM 70 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Model": "Silent 7",
+    "Part #": "FN-SX07-22",
+    "Size": "70 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "19.8 CFM",
+    "Noise Level": "21.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydro Dynamic Bearing",
+    "Features": "[Silent Operation, Optimized Fan Blades, High Airflow & High Static Pressure, Long Lifetime (50000 h MTTF at 40 degrees C)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VN8Zxr/gelid-solutions-case-fan-fnsx0722"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance 8 GB (1 x 8 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSX8GX3M1A1600C10",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nCxfrH/corsair-memory-cmsx8gx3m1a1600c10"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Performance 16 GB (2 x 8 GB) DDR3-2133 SODIMM CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSX16GX3M2C2133C11",
+    "Speed": "DDR3-2133",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "10.314 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "Timing": "11-11-11-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z7X2FT/corsair-memory-cmsx16gx3m2c2133c11"
+}

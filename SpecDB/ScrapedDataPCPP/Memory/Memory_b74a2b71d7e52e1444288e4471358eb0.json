@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z5 Royal 64 GB (2 x 32 GB) DDR5-6800 CL34 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6800J3445G32GX2-TR5S",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-45-45-108",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PdcBD3/gskill-trident-z5-royal-64-gb-2-x-32-gb-ddr5-6800-cl34-memory-f5-6800j3445g32gx2-tr5s"
+}

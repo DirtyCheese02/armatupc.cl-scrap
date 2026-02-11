@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-40605-10L GeForce GT 430 512 MB PCI Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-40605-10L",
+    "Chipset": "GeForce GT 430",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCI",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nJrG3C/zotac-video-card-zt4060510l"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Prolimatech Vortex 87 CFM 140 mm Fan",
+    "Manufacturer": "Prolimatech",
+    "Part #": "PRO-BV14LED",
+    "Size": "140 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "87 CFM",
+    "Noise Level": "18.1 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.76 mmH₂O",
+    "Bearing Type": "Sleeve",
+    "Features": "[Power:, Rated Voltage: 12 VDC, Operating Voltage Range: 7~13.8 VDC, Rated Current: 0.2 Max.Amp, Rated Power: 2.4 Max.Watt, Connector: Terminal Connector(3-pin plus 4-pin molex), Specifically designed to work with Prolimatech coolers for best performance to noise ratio., Stable bearing for long life operation at minimal noise level., Quality material used in fan blades for a solid structure design., Quad Sapphire Blue LED.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pbbp99/prolimatech-case-fan-probv14led"
+}

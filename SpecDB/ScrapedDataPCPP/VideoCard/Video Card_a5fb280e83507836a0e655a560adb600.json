@@ -1,0 +1,21 @@
+{
+    "name": "Sapphire 100312TXSR Radeon HD 6950 2 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100312TXSR",
+    "Chipset": "Radeon HD 6950",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q4bp99/sapphire-video-card-100312txsr"
+}

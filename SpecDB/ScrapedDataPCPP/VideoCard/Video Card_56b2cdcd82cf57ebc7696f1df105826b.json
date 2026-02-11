@@ -1,0 +1,23 @@
+{
+    "name": "AMD 100-300000074 Radeon PRO W7900 48 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-300000074",
+    "Chipset": "Radeon PRO W7900",
+    "Memory": "48 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1855 MHz",
+    "Boost Clock": "2495 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "280 mm",
+    "TDP": "295 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "1 Fan",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "MiniDisplayPort 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DrMMnQ/amd-100-300000074-radeon-pro-w7900-48-gb-video-card-100-300000074"
+}

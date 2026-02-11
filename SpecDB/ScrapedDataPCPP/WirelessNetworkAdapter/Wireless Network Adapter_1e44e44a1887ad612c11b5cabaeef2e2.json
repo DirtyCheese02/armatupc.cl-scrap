@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill N900PCE 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "[N900PCE, RNWD-N9003PCE]",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128 bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK (TKIP/AES), IEEE802.1X",
+    "Antenna": "3x External Dual Band Antennas",
+    "Features": "[Maximum throughput for 2.4GHz or 5 GHz support up to 450Mbps, Supports dual-band, 2.4GHz or 5GHz, Seamlessly compatible with 802.11a/b/g/n products, Experience better video streaming and online gaming enjoyment by choosing 5GHz band for seamless wireless connections, Supports 64/128 WEP, WPA /WPA2/WPA-PSK/WPA2-PSK(TKIP/AES), supports IEEE 802.1X, Supports Windows XP 32/64bit, Vista 32/64bit, Windows 7 32/64bit, Supports ad-hoc and infrastructure mode, Bundled utility provides quick & hassle-free installation., *N900PCE is not able to support simultanous broadcast at 2.4GHz and 5GHz. It runs on only one Frequency Band at one time.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wR7wrH/rosewill-wireless-network-card-n900pce"
+}

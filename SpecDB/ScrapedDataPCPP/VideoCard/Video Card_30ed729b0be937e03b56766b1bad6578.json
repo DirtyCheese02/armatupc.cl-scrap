@@ -1,0 +1,22 @@
+{
+    "name": "Intel 23P04E00BA Arc Pro A60 12 GB Video Card",
+    "Manufacturer": "Intel",
+    "Part #": "23P04E00BA",
+    "Chipset": "Arc Pro A60",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "900 MHz",
+    "Boost Clock": "2050 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort 2.0 Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qFNYcf/intel-23p04e00ba-arc-pro-a60-12-gb-video-card-23p04e00ba"
+}

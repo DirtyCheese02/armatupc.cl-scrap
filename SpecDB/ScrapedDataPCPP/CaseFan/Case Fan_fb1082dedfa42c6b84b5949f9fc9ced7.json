@@ -1,0 +1,18 @@
+{
+    "name": "Silverstone Air Slimmer 45.73 CFM 92 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-AS90B-ARGB",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2500 RPM",
+    "Airflow": "5.38 - 45.73 CFM",
+    "Noise Level": "11.3 - 32 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.29 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2d6NnQ/silverstone-air-slimmer-4573-cfm-92-mm-fan-sst-as90b-argb"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "XFX RX-79GMERCB9 Radeon RX 7900 GRE 16 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-79GMERCB9",
+    "Chipset": "Radeon RX 7900 GRE",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1270 MHz",
+    "Boost Clock": "2395 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "335 mm",
+    "TDP": "260 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wXtLrH/xfx-rx-79gmercb9-radeon-rx-7900-gre-16-gb-video-card-rx-79gmercb9"
+}

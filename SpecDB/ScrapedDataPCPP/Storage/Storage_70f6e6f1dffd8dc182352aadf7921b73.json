@@ -1,0 +1,15 @@
+{
+    "name": "Intel DC S3700 400 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSC2BA400G301",
+    "Capacity": "400 GB",
+    "Price / GB": "$0.366",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21CA",
+    "SSD NAND Flash Type": "HET MLC",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Mhbp99/intel-internal-hard-drive-ssdsc2ba400g301"
+}

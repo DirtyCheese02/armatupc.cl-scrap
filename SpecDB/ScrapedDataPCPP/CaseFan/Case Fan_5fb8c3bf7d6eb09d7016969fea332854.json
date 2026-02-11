@@ -1,0 +1,17 @@
+{
+    "name": "Thermaltake CT 131.6 CFM 200 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F177-PL20BL-A",
+    "Size": "200 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 900 RPM",
+    "Airflow": "131.6 CFM",
+    "Noise Level": "27.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BZfV3C/thermaltake-ct-1316-cfm-200-mm-fan-cl-f177-pl20bl-a"
+}

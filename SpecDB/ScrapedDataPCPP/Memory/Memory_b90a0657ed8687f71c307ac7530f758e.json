@@ -1,0 +1,15 @@
+{
+    "name": "Panram Ninja-V 8 GB (2 x 4 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "Panram",
+    "Part #": "PUD42666C164G2NJK",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KNPzK8/panram-memory-pud42666c164g2njk"
+}

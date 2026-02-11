@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws X 8 GB (2 x 4 GB) DDR3-2133 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-2133C9D-8GXL",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8.439 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.6 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZJ6BD3/gskill-memory-f32133c9d8gxl"
+}

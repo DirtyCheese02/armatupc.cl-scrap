@@ -1,0 +1,23 @@
+{
+    "name": "MSI Cyclone PE Radeon HD 6850 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "R6850 Cyclone PE/OC",
+    "Chipset": "Radeon HD 6850",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "860 MHz",
+    "Effective Memory Clock": "1100 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "127 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cWqdnQ/msi-video-card-r6850cyclonepeoc"
+}

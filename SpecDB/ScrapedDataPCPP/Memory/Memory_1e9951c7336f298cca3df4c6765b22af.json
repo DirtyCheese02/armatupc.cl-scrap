@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum RGB 32 GB (4 x 8 GB) DDR4-3600 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT32GX4M4K3600C16",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "8.889 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t8fhP6/corsair-dominator-platinum-rgb-32-gb-4-x-8-gb-ddr4-3600-memory-cmt32gx4m4k3600c16"
+}

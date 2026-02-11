@@ -1,0 +1,13 @@
+{
+    "name": "Creative Labs Sound Blaster Audigy Fx V2 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "Sound Blaster Audigy Fx V2",
+    "Part #": "[70SB187000000, SB1870]",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "120 dB",
+    "Sample Rate": "192 kHz",
+    "Interface": "PCIe x1",
+    "Color": "Black",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wVM48d/creative-labs-sound-blaster-audigy-fx-v2-24-bit-192-khz-sound-card-70sb187000000"
+}

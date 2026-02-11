@@ -1,0 +1,22 @@
+{
+    "name": "Corsair GS800 800 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Part #": "[GS800, CP-9020014-NA, CP-9020014-UK]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "800 W",
+    "Length": "160 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@25A, +5V@25A, +12V@66A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JHckcf/corsair-gs800-800-w-80-bronze-certified-atx-power-supply-gs800"
+}

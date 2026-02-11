@@ -1,0 +1,11 @@
+{
+    "name": "Lamptron FC-FC5V2-B Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Part #": "FC-FC5V2-B",
+    "Channels": "4",
+    "Channel Wattage": "30 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "5.25\"",
+    "Features": "Display shows fan RPM, voltage and temperature. 7 different colors for the digital display, anodized black",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w7ckcf/lamptron-fan-controller-fcfc5v2b"
+}

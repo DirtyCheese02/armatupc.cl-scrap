@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC F12 PST 53 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F12 PST",
+    "Part #": "AFACO-120P0-GBA01",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1350 RPM",
+    "Airflow": "53 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Kpprxr/arctic-f12-pwm-pst-530-cfm-120mm-fan-afaco-120p0-gba01"
+}

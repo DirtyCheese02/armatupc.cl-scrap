@@ -1,0 +1,14 @@
+{
+    "name": "Kingston SSDNow E100 100 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Kingston",
+    "Part #": "SE100S37/100G",
+    "Capacity": "100 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2582",
+    "SSD NAND Flash Type": "eMLC",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GgR48d/kingston-internal-hard-drive-se100s37100g"
+}

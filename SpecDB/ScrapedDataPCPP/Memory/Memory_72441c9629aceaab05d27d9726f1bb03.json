@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Predator RGB 32 GB (4 x 8 GB) DDR4-2933 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX429C15PB3AK4/32",
+    "Speed": "DDR4-2933",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10.228 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Jxkj4D/kingston-hyperx-predator-rgb-32gb-4-x-8gb-ddr4-2933-memory-hx429c15pb3ak432"
+}

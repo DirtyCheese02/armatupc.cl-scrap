@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor AX7750 1GBK3-H Radeon HD 7750 1 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AX7750 1GBK3-H",
+    "Chipset": "Radeon HD 7750",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "800 MHz",
+    "Effective Memory Clock": "1600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "55 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7YkD4D/powercolor-video-card-ax77501gbk3h"
+}

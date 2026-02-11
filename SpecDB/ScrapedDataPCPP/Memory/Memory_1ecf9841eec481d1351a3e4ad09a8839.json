@@ -1,0 +1,16 @@
+{
+    "name": "Corsair XMS2 2 GB (1 x 2 GB) DDR2-800 CL5 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CM2X2048-6400C5",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "1 x 2GB",
+    "Color": "Black",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "Timing": "5-5-5-18",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LWsKHx/corsair-memory-cm2x20486400c5"
+}

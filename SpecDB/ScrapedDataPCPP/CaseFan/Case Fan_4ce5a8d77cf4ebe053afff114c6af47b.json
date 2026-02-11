@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake Pure S 38.89 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F006-PL12BL-A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "38.89 CFM",
+    "Noise Level": "17.78 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.34 mmH₂O",
+    "Features": "[Started Voltage: 9.0 V, Rated Voltage: 12 V, Rated Current: 0.09 A, Power Input: 1.08 W, Max. Air Pressure: 1.34 mm-H2O, Bearing Type: Sleeve]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cYyFf7/thermaltake-case-fan-clf006pl12bla"
+}

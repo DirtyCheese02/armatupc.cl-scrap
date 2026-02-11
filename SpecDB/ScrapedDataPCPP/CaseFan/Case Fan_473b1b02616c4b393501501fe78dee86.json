@@ -1,0 +1,18 @@
+{
+    "name": "KOLINK UMBRA X 61 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "KOLINK",
+    "Part #": "UMBRA X 120MM 3PK",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1600 RPM",
+    "Airflow": "61 CFM",
+    "Noise Level": "24 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "2.46 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rpsV3C/kolink-umbra-x-61-cfm-120-mm-fans-3-pack-umbra-x-120mm-3pk"
+}

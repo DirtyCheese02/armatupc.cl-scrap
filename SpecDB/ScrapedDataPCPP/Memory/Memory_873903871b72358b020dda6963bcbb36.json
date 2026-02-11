@@ -1,0 +1,17 @@
+{
+    "name": "Patriot Viper Elite II 16 GB (2 x 8 GB) DDR4-3600 CL20 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVE2416G360C0K",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$7.499",
+    "Color": "Red / Black",
+    "First Word Latency": "11.111 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.35 V",
+    "Timing": "20-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3kD7YJ/patriot-viper-elite-ii-16-gb-2-x-8-gb-ddr4-3600-cl20-memory-pve2416g360c0k"
+}

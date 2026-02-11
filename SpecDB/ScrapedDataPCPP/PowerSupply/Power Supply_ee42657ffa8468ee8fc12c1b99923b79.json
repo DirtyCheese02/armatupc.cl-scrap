@@ -1,0 +1,22 @@
+{
+    "name": "Corsair CX430 430 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Part #": "[CX430, CP-9020046-EU]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "430 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@20A, +5V@20A, +12V@32A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dnxfrH/corsair-cx430-430-w-80-bronze-certified-atx-power-supply-cx430"
+}

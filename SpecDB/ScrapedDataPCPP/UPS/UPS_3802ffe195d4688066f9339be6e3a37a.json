@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SM1000RM1UTAA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SM1000RM1UTAA",
+    "Capacity (W)": "800 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "1U",
+    "Alarm": "[Low Battery, Overload, Power Failure]",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "120 V AC",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Surge, Black Out, Brownout, Over Voltage, Under Voltage, EMI / RFI]",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DTH48d/tripp-lite-ups-sm1000rm1utaa"
+}

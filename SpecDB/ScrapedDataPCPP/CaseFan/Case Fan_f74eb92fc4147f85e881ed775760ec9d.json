@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks F120MP 53.3 CFM 120 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F120MP",
+    "Part #": "PH-F120MP_BBK_PWM",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "53.3 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CCzZxr/phanteks-case-fan-phf120mpbbkpwm"
+}

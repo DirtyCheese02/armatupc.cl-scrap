@@ -1,0 +1,19 @@
+{
+    "name": "Corsair LL120 63 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Corsair",
+    "Model": "LL120",
+    "Part #": "CO-9050092-WW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "63 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "Manual",
+    "Static Pressure": "3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ydRzK8/corsair-ll120-rgb-white-63-cfm-120-mm-fans-3-pack-co-9050092-ww"
+}

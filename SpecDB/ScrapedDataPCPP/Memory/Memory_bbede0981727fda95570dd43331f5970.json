@@ -1,0 +1,15 @@
+{
+    "name": "Crucial CT3KIT102472BA160B 24 GB (3 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CT3KIT102472BA160B",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 8GB",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CQjG3C/crucial-memory-ct3kit102472ba160b"
+}

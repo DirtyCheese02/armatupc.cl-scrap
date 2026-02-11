@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle ORC OC Arc A580 8 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "[SA580C-8GOC, 1A1-S00401400G]",
+    "Chipset": "Arc A580",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1700 MHz",
+    "Boost Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue / Black",
+    "Frame Sync": "None",
+    "Length": "222 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.0 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6trqqs/sparkle-orc-oc-arc-a580-8-gb-video-card-sa580c-8goc"
+}

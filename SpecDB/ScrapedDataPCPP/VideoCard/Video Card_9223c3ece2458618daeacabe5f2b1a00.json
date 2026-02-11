@@ -1,0 +1,21 @@
+{
+    "name": "PowerColor ITX Radeon RX 6400 4 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 6400 4GBD6-DH",
+    "Chipset": "Radeon RX 6400",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1923 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "165 mm",
+    "TDP": "53 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tqM48d/powercolor-radeon-rx-6400-4-gb-itx-video-card-axrx-6400-4gbd6-dh"
+}

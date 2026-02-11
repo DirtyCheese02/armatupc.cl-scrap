@@ -1,0 +1,21 @@
+{
+    "name": "Sapphire 100252HDMI Radeon HD 4550 512 MB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100252HDMI",
+    "Chipset": "Radeon HD 4550",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "TDP": "25 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/29zv6h/sapphire-video-card-100252hdmi"
+}

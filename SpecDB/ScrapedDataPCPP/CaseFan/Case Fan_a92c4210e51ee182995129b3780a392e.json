@@ -1,0 +1,20 @@
+{
+    "name": "BitFenix Spectre 47.4 CFM 200 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-BLF-20020R-RP",
+    "Size": "200 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 RPM",
+    "Airflow": "47.4 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.41 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Silent Operation, Enhanced Airflow, On-the-Fly Light Switching, Aggressive Looks Both On and Off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w9kD4D/bitfenix-case-fan-bffblf20020rrp"
+}

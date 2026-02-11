@@ -1,0 +1,18 @@
+{
+    "name": "ARCTIC P12 PWM PST 56.3 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P12 PWM PST",
+    "Part #": "ACFAN00120A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 1800 RPM",
+    "Airflow": "56.3 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/68WfrH/arctic-p12-pwm-pst-563-cfm-120-mm-fan-acfan00120a"
+}

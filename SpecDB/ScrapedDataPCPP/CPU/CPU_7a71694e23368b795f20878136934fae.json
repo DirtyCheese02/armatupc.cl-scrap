@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-6350 3.9 GHz 6-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD6350FRW6KHK",
+    "Series": "AMD FX",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Vishera",
+    "Socket": "AM3+",
+    "Core Count": "6",
+    "Thread Count": "6",
+    "Performance Core Clock": "3.9 GHz",
+    "L2 Cache": "6 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DzmLrH/amd-cpu-fd6350frw6khk"
+}

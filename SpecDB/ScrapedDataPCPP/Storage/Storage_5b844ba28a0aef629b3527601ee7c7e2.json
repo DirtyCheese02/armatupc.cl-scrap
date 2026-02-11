@@ -1,0 +1,14 @@
+{
+    "name": "Crucial M500 120 GB mSATA Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT120M500SSD3",
+    "Capacity": "120 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/htMFf7/crucial-internal-hard-drive-ct120m500ssd3"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Thermaltake TR2 430 W ATX Power Supply",
+    "Manufacturer": "Thermaltake",
+    "Part #": "W0070RUC",
+    "Type": "ATX",
+    "Wattage": "430 W",
+    "Length": "160 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@20A, +5V@24A, +12V1@14A, +12V2@15A, -12V@0.3A, +5VSB@2A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gcK7YJ/thermaltake-power-supply-w0070ruc"
+}

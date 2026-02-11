@@ -1,0 +1,17 @@
+{
+    "name": "Antec LED80XFAN 34 CFM 80 mm Fan",
+    "Manufacturer": "Antec",
+    "Part #": "LED80XFAN",
+    "Size": "80 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2600 RPM",
+    "Airflow": "34 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TLrcCJ/antec-case-fan-led80xfan"
+}

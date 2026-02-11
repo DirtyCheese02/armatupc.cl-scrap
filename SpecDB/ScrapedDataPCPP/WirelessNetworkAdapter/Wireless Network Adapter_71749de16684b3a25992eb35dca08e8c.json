@@ -1,0 +1,10 @@
+{
+    "name": "Intel 633AN.HMWWB 802.11a/b/g/n Half Mini-PCIe Wi-Fi Adapter",
+    "Manufacturer": "Intel",
+    "Part #": "[633AN.HMWWB, 6235AN-HMWWB, 633AN-HMWWB]",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "Half Mini-PCIe",
+    "Security": "64/128-Bit WEP, WPA, WPA2",
+    "Features": "The Intel Centrino Ultimate-N 6300 is an IEEE 802.11 a/b/g/n wireless network adapter that opertaes in both the 2.4 GHz and 5.0 GHz spectra.",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kkphP6/intel-wireless-network-card-633anhmwwb"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Crucial Ballistix Sport XT 8 GB (2 x 4 GB) DDR3-1866 CL10 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLS2K4G3D18ADS3",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "First Word Latency": "10.718 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r3rG3C/crucial-memory-bls2k4g3d18ads3"
+}

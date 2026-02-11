@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS 2X PLUS GeForce RTX 5060 Ti 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "RTX 5060 Ti 8G VENTUS 2X PLUS",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2587 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "227 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QBrp99/msi-ventus-2x-plus-geforce-rtx-5060-ti-8-gb-video-card-rtx-5060-ti-8g-ventus-2x-plus"
+}

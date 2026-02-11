@@ -1,0 +1,15 @@
+{
+    "name": "Kingston Savage 64 GB (4 x 16 GB) DDR4-2400 CL14 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX424C14SBK4/64",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r3Z2FT/kingston-memory-hx424c14sbk464"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "GeIL EVO POTENZA 8 GB (2 x 4 GB) DDR3-2933 CL12 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GPW38GB2933C12ADC",
+    "Speed": "DDR3-2933",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / White",
+    "First Word Latency": "8.183 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2WV48d/geil-memory-gpw38gb2933c12adc"
+}

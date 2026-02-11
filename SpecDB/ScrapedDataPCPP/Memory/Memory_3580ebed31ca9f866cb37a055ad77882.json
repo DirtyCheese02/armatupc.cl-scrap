@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMW32GX4M2C3000C15W",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/phJtt6/corsair-vengeance-rgb-pro-32gb-2-x-16gb-ddr4-3000-memory-cmw32gx4m2c3000c15w"
+}

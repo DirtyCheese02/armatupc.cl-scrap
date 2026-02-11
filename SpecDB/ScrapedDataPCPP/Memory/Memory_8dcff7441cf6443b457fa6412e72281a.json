@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Dark Pro 16 GB (2 x 8 GB) DDR4-3866 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TDPPD416G3866HC18GDC01",
+    "Speed": "DDR4-3866",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.312 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qwzFf7/team-t-force-dark-pro-16-gb-2-x-8-gb-ddr4-3866-memory-tdppd416g3866hc18gdc01"
+}

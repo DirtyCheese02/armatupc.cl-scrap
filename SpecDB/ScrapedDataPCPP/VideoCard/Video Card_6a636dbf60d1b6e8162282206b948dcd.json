@@ -1,0 +1,23 @@
+{
+    "name": "HIS H799F6G4M Radeon HD 7990 6 GB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "H799F6G4M",
+    "Chipset": "Radeon HD 7990",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "950 MHz",
+    "Effective Memory Clock": "6000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "320 mm",
+    "TDP": "375 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "MiniDisplayPort Outputs": "4",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NF7wrH/his-video-card-h799f6g4m"
+}

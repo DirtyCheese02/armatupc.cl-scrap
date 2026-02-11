@@ -1,0 +1,18 @@
+{
+    "name": "Alpenföhn JetStream Slim 52.619 CFM 120 mm Fan",
+    "Manufacturer": "Alpenföhn",
+    "Part #": "84000000219",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1800 RPM",
+    "Airflow": "52.619 CFM",
+    "Noise Level": "24.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mh7scf/alpenfohn-jetstream-slim-52619-cfm-120-mm-fan-84000000219"
+}

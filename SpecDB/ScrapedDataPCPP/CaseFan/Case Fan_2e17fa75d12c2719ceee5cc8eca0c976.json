@@ -1,0 +1,20 @@
+{
+    "name": "Xigmatek eXTREME SILENT 65 CFM 140 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XSF-F1452",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "65 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.3 mmH₂O",
+    "Bearing Type": "Sleeve",
+    "Features": "[Higher airflow, static pressure and torque, Reduction for noise and power consumption, Additional output functions available, Optimized blade design for better performance, Lowest noise level, Air Pressure: 0.3 mmH2O [MAX.], Life Expectance: 30,000 hrs]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HdZQzy/xigmatek-xsf-f1452-65-cfm-140-mm-fan-xsf-f1452"
+}

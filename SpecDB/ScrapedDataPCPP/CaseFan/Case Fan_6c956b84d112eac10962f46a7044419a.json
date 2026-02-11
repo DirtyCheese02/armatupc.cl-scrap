@@ -1,0 +1,18 @@
+{
+    "name": "Iceberg Thermal IceGALE Lightning ARGB 76.74 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Iceberg Thermal",
+    "Part #": "IG12LT-B3A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 2200 RPM",
+    "Airflow": "76.74 CFM",
+    "Noise Level": "28.9 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.8 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RdWJ7P/iceberg-thermal-icegale-lightning-argb-7674-cfm-120-mm-fans-3-pack-ig12lt-b3a"
+}

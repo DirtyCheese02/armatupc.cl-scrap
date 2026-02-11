@@ -1,0 +1,14 @@
+{
+    "name": "Creative Labs Sound Blaster AE-9 32-bit 384 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "Sound Blaster AE-9",
+    "Part #": "[70SB178000000, SB1780, AE-9]",
+    "Channels": "7.1",
+    "Digital Audio": "32-bit",
+    "Signal-To-Noise Ratio": "129 dB",
+    "Sample Rate": "384 kHz",
+    "Chipset": "Sound Core3D",
+    "Interface": "PCIe x1",
+    "Color": "Gray",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/btK2FT/creative-labs-sound-blaster-ae-9-32-bit-384-khz-sound-card-70sb178000000"
+}

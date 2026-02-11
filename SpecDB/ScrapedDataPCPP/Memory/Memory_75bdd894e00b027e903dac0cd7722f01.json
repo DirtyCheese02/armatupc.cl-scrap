@@ -1,0 +1,15 @@
+{
+    "name": "Crucial CT25664AA1067 2 GB (1 x 2 GB) DDR2-1066 CL7 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CT25664AA1067",
+    "Speed": "DDR2-1066",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "1 x 2GB",
+    "Color": "Green",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/djMFf7/crucial-memory-ct25664aa1067"
+}

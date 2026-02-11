@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal DW100 RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "B5DW100646030ER2G-CW013",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-38-38-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xt7MnQ/biwin-black-opal-dw100-rgb-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-b5dw100646030er2g-cw013"
+}

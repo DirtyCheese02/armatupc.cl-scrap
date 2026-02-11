@@ -1,0 +1,18 @@
+{
+    "name": "Lian Li UNI FAN SL V2 64.5 CFM 120 mm Fan",
+    "Manufacturer": "Lian Li",
+    "Part #": "[SL120V2-1W, UF-SL120V2-1W, 12SLV2-1W]",
+    "Size": "120 mm",
+    "Color": "White / Silver",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 2000 RPM",
+    "Airflow": "64.5 CFM",
+    "Noise Level": "29.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.59 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qpqPxr/lian-li-uni-fan-sl-v2-645-cfm-120-mm-fan-sl120v2-1w"
+}

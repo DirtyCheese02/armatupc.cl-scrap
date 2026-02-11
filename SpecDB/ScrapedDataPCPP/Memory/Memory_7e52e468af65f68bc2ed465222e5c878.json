@@ -1,0 +1,16 @@
+{
+    "name": "PROXMEM UNDERWORLD TUF 32 GB (2 x 16 GB) DDR5-5600 CL28 Memory",
+    "Manufacturer": "PROXMEM",
+    "Part #": "PGD5U56A28XX7-UTWC",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Gray",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.35 V",
+    "Timing": "28-36-36-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NqmNnQ/proxmem-underworld-tuf-32-gb-2-x-16-gb-ddr5-5600-cl28-memory-pgd5u56a28xx7-utwc"
+}

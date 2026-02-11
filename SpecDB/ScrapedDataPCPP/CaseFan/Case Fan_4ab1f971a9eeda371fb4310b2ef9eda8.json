@@ -1,0 +1,19 @@
+{
+    "name": "Vantec Thermoflow 41.6 CFM 80 mm Fan",
+    "Manufacturer": "Vantec",
+    "Part #": "TF8025",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1950 - 3400 RPM",
+    "Airflow": "23.8 - 41.6 CFM",
+    "Noise Level": "25.5 - 37.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "Temperature Control Sensor Adjusts Fan Speed Automatically.",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sR7wrH/vantec-tf8025-416-cfm-80-mm-fan-tf8025"
+}

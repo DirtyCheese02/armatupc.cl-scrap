@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z 8 GB (2 x 4 GB) DDR4-3733 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3733C17D-8GTZ",
+    "Speed": "DDR4-3733",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "9.108 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kvWrxr/gskill-memory-f43733c17d8gtz"
+}

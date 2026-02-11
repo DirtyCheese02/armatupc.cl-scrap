@@ -1,0 +1,12 @@
+{
+    "name": "Orico ORICO WRD150 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Orico",
+    "Part #": "ORICO WRD150",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "WEP,WPA/WPA2 and WPA-PSK/WPA2-PSK(TKIP,AES)",
+    "Antenna": "Internal Antenna",
+    "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+    "Features": "Fingernail size,Built-in Ralink high sensitivity Wi-Fi radio controller chipset and unique high gain internal antenna,content with 802.11n Wi-Fi Standards provide transmission rate up to 150Mbps and compatible with 802.11b/g,Support Access Point Mode",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GC7wrH/orico-wireless-network-card-oricowrd150"
+}

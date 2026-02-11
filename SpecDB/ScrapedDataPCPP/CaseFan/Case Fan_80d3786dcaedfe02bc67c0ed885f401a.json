@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks SK140 84.5 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "SK140",
+    "Part #": "PH-F140SK_BBK_PWM",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "84.5 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.23 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2Kwkcf/phanteks-sk140-845-cfm-140-mm-fan-ph-f140sk_bbk_pwm"
+}

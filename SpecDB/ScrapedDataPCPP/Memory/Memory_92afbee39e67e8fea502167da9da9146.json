@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP064GBLFU266F21 64 GB (2 x 32 GB) DDR4-2666 CL19 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP064GBLFU266F21",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4KfnTW/silicon-power-sp064gblfu266f21-64-gb-2-x-32-gb-ddr4-2666-cl19-memory-sp064gblfu266f21"
+}

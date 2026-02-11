@@ -1,0 +1,20 @@
+{
+    "name": "BitFenix Spectre Pro 122.2 CFM 140 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-SPRO-P14025KK-RP",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "122.2 CFM",
+    "Noise Level": "29.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.8 mmH₂O",
+    "Bearing Type": "Fluid Dynamic Bearings (FDB)",
+    "Features": "[Materials: PC & PBT, Operating Voltage: 12VDC, Starting Voltage: 5VDC, Current (A): 0.40A+/-10%, Air Pressure (mmH2O): 2.8 mmH2O, PWM Technology, High Pressure/CFM Design, Dual Ring Construction, Reinforced Fan Blades, Silent Operation and Long Life, *Two Color Versions]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YKfp99/bitfenix-case-fan-bffsprop14025kkrp"
+}

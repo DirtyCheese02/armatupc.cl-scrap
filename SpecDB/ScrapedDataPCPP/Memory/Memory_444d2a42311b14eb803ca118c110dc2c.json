@@ -1,0 +1,16 @@
+{
+    "name": "Kingston Impact 16 GB (4 x 4 GB) DDR4-2400 SODIMM CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX424S15IBK4/16",
+    "Speed": "DDR4-2400",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-30",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yrDzK8/kingston-impact-16gb-4-x-4gb-ddr4-2400-memory-hx424s15ibk416"
+}

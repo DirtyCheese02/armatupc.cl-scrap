@@ -1,0 +1,19 @@
+{
+    "name": "Montech AX120 59 CFM 120 mm Fan",
+    "Manufacturer": "Montech",
+    "Model": "AX120",
+    "Part #": "[AX120 PWM Black, AX120-PWM-B, AX120 PWM BK]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1600 RPM",
+    "Airflow": "59 CFM",
+    "Noise Level": "27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.8 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bfCZxr/montech-ax120-59-cfm-120-mm-fan-ax120-pwm-black"
+}

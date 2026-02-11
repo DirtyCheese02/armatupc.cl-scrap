@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte GAMING OC GeForce RTX 2080 Ti 11 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N208TGAMING OC-11GC",
+    "Chipset": "GeForce RTX 2080 Ti",
+    "Memory": "11 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1350 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "286 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hwF48d/gigabyte-geforce-rtx-2080-ti-11gb-gaming-oc-video-card-gv-n208tgaming-oc-11gc"
+}

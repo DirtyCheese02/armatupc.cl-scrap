@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws S5 48 GB (2 x 24 GB) DDR5-6000 CL40 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J4048F24GX2-RS5K",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.35 V",
+    "Timing": "40-48-48-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QN6NnQ/gskill-ripjaws-s5-48-gb-2-x-24-gb-ddr5-6000-cl40-memory-f5-6000j4048f24gx2-rs5k"
+}

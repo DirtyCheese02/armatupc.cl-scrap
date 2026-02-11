@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY 32 GB (2 x 16 GB) DDR4-2133 CL14 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX421C14FBK2/32",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "13.127 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sGL7YJ/kingston-memory-hx421c14fbk232"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "TP-Link TG-3269 Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TG-3269",
+    "Interface": "PCI",
+    "Features": "[System Requirements: Win 98SE/Me/NT/2000/XP/Vista/7, Linux/Novell Netware, Flow Control: IEEE 802.3x Flow Control (Full-Duplex), Supports IEEE 802.1P, IEEE 802.1Q VLAN tag, Supports Jumbo Frame, Provides Bootrom slot, supporting remote boot, Supports ACPI, PCI power management, Contain two large independent receive and transmit FIFOs, One STP/UTP connector, Plug and Play]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vx8Zxr/tp-link-wired-network-card-tg3269"
+}

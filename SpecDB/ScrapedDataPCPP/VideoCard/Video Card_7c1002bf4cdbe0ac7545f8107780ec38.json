@@ -1,0 +1,21 @@
+{
+    "name": "XFX PVT94GYRF2 GeForce 9400 GT 512 MB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "PVT94GYRF2",
+    "Chipset": "GeForce 9400 GT",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "550 MHz",
+    "Effective Memory Clock": "800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pXQypg/xfx-video-card-pvt94gyrf2"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Corsair SP120 ELITE 45.4 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "SP120 ELITE",
+    "Part #": "CO-9050161-WW",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1300 RPM",
+    "Airflow": "6.37 - 45.4 CFM",
+    "Noise Level": "5 - 20.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.23 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JGstt6/corsair-sp120-elite-454-cfm-120-mm-fan-co-9050161-ww"
+}

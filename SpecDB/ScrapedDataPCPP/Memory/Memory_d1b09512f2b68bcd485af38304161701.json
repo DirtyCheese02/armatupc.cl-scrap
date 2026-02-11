@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Z1 8 GB (2 x 4 GB) DDR4-2800 CL17 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX4U2800W4G17-DRZ",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Red / Black",
+    "First Word Latency": "12.143 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VtxfrH/a-data-memory-ax4u2800w4g17drz"
+}

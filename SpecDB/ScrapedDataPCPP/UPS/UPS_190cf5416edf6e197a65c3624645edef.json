@@ -1,0 +1,21 @@
+{
+    "name": "APC SUA3000RM2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA3000RM2U",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "11.30 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA 5-15R, 2 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KD8H99/apc-ups-sua3000rm2u"
+}

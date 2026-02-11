@@ -1,0 +1,23 @@
+{
+    "name": "Galaxy 58NLH5DI5TXX GeForce GTX 580 1.5 GB Video Card",
+    "Manufacturer": "Galaxy",
+    "Part #": "58NLH5DI5TXX",
+    "Chipset": "GeForce GTX 580",
+    "Memory": "1.5 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "860 MHz",
+    "Effective Memory Clock": "4008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "[4-way SLI Capable, 3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "288 mm",
+    "TDP": "244 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "Mini-HDMI Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JkNp99/galaxy-video-card-58nlh5di5txx"
+}

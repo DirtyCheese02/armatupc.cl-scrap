@@ -1,0 +1,18 @@
+{
+    "name": "Zalman F1 36.5 CFM 80 mm Fan",
+    "Manufacturer": "Zalman",
+    "Part #": "ZM-F1",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1700 - 3000 RPM",
+    "Airflow": "20.6 - 36.5 CFM",
+    "Noise Level": "20 - 34.2 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Features": "This Case fan can be working on two modes: Normal & Noiseless and has different Specifications.",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VNcMnQ/zalman-case-fan-zmf1"
+}

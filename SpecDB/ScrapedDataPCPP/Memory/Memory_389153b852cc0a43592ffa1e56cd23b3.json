@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Orion RGB AMD Edition 64 GB (4 x 16 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAOSG464GB3200C16BQC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Gray",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PKmmP6/geil-orion-rgb-64-gb-4-x-16-gb-ddr4-3200-cl16-memory-gaosg464gb3200c16bqc"
+}

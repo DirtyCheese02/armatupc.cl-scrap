@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL EVO OC GeForce RTX 4070 SUPER 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[dual-rtx4070s-o12g-evo-white, 90YV0KC8-M0AA00, 90YV0KC8-M0NA00]",
+    "Chipset": "GeForce RTX 4070 SUPER",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1980 MHz",
+    "Boost Clock": "2550 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "227 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J9G2FT/asus-dual-evo-oc-geforce-rtx-4070-super-12-gb-video-card-dual-rtx4070s-o12g-evo-white"
+}

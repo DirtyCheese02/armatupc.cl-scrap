@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite SMART2200SLTAA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART2200SLTAA",
+    "Capacity (W)": "1600 W",
+    "Capacity (VA)": "2200 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[1 x NEMA 5-15/20R, 6 x NEMA L5-20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Vr7CmG/tripp-lite-ups-smart2200sltaa"
+}

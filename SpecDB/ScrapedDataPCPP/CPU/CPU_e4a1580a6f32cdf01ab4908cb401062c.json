@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron G440 1.6 GHz Single-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80623G440",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "1",
+    "Thread Count": "1",
+    "Performance Core Clock": "1.6 GHz",
+    "L2 Cache": "0.25 MB",
+    "L3 Cache": "1 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ctGkcf/intel-cpu-bx80623g440"
+}

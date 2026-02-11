@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KVR21S15D8/8 8 GB (1 x 8 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR21S15D8/8",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Mq38TW/kingston-memory-kvr21s15d88"
+}

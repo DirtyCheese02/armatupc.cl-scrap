@@ -1,0 +1,11 @@
+{
+    "name": "D-Link DWA-582 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "D-Link",
+    "Part #": "DWA-582",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "PCIe x1",
+    "Security": "WPA / WPA2 / WEP (64/128 bit) / WPS (PBC/PIN)",
+    "Antenna": "Two 4.5 dbi external dipole antennas",
+    "Features": "[Dual Band Wireless AC technology for less interference and more bandwidth, Access a secure wireless network using advanced WPA or WPA2 encryption, Easy to install and use with the D-Link Setup Wizard and Wi-Fi Protected Setup (WPS), 2 x 4.5dBi External Antennas, Backwards compatible with 802.11a/b/g/n devices, Increased bandwidth, reliability, and functionality over legacy PCI cards, PCI Express x1, x4, x8, or x16 support, Low Profile Bracket included]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3D38TW/d-link-wireless-network-card-dwa582"
+}

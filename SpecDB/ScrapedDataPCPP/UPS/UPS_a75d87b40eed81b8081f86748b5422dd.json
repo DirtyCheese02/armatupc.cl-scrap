@@ -1,0 +1,14 @@
+{
+    "name": "APC SURT2000RMXLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURT2000RMXLI",
+    "Capacity (W)": "1400 W",
+    "Capacity (VA)": "2000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4f8H99/apc-ups-surt2000rmxli"
+}

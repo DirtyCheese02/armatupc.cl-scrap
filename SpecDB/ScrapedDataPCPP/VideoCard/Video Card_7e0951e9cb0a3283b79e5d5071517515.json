@@ -1,0 +1,21 @@
+{
+    "name": "MSI VENTUS 3X OC GeForce RTX 5090 32 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 5090 32G VENTUS 3X OC, RTX 5090 32G VENTUS 3X OC, G5090-32V3C, V530-060R, 912-V530-061]",
+    "Chipset": "GeForce RTX 5090",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2010 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "325 mm",
+    "TDP": "575 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jcYfrH/msi-ventus-3x-oc-geforce-rtx-5090-32-gb-video-card-geforce-rtx-5090-32g-ventus-3x-oc"
+}

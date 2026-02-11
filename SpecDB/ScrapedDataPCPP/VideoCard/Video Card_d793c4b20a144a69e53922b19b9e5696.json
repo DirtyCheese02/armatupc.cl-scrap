@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Red Devil Radeon RX 5600 XT 6 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 5600XT 6GBD6-3DHE/OC",
+    "Chipset": "Radeon RX 5600 XT",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1247 MHz",
+    "Boost Clock": "1750 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "240 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JWJmP6/powercolor-radeon-rx-5600-xt-6-gb-red-devil-video-card-axrx-5600xt-6gbd6-3dheoc"
+}

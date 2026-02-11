@@ -1,0 +1,19 @@
+{
+    "name": "In Win Neptune DN140 88.89 CFM 140 mm Fan",
+    "Manufacturer": "In Win",
+    "Model": "Neptune DN140",
+    "Part #": "IW-FN-DN140-1PK",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1800 RPM",
+    "Airflow": "41.67 - 88.89 CFM",
+    "Noise Level": "24.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.18 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kjkH99/in-win-neptune-dn140-8889-cfm-140-mm-fan-iw-fn-dn140-1pk"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 64 GB (4 x 16 GB) DDR4-2133 CL13 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK64GX4M4A2133C13R",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Red / Black",
+    "First Word Latency": "12.189 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.2 V",
+    "Timing": "13-15-15-28",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VZc48d/corsair-vengeance-lpx-64gb-4-x-16gb-ddr4-2133-memory-cmk64gx4m4a2133c13r"
+}

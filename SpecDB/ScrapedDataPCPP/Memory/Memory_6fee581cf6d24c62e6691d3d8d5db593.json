@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO POTENZA 8 GB (2 x 4 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GPB48GB2133C15DC",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4gPKHx/geil-evo-potenza-8gb-2-x-4gb-ddr4-2133-memory-gpb48gb2133c15dc"
+}

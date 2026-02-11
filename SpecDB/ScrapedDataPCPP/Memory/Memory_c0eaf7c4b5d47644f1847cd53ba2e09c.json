@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator GT 12 GB (3 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMP12GX3M3A1600C9",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 4GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GLR48d/corsair-memory-cmp12gx3m3a1600c9"
+}

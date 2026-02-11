@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D Twin X2 GeForce RTX 4070 SUPER 12 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N407S2-126X-186162N",
+    "Chipset": "GeForce RTX 4070 SUPER",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1980 MHz",
+    "Boost Clock": "2475 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "250 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r4hv6h/inno3d-twin-x2-geforce-rtx-4070-super-12-gb-video-card-n407s2-126x-186162n"
+}

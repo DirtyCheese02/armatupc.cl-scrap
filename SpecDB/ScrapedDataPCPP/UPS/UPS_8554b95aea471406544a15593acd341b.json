@@ -1,0 +1,14 @@
+{
+    "name": "APC SRT6KXLT UPS",
+    "Manufacturer": "APC",
+    "Part #": "SRT6KXLT",
+    "Capacity (W)": "6000 W",
+    "Capacity (VA)": "6000 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Form Factor": "Tower",
+    "Input Voltage": "208 V AC",
+    "Maximum Battery Recharge Time": "1.50 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[1 x Hard Wire 3-wire (2PH + G), 2 x NEMA L6-20R, 3 x NEMA L6-30R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ppbkcf/apc-ups-srt6kxlt"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Aegis 5 16 GB (1 x 16 GB) DDR5-5200 CL40 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5200J4040A16GX1-IS",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$34.338",
+    "Color": "Black / Red",
+    "First Word Latency": "15.385 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "Timing": "40-40-40-83",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8W7MnQ/gskill-aegis-5-16-gb-1-x-16-gb-ddr5-5200-cl40-memory-f5-5200j4040a16gx1-is"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Cougar Turbine 60.4 CFM 120 mm Fans 4-Pack",
+    "Manufacturer": "Cougar",
+    "Part #": "CFT12S4",
+    "Size": "120 mm",
+    "Color": "Orange",
+    "Quantity": "4-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "60.4 CFM",
+    "Noise Level": "17.7 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.73 mmH₂O",
+    "Bearing Type": "Hyper-spin",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WgGkcf/cougar-turbine-120-604-cfm-120-mm-fans-cft12s4"
+}

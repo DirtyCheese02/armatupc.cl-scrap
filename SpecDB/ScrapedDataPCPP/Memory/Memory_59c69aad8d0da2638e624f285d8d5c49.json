@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F3-8500CL7D-8GBSQ 8 GB (2 x 4 GB) DDR3-1066 SODIMM CL7 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-8500CL7D-8GBSQ",
+    "Speed": "DDR3-1066",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$22.125",
+    "Color": "Green",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LfTmP6/gskill-memory-f38500cl7d8gbsq"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Value PLUS 8 GB (2 x 4 GB) DDR3-1066 CL7 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GVP38GB1066C7DC",
+    "Speed": "DDR3-1066",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KTckcf/geil-memory-gvp38gb1066c7dc"
+}

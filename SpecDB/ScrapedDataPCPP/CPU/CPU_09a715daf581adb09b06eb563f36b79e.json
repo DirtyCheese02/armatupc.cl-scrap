@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X3 705e 2.5 GHz Triple-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HD705EOCGIBOX",
+    "Series": "AMD Phenom II X3",
+    "Microarchitecture": "K10",
+    "Core Family": "Heka",
+    "Socket": "AM3",
+    "Core Count": "3",
+    "Thread Count": "3",
+    "Performance Core Clock": "2.5 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HyNp99/amd-cpu-hd705eocgibox"
+}

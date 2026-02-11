@@ -1,0 +1,8 @@
+{
+    "name": "TRENDnet TE100-PCIWN 100 Mb/s Ethernet PCI Network Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TE100-PCIWN",
+    "Interface": "PCI",
+    "Features": "[Supports 32-bit PCI bus master specification Rev 2.1/2.2, Supports advanced power saving mode, Half or full-duplex flow control, Supports Magic Packet remote wake-up method – Wake-on-LAN, Supports ACPI, PCI power management, Diagnostic LEDs, Plug & play, Protocol: CSMA/CD]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qmXfrH/trendnet-wired-network-card-te100pciwn"
+}

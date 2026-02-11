@@ -1,0 +1,17 @@
+{
+    "name": "NZXT Aer F 103.43 CFM 140 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "RF-AF140-B1",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "34.48 - 103.43 CFM",
+    "Noise Level": "21 - 35 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.42 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sKYWGX/nzxt-aer-f140-1034-cfm-140mm-fan-rf-af140-b1"
+}

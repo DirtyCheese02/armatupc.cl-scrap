@@ -1,0 +1,18 @@
+{
+    "name": "ADATA XPG HURRICANE 61.5 CFM 120 mm Fan",
+    "Manufacturer": "ADATA",
+    "Part #": "75261025",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2000 RPM",
+    "Airflow": "61.5 CFM",
+    "Noise Level": "18.17 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.42 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/svfxFT/adata-xpg-hurricane-615-cfm-120-mm-fan-75261025"
+}

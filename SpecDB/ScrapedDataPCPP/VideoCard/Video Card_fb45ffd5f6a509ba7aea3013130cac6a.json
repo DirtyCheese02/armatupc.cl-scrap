@@ -1,0 +1,22 @@
+{
+    "name": "HIS H667FS1G Radeon HD 6670 1 GB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "H667FS1G",
+    "Chipset": "Radeon HD 6670",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "800 MHz",
+    "Effective Memory Clock": "1600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "TDP": "66 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2J3RsY/his-video-card-h667fs1g"
+}

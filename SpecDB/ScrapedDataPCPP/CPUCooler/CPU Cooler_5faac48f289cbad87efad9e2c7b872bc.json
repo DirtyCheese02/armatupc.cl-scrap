@@ -1,0 +1,14 @@
+{
+    "name": "EVGA ACX mITX 46.5 CFM Sleeve Bearing CPU Cooler",
+    "Manufacturer": "EVGA",
+    "Model": "ACX mITX",
+    "Part #": "100-FS-C901-KR",
+    "Fan RPM": "800 - 2800 RPM",
+    "Noise Level": "33.4 dB",
+    "Height": "140 mm",
+    "Bearing": "Sleeve",
+    "CPU Socket": "[LGA1150, LGA1151, LGA1155, LGA1156, LGA1200]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JpqdnQ/evga-cpu-cooler-100fsc901kr"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z RGB 32 GB (4 x 8 GB) DDR4-4000 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4000C17Q-32GTZR",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Price / GB": "$9.969",
+    "Color": "Black",
+    "First Word Latency": "8.5 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "Timing": "17-17-17-37",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8jZFf7/gskill-tridentz-rgb-32gb-4-x-8gb-ddr4-4000-memory-f4-4000c17q-32gtzr"
+}

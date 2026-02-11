@@ -1,0 +1,17 @@
+{
+    "name": "MagniumGear Skiron 85 CFM 140 mm Fan",
+    "Manufacturer": "MagniumGear",
+    "Part #": "MG-F140P_BBK",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "85 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7HQfrH/metallic-gear-skiron-140-85-cfm-140-mm-fan-mg-f140p_bbk"
+}

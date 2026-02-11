@@ -1,0 +1,18 @@
+{
+    "name": "Antec Two Cool 42.6 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Part #": "75241",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1200 RPM",
+    "Airflow": "21.3 - 42.6 CFM",
+    "Noise Level": "17 - 23.7 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Features": "[Two-speed control, Included 3-pin to Molex adapter]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cdZQzy/antec-case-fan-75241"
+}

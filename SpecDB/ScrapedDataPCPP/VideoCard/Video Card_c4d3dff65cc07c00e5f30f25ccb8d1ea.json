@@ -1,0 +1,19 @@
+{
+    "name": "ATI 100-505144 FireGL V7300 512 MB Video Card",
+    "Manufacturer": "ATI",
+    "Part #": "100-505144",
+    "Chipset": "FireGL V7300",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Interface": "PCIe x16",
+    "Color": "Red / White",
+    "Frame Sync": "None",
+    "TDP": "100 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Cs2kcf/ati-video-card-100505144"
+}

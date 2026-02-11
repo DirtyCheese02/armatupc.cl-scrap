@@ -1,0 +1,18 @@
+{
+    "name": "APNX FP1 74.6 CFM 120 mm Fan",
+    "Manufacturer": "APNX",
+    "Part #": "[FP1-120 PWM ARGB WH, APF3-PF11217.21, FP1-120 WH]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "74.6 CFM",
+    "Noise Level": "15.3 - 33.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.26 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LPhv6h/apnx-fp1-746-cfm-120-mm-fan-fp1-120-pwm-argb-wh"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Fighter Radeon RX 6750 XT 12 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 6750 XT 12GBD6-3DH",
+    "Chipset": "Radeon RX 6750 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2150 MHz",
+    "Boost Clock": "2600 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "230 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pk7scf/powercolor-fighter-radeon-rx-6750-xt-12-gb-video-card-axrx-6750-xt-12gbd6-3dh"
+}

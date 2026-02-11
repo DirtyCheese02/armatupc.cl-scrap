@@ -1,0 +1,19 @@
+{
+    "name": "Xion Alphawing 51.02 CFM 120 mm Fan",
+    "Manufacturer": "Xion",
+    "Part #": "AXP-GF120_BL",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "51.02 CFM",
+    "Noise Level": "19.6 - 25.2 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hybrid Sleeves Bearing ( H.S.B )",
+    "Features": "[Voltage Range: 12V, Blade Geometry: 7 Vortex Blades, Anti-acoustic low Noise level designed, Driving Powerful air flow up to 51.02 CFM, operating at 1200 RPM, Best Wire Management and 3 to 4 pins Adaptor included]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rZNp99/xion-axp-gf120_bl-5102-cfm-120-mm-fan-axp-gf120_bl"
+}

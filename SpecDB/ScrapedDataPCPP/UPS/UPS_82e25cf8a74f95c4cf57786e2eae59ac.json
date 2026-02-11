@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite SMART5000RT3U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART5000RT3U",
+    "Capacity (W)": "4000 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "6U",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "16 Minutes",
+    "Backup/Run Time (Half Load)": "38 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[2 x NEMA 5-20R, 1 x NEMA L14-30R, 10 x NEMA 5-15R, 1 x NEMA L6-30R]",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2gL7YJ/tripp-lite-ups-smart5000rt3u"
+}

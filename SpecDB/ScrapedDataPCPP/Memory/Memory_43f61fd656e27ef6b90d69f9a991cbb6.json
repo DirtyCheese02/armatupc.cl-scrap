@@ -1,0 +1,15 @@
+{
+    "name": "Crucial Ballistix 2 GB (2 x 1 GB) DDR2-800 CL4 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BL2KIT12864AA80A",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "2 x 1GB",
+    "Color": "Yellow",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "4",
+    "Voltage": "2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wwbp99/crucial-memory-bl2kit12864aa80a"
+}

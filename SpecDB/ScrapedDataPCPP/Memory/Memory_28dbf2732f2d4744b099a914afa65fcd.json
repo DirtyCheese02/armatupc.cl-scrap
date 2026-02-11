@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB Pro 64 GB (4 x 16 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMW64GX4M4K3600C18W",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QyTPxr/corsair-vengeance-rgb-pro-64gb-4-x-16gb-ddr4-3600-memory-cmw64gx4m4k3600c18w"
+}

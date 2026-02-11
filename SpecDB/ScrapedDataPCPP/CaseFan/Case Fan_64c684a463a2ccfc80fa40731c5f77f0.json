@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks M25G2-140 101.78 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "M25G2-140",
+    "Part #": "PH-F140M25_G2_BBK01",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 1800 RPM",
+    "Airflow": "101.78 CFM",
+    "Noise Level": "36.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.23 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nq3WGX/phanteks-m25g2-140-10178-cfm-140-mm-fan-ph-f140m25_g2_bbk01"
+}

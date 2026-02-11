@@ -1,0 +1,20 @@
+{
+    "name": "ARCTIC F14 PST CO 74 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F14 PST CO",
+    "Part #": "ACFAN00080A",
+    "Size": "140 mm",
+    "Color": "Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1350 RPM",
+    "Airflow": "74 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[Perfect Case Fan Regulation with PWM, The PWM function allows the motherboard to run the fan precisely at its necessary speed. This guarantees the required cooling and minimizes the noise level, Fan Controller Made in Germany, The ARCTIC F14 PWM PST CO fan is well known for high airflow at a comfortable noise level. The real improvement is the motor and controller. Our German engineers made this fan work at lower speed when performance is not needed. Often motherboards don't provide PWM signals below 40 % and thus make PCs unnecessary loud - not so with the F14 PWM PST CO, Patented PWM Sharing Technology (PST) Lowers Noise, If you want to improve the cooling efficiency of your computer you get several case fans working in parallel (since it takes 10 fans to double the noise level). But what does it help if they don't work together? The PST assures that all of your fans listen to one control signal. E.g. you share the CPU Cooler's PWM signal and assure that your case fans stand down at low load and spin up whenever necessary, Innovative Design Enables Quiet and Efficient Ventilation, The innovative design of the fan blades improves the air flow and facilitates a highly efficient ventilation. The impeller was designed with a focus on minimzing the noise level yet delivering the desired airflow and pressure]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xDCrxr/arctic-f14-pwm-pst-co-740-cfm-140mm-fan-acfan00080a"
+}

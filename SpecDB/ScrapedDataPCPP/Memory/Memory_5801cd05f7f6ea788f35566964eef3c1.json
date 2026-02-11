@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Neo 64 GB (2 x 32 GB) DDR4-4000 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4000C18D-64GTZN",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Black / White",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.4 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Kr4Ycf/gskill-trident-z-neo-64-gb-2-x-32-gb-ddr4-4000-cl18-memory-f4-4000c18d-64gtzn"
+}

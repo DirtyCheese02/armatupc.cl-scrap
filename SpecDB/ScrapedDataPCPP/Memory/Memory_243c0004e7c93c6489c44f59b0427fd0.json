@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP001GBRDE400O01 1 GB (1 x 1 GB) Registered DDR-400 CL2.5 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP001GBRDE400O01",
+    "Speed": "DDR-400",
+    "Form Factor": "184-pin DIMM (DDR)",
+    "Modules": "1 x 1GB",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "2.5",
+    "Voltage": "2.5 V",
+    "ECC / Registered": "Non-ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DrZ9TW/silicon-power-sp001gbrde400o01-1-gb-1-x-1-gb-registered-ddr-400-cl25-memory-sp001gbrde400o01"
+}

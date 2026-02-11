@@ -1,0 +1,21 @@
+{
+    "name": "APC SUM1500RMXL2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUM1500RMXL2U",
+    "Capacity (W)": "1425 W",
+    "Capacity (VA)": "1440 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Backup/Run Time (Full Load)": "11.90 Minutes",
+    "Backup/Run Time (Half Load)": "28.30 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HyfmP6/apc-ups-sum1500rmxl2u"
+}

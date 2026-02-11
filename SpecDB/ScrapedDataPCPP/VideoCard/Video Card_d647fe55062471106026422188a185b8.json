@@ -1,0 +1,19 @@
+{
+    "name": "PNY VCQ5000-PB Quadro 5000 2.5 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQ5000-PB",
+    "Chipset": "Quadro 5000",
+    "Memory": "2.5 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "TDP": "152 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WNMFf7/pny-video-card-vcq5000pb"
+}

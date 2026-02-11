@@ -1,0 +1,17 @@
+{
+    "name": "Corsair VS1GSDS533D2 1 GB (1 x 1 GB) DDR2-533 SODIMM CL4 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "VS1GSDS533D2",
+    "Speed": "DDR2-533",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 1GB",
+    "Price / GB": "$19.980",
+    "Color": "Green",
+    "First Word Latency": "15.009 ns",
+    "CAS Latency": "4",
+    "Voltage": "1.8 V",
+    "Timing": "4-4-4-12",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7dh9TW/corsair-memory-vs1gsds533d2"
+}

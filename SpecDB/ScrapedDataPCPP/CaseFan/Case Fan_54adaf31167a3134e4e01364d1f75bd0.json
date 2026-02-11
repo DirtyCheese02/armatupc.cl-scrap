@@ -1,0 +1,18 @@
+{
+    "name": "EK Vardar F1 64 CFM 140 mm Fan",
+    "Manufacturer": "EK",
+    "Part #": "3831109867563",
+    "Size": "140 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1150 RPM",
+    "Airflow": "64 CFM",
+    "Noise Level": "26 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.08 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xXyxFT/ek-case-fan-3831109867563"
+}

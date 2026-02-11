@@ -1,0 +1,17 @@
+{
+    "name": "Aerocool TURBINE 3000 37.44 CFM 120 mm Fan",
+    "Manufacturer": "Aerocool",
+    "Part #": "TURBINE 3000",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "950 RPM",
+    "Airflow": "37.44 CFM",
+    "Noise Level": "19.66 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/knprxr/aerocool-turbine-3000-374-cfm-120mm-fan-turbine-3000"
+}

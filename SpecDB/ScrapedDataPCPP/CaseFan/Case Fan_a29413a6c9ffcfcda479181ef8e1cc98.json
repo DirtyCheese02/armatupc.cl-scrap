@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake CT120 ARGB Sync 57.05 CFM 120 mm Fans 2-Pack",
+    "Manufacturer": "Thermaltake",
+    "Model": "CT120 ARGB Sync",
+    "Part #": "CL-F149-PL12SW-A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "57.05 CFM",
+    "Noise Level": "25.8 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.23 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MBP8TW/thermaltake-ct120-argb-sync-5705-cfm-120-mm-fans-2-pack-cl-f149-pl12sw-a"
+}

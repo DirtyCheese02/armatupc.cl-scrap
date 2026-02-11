@@ -1,0 +1,23 @@
+{
+    "name": "EVGA XC3 ULTRA HYBRID GAMING GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "12G-P5-4868-KL",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1755 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "263 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "240 mm Radiator + 1 Fan",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M6zhP6/evga-geforce-rtx-3080-12gb-lhr-12-gb-xc3-ultra-hybrid-gaming-video-card-12g-p5-4868-kl"
+}

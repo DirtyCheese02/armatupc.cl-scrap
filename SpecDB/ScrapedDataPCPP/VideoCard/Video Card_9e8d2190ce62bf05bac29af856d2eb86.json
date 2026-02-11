@@ -1,0 +1,21 @@
+{
+    "name": "EVGA 512-P3-N725-LR GeForce 8400 GS 512 MB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "512-P3-N725-LR",
+    "Chipset": "GeForce 8400 GS",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "567 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r6zv6h/evga-video-card-512p3n725lr"
+}

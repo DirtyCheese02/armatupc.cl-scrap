@@ -1,0 +1,21 @@
+{
+    "name": "EVGA 650 N1 650 W ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "650 N1",
+    "Part #": "[100-N1-0650-L1, 100-N1-0650-L2]",
+    "Type": "ATX",
+    "Wattage": "650 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QKNypg/evga-650-n1-650-w-atx-power-supply-100-n1-0650-l1"
+}

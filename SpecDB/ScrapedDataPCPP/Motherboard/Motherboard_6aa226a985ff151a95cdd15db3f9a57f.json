@@ -1,0 +1,23 @@
+{
+    "name": "Supermicro MBD-X11SBA-LN4F-O Mini ITX Pentium N3700 Motherboard",
+    "Manufacturer": "Supermicro",
+    "Part #": "[MBD-X11SBA-LN4F-O, X11SBA-LN4F-O]",
+    "Socket / CPU": "Integrated Pentium N3700",
+    "Form Factor": "Mini ITX",
+    "Chipset": "CPU Integrated",
+    "Memory Max": "8 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "2",
+    "Memory Speed": "DDR3-1600",
+    "Color": "Green",
+    "PCIe x8 Slots": "1",
+    "SATA 6.0 Gb/s Ports": "2",
+    "Onboard Ethernet": "4 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "2",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "Yes",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xY98TW/supermicro-mbd-x11sba-ln4f-o-mini-itx-pentium-n3700-motherboard-mbd-x11sba-ln4f-o"
+}

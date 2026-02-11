@@ -1,0 +1,19 @@
+{
+    "name": "APC SU1400RMXLIB3U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SU1400RMXLIB3U",
+    "Capacity (W)": "1050 W",
+    "Capacity (VA)": "1400 VA",
+    "Rack Height": "3U",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Backup/Run Time (Full Load)": "6.60 Minutes",
+    "Backup/Run Time (Half Load)": "23.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jFdFf7/apc-ups-su1400rmxlib3u"
+}

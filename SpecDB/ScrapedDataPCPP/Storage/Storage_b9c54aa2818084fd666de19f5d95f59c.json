@@ -1,0 +1,12 @@
+{
+    "name": "Micron 3400 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Micron",
+    "Part #": "MTFDKBA1T0TFH1BC1AABYY",
+    "Capacity": "1 TB",
+    "Price / GB": "$0.250",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6DGbt6/micron-3400-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-mtfdkba1t0tfh1bc1aabyy"
+}

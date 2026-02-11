@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 16 GB (2 x 8 GB) DDR4-4800 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4800C17D-16GTRG",
+    "Speed": "DDR4-4800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Gold",
+    "First Word Latency": "7.083 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.6 V",
+    "Timing": "17-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vtC48d/gskill-trident-z-royal-16-gb-2-x-8-gb-ddr4-4800-cl17-memory-f4-4800c17d-16gtrg"
+}

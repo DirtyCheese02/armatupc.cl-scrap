@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 012-P3-1572-AR GeForce GTX 570 1.25 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "012-P3-1572-AR",
+    "Chipset": "GeForce GTX 570",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "797 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "266 mm",
+    "TDP": "219 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7xMFf7/evga-video-card-012p31572ar"
+}

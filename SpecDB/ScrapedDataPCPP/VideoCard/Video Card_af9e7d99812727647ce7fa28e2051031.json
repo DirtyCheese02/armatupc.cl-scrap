@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS 3X GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 5070 12G VENTUS 3X, GEFORCE RTX 5070 12G VENTUS 3X]",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2160 MHz",
+    "Boost Clock": "2527 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Gray / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "302 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pQPv6h/msi-ventus-3x-geforce-rtx-5070-12-gb-video-card-rtx-5070-12g-ventus-3x"
+}

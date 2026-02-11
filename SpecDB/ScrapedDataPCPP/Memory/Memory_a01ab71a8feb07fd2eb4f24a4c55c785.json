@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Sniper X 32 GB (2 x 16 GB) DDR4-3600 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C19D-32GSXWB",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "10.556 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8gvdnQ/gskill-sniper-x-32-gb-2-x-16-gb-ddr4-3600-cl19-memory-f4-3600c19d-32gsxwb"
+}

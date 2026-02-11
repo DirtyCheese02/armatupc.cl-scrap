@@ -1,0 +1,19 @@
+{
+    "name": "APC SMT2200R2X106 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT2200R2X106",
+    "Capacity (W)": "1980 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "5.10 Minutes",
+    "Backup/Run Time (Half Load)": "15.20 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[2 x NEMA 5-20R, 6 x NEMA 5-15R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6bjWGX/apc-ups-smt2200r2x106"
+}

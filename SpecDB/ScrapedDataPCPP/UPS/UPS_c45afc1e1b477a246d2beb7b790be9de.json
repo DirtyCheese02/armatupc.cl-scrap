@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SM3000RM2UTAA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SM3000RM2UTAA",
+    "Capacity (W)": "2250 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[UPS StartUp, Power Failure, Low Battery, Overload, Fault, Remote Shutdown]",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "120 V AC",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Brownout, Over Voltage, Under Voltage, Surge, Black Out, EMI / RFI]",
+    "Receptacles": "[1 x NEMA L5-30R, 8 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Pure Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C9Wrxr/tripp-lite-ups-sm3000rm2utaa"
+}

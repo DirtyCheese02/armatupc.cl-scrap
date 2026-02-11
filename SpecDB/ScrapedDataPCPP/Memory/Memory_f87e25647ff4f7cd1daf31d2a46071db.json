@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 32 GB (2 x 16 GB) DDR5-6200 CL34 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESG532GB6200C34ADC",
+    "Speed": "DDR5-6200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10.968 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.25 V",
+    "Timing": "34-38-38-80",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/F4P8TW/geil-evo-v-rgb-32-gb-2-x-16-gb-ddr5-6200-cl34-memory-gesg532gb6200c34adc"
+}

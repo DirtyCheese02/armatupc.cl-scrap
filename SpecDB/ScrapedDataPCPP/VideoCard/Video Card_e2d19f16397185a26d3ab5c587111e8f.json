@@ -1,0 +1,22 @@
+{
+    "name": "AMD 100-300000077 Radeon PRO W7600 8 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-300000077",
+    "Chipset": "Radeon PRO W7600",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1720 MHz",
+    "Boost Clock": "2440 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort 2.1 Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3TpQzy/amd-100-300000077-radeon-pro-w7600-8-gb-video-card-100-300000077"
+}

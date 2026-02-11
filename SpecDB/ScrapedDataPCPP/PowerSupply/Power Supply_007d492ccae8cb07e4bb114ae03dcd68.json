@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 1000 P2 1000 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 1000 P2",
+    "Part #": "[220-P2-1000-XR, 220-P2-1000-X2, 220-P2-1000-X3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "1000 W",
+    "Length": "200 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+5V@20A, +3.3V@20A, +12V@83.3A, -12V@0.5A, +5Vsb@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dJ6BD3/evga-supernova-1000-p2-1000-w-80-platinum-certified-fully-modular-atx-power-supply-220-p2-1000-xr"
+}

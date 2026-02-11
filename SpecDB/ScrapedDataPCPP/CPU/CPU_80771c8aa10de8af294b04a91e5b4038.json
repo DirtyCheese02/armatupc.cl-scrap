@@ -1,0 +1,23 @@
+{
+    "name": "Intel Pentium E6600 3.06 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "AT80571PH0832ML",
+    "Series": "Intel Pentium",
+    "Microarchitecture": "Wolfdale",
+    "Core Family": "Wolfdale",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.06 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jTfp99/intel-cpu-at80571ph0832ml"
+}

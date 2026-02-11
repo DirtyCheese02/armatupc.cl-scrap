@@ -1,0 +1,17 @@
+{
+    "name": "APC SUA3000XLT UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA3000XLT",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[2 x NEMA L6-30R, 2 x NEMA L6-20R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Jr7CmG/apc-ups-sua3000xlt"
+}

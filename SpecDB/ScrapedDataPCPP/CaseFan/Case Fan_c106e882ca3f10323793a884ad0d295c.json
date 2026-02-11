@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Silent Wings 2 55.4 CFM 92 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL029",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "32.6 - 55.4 CFM",
+    "Noise Level": "17.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.98 mmH₂O",
+    "Bearing Type": "Fluid Dynamic Bearing",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tQphP6/be-quiet-case-fan-bl029"
+}

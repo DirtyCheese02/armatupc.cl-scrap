@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-5066 CL20 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-5066C20D-16GTZR",
+    "Speed": "DDR4-5066",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "7.896 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.6 V",
+    "Timing": "20-30-30-50",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wLjBD3/gskill-trident-z-rgb-16-gb-2-x-8-gb-ddr4-5066-cl20-memory-f4-5066c20d-16gtzr"
+}

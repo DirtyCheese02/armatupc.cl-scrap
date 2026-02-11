@@ -1,0 +1,19 @@
+{
+    "name": "HP B4J92AA GeForce GT 630 2 GB Video Card",
+    "Manufacturer": "HP",
+    "Part #": "B4J92AA",
+    "Chipset": "GeForce GT 630",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2MqdnQ/hp-video-card-b4j92aa"
+}

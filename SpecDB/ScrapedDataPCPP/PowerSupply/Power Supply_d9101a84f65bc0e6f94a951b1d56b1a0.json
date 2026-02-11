@@ -1,0 +1,20 @@
+{
+    "name": "Sunbeam IC-PSU-US-2545-DW 450 W ATX Power Supply",
+    "Manufacturer": "Sunbeam",
+    "Part #": "IC-PSU-US-2545-DW",
+    "Type": "ATX",
+    "Wattage": "450 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@28A, +5V@40A, +12V1@20A, -12V@0.8A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z3DwrH/sunbeam-power-supply-icpsuus2545dw"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dell U2711 27.0\" 2560 x 1440 60 Hz Monitor",
+    "Manufacturer": "Dell",
+    "Part #": "U2711",
+    "Screen Size": "27\"",
+    "Resolution": "2560 x 1440",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "6 ms",
+    "Panel Type": "IPS",
+    "Aspect Ratio": "16:9",
+    "Brightness": "350 cd/m²",
+    "Pixel Pitch": "0.233 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "No",
+    "VESA Mounting": "100 x 100",
+    "Viewing Angle": "178° H x 178° V",
+    "Display Colors": "1070000000",
+    "Contrast Ratio": "1000:1 (Static) / 80000 (Dynamic)",
+    "Inputs": "[1 x Component, 1 x DisplayPort, 2 x DVI, 1 x HDMI, 1 x S-Video, 1 x VGA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y2dqqs/dell-monitor-u2711"
+}

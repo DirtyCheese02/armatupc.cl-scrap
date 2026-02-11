@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS 2X V1 GeForce RTX 3060 Ti LHR 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 3060 Ti VENTUS 2X 8G V1 LHR, RTX 3060 Ti VENTUS 2X 8G V1 LHR, V397-247R]",
+    "Chipset": "GeForce RTX 3060 Ti LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1665 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "235 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DZH7YJ/msi-geforce-rtx-3060-ti-lhr-8-gb-ventus-2x-v1-video-card-geforce-rtx-3060-ti-ventus-2x-8g-v1-lhr"
+}

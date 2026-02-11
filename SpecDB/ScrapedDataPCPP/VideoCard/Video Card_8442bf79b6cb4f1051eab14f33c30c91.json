@@ -1,0 +1,22 @@
+{
+    "name": "VisionTek 900574 Radeon HD 7750 1 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900574",
+    "Chipset": "Radeon HD 7750",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "55 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "1",
+    "HDMI Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YfQypg/visiontek-video-card-900574"
+}

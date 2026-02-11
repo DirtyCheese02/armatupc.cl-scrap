@@ -1,0 +1,16 @@
+{
+    "name": "V-Color TE524G64S832SKK 48 GB (2 x 24 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "V-Color",
+    "Part #": "TE524G64S832SKK",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PYh2FT/v-color-te524g64s832skk-48-gb-2-x-24-gb-ddr5-6400-cl32-memory-te524g64s832skk"
+}

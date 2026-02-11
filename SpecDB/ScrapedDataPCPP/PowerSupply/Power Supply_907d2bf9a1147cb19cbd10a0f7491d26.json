@@ -1,0 +1,21 @@
+{
+    "name": "Sparkle R-SPI1000GCM 1000 W 80+ Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Sparkle",
+    "Part #": "R-SPI1000GCM",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "1000 W",
+    "Length": "165 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rCR48d/sparkle-power-supply-rspi1000gcm"
+}

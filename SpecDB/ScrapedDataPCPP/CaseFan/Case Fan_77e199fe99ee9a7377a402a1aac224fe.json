@@ -1,0 +1,20 @@
+{
+    "name": "MSI Torx 71.27 CFM 120 mm Fan",
+    "Manufacturer": "MSI",
+    "Part #": "TORX FAN 12CM",
+    "Size": "120 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "19.79 - 71.27 CFM",
+    "Noise Level": "17.2 - 33.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.09 mmH₂O",
+    "Bearing Type": "Hydro-Dynamic Bearing",
+    "Features": "[Unique Combination of two fan blades, MSI's patented TORX Fan design combines the power of two different fan blades: The Traditional fan blade creates a steady airflow while the Dispersion fan blade has a steeper curve, which accelerates the airflow and increases its effectiveness., Hydro-Dynamic Bearing, Spinning smoothly on self-lubricating HDB, the fan has an extreme long lifespan under constant operation., Integrated Anti-vibration Pad, Made from soft silicone rubber to reduce the vibration between fan and chassis, the Anti-Vibration Pads prevent additional noise, Static Air Pressure: 0.16 - 2.09 mm-H20, Life Expectancy MTTF: 150,000 Hours (25 degree C)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sks8TW/msi-torx-fan-12cm-713-cfm-120mm-fan-torx-fan-12cm"
+}

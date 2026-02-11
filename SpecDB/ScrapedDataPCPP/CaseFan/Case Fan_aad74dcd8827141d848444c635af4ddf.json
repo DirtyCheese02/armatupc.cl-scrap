@@ -1,0 +1,16 @@
+{
+    "name": "Mars Gaming MF-LINKFINITY 69 CFM 120 mm Fan",
+    "Manufacturer": "Mars Gaming",
+    "Part #": "MFLINKFINITY",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2000 RPM",
+    "Airflow": "69 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BVDnTW/mars-gaming-mf-linkfinity-69-cfm-120-mm-fan-mflinkfinity"
+}

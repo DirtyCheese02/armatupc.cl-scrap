@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-S12 X3 47.6 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-S12 X3",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "47.6 CFM",
+    "Noise Level": "23.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.31 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4zkH99/thermalright-tl-s12-x3-476-cfm-120-mm-fans-3-pack-tl-s12-x3"
+}

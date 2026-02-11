@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FHS 120X 143.98 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Model": "FHS 120X",
+    "Part #": "[SST-FHS120X, FHS 120X]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 4000 RPM",
+    "Airflow": "143.98 CFM",
+    "Noise Level": "51.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "11.66 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qy26Mp/silverstone-fhs-120x-14398-cfm-120-mm-fan-sst-fhs120x"
+}

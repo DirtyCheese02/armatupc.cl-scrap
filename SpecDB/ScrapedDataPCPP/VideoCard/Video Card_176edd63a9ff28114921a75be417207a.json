@@ -1,0 +1,22 @@
+{
+    "name": "Asus PRIME GeForce RTX 4070 Ti SUPER 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "PRIME-RTX4070TIS-16G",
+    "Chipset": "GeForce RTX 4070 Ti SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2340 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bpZXsY/asus-prime-geforce-rtx-4070-ti-super-16-gb-video-card-prime-rtx4070tis-16g"
+}

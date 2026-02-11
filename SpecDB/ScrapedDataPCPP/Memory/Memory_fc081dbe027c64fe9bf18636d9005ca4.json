@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP004GBSFU213N01 4 GB (1 x 4 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP004GBSFU213N01",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kCNxFT/silicon-power-sp004gbsfu213n01-4-gb-1-x-4-gb-ddr4-2133-sodimm-cl15-memory-sp004gbsfu213n01"
+}

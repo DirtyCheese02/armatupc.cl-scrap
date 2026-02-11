@@ -1,0 +1,19 @@
+{
+    "name": "ATI 100-505637 FirePro V3900 1 GB Video Card",
+    "Manufacturer": "ATI",
+    "Part #": "100-505637",
+    "Chipset": "FirePro V3900",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PRdqqs/ati-video-card-100505637"
+}

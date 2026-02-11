@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Zeta R5 Neo 192 GB (4 x 48 GB) Registered DDR5-6400 CL32 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6400R3239G48GQ4-ZR5NK",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 48GB",
+    "Price / GB": "$8.333",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nw26Mp/gskill-zeta-r5-neo-192-gb-4-x-48-gb-registered-ddr5-6400-cl32-memory-f5-6400r3239g48gq4-zr5nk"
+}

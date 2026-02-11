@@ -1,0 +1,18 @@
+{
+    "name": "Scythe Wonder Tornado 75.17 CFM 120 mm Fan",
+    "Manufacturer": "Scythe",
+    "Part #": "WT1225FD25AR-P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 2500 RPM",
+    "Airflow": "7.68 - 75.17 CFM",
+    "Noise Level": "3 - 35.57 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.39 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x8TFf7/scythe-wonder-tornado-7517-cfm-120-mm-fan-wt1225fd25ar-p"
+}

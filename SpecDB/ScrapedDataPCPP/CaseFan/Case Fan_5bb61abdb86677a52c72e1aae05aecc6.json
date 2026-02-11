@@ -1,0 +1,18 @@
+{
+    "name": "Deepcool CF 56.5 CFM 120 mm Fan",
+    "Manufacturer": "Deepcool",
+    "Part #": "[DP-FA-RGB-CF120-1, CF 120]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "56.5 CFM",
+    "Noise Level": "17.8 - 27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.63 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZnhKHx/deepcool-cf-120-565-cfm-120-mm-fan-dp-fa-rgb-cf120-1"
+}

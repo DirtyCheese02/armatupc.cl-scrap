@@ -1,0 +1,11 @@
+{
+    "name": "Intel 62205ANHMWDTX1 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Intel",
+    "Part #": "62205ANHMWDTX1",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "WPA, WPA2, 802.1X(EAP-TLS, TTLS, PEAP, LEAP, EAP-FAST), EAP-SIM, EAP-AKA, PAP, CHAP, TLS, GTC, MS-CHAP, MS-CHAPv2",
+    "Antenna": "Two element unified antenna with 4 foot (~1.2M) cable",
+    "Features": "[Architecture: Infrastructure and SoftAP, Encryption: 64-bit and 128-bit WEP, AES-CCMP, TKIP, Wi-Fi Direct Encryption & Authentication: WPA2, AES-CCMP, Intel Technology Support: Intel Wireless Display, Intel My WiFi Technology, Intel Smart Connect Technology, Intel PRO/Set Wireless software]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b4ckcf/intel-wireless-network-card-62205anhmwdtx1"
+}

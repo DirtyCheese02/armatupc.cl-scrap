@@ -1,0 +1,12 @@
+{
+    "name": "BitFenix Recon (White) Fan Controller",
+    "Manufacturer": "BitFenix",
+    "Model": "Recon (White)",
+    "Part #": "BFA-RCN-WS-RP",
+    "Channels": "5",
+    "Channel Wattage": "10 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[Fan Channels x 5, Temperature Channels x 5, Max Watts / Channel 10W, Measurement Frequency Every 0.1 - 0.4 Seconds, Temperature Alarm Range 30 Degrees -90 Degrees, Temperature Range\t0-100 Degrees, Internet Connected for Mobile Devices, Touchscreen Controls, Dual Processor Technology, System Status Monitoring, SFive Channel Thermal Control, System Status Monitoring, BitFenix SofTouch Bezel]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FTXfrH/bitfenix-fan-controller-bfarcnwsrp"
+}

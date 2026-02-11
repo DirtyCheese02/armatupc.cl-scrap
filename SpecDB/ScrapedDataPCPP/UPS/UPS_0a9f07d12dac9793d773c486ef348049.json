@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SU10000RT3U2TF UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU10000RT3U2TF",
+    "Capacity (W)": "8000 W",
+    "Capacity (VA)": "10000 VA",
+    "Rack Height": "10U",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Battery Chemistry": "External",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[24 x NEMA L6-30R, 2 x NEMA L6-20R, 4 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BsJkcf/tripp-lite-ups-su10000rt3u2tf"
+}

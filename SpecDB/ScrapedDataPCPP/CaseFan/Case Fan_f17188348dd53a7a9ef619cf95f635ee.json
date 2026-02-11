@@ -1,0 +1,18 @@
+{
+    "name": "BitFenix Spectre Pro 86.73 CFM 140 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-SRGB-14025C-RP",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "86.73 CFM",
+    "Noise Level": "22.8 dB",
+    "PWM": "No",
+    "LED": "RGB",
+    "Connector": "3-pin + 4-pin 12V RGB",
+    "Controller": "12V RGB",
+    "Static Pressure": "1.38 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bXHRsY/bitfenix-spectre-pro-rgb-140-8673-cfm-140-mm-fan-bff-srgb-14025c-rp"
+}

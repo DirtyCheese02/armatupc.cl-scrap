@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle ORC OC Arc A750 8 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "[SA750C-8GOC, SA750C-800C, 1A1-S00393500G]",
+    "Chipset": "Arc A750",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2050 MHz",
+    "Boost Clock": "2200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue / Black",
+    "Frame Sync": "None",
+    "Length": "222 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.0 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pshv6h/sparkle-orc-oc-arc-a750-8-gb-video-card-sa750c-8goc"
+}

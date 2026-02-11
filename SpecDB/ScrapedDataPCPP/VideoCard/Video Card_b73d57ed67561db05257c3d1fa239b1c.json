@@ -1,0 +1,23 @@
+{
+    "name": "XFX Triple Dissipation Radeon R9 Fury 4 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "R9-FURY-4TF9",
+    "Chipset": "Radeon R9 Fury",
+    "Memory": "4 GB",
+    "Memory Type": "HBM",
+    "Core Clock": "1000 MHz",
+    "Effective Memory Clock": "500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "FreeSync",
+    "Length": "315 mm",
+    "TDP": "275 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bt8H99/xfx-video-card-r9fury4tf9"
+}

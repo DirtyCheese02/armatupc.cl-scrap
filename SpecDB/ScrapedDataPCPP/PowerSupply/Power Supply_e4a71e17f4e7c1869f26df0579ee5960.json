@@ -1,0 +1,21 @@
+{
+    "name": "Rosewill RV2-600 600 W ATX Power Supply",
+    "Manufacturer": "Rosewill",
+    "Part #": "RV2-600",
+    "Type": "ATX",
+    "Wattage": "600 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@18A, +5V@18A, +12V1@25A, +12V2@25A, -12V@0.3A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8XrG3C/rosewill-power-supply-rv2600"
+}

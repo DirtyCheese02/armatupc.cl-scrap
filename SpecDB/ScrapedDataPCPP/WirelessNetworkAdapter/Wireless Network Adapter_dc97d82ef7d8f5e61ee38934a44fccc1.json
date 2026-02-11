@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N600UBE 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N600UBE",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128/152 bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK (TKIP/AES); WPS button; Cisco CCX5.0",
+    "Antenna": "2 x External 4dBi Dual Band Antenna (SMA Connector)",
+    "Features": "[Chipset: Ralink RT3572, Speeds of up to 300mbps + 300mbps, USB 2.0 Interface (Mini 5pin), Supports One-Click WPS (WiFi Protected Setup) connection, Supports MIMO Power Saving which reduce power under idle time]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NKvRsY/rosewill-wireless-network-card-rnxn600ube"
+}

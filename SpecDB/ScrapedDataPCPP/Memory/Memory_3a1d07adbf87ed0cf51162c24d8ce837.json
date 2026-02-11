@@ -1,0 +1,16 @@
+{
+    "name": "Apacer Panther RGB 32 GB (2 x 16 GB) DDR5-5200 CL38 Memory",
+    "Manufacturer": "Apacer",
+    "Part #": "AH5U32G52C5029BAA-2",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver / Black",
+    "First Word Latency": "14.615 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.25 V",
+    "Timing": "38-38-38-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VJNYcf/apacer-panther-rgb-32-gb-2-x-16-gb-ddr5-5200-cl38-memory-ah5u32g52c5029baa-2"
+}

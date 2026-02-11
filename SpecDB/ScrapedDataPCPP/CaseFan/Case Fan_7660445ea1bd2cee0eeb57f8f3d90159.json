@@ -1,0 +1,19 @@
+{
+    "name": "Logisys SF120 70.5 CFM 120 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "SF120",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "70.5 CFM",
+    "Noise Level": "17.6 - 27.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Dual Ball Bearing",
+    "Features": "[Close to Zero% mechanical noise level, 9 blades for ultimate cooling performance, Dual ball bearing for longest life span: 65000~70000hrs, De-Vivration buckles(4), 4pin PWM adapter and 4pin molex adapter included, Net Weight: 172g, Rated Voltage: 12VDC, Operating Voltage: 10.8~13.2VDC, Starting Voltage: 7VDC, Rated Current: 0.13 ±10%A (max), Power Input: 1.56W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FBkD4D/logisys-sf120-705-cfm-120-mm-fan-sf120"
+}

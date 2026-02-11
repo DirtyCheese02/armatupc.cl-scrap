@@ -1,0 +1,19 @@
+{
+    "name": "Deepcool FL12 55 CFM 120 mm Fan",
+    "Manufacturer": "Deepcool",
+    "Model": "FL12",
+    "Part #": "R-FL12-BKAPN1-G",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2150 RPM",
+    "Airflow": "55 CFM",
+    "Noise Level": "32 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.82 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rkXMnQ/deepcool-fl12-55-cfm-120-mm-fan-r-fl12-bkapn1-g"
+}

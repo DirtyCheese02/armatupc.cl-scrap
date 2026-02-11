@@ -1,0 +1,18 @@
+{
+    "name": "Azza Hurricane III Digital 49.1 CFM 120 mm Fan",
+    "Manufacturer": "Azza",
+    "Part #": "FNAZ-12DRGB3-011",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 1800 RPM",
+    "Airflow": "49.1 CFM",
+    "Noise Level": "26.29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.91 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PPRYcf/azza-hurricane-iii-digital-491-cfm-120-mm-fan-fnaz-12drgb3-011"
+}

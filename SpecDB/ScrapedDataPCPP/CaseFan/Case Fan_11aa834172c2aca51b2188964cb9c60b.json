@@ -1,0 +1,19 @@
+{
+    "name": "SilenX Effizio 44 CFM 120 mm Fan",
+    "Manufacturer": "SilenX",
+    "Part #": "EFX-12-12",
+    "Size": "120 mm",
+    "Color": "Yellow",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1100 RPM",
+    "Airflow": "44 CFM",
+    "Noise Level": "12 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "3rd generation fluid dynamic bearing",
+    "Features": "[Power:, Operating voltage: 8-12V, Current draw: 0.09A, Power consumption: 1.08W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Dbbp99/silenx-efx-12-12-44-cfm-120-mm-fan-efx-12-12"
+}

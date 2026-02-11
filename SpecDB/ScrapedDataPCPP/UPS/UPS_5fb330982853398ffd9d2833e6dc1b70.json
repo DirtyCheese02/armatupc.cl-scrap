@@ -1,0 +1,21 @@
+{
+    "name": "APC SUA1000 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA1000",
+    "Capacity (W)": "670 W",
+    "Capacity (VA)": "1000 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "6.10 Minutes",
+    "Backup/Run Time (Half Load)": "20.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rhqbt6/apc-ups-sua1000"
+}

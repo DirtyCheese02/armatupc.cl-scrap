@@ -1,0 +1,22 @@
+{
+    "name": "AMD 100-505956 Radeon Pro WX 8200 8 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-505956",
+    "Chipset": "Radeon Pro WX 8200",
+    "Memory": "8 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1200 MHz",
+    "Boost Clock": "1530 MHz",
+    "Effective Memory Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "MiniDisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BHw7YJ/amd-radeon-pro-wx-8200-8-gb-video-card-100-505956"
+}

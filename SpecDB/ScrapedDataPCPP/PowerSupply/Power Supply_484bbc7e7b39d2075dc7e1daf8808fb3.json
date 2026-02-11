@@ -1,0 +1,23 @@
+{
+    "name": "Corsair G600 600 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "G600",
+    "Part #": "CMPSU-600G",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "600 W",
+    "Length": "160 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@25A, +5V@25A, +12V@48A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3RmLrH/corsair-g600-600-w-80-certified-atx-power-supply-cmpsu-600g"
+}

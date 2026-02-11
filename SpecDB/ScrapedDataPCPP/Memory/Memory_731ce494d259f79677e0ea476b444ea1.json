@@ -1,0 +1,16 @@
+{
+    "name": "Corsair XMS2 4 GB (2 x 2 GB) DDR2-1066 CL7 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "TWIN2X4096-8500C7",
+    "Speed": "DDR2-1066",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Purple",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "2 V",
+    "Timing": "7-7-7-20",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nyzv6h/corsair-memory-twin2x40968500c7"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "D-Link DWA-548 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "D-Link",
+    "Part #": "DWA-548",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "Wi-Fi Protected Access (WPA & WPA2)<br/>64/128-bit WEP<br/>Wi-Fi Protected Setup - PIN & PBC",
+    "Antenna": "Detachable 2 dBi dipole antenna",
+    "Features": "[IEEE 802.11n and 802.11g Compliant, Wi-Fi Protected Setup (WPS) for easy connection to a wireless network, Works with Windows ZeroConfiguration Utility, PCI Express Interface Provides Higher Performance than a Legacy PCI Interface.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cx8Zxr/d-link-wireless-network-card-dwa548"
+}

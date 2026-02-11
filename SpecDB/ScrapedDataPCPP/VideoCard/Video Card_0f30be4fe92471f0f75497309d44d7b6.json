@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GAMING OC Rev 2.0 GeForce RTX 3070 LHR 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "[GV-N3070GAMING OC-8GD Rev 2.0, GV-N3070GAMING OC-8GD V2, GV-N3070GAMING OC-8GD 2.0]",
+    "Chipset": "GeForce RTX 3070 LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1815 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "286 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mLYmP6/gigabyte-geforce-rtx-3070-lhr-8-gb-gaming-oc-rev-20-video-card-gv-n3070gaming-oc-8gd-rev-20"
+}

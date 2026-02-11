@@ -1,0 +1,20 @@
+{
+    "name": "Matrox LUMA Arc A380 6 GB Video Card",
+    "Manufacturer": "Matrox",
+    "Part #": "LUMA-A380",
+    "Chipset": "Arc A380",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "254 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 2.1 Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/68grxr/matrox-luma-arc-a380-6-gb-video-card-luma-a380"
+}

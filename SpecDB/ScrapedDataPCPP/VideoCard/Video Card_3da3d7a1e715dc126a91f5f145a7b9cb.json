@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N710D3-2GL 1.0 GeForce GT 710 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N710D3-2GL 1.0",
+    "Chipset": "GeForce GT 710",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "954 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "144 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mRvZxr/gigabyte-video-card-gvn710d32gl10"
+}

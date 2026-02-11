@@ -1,0 +1,23 @@
+{
+    "name": "VisionTek 900556 Radeon HD 7970 3 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900556",
+    "Chipset": "Radeon HD 7970",
+    "Memory": "3 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "925 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "279 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "MiniDisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7dLypg/visiontek-video-card-900556"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Noctua F12 PWM chromax.black.swap 54.97 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "F12 PWM chromax.black.swap",
+    "Part #": "[NF-F12 PWM chromax.black.swap, NF-F12 PWM CH.BK.S, NF-F12 PWM CHROMAX, NF-F12-PWM-CH-BK-S]",
+    "Size": "120 mm",
+    "Color": "Multicolor",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1500 RPM",
+    "Airflow": "54.97 CFM",
+    "Noise Level": "22.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.61 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cFwqqs/noctua-nf-f12-pwm-chromaxblackswap-550-cfm-120mm-fan-nf-f12-pwm-chromaxblackswap"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI SUPRIM GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4090 SUPRIM 24G, GeForce RTX 4090 SUPRIM 24G]",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Boost Clock": "2610 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "336 mm",
+    "TDP": "480 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D8Kscf/msi-suprim-geforce-rtx-4090-24-gb-video-card-rtx-4090-suprim-24g"
+}

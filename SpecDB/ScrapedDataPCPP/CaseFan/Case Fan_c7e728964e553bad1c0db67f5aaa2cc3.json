@@ -1,0 +1,20 @@
+{
+    "name": "Noctua P14s redux-1500 PWM 78.69 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "P14s redux-1500 PWM",
+    "Part #": "[NF-P14s redux-1500 PWM, NF-P14s redux-1500 P]",
+    "Size": "140 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "450 - 1500 RPM",
+    "Airflow": "78.69 CFM",
+    "Noise Level": "25.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.91 mmH₂O",
+    "Bearing Type": "SSO",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8r9KHx/noctua-case-fan-nfp14sredux1500pwm"
+}

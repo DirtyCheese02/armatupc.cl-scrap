@@ -1,0 +1,22 @@
+{
+    "name": "Zotac ZT-40202-10P GeForce GTX 470 1.25 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-40202-10P",
+    "Chipset": "GeForce GTX 470",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "656 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4nvRsY/zotac-video-card-zt4020210p"
+}

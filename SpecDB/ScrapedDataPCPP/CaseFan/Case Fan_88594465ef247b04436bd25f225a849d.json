@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC P8 Max 40 CFM 80 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P8 Max",
+    "Part #": "ACFAN00286A",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 5000 RPM",
+    "Airflow": "40 CFM",
+    "Noise Level": "25.3 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "5.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HMXV3C/arctic-p8-max-40-cfm-80-mm-fan-acfan00286a"
+}

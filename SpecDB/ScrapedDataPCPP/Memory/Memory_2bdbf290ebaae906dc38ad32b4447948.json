@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Dragon RAM 8 GB (2 x 4 GB) DDR4-3333 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GWW48GB3333C16DC",
+    "Speed": "DDR4-3333",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "White / Gold",
+    "First Word Latency": "9.601 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q3tWGX/geil-memory-gww48gb3333c16dc"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "APC BE750G-CN UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE750G-CN",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "5 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T9Wrxr/apc-ups-be750gcn"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "PNY T-Series T1000 8GB 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNT10008GB-PB",
+    "Chipset": "T1000 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1065 MHz",
+    "Boost Clock": "1395 MHz",
+    "Effective Memory Clock": "10000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T6wypg/pny-t1000-8gb-8-gb-t-series-video-card-vcnt10008gb-pb"
+}

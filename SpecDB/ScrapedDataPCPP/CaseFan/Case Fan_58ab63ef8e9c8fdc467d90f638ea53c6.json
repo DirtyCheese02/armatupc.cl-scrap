@@ -1,0 +1,15 @@
+{
+    "name": "SilentiumPC Sigma Pro 120 mm Fan",
+    "Manufacturer": "SilentiumPC",
+    "Part #": "SPC134",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1600 RPM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WBDnTW/silentiumpc-sigma-pro-120-mm-fan-spc134"
+}

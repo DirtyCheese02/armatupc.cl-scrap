@@ -1,0 +1,16 @@
+{
+    "name": "Klevv CRAS XR5 RGB 32 GB (2 x 16 GB) DDR5-7200 CL36 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KD5AGUA80-72B360S",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.4 V",
+    "Timing": "36-46-46-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cCCZxr/klevv-cras-xr5-rgb-32-gb-2-x-16-gb-ddr5-7200-cl36-memory-kd5agua80-72b360s"
+}

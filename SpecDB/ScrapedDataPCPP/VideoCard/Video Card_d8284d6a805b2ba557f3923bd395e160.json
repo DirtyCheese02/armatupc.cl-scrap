@@ -1,0 +1,23 @@
+{
+    "name": "AMD 100-300000053 Radeon RX 7900 XTX 24 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-300000053",
+    "Chipset": "Radeon RX 7900 XTX",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "287 mm",
+    "TDP": "355 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "2",
+    "HDMI 2.1 Outputs": "1",
+    "USB Type-C Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z4Fbt6/amd-100-300000053-radeon-rx-7900-xtx-24-gb-video-card-100-300000053"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "VisionTek mSATA 480 GB mSATA Solid State Drive",
+    "Manufacturer": "VisionTek",
+    "Part #": "900613",
+    "Capacity": "480 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pszv6h/visiontek-internal-hard-drive-900613"
+}

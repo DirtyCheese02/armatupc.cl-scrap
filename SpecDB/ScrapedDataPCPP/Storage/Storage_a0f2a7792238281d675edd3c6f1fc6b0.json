@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Z-Drive R4 CM84 300 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "ZD4CM84-HH-300G",
+    "Capacity": "300 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2282",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RY4gXL/ocz-internal-hard-drive-zd4cm84hh300g"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 64 GB (2 x 32 GB) DDR5-5600 CL40 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF4D564G5600HC40BDC01",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "White / Silver",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.3 V",
+    "Timing": "40-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xPxxFT/teamgroup-t-force-delta-rgb-64-gb-2-x-32-gb-ddr5-5600-cl40-memory-ff4d564g5600hc40bdc01"
+}

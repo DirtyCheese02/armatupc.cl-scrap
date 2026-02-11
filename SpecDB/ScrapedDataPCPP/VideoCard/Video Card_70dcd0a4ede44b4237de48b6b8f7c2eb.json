@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQK420-2GB-PB Quadro K420 2 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQK420-2GB-PB",
+    "Chipset": "Quadro K420",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "876 MHz",
+    "Boost Clock": "891 MHz",
+    "Effective Memory Clock": "1782 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "160 mm",
+    "TDP": "41 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JskwrH/pny-quadro-k420-2gb-video-card-vcqk420-2gb-pb"
+}

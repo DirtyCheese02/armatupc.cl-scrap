@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E5-2622 V3 2.4 GHz 8-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "CM8064401576904",
+    "Series": "Intel Xeon E5",
+    "Microarchitecture": "Haswell",
+    "Core Family": "Haswell-EP",
+    "Socket": "LGA2011-3",
+    "Core Count": "8",
+    "Thread Count": "16",
+    "Performance Core Clock": "2.4 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "20 MB",
+    "TDP": "85 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FMnG3C/intel-cpu-cm8064401576904"
+}

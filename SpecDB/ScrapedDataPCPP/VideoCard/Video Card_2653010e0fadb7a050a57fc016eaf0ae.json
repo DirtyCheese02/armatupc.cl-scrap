@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-50608-10L GeForce GT 520 512 MB PCIe x1 Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-50608-10L",
+    "Chipset": "GeForce GT 520",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1333 MHz",
+    "Interface": "PCIe x1",
+    "Color": "Black / Orange",
+    "Frame Sync": "None",
+    "Length": "167 mm",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BqvRsY/zotac-video-card-zt5060810l"
+}

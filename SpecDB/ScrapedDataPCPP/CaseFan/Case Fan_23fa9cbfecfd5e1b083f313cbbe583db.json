@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks M25G2-120 D-RGB 72.72 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Phanteks",
+    "Model": "M25G2-120 D-RGB",
+    "Part #": "PH-F120M25_G2_DWT01 _3P",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 2000 RPM",
+    "Airflow": "72.72 CFM",
+    "Noise Level": "35.13 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.51 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Dx62FT/phanteks-m25g2-120-d-rgb-7272-cfm-120-mm-fans-3-pack-ph-f120m25_g2_dwt01-_3p"
+}

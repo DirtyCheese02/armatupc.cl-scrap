@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite OMNIVS1000 UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNIVS1000",
+    "Capacity (W)": "500 W",
+    "Capacity (VA)": "1000 VA",
+    "Alarm": "On Battery",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "Surge",
+    "Receptacles": "[2 x NEMA 5-15R, 6 x NEMA 5-15R]",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yvVBD3/tripp-lite-ups-omnivs1000"
+}

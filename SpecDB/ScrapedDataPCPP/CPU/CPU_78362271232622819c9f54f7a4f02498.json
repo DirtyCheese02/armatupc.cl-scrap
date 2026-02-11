@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-920 2.66 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "AT80601000741AA",
+    "Series": "Intel Core i7",
+    "Microarchitecture": "Nehalem",
+    "Core Family": "Bloomfield",
+    "Socket": "LGA1366",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "2.66 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "130 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pCQypg/intel-cpu-at80601000741aa"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Thermaltake Luna 60.55 CFM 140 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F022-PL14RE-A",
+    "Size": "140 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "60.55 CFM",
+    "Noise Level": "21.8 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tHV48d/thermaltake-case-fan-clf022pl14rea"
+}

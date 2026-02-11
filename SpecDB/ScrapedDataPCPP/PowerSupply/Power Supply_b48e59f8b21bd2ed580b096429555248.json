@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 650 GA 650 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 650 GA",
+    "Part #": "220-GA-0650-X1",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "650 W",
+    "Length": "150 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xsn8TW/evga-supernova-650-ga-650-w-80-gold-certified-fully-modular-atx-power-supply-220-ga-0650-x1"
+}

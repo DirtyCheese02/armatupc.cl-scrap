@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF GAMING GeForce RTX 3090 Ti 24 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[TUF-RTX3090TI-24G-GAMING, 90YV0HC3-M0AA00, 90YV0HC3-M0NA00]",
+    "Chipset": "GeForce RTX 3090 Ti",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1560 MHz",
+    "Boost Clock": "1890 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "326 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YMQcCJ/asus-tuf-gaming-geforce-rtx-3090-ti-24-gb-video-card-tuf-rtx3090ti-24g-gaming"
+}

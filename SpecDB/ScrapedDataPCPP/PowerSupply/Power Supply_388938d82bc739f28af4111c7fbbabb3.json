@@ -1,0 +1,21 @@
+{
+    "name": "Enermax EGX850EWL 850 W 80+ Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Enermax",
+    "Part #": "EGX850EWL",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "850 W",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "3",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@30A,+5V@30A,+12V1@24A,+12V2@24A,+12V3@24A,+12V4@24A,+12V5@24A,-12V@0.6A,+5VSB@6A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gLmLrH/enermax-power-supply-egx850ewl"
+}

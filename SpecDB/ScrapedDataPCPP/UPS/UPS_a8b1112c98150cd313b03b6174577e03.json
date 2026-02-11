@@ -1,0 +1,19 @@
+{
+    "name": "APC BX1000G UPS",
+    "Manufacturer": "APC",
+    "Part #": "BX1000G",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "1000 VA",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "16 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/td648d/apc-ups-bx1000g"
+}

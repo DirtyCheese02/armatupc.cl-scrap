@@ -1,0 +1,15 @@
+{
+    "name": "Crucial CT3K32G3ELSLQ4160B 96 GB (3 x 32 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CT3K32G3ELSLQ4160B",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 32GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kzKhP6/crucial-memory-ct3k32g3elslq4160b"
+}

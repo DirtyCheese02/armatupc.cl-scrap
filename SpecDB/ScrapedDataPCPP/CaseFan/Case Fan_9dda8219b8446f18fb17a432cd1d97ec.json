@@ -1,0 +1,15 @@
+{
+    "name": "SilentiumPC Stella HP ARGB 120 mm Fan",
+    "Manufacturer": "SilentiumPC",
+    "Part #": "SPC286",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fFfV3C/silentiumpc-stella-hp-argb-120-mm-fan-spc286"
+}

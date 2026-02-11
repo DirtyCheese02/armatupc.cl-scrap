@@ -1,0 +1,22 @@
+{
+    "name": "CyberPower BRG1350AVRLCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "BRG1350AVRLCD",
+    "Capacity (W)": "810 W",
+    "Capacity (VA)": "1350 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "13.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11, RG-6]",
+    "Form Factor": "Mini-tower",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Overload, Surge, Lightning]",
+    "Receptacles": "12 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YsJkcf/cyberpower-ups-brg1350avrlcd"
+}

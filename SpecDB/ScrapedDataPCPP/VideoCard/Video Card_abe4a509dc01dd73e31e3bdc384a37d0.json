@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire PULSE OC Radeon RX 9060 8 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "[11351-14-10G, 11351-24-18]",
+    "Chipset": "Radeon RX 9060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1700 MHz",
+    "Boost Clock": "3040 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "FreeSync",
+    "Length": "200 mm",
+    "TDP": "136 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "1",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gDMXsY/sapphire-pulse-oc-radeon-rx-9060-8-gb-video-card-11351-14-10g"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Prolimatech Vortex 72.67 CFM 120 mm Fan",
+    "Manufacturer": "Prolimatech",
+    "Part #": "PRO-RV12LED",
+    "Size": "120 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 1600 RPM",
+    "Airflow": "72.67 CFM",
+    "Noise Level": "29.1 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Rated Voltage: 12 VDC / 9 VDC, Operating Voltage Range: 6-13.8 VDC, Rated Current: 0.3 Max.Amp, Rated Power: 3.6 Max.Watt, Connector: 3-pin plus 4-pin molex]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vL3RsY/prolimatech-case-fan-prorv12led"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SMART750XL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART750XL",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "750 VA",
+    "Alarm": "[On Battery, Overload]",
+    "Backup/Run Time (Full Load)": "12 Minutes",
+    "Backup/Run Time (Half Load)": "29 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q3FXsY/tripp-lite-ups-smart750xl"
+}

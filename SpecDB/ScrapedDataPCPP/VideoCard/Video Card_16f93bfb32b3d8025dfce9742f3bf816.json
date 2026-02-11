@@ -1,0 +1,23 @@
+{
+    "name": "MSI R5450-MD1GH/D2 Radeon HD 5450 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "R5450-MD1GH/D2",
+    "Chipset": "Radeon HD 5450",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "650 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "167 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FcK7YJ/msi-video-card-r5450md1ghd2"
+}

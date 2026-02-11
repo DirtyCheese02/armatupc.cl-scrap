@@ -1,0 +1,20 @@
+{
+    "name": "Silverstone CS383 ATX Full Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-CS383",
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB]",
+    "Maximum Video Card Length": "[340 mm, 13.386\"]",
+    "Drive Bays": "[4 x External 5.25\", 8 x External 3.5\", 1 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[92 mm, 120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm, 360 mm, 420 mm]",
+    "Dimensions": "[588 mm x 248 mm x 528 mm, 23.15\" x 9.764\" x 20.787\"]",
+    "Volume": "[76.995 L, 2.719 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PbVfrH/silverstone-cs383-atx-full-tower-case-sst-cs383"
+}

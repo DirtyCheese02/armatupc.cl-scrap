@@ -1,0 +1,22 @@
+{
+    "name": "XFX P1-750S-CAB9 750 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "XFX",
+    "Part #": "P1-750S-CAB9",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "750 W",
+    "Length": "170 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "7",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@62A, -12V@0.5A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XxJwrH/xfx-p1-750s-cab9-750-w-80-bronze-certified-atx-power-supply-p1-750s-cab9"
+}

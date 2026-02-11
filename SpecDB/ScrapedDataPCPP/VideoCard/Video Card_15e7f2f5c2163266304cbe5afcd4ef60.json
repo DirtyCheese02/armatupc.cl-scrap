@@ -1,0 +1,22 @@
+{
+    "name": "PNY EPIC-X RGB GeForce RTX 5090 32 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG509032TFXXPB1",
+    "Chipset": "GeForce RTX 5090",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2010 MHz",
+    "Boost Clock": "2407 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "329 mm",
+    "TDP": "575 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VhgZxr/pny-epic-x-rgb-geforce-rtx-5090-32-gb-video-card-vcg509032tfxxpb1"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z 32 GB (2 x 16 GB) DDR4-3733 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3733C17D-32GTZSW",
+    "Speed": "DDR4-3733",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver / White",
+    "First Word Latency": "9.108 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "Timing": "17-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jgndnQ/gskill-trident-z-32gb-2-x-16gb-ddr4-3733-memory-f4-3733c17d-32gtzsw"
+}

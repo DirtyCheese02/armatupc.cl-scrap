@@ -1,0 +1,12 @@
+{
+    "name": "TRENDnet TEW-424UB 802.11b/g USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-424UB",
+    "Protocol": "Wi-Fi 3",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP (Hex/ASCII), WPA-PSK/WPA2-PSK; WPA / WPA2 (Windows 2000 / XP only)",
+    "Antenna": "2dBi Integrated Printed Antenna",
+    "Operating Range": "Range of 35~100 meters indoor, 100~300 meters outdoor (depends on the environment)",
+    "Features": "[Uses 2.4 GHz Frequency Band, which Complies with Worldwide Requirements, Supports Ad-Hoc (Peer-to-Peer) Mode or Infrastructure (AP-Client) Mode, Compliant with Universal Serial Bus Rev 2.0, 1.1, 1.0 Specifications, Dynamic Data Rate Scaling at 54, 48, 36, 24, 18, 12, 9 and 6Mbps for 802.11g, Dynamic Data Rate Scaling at 11, 5.5, 2 and 1Mbps for 802.11b, Maximum Reliability, Throughput and Connectivity with Automatic Data Rate Switching, Support WMM QoS (Wi-Fi Multimedia Quality of Service), Integrated Printed Antenna for the Multi-Path Environment, Low Interference and High Susceptibility Guarantee Reliable Performance, Low Power Consumption and Easy Configurations, Simple User Setup & Diagnostics Utilities.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YTGkcf/trendnet-wireless-network-card-tew424ub"
+}

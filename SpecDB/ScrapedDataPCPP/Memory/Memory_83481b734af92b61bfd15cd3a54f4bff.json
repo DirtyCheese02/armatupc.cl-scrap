@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X II AMD 4 GB (1 x 4 GB) DDR4-3200 CL22 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAEXSY44GB3200C22SC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "Timing": "22-22-22-52",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sMxxFT/geil-evo-x-ii-amd-4-gb-1-x-4-gb-ddr4-3200-cl22-memory-gaexsy44gb3200c22sc"
+}

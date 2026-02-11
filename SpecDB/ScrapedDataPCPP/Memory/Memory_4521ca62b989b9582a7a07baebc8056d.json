@@ -1,0 +1,14 @@
+{
+    "name": "Micron MT18KSF51272HZ-1G6K2 4 GB (1 x 4 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Micron",
+    "Part #": "MT18KSF51272HZ-1G6K2",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YdjWGX/micron-4gb-1-x-4gb-ddr3-1600-memory-mt18ksf51272hz-1g6k2"
+}

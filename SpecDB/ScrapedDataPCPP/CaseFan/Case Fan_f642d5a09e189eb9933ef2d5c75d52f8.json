@@ -1,0 +1,18 @@
+{
+    "name": "Asus TUF Gaming TR120 ARGB 77.4 CFM 120 mm Fan",
+    "Manufacturer": "Asus",
+    "Part #": "[TUF GAMING TR120 FAN ARGB BLACK, 90DA0090-B09000]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "77.4 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tvnXsY/asus-tuf-gaming-tr120-argb-774-cfm-120-mm-fan-tuf-gaming-tr120-fan-argb-black"
+}

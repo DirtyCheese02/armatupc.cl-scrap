@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Duo E8300 2.83 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "EU80570PJ0736M",
+    "Series": "Intel Core 2 Duo",
+    "Microarchitecture": "Wolfdale",
+    "Core Family": "Wolfdale",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.83 GHz",
+    "L2 Cache": "6 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p6fp99/intel-cpu-eu80570pj0736m"
+}

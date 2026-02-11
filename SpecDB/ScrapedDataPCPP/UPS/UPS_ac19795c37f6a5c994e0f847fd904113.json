@@ -1,0 +1,17 @@
+{
+    "name": "APC BR1200GI UPS",
+    "Manufacturer": "APC",
+    "Part #": "BR1200GI",
+    "Capacity (W)": "720 W",
+    "Capacity (VA)": "1200 VA",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "[RJ-11, RJ-45]",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/f4Crxr/apc-ups-br1200gi"
+}

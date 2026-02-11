@@ -1,0 +1,19 @@
+{
+    "name": "In Win Sirius Extreme ASE120P 54 CFM 120 mm Fan",
+    "Manufacturer": "In Win",
+    "Model": "Sirius Extreme ASE120P",
+    "Part #": "IW-FN-ASE120-1PK",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1500 RPM",
+    "Airflow": "54 CFM",
+    "Noise Level": "21 - 25 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.55 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nYD7YJ/in-win-sirius-extreme-ase120p-54-cfm-120-mm-fan-iw-fn-ase120-1pk"
+}

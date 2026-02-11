@@ -1,0 +1,20 @@
+{
+    "name": "Aerocool Silent Master 76 CFM 200 mm Fan",
+    "Manufacturer": "Aerocool",
+    "Part #": "[Silent Master 200B, EN55642]",
+    "Size": "200 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 RPM",
+    "Airflow": "76 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.36 mmH₂O",
+    "Bearing Type": "Sleeve",
+    "Features": "[200mm fan with large fan blades for more air flow and reduce noise, Aerodynamic fan  blade design to minimize turbulent, 3-pin to 4-pin connector, With quad blue LEDs]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hR7wrH/aerocool-case-fan-silentmaster200b"
+}

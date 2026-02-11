@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 2X OC GeForce RTX 3050 6GB 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 3050 VENTUS 2X 6G OC, GeForce RTX 3050 VENTUS 2X 6G OC, V812-015R, 912-V812-015]",
+    "Chipset": "GeForce RTX 3050 6GB",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1040 MHz",
+    "Boost Clock": "1492 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "189 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TGMMnQ/msi-ventus-2x-oc-geforce-rtx-3050-6gb-6-gb-video-card-rtx-3050-ventus-2x-6g-oc"
+}

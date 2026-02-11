@@ -1,0 +1,21 @@
+{
+    "name": "Kingwin ABT-450MM 450 W ATX Power Supply",
+    "Manufacturer": "Kingwin",
+    "Part #": "ABT-450MM",
+    "Type": "ATX",
+    "Wattage": "450 W",
+    "Length": "145 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@21A, +5V@26A, +12V1@16A, +12V2@17A, -12V@0.6A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hQW9TW/kingwin-power-supply-abt450mm"
+}

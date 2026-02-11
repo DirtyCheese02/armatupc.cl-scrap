@@ -1,0 +1,13 @@
+{
+    "name": "VisionTek mSATA 240 GB mSATA Solid State Drive",
+    "Manufacturer": "VisionTek",
+    "Part #": "900612",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d6TmP6/visiontek-internal-hard-drive-900612"
+}

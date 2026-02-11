@@ -1,0 +1,19 @@
+{
+    "name": "In Win Mercury AM120S 60.71 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "In Win",
+    "Model": "Mercury AM120S",
+    "Part #": "[IW-FN-AM120S-3PK, FN-AM120S-3PK]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 2000 RPM",
+    "Airflow": "60.71 CFM",
+    "Noise Level": "17 - 29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "2.72 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b2rqqs/in-win-mercury-am120s-6071-cfm-120-mm-fans-3-pack-iw-fn-am120s-3pk"
+}

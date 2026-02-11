@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline ST 16 GB (2 x 8 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRF3U160999T8GX2",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Wv7scf/mushkin-redline-st-16-gb-2-x-8-gb-ddr3-1600-cl9-memory-mrf3u160999t8gx2"
+}

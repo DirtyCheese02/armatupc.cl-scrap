@@ -1,0 +1,22 @@
+{
+    "name": "APC SC450RMI1U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SC450RMI1U",
+    "Capacity (W)": "280 W",
+    "Capacity (VA)": "450 VA",
+    "Rack Height": "1U",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "5.90 Minutes",
+    "Backup/Run Time (Half Load)": "19.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[4 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "Waveform Type": "Step Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xBPzK8/apc-ups-sc450rmi1u"
+}

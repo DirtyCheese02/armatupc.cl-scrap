@@ -1,0 +1,20 @@
+{
+    "name": "Gigabyte GV-N480SO-15I GeForce GTX 480 1.5 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N480SO-15I",
+    "Chipset": "GeForce GTX 480",
+    "Memory": "1.5 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "820 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WVzv6h/gigabyte-video-card-gvn480so15i"
+}

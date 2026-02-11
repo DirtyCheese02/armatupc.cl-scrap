@@ -1,0 +1,23 @@
+{
+    "name": "Corsair TX950 950 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "TX950",
+    "Part #": "CMPSU-950TX",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "950 W",
+    "Length": "160 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@25A, +5V@25A, +12V@78A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wnvRsY/corsair-tx950-950-w-80-bronze-certified-atx-power-supply-cmpsu-950tx"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PNY XLR8 Gaming EPIC-X RGB GeForce RTX 3090 24 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG309024TFXPPB",
+    "Chipset": "GeForce RTX 3090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1395 MHz",
+    "Boost Clock": "1695 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "294 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xs2bt6/pny-geforce-rtx-3090-24-gb-xlr8-gaming-epic-x-rgb-video-card-vcg309024tfxppb"
+}

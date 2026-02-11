@@ -1,0 +1,19 @@
+{
+    "name": "Xion Alphawing 25.65 CFM 80 mm Fan",
+    "Manufacturer": "Xion",
+    "Part #": "AXP-GF80_WT",
+    "Size": "80 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "25.65 CFM",
+    "Noise Level": "17.2 - 22 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hybrid Sleeves Bearing ( H.S.B )",
+    "Features": "[Voltage Range: 12V, Blade Geometry: 7 Vortex Blades, Anti-acoustic low Noise level designed, Driving Powerful air flow up to 25.65 CFM, operating at 2000 RPM, Best Wire Management and 3 to 4 pins Adaptor included]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2XDwrH/xion-axp-gf80_wt-2565-cfm-80-mm-fan-axp-gf80_wt"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Matrox LUMA Arc A310 4 GB Video Card",
+    "Manufacturer": "Matrox",
+    "Part #": "LUMA-A310",
+    "Chipset": "Arc A310",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1750 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xcn9TW/matrox-luma-arc-a310-4-gb-video-card-luma-a310"
+}

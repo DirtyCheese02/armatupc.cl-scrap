@@ -1,0 +1,17 @@
+{
+    "name": "TEAMGROUP Elite 32 GB (2 x 16 GB) DDR5-4800 SODIMM CL40 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TED532G4800C40DC-S01",
+    "Speed": "DDR5-4800",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$16.281",
+    "Color": "Black",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6HzXsY/teamgroup-elite-32-gb-2-x-16-gb-ddr5-4800-sodimm-cl40-memory-ted532g4800c40dc-s01"
+}

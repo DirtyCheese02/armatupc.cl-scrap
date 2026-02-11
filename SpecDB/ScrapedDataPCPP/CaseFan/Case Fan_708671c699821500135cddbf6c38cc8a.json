@@ -1,0 +1,18 @@
+{
+    "name": "Noctua NF-A12x25 LS-PWM 32.784 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Part #": "NF-A12x25 LS-PWM",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "450 - 900 RPM",
+    "Airflow": "23.19 - 32.784 CFM",
+    "Noise Level": "7.6 - 12.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "0.82 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/49CZxr/noctua-nf-a12x25-ls-pwm-32784-cfm-120-mm-fan-nf-a12x25-ls-pwm"
+}

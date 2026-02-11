@@ -1,0 +1,21 @@
+{
+    "name": "Phanteks F120MP 53.3 CFM 120 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F120MP",
+    "Part #": "PH-F120MP_BK_PWM",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "53.3 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.72 mmH₂O",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "Features": "[The PH-F120MP, a high static pressure fan, can have the ability to overcome the airflow restriction caused by high fin density. PH-F120MP produces high static air pressure allowing for a direct and focused airflow making them ideal for the densely packed fins of a radiator., The PH-F120MP has a larger base size with a magnetic brushless DC motor to avoid the effects of resonance and for rotational stability. To create better structural strength, Phanteks redesigned the back frame of the PH-F120MP. Phanteks fans now comes with pre-installed rubber pads to help reduce vibration occurrences., With the noise reduction challenges in mind, we modified the component for lower actuator noise, PCBA for lower electromagnetic noise, brushless motor structure for lower operating noise and frame rib for lower wind and vibration noise., MVB2 (Maelström Vortex Booster), The new seven high pressure MVB blades are precisely angled to generate a silent controlled airflow. The blades produces a downdraft vortex allowing for greater amount of air passage through and reduce airflow turbulence across the surface of the blades to create significantly better performance and airflow while keeping noise to a minimum., UFB bearing (Updraft Floating Balance bearing), Phanteks’ UFB bearings are composed by MOSS and SSC system. MOSS has an effective fan hub-blade ratio to achieve a dynamic balance, thus floating the axis for minimal air noise. SSC increases the bearing life span to ensure that the fan axis is consistently operating without mechanical noise., Polarity Auto-Restart Protection, Phanteks’ unique fan circuit design provides a Fan Polarity Auto-Restart feature. The sensor inside of the fan will constantly send a series of rectangular signals to your PC M/B indicating that the fan is working correctly. The unique restart feature provides optimal support and protection.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MwPzK8/phanteks-case-fan-phf120mpbkpwm"
+}

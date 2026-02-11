@@ -1,0 +1,22 @@
+{
+    "name": "FSP Group AU-850PRO 850 W 80+ Gold Certified ATX Power Supply",
+    "Manufacturer": "FSP Group",
+    "Part #": "AU-850PRO",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "850 W",
+    "Length": "180 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "25A @ +3.3V DC, 25A @ +5V DC, 70A @ +12V DC, 0.8A @ -12V DC, 3.0A @ +5Vsb DC Standby",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8cXfrH/fsp-group-power-supply-au850pro"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws 8 GB (1 x 8 GB) DDR4-3200 SODIMM CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C16S-8GRS",
+    "Speed": "DDR4-3200",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-18-18-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k2KhP6/gskill-ripjaws-8gb-1-x-8gb-ddr4-3200-memory-f4-3200c16s-8grs"
+}

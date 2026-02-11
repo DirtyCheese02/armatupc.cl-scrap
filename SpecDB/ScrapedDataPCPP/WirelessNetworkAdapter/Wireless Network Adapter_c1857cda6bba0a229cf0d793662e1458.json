@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WDN4200 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WDN4200",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK,802.1x",
+    "Antenna": "Omnidirectional Antenna",
+    "Features": "[Dual Band connections for lag-free HD video streaming and gaming, Maximum speed up to 2.4GHz 450Mbps and 5GHz 450Mbps, Supports ad-hoc and infrastructure mode, Easy wireless security encryption at a push of the WPS button, Supports Sony PSP X-Link for joyful online gaming for Windows XP, Supports Windows 8 32/64bit, Windows 7 32/64bit, Vista 32/64bit, XP 32/64bit, Easy Wireless Configuration Utility, Signal Rate, 2.4GHz, 11n: Up to 450Mbps(dynamic), 11g: Up to 54Mbps(dynamic), 11b: Up to 11Mbps(dynamic), 5GHz, 11n: Up to 450Mbps(dynamic), 11a: Up to 54Mbps(dynamic), Reception Sensitivity, 270M_2.4GHz: -70dBm@10% PER, 130M_2.4GHz: -70dBm@10% PER, 54M_2.4GHz: -76dBm@10% PER, 11M_2.4GHz: -86dBm@8% PER, 6M_2.4GHz: -91dBm@10% PER, 1M_2.4GHz: -97dBm@8% PER, 270M_5GHz: -66dBm@10% PER, 130M_5GHz: -69dBm@10% PER, 54M_5GHz: -76dBm@10% PER, 6M_5GHz: -90dBm@10% PER, Ad-Hoc / Infrastructure mode]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jpyFf7/tp-link-wireless-network-card-tlwdn4200"
+}

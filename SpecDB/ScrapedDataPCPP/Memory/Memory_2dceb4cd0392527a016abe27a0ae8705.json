@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F4-3200C16D-32GTZ 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C16D-32GTZ",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Gray / Red",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MWgFf7/gskill-f4-3200c16d-32gtz-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-f4-3200c16d-32gtz"
+}

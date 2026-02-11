@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Pro 8 GB (2 x 4 GB) DDR3-2666 CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMY8GX3M2A2666C11R",
+    "Speed": "DDR3-2666",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8.252 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "Timing": "11-13-13-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k7kD4D/corsair-memory-cmy8gx3m2a2666c11r"
+}

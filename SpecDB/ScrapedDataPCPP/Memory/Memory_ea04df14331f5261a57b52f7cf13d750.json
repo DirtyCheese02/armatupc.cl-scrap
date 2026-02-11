@@ -1,0 +1,16 @@
+{
+    "name": "Neo Forza FAYE 32 GB (2 x 16 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "Neo Forza",
+    "Part #": "NMUD416E82-4000FG20",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "Timing": "19-23-23-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VK3gXL/neo-forza-faye-32-gb-2-x-16-gb-ddr4-4000-cl19-memory-nmud416e82-4000fg20"
+}

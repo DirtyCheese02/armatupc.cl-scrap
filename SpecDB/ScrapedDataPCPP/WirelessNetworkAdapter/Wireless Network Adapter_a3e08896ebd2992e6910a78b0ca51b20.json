@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN722N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN722N",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128 bit WEP, WPA-PSK/WPA2-PSK",
+    "Antenna": "4dBi Detachable Omni-directional Antenna (RP-SMA)",
+    "Features": "[Wireless Modes: Ad-Hoc / Infrastructure mode, Advanced Functions: WMM, PSP X-LINK(For Windows XP), Roaming, Wireless N speed up to 150Mbps makes it ideal for video streaming, online gaming and VoIP, High gain external antenna brings better performance than conventional internal antenna, Easy wireless security encryption at a push of the QSS button]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/psdqqs/tp-link-wireless-network-card-tlwn722n"
+}

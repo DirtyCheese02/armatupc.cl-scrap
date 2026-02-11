@@ -1,0 +1,12 @@
+{
+    "name": "Encore ENLWI-N3 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "Encore",
+    "Part #": "ENLWI-N3",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "64/128-bit WEP Encryption<br/>WPA, WPA2, WPS and 802.1x advanced security",
+    "Antenna": "One 2dBi dipole antenna",
+    "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+    "Features": "[Interface: 32-bit PCI v2.2, Bandwidth: 20MHz / 40MHz, Media Access Protocol: CSMA/CA with ACK, QoS: WMM and WMM-PS, Working Mode: Infrastructure, Ad-Hoc.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PdsKHx/encore-wireless-network-card-enlwin3"
+}

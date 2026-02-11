@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 32 GB (4 x 8 GB) DDR4-2133 CL14 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX421C14FBK4/32",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "13.127 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NQVBD3/kingston-memory-hx421c14fbk432"
+}

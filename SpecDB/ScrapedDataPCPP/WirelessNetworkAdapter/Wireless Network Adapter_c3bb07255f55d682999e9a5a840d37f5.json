@@ -1,0 +1,12 @@
+{
+    "name": "TRENDnet TEW-805UB 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-805UB",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Security": "64/128-bit WEP, WPA / WPA2-RADIUS, WPA / WPA2-PSK (AES/TKIP), WPS",
+    "Antenna": "2 x Internal Antenna",
+    "Operating Range": "Coverage of up to 100 meters indoor (330 feet) and 300 meters outdoor (980 feet)",
+    "Features": "[Frequency: 802.11b/g/n: 2.412 ~ 2.472 GHz, 802.11a/n/ac: 5.150 GHz ~ 5.350 GHz / 5.725 GHz ~ 5.825 GHz (FCC), 5.150 GHz ~5.350 GHz / 5.470 GHz ~ 5.725 GHz (ETSI), Media Access Protocol: CSMA/CA with ACK, Wi-Fi compliant with IEEE 802.11ac and 802.11n standards, High-speed data rates up to 867 Mbps with 802.11ac technology and 300 Mbps with 802.11n technology, Backwards compatible with IEEE 802.11g, IEEE 802.11b, and IEEE 802.11a networks, Compatible with Windows 8 (32/64-bit), 7 (32/64-bit), Vista (32/64-bit), and XP(32/64-bit) operating systems, One-touch network connection with Wi-Fi Protected Setup (WPS) button, Dynamic Data Rate Scaling from 867 Mbps to 1 Mbps, Supports advanced wireless encryption up to WPA2-RADIUS, Easy user setup and diagnostic utilities.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LwxfrH/trendnet-wireless-network-card-tew805ub"
+}

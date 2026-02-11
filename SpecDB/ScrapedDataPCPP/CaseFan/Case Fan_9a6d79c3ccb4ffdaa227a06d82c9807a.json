@@ -1,0 +1,18 @@
+{
+    "name": "NZXT AER RGB 2 52.44 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "NZXT",
+    "Part #": "HF-2812C-TW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "17.48 - 52.44 CFM",
+    "Noise Level": "22 - 33 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "USB",
+    "Static Pressure": "1.35 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7bPQzy/nzxt-aer-rgb-2-5244-cfm-120-mm-fans-3-pack-hf-2812c-tw"
+}

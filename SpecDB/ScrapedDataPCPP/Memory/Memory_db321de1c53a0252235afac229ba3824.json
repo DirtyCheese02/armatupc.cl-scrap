@@ -1,0 +1,16 @@
+{
+    "name": "ADATA XPG Lancer Blade RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX5U6000C3032G-DTLABRBK",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$22.631",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/32ZXsY/adata-xpg-lancer-blade-rgb-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-ax5u6000c3032g-dtlabrbk"
+}

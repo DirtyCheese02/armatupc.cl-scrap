@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SU016GLLTU160N22AC 16 GB (2 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SU016GLLTU160N22AC",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Green / Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p4prxr/silicon-power-16gb-2-x-8gb-ddr3-1600-memory-su016glltu160n22ac"
+}

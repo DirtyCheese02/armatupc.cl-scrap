@@ -1,0 +1,8 @@
+{
+    "name": "Rosewill RC-400 Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RC-400",
+    "Interface": "PCI",
+    "Features": "[Chipset: RTL8169S-32, Support Jumbo Frame transfer maximum up to 7440 bytes., Supports for IEEE802.3x Full Duplex flow control., Integrated PCI DMA engines., Auto-Negotiation with Next page capability., Supports pair swap/polarity/skew correction., Crossover Detection & Auto-Correction., Microsoft NDIS5 Checksum Offload (IP, TCP, UDP) and large send offload support., Supports Full Duplex flow control (IEEE 802.3x)., Supports IEEE 802.1Q VLAN tagging., 8K Transmit FIFO and 64K Receive FIFO support., Supports power down/link down power saving., Accessories: Manual, CD Drivers, Low Profile Bracket, Heatsink.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z6Gkcf/rosewill-wired-network-card-rc400"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Akasa AK-274CC-4RAS 38.4 CFM 120 mm Fan",
+    "Manufacturer": "Akasa",
+    "Part #": "AK-274CC-4RAS",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "38.4 CFM",
+    "Noise Level": "17.5 dB",
+    "PWM": "No",
+    "LED": "Multicolor",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dm8H99/akasa-ak-274cc-4ras-384-cfm-120-mm-fan-ak-274cc-4ras"
+}

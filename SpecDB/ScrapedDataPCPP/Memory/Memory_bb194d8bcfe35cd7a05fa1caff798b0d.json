@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws M5 RGB 64 GB (2 x 32 GB) DDR5-5600 CL30 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5600J3036D32GX2-RM5RW",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "White",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.25 V",
+    "Timing": "30-36-36-89",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hkpQzy/gskill-ripjaws-m5-rgb-64-gb-2-x-32-gb-ddr5-5600-cl30-memory-f5-5600j3036d32gx2-rm5rw"
+}

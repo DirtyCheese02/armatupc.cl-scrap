@@ -1,0 +1,21 @@
+{
+    "name": "Club 3D CGAX-4872DDO Radeon HD 4870 512 MB Video Card",
+    "Manufacturer": "Club 3D",
+    "Part #": "CGAX-4872DDO",
+    "Chipset": "Radeon HD 4870",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "800 MHz",
+    "Effective Memory Clock": "3800 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PT8Zxr/club-3d-video-card-cgax4872ddo"
+}

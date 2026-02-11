@@ -1,0 +1,17 @@
+{
+    "name": "GAMDIAS AEOLUS P2 74.97 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "GAMDIAS",
+    "Part #": "AEOLUS P2-1203",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 2400 RPM",
+    "Airflow": "74.97 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.1 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wGgrxr/gamdias-aeolus-p2-7497-cfm-120-mm-fans-3-pack-aeolus-p2-1203"
+}

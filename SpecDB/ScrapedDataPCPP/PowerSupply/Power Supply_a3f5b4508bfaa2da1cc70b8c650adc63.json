@@ -1,0 +1,23 @@
+{
+    "name": "Xilence XP1050MR9.2 1050 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Xilence",
+    "Model": "XP1050MR9.2",
+    "Part #": "[XN176, XP1050MR9.2]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1050 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Color": "Black / Red",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "1",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "3",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TLZXsY/xilence-xp1050mr92-1050-w-80-gold-certified-fully-modular-atx-power-supply-xn176"
+}

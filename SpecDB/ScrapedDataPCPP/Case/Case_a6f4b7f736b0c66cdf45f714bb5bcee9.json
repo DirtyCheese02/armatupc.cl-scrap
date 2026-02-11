@@ -1,0 +1,20 @@
+{
+    "name": "NZXT H230 ATX Mid Tower Case",
+    "Manufacturer": "NZXT",
+    "Part #": "CA-H230I-W1",
+    "Type": "ATX Mid Tower",
+    "Color": "White",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[400 mm, 15.748\"]",
+    "Drive Bays": "[3 x External 5.25\", 6 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "120 mm",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[195 mm x 447 mm x 501 mm, 7.677\" x 17.598\" x 19.724\"]",
+    "Volume": "[43.67 L, 1.542 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6yjG3C/nzxt-case-cah230iw1"
+}

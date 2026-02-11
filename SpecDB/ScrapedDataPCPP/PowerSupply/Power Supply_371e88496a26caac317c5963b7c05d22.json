@@ -1,0 +1,23 @@
+{
+    "name": "NZXT C750 (2022) 750 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "NZXT",
+    "Model": "C750 (2022)",
+    "Part #": "[PA-7G1BB-US, PA-7G1BB-UK, PA-7G1BB-EU, PA-7G1BB-AU, PA-7G1BB-JP, PA-7G1BB-WO]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "750 W",
+    "Length": "150 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZCQcCJ/nzxt-c750-2022-750-w-80-gold-certified-fully-modular-atx-power-supply-pa-7g1bb-us"
+}

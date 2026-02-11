@@ -1,0 +1,17 @@
+{
+    "name": "Corsair ValueSelect 16 GB (1 x 16 GB) DDR4-2666 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMV16GX4M1A2666C18",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$8.062",
+    "Color": "Black",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vv448d/corsair-valueselect-16gb-1-x-16gb-ddr4-2666-memory-cmv16gx4m1a2666c18"
+}

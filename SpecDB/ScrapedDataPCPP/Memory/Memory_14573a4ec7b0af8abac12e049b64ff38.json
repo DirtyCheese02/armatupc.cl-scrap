@@ -1,0 +1,16 @@
+{
+    "name": "Klevv Urbane V RGB 48 GB (2 x 24 GB) DDR5-8000 CL38 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KD5KGUD80-80D380M",
+    "Speed": "DDR5-8000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "White",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.45 V",
+    "Timing": "38-48-48-128",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6xLdnQ/klevv-urbane-v-rgb-48-gb-2-x-24-gb-ddr5-8000-cl38-memory-kd5kgud80-80d380m"
+}

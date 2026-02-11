@@ -1,0 +1,16 @@
+{
+    "name": "Kingston KVR1333D3E9SK3/24G 24 GB (3 x 8 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR1333D3E9SK3/24G",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 8GB",
+    "Price / GB": "$4.375",
+    "Color": "Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M9sKHx/kingston-memory-kvr1333d3e9sk324g"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline 32 GB (2 x 16 GB) DDR4-2800 CL17 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRA4U280HHHH16GX2",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "12.143 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.25 V",
+    "Timing": "17-17-17-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z4Nv6h/mushkin-enhanced-redline-32gb-2-x-16gb-ddr4-2800-memory-mra4u280hhhh16gx2"
+}

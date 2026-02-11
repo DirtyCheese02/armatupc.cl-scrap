@@ -1,0 +1,16 @@
+{
+    "name": "Crucial CT2K16G56C46U5 32 GB (2 x 16 GB) DDR5-5600 CL46 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CT2K16G56C46U5",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$11.875",
+    "Color": "Black",
+    "First Word Latency": "16.429 ns",
+    "CAS Latency": "46",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6Znypg/crucial-ct2k16g56c46u5-32-gb-2-x-16-gb-ddr5-5600-cl46-memory-ct2k16g56c46u5"
+}

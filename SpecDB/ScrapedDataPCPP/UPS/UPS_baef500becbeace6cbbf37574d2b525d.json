@@ -1,0 +1,17 @@
+{
+    "name": "APC BK325I UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK325I",
+    "Capacity (W)": "210 W",
+    "Capacity (VA)": "325 VA",
+    "Backup/Run Time (Full Load)": "6.60 Minutes",
+    "Backup/Run Time (Half Load)": "23.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[3 x IEC 320-C13, 1 x IEC 320-C13]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2nnG3C/apc-ups-bk325i"
+}

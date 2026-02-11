@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z 128 GB (8 x 16 GB) DDR4-3866 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3866C19Q2-128GTZKK",
+    "Speed": "DDR4-3866",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "9.829 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rn38TW/gskill-trident-z-128gb-8-x-16gb-ddr4-3866-memory-f4-3866c19q2-128gtzkk"
+}

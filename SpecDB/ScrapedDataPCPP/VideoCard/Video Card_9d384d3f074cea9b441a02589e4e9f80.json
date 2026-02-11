@@ -1,0 +1,21 @@
+{
+    "name": "PowerColor AE4350 512MD2-H Radeon HD 4350 512 MB PCIe x1 Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AE4350 512MD2-H",
+    "Chipset": "Radeon HD 4350",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "600 MHz",
+    "Interface": "PCIe x1",
+    "Color": "Red / Silver",
+    "Frame Sync": "None",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2gW9TW/powercolor-video-card-ae4350512md2h"
+}

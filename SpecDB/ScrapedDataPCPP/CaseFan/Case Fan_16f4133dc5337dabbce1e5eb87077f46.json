@@ -1,0 +1,20 @@
+{
+    "name": "Corsair SP120 Quiet 37.85 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "SP120 Quiet",
+    "Part #": "CO-9050011-WW",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1450 RPM",
+    "Airflow": "37.85 CFM",
+    "Noise Level": "23 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.1 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cHXfrH/corsair-case-fan-co9050011ww"
+}

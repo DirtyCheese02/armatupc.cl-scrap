@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks F120XP 61.6 CFM 120 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F120XP",
+    "Part #": "PH-F120XP_BK",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "23 - 61.6 CFM",
+    "Noise Level": "21 - 27 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t9Trxr/phanteks-case-fan-phf120xpbk"
+}

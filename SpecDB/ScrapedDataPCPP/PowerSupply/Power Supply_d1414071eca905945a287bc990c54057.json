@@ -1,0 +1,21 @@
+{
+    "name": "Topower ZU-400W12 400 W ATX Power Supply",
+    "Manufacturer": "Topower",
+    "Part #": "ZU-400W12",
+    "Type": "ATX",
+    "Wattage": "400 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3@28A,+5V@35A,+12V1@15A,+12V2@16A,-12V@0.8A,-5@0.5A,+5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BF7wrH/topower-zu-400w12-400-w-atx-power-supply-zu-400w12"
+}

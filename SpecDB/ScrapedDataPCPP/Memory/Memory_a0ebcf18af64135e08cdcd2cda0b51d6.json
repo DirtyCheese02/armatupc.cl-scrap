@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Sniper X 16 GB (2 x 8 GB) DDR4-3600 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C19D-16GSXF",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Camo",
+    "First Word Latency": "10.556 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rnprxr/gskill-sniper-x-16gb-2-x-8gb-ddr4-3600-memory-f4-3600c19d-16gsxf"
+}

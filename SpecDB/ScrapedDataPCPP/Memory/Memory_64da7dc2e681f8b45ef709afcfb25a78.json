@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Predator 64 GB (8 x 8 GB) DDR4-2800 CL14 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX428C14PBK8/64",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QwVBD3/kingston-memory-hx428c14pbk864"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan Z 8 GB (2 x 4 GB) DDR4-2666 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLZRD48G2666HC18HDC01",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Red",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X63H99/team-t-force-vulcan-z-8-gb-2-x-4-gb-ddr4-2666-memory-tlzrd48g2666hc18hdc01"
+}

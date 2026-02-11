@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte AORUS MASTER GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N4070AORUS M-12GD",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2595 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "342 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xK3NnQ/gigabyte-aorus-master-geforce-rtx-4070-12-gb-video-card-gv-n4070aorus-m-12gd"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "XFX Quicksilver OC Radeon RX 9070 16 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-97QICKBW9",
+    "Chipset": "Radeon RX 9070",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "2700 MHz",
+    "Effective Memory Clock": "20000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "355 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yFsMnQ/xfx-quicksilver-oc-radeon-rx-9070-16-gb-video-card-rx-97qickbw9"
+}

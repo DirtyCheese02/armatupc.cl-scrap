@@ -1,0 +1,17 @@
+{
+    "name": "Antec TRICOOL 79 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Part #": "TriCool120mmRedLed",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "79 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8d98TW/antec-tricool120-790-cfm-120mm-fan-tricool120mmredled"
+}

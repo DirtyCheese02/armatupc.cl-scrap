@@ -1,0 +1,17 @@
+{
+    "name": "APC BF500U UPS",
+    "Manufacturer": "APC",
+    "Part #": "BF500U",
+    "Capacity (W)": "325 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "2.80 Minutes",
+    "Backup/Run Time (Half Load)": "10.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sCyxFT/apc-ups-bf500u"
+}

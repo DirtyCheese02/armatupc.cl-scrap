@@ -1,0 +1,14 @@
+{
+    "name": "Seagate 600 Pro 240 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "ST240FP0021",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "LAMD LM87800",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dH6BD3/seagate-internal-hard-drive-st240fp0021"
+}

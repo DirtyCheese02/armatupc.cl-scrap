@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws Z 16 GB (4 x 4 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-14900CL9Q-16GBZL",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RBK7YJ/gskill-memory-f314900cl9q16gbzl"
+}

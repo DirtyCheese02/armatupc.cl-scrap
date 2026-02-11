@@ -1,0 +1,21 @@
+{
+    "name": "CyberPower OR2200LCDRTXL2U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "OR2200LCDRTXL2U",
+    "Capacity (W)": "1650 W",
+    "Capacity (VA)": "2190 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-11, RG-6, RJ-45]",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-20R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HccMnQ/cyberpower-ups-or2200lcdrtxl2u"
+}

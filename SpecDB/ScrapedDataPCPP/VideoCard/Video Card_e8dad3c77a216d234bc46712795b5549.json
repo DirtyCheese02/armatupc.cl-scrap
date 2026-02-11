@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Challenger ITX Radeon RX 6600 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "RX6600 CLI 8G",
+    "Chipset": "Radeon RX 6600",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1626 MHz",
+    "Boost Clock": "2491 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "179 mm",
+    "TDP": "132 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CHJgXL/asrock-radeon-rx-6600-8-gb-challenger-itx-video-card-rx6600-cli-8g"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "HP B4U37AA 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "HP",
+    "Part #": "B4U37AA",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CKyFf7/hp-memory-b4u37aa"
+}

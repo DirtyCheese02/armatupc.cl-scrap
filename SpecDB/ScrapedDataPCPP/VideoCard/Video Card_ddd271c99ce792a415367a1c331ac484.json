@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 04G-P3-2739-KR GeForce GT 730 4 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "04G-P3-2739-KR",
+    "Chipset": "GeForce GT 730",
+    "Memory": "4 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1400 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CqmxFT/evga-video-card-04gp32739kr"
+}

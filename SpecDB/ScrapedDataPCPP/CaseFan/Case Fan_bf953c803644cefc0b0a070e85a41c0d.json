@@ -1,0 +1,19 @@
+{
+    "name": "ID-COOLING ZF-12025-ARGB-TRIO-SNOW 50.5 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "ZF-12025-ARGB-TRIO-SNOW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "50.5 CFM",
+    "Noise Level": "16.3 - 28.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.99 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YG92FT/id-cooling-zf-12025-argb-trio-snow-505-cfm-120-mm-fans-3-pack-zf-12025-argb-trio-snow"
+}

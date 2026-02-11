@@ -1,0 +1,19 @@
+{
+    "name": "Logisys LT80UVBL 21.71 CFM 80 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "LT80UVBL",
+    "Size": "80 mm",
+    "Color": "UV Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "21.71 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "UV Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydraulic Bearing",
+    "Features": "[Net Weight: 60G, Rated Voltage: 10.8VDC - 13.2VDC, Starting Voltage: 7VDC, Rated Current: 0.16A, Power Input:1.92W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3KvRsY/logisys-case-fan-lt80uvbl"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Asus Xonar Essence ST 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Asus",
+    "Part #": "Xonar Essence ST",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "124 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "ASUS AV100",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hxw323/asus-sound-card-xonaressencest"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "LEPA LP-BOL12P-R 81.45 CFM 120 mm Fan",
+    "Manufacturer": "LEPA",
+    "Part #": "LP-BOL12P-R",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1600 RPM",
+    "Airflow": "81.45 CFM",
+    "Noise Level": "8 - 18 dB",
+    "PWM": "Yes",
+    "LED": "Red",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Barometric Oilless Bearing (BOL)",
+    "Features": "[LEPA modular frame with LEPA logo halo ring design to increase more airflow, S-blade with winglet design to improve cooling efficiency, Patented Barometric Oilless (BOL) Bearing for long life span and silent spinning, Extra 7V / 5V adapter provide 3 speed modes for maximum flexibility, Rubber screws to reduce vibration and keep silent operation, Removable fan blades for convenient cleaning]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fs6BD3/lepa-case-fan-lpbol12pr"
+}

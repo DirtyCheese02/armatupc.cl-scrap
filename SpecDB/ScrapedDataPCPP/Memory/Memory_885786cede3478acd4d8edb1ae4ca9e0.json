@@ -1,0 +1,16 @@
+{
+    "name": "Lexar Ares OC 32 GB (2 x 16 GB) DDR5-5200 CL38 Memory",
+    "Manufacturer": "Lexar",
+    "Part #": "LD5CU016G-R5200GD2A",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "14.615 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.25 V",
+    "Timing": "38-38-38-74",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CVVmP6/lexar-ares-oc-32-gb-2-x-16-gb-ddr5-5200-cl38-memory-ld5cu016g-r5200gd2a"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "SilenX Effizio 42 CFM 92 mm Fan",
+    "Manufacturer": "SilenX",
+    "Part #": "EFX-09-15",
+    "Size": "92 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1600 RPM",
+    "Airflow": "42 CFM",
+    "Noise Level": "15 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "3rd generation fluid dynamic bearing",
+    "Features": "[Power:, Operating voltage: 6-12V, Current draw: 0.13A, Power consumption: 1.56W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y6JwrH/silenx-efx-09-15-42-cfm-92-mm-fan-efx-09-15"
+}

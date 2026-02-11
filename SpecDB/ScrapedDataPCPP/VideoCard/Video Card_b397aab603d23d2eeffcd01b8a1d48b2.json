@@ -1,0 +1,22 @@
+{
+    "name": "Gainward Panther OC GeForce RTX 4070 Ti SUPER 16 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "[NED47TSS19T2-1043Z, 4434, 471056224-4434]",
+    "Chipset": "GeForce RTX 4070 Ti SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2340 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "329 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G9pQzy/gainward-panther-oc-geforce-rtx-4070-ti-super-16-gb-video-card-ned47tss19t2-1043z"
+}

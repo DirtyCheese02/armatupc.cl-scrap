@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z 32 GB (4 x 8 GB) DDR4-3733 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3733C17Q-32GTZSW",
+    "Speed": "DDR4-3733",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Silver / White",
+    "First Word Latency": "9.108 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "Timing": "17-17-17-37",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BWc48d/gskill-trident-z-32gb-4-x-8gb-ddr4-3733-memory-f4-3733c17q-32gtzsw"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "upHere NT1207 86.34 CFM 120 mm Fans 5-Pack",
+    "Manufacturer": "upHere",
+    "Part #": "NT1207-5",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "5-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1800 RPM",
+    "Airflow": "29.37 - 86.34 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B8LwrH/uphere-nt1207-5-8634-cfm-120-mm-fans-5-pack-nt1207-5"
+}

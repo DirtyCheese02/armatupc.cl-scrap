@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP096GBLVU520P22 96 GB (2 x 48 GB) DDR5-5200 CL42 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP096GBLVU520P22",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Color": "Black",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p2MMnQ/silicon-power-sp096gblvu520p22-96-gb-2-x-48-gb-ddr5-5200-cl42-memory-sp096gblvu520p22"
+}

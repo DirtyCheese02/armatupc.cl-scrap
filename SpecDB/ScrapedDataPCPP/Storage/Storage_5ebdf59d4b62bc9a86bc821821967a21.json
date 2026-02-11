@@ -1,0 +1,13 @@
+{
+    "name": "Intel DC P3700 800 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDMD800G401",
+    "Capacity": "800 GB",
+    "Price / GB": "$0.786",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NycMnQ/intel-dc-p3700-800-gb-pci-e-nvme-solid-state-drive-ssdpedmd800g401"
+}

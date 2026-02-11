@@ -1,0 +1,17 @@
+{
+    "name": "Antec 77095 56 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Part #": "77095",
+    "Size": "120 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1600 RPM",
+    "Airflow": "56 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZTwqqs/antec-case-fan-77095"
+}

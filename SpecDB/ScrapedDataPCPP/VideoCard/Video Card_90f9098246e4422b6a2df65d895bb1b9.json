@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-50104-10P GeForce GTX 580 3 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-50104-10P",
+    "Chipset": "GeForce GTX 580",
+    "Memory": "3 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "815 MHz",
+    "Effective Memory Clock": "4100 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "SLI/CrossFire": "[4-way SLI Capable, 3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "266 mm",
+    "TDP": "244 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rjrG3C/zotac-video-card-zt5010410p"
+}

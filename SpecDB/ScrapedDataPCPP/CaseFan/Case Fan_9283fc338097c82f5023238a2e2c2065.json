@@ -1,0 +1,20 @@
+{
+    "name": "ID-COOLING WF-14025-XT ARGB 80.6 CFM 140 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Model": "WF-14025-XT ARGB",
+    "Part #": "WF-14025-XT ARGB WHITE",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "80.6 CFM",
+    "Noise Level": "31.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.92 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dQ26Mp/id-cooling-wf-14025-xt-argb-806-cfm-140-mm-fan-wf-14025-xt-argb-white"
+}

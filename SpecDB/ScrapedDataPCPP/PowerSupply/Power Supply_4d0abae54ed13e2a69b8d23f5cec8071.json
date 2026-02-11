@@ -1,0 +1,20 @@
+{
+    "name": "Xion AXP-850R14N 850 W ATX Power Supply",
+    "Manufacturer": "Xion",
+    "Part #": "AXP-850R14N",
+    "Type": "ATX",
+    "Wattage": "850 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3@24A, +5V@32A, +12V1@18A, +12V2@18A, +12V3@20A, + 12V4@22A, -12V@0.5A, +5VSB@2.2A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yBn2FT/xion-axp-850r14n-850-w-atx-power-supply-axp-850r14n"
+}

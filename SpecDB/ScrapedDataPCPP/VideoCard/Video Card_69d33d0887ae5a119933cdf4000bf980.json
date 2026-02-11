@@ -1,0 +1,21 @@
+{
+    "name": "PNY VCQ2000D-PB Quadro 2000D 1 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQ2000D-PB",
+    "Chipset": "Quadro 2000D",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "625 MHz",
+    "Effective Memory Clock": "2600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "178 mm",
+    "TDP": "62 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fNMFf7/pny-video-card-vcq2000dpb"
+}

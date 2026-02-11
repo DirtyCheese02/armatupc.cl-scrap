@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Redline 32 GB (2 x 16 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRB4U300GJJM16GX2",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xJM323/mushkin-memory-mrb4u300gjjm16gx2"
+}

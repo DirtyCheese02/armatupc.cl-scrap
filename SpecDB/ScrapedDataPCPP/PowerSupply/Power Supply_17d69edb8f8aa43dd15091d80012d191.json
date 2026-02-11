@@ -1,0 +1,23 @@
+{
+    "name": "Enermax MAXREVO SLI 1350 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Enermax",
+    "Part #": "EMR1350EWT",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1350 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Color": "Black / Gold",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "14",
+    "AMP/Molex 4-pin Connectors": "10",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@30A, +12V2@30A, +12V3@30A, +12V4@30A, +12V5@30A, +12V6@30A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PHmLrH/enermax-power-supply-emr1350ewt"
+}

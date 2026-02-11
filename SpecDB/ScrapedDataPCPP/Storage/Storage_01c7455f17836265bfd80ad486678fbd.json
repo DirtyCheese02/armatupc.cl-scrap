@@ -1,0 +1,13 @@
+{
+    "name": "OCZ RevoDrive 3 X2 240 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "RVD3X2-FHPX4-240G",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3ZYXsY/ocz-internal-hard-drive-rvd3x2fhpx4240g"
+}

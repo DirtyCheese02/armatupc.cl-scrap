@@ -1,0 +1,22 @@
+{
+    "name": "MSI TWIN FAN GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 3060 Ti TWIN FAN, GeForce RTX 3060 Ti TWIN FAN]",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1665 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "230 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4khmP6/msi-geforce-rtx-3060-ti-8-gb-twin-fan-video-card-rtx-3060-ti-twin-fan"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire PURE Radeon RX 9070 XT 16 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11348-02-20G",
+    "Chipset": "Radeon RX 9070 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2460 MHz",
+    "Boost Clock": "3010 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "320 mm",
+    "TDP": "317 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TmDnTW/sapphire-pure-radeon-rx-9070-xt-16-gb-video-card-11348-02-20g"
+}

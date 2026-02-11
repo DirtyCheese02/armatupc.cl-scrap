@@ -1,0 +1,12 @@
+{
+    "name": "Sabrent Rocket Q4 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Sabrent",
+    "Part #": "SB-RKTQ4-HTSS-2TB",
+    "Capacity": "2 TB",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "TLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LMbTwP/sabrent-rocket-q4-2-tb-m2-2280-nvme-solid-state-drive-sb-rktq4-htss-2tb"
+}

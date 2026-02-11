@@ -1,0 +1,17 @@
+{
+    "name": "Silicon Power GAMING 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SP032GXLZU320BDAJ7, SU032GXLZU320BDAJ7]",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$5.405",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B8QcCJ/silicon-power-gaming-32-gb-2-x-16-gb-ddr4-3200-cl16-memory-sp032gxlzu320bdaj7"
+}

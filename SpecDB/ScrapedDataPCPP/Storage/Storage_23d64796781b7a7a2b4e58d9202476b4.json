@@ -1,0 +1,14 @@
+{
+    "name": "Crucial M550 128 GB M.2-2280 SATA Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT128M550SSD4",
+    "Capacity": "128 GB",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 SATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9189",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G2g323/crucial-internal-hard-drive-ct128m550ssd4"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 96 GB (2 x 48 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF4D596G6400HC32ADC01",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Zk4Zxr/teamgroup-t-force-delta-rgb-96-gb-2-x-48-gb-ddr5-6400-cl32-memory-ff4d596g6400hc32adc01"
+}

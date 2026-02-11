@@ -1,0 +1,23 @@
+{
+    "name": "Asus ROG STRIX WHITE OC V2 GeForce RTX 3080 10GB LHR 10 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[ROG-STRIX-RTX3080-O10G-WHITE-V2, 90YV0FAA-M0NM00]",
+    "Chipset": "GeForce RTX 3080 10GB LHR",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1935 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "318 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X2YmP6/asus-geforce-rtx-3080-lhr-10-gb-rog-strix-white-oc-v2-video-card-rog-strix-rtx3080-o10g-white-v2"
+}

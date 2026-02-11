@@ -1,0 +1,19 @@
+{
+    "name": "Thermalright TL-C12CW-S X3 66.17 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Thermalright",
+    "Model": "TL-C12CW-S X3",
+    "Part #": "[TL-C12CW-S X3 D6, TL-C12CW-S X3]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1550 RPM",
+    "Airflow": "66.17 CFM",
+    "Noise Level": "25.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.53 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XYPQzy/thermalright-tl-c12cw-s-x3-6617-cfm-120-mm-fans-3-pack-tl-c12cw-s-x3-d6"
+}

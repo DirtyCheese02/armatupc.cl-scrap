@@ -1,0 +1,23 @@
+{
+    "name": "KTC M27P6 27.0\" 3840 x 2160 160 Hz Monitor",
+    "Manufacturer": "KTC",
+    "Part #": "M27P6",
+    "Screen Size": "27\"",
+    "Resolution": "3840 x 2160",
+    "Refresh Rate": "160 Hz",
+    "Response Time (MPRT)": "1 ms",
+    "Panel Type": "IPS Mini LED",
+    "Aspect Ratio": "16:9",
+    "Color": "White",
+    "Brightness": "1400 cd/m²",
+    "Pixel Pitch": "0.156 mm",
+    "HDR Tier": "HDR 1400",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "[FreeSync, G-Sync Compatible]",
+    "Built-in Speakers": "No",
+    "VESA Mounting": "100 x 100",
+    "Viewing Angle": "178° H x 178° V",
+    "Inputs": "[1 x DisplayPort 1.4, 2 x HDMI 2.1, 1 x USB Type-C]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VHQwrH/ktc-m27p6-270-3840-x-2160-160-hz-monitor-m27p6"
+}

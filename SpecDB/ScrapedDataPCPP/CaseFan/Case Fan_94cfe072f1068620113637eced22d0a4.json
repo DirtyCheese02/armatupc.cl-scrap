@@ -1,0 +1,17 @@
+{
+    "name": "Thermalright TY 64.52 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TY-14013R",
+    "Size": "120 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1300 RPM",
+    "Airflow": "64.52 CFM",
+    "Noise Level": "30.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8nQRsY/thermalright-case-fan-ty14013r"
+}

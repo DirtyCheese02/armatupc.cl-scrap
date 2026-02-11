@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3600 CL20 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK16GX4M2C3600C20",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "11.111 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.35 V",
+    "Timing": "20-23-23-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7CZzK8/corsair-vengeance-lpx-16-gb-2-x-8-gb-ddr4-3600-memory-cmk16gx4m2c3600c20"
+}

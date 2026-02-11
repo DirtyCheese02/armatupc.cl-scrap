@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KVR16LSE11/8HB 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR16LSE11/8HB",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p8YWGX/kingston-memory-kvr16lse118hb"
+}

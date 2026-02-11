@@ -1,0 +1,21 @@
+{
+    "name": "Fractal Design Integra M 750 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Fractal Design",
+    "Part #": "FD-PSU-IN3B-750W",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "750 W",
+    "Length": "140 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fgX2FT/fractal-design-power-supply-fdpsuin3b750w"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "AMD Radeon R3 120 GB 2.5\" Solid State Drive",
+    "Manufacturer": "AMD",
+    "Part #": "[R3 120GB, SSDR3L120G]",
+    "Capacity": "120 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Silicon Motion SM2256KX",
+    "SSD NAND Flash Type": "TLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fcbkcf/amd-internal-hard-drive-r3120gb"
+}

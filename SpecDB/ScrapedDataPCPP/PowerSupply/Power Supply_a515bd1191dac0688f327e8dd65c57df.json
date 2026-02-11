@@ -1,0 +1,22 @@
+{
+    "name": "SeaSonic SS-850HT Silver 850 W 80+ Silver Certified ATX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Part #": "SS-850HT Silver",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "850 W",
+    "Length": "160 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@24A, +5V@30A, +12V@70A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PTh9TW/seasonic-power-supply-ss850htsilver"
+}

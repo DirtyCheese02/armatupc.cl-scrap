@@ -1,0 +1,19 @@
+{
+    "name": "Antec NOVA 120 95.32 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Antec",
+    "Model": "NOVA 120",
+    "Part #": "[Nova 120_3PK, 0-761345-40051-0]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 3200 RPM",
+    "Airflow": "44 - 95.32 CFM",
+    "Noise Level": "21.5 - 38.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "6.56 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hZ8Pxr/antec-nova-120-9532-cfm-120-mm-fans-3-pack-nova-120_3pk"
+}

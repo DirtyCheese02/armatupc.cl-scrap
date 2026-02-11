@@ -1,0 +1,13 @@
+{
+    "name": "Mushkin Scorpion PCIe 480 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Mushkin",
+    "Part #": "MKNP22SC480GB",
+    "Capacity": "480 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x2",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/32phP6/mushkin-internal-hard-drive-mknp22sc480gb"
+}

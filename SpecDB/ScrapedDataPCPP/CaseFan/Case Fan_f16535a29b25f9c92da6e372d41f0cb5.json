@@ -1,0 +1,19 @@
+{
+    "name": "Noctua P14 FLX 64.95 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "P14 FLX",
+    "Part #": "NF-P14 FLX",
+    "Size": "140 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "750 - 1200 RPM",
+    "Airflow": "41.93 - 64.95 CFM",
+    "Noise Level": "10.1 - 19.6 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "SSO",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C37wrH/noctua-nf-p14-flx-6495-cfm-140-mm-fan-nf-p14-flx"
+}

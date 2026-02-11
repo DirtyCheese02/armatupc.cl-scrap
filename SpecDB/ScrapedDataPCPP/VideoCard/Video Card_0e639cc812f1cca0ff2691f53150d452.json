@@ -1,0 +1,22 @@
+{
+    "name": "HIS H555HB512 Radeon HD 5550 512 MB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "H555HB512",
+    "Chipset": "Radeon HD 5550",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "550 MHz",
+    "Effective Memory Clock": "950 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "39 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DJ3RsY/his-video-card-h555hb512"
+}

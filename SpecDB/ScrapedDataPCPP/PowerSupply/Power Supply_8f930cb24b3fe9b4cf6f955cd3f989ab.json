@@ -1,0 +1,21 @@
+{
+    "name": "Corsair VS550 550 W ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "VS550",
+    "Part #": "[CP-9020050-WW, CMPSU-VS550]",
+    "Type": "ATX",
+    "Wattage": "550 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xNJwrH/corsair-vs550-550-w-atx-power-supply-cp-9020050-ww"
+}

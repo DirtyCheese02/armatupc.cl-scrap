@@ -1,0 +1,19 @@
+{
+    "name": "Antec 75024 79 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Model": "75024",
+    "Part #": "761345-75024-0",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "79 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Features": "[3-speed switch lets you balance quiet performance with maximum cooling, 3-pin and 4-pin power connectors provide convenient connections to your motherboard or power supply, Fan-speed monitoring capability included (requires compatible motherboard)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j37wrH/antec-case-fan-761345750240"
+}

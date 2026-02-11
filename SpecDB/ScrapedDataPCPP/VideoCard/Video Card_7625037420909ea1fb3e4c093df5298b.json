@@ -1,0 +1,19 @@
+{
+    "name": "ATI 100-505602 FirePro V9800 4 GB Video Card",
+    "Manufacturer": "ATI",
+    "Part #": "100-505602",
+    "Chipset": "FirePro V9800",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gb3RsY/ati-video-card-100505602"
+}

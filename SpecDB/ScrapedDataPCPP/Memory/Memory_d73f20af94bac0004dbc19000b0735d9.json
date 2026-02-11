@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX 2 GB (2 x 1 GB) DDR2-800 CL4 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX6400D2LLK2/2G",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "2 x 1GB",
+    "Color": "Blue / White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "4",
+    "Voltage": "2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ryNp99/kingston-memory-khx6400d2llk22g"
+}

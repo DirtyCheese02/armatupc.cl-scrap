@@ -1,0 +1,15 @@
+{
+    "name": "APC SMT1000I UPS",
+    "Manufacturer": "APC",
+    "Part #": "[SMT1000I, SMT1000I-6W]",
+    "Capacity (W)": "670 W",
+    "Capacity (VA)": "1000 VA",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "21 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2sJkcf/apc-ups-smt1000i"
+}

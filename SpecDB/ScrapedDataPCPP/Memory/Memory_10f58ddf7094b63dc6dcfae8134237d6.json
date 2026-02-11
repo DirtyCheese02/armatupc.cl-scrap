@@ -1,0 +1,14 @@
+{
+    "name": "Patriot Viper 8 GB (1 x 8 GB) DDR3-1866 SODIMM CL10 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PV38G186LC0S",
+    "Speed": "DDR3-1866",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "First Word Latency": "10.718 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hLtCmG/patriot-memory-pv38g186lc0s"
+}

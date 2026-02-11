@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z5 CK 48 GB (2 x 24 GB) DDR5-9000 CL42 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-9000C4256H24GX2-TZ5CK",
+    "Speed": "DDR5-9000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.45 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xdcBD3/gskill-trident-z5-ck-48-gb-2-x-24-gb-ddr5-9000-cl42-memory-f5-9000c4256h24gx2-tz5ck"
+}

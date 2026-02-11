@@ -1,0 +1,18 @@
+{
+    "name": "Enermax SquA RGB 68.27 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Enermax",
+    "Part #": "UCSQARGB12P-BP3",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1500 RPM",
+    "Airflow": "24.53 - 68.27 CFM",
+    "Noise Level": "12 - 23 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "Static Pressure": "1.898 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kCdrxr/enermax-squa-rgb-6827-cfm-120-mm-fans-3-pack-ucsqargb12p-bp3"
+}

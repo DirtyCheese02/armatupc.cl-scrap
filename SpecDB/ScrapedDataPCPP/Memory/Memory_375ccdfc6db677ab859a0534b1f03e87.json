@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Super Luce 16 GB (2 x 8 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLWR416GB2400C15DC",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White / Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8rDzK8/geil-memory-glwr416gb2400c15dc"
+}

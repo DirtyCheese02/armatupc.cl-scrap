@@ -1,0 +1,23 @@
+{
+    "name": "Asus ROG STRIX LC GAMING GeForce RTX 3080 Ti 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[ROG-STRIX-LC-RTX3080TI-12G-GAMING, 90YV0GT3-M0NM00, STRIX-LC-3080TI-12G-GAM, ROG-STRIX-LC-RTX3080TI-12G-GAM]",
+    "Chipset": "GeForce RTX 3080 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1695 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "293 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "240 mm Radiator + 1 Fan",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pjGbt6/asus-rog-strix-lc-gaming-geforce-rtx-3080-ti-12-gb-video-card-rog-strix-lc-rtx3080ti-12g-gaming"
+}

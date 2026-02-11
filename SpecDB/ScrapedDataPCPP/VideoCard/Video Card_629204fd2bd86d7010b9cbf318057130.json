@@ -1,0 +1,22 @@
+{
+    "name": "AMD 100-300000078 Radeon PRO W7500 8 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-300000078",
+    "Chipset": "Radeon PRO W7500",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1700 MHz",
+    "Effective Memory Clock": "10752 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "216 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 2.1 Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RWzXsY/amd-100-300000078-radeon-pro-w7500-8-gb-video-card-100-300000078"
+}

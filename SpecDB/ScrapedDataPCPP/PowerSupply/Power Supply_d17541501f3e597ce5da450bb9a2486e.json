@@ -1,0 +1,22 @@
+{
+    "name": "LEPA P1375-MA 1375 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "LEPA",
+    "Part #": "P1375-MA",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "1375 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "14",
+    "AMP/Molex 4-pin Connectors": "10",
+    "Output": "+3.3V@24A, +5V@24A, +12V1@20A, +12V2@20A, +12V3@30A, +12V4@30A, +12V5@30A, +12V6@30A, -12V@0.5A, +5Vsb@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3cdqqs/lepa-power-supply-p1375ma"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Orion AMD Edition 64 GB (2 x 32 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAOG464GB3200C16BDC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Gray",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GnvdnQ/geil-orion-amd-edition-64-gb-2-x-32-gb-ddr4-3200-cl16-memory-gaog464gb3200c16bdc"
+}

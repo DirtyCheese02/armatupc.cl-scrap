@@ -1,0 +1,17 @@
+{
+    "name": "Raidmax NV-R120TP 64 CFM 120 mm Fan",
+    "Manufacturer": "Raidmax",
+    "Part #": "NV-R120TP",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "58 - 64 CFM",
+    "Noise Level": "18 - 35 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H4448d/raidmax-nv-r120tp-64-cfm-120-mm-fan-nv-r120tp"
+}

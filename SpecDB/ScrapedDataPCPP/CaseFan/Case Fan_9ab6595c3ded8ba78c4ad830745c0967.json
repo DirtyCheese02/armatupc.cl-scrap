@@ -1,0 +1,18 @@
+{
+    "name": "Lian Li Uni Fan SL-Infinity 63.6 CFM 120 mm Fan",
+    "Manufacturer": "Lian Li",
+    "Part #": "[RSLIN120-1W, UF-RSLIN120-1W, G99.12RSLIN1W.00, 12RSLIN1W]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "200 - 2100 RPM",
+    "Airflow": "63.6 CFM",
+    "Noise Level": "32 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.02 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YTzXsY/lian-li-uni-fan-sl-infinity-636-cfm-120-mm-fan-rslin120-1w"
+}

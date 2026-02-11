@@ -1,0 +1,23 @@
+{
+    "name": "Gainward Phoenix GS GeForce RTX 2070 8 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "426018336-4160",
+    "Chipset": "GeForce RTX 2070",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1725 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "292 mm",
+    "TDP": "185 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI 2.0 Outputs": "1",
+    "USB Type-C Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/68TZxr/gainward-phoenix-gs-geforce-rtx-2070-8-gb-video-card-426018336-4160"
+}

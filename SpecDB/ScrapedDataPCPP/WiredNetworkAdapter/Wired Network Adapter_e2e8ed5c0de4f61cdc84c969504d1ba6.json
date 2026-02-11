@@ -1,0 +1,8 @@
+{
+    "name": "StarTech ST100S 100 Mb/s Ethernet PCI Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "ST100S",
+    "Interface": "PCI",
+    "Features": "[Chipset ID: Realtek 8100C, Maximum Data Transfer Rate: 200 Mbits/Sec, Card Type: Standard Profile, Power Consumption: <= 1.5W, OS Compatibility: NetWare 3.x/4.x, Windows 98SE/ NT/ 2000/ XP(32/64bit)/ Vista(32/64bit)/ 7(32/64bit), MAC OS X and up, and Linux, Compliant with IEEE802.3 CSMA/CD, 802.3 10Base-T and 100Base-TX standards, Early interrupt on transmit support, Note: IRQ and I/O Address assigned by system]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Dx8Zxr/startech-wired-network-card-st100s"
+}

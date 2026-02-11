@@ -1,0 +1,17 @@
+{
+    "name": "APC BF500-AZ UPS",
+    "Manufacturer": "APC",
+    "Part #": "BF500-AZ",
+    "Capacity (W)": "325 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "2.20 Minutes",
+    "Backup/Run Time (Half Load)": "9.30 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vccMnQ/apc-ups-bf500az"
+}

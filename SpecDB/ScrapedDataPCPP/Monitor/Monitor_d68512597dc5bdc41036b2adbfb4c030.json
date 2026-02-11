@@ -1,0 +1,22 @@
+{
+    "name": "NEC P212-BK 21.0\" 1600 x 1200 60 Hz Monitor",
+    "Manufacturer": "NEC",
+    "Part #": "P212-BK",
+    "Screen Size": "21\"",
+    "Resolution": "1600 x 1200",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "8 ms",
+    "Panel Type": "IPS",
+    "Aspect Ratio": "4:3",
+    "Brightness": "440 cd/m²",
+    "Pixel Pitch": "0.267 mm",
+    "Widescreen": "No",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "Yes",
+    "Viewing Angle": "178° H x 178° V",
+    "Display Colors": "1070000000",
+    "Contrast Ratio": "1500:1",
+    "Inputs": "[1 x DisplayPort, 1 x DVI, 1 x HDMI, 1 x VGA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/n7X2FT/nec-monitor-p212bk"
+}

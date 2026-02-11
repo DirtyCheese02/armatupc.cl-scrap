@@ -1,0 +1,15 @@
+{
+    "name": "APC SMT1500I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT1500I",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bPs8TW/apc-ups-smt1500i"
+}

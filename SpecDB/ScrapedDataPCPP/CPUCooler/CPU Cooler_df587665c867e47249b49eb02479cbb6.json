@@ -1,0 +1,12 @@
+{
+    "name": "SilenX EFZ-120HA3 102 CFM Fluid Dynamic Bearing CPU Cooler",
+    "Manufacturer": "SilenX",
+    "Part #": "EFZ-120HA3",
+    "Fan RPM": "800 - 2000 RPM",
+    "Height": "145 mm",
+    "Bearing": "Fluid Dynamic",
+    "CPU Socket": "[AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA775, LGA1150, LGA1151, LGA1155, LGA1156, LGA1200, LGA1366]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JzV48d/silenx-cpu-cooler-efz120ha3"
+}

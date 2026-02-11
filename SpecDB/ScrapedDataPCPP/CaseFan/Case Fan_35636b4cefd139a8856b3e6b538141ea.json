@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks F140MP 68.09 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F140MP",
+    "Part #": "PH-F140MP_BBK_PWM",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "68.09 CFM",
+    "Noise Level": "25.3 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cBcMnQ/phanteks-case-fan-phf140mpbbkpwm"
+}

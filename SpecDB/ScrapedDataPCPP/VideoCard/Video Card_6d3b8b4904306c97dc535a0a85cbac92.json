@@ -1,0 +1,21 @@
+{
+    "name": "Asus ENGTX460 DirectCU TOP/2DI/768MD5 GeForce GTX 460 768 MB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ENGTX460 DirectCU TOP/2DI/768MD5",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "0.75 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "700 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "240 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mtTmP6/asus-video-card-engtx460directcutop2di768md5"
+}

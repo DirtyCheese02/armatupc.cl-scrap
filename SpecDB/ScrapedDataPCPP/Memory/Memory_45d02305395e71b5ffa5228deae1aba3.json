@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KCP426SS6/4 4 GB (1 x 4 GB) DDR4-2666 SODIMM CL17 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KCP426SS6/4",
+    "Speed": "DDR4-2666",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "Color": "Green / Black",
+    "First Word Latency": "12.753 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KjcRsY/kingston-4-gb-1-x-4-gb-ddr4-2666-memory-kcp426ss64"
+}

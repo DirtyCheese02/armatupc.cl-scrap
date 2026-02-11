@@ -1,0 +1,18 @@
+{
+    "name": "Vetroo SA-120 58.18 CFM 120 mm Fan",
+    "Manufacturer": "Vetroo",
+    "Model": "SA-120",
+    "Part #": "VT-FAN-FDB120-WT",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1300 RPM",
+    "Airflow": "26.05 - 58.18 CFM",
+    "Noise Level": "36.1 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nykqqs/vetroo-sa-120-5818-cfm-120-mm-fan-vt-fan-fdb120-wt"
+}

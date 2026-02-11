@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte GV-N465UD-1GI GeForce GTX 465 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N465UD-1GI",
+    "Chipset": "GeForce GTX 465",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "607 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JxMFf7/gigabyte-video-card-gvn465ud1gi"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "PNY VCQ450NVS-X16-PB Quadro NVS 450 512 MB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQ450NVS-X16-PB",
+    "Chipset": "Quadro NVS 450",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "TDP": "35 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YMh9TW/pny-video-card-vcq450nvsx16pb"
+}

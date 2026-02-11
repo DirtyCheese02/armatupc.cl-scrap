@@ -1,0 +1,20 @@
+{
+    "name": "Fractal Design Aspect 14 RGB 41 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "Fractal Design",
+    "Model": "Aspect 14 RGB",
+    "Part #": "FD-F-AS1-1406",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "41 CFM",
+    "Noise Level": "19.5 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.02 mmH₂O",
+    "Bearing Type": "Rifle",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jx2WGX/fractal-design-aspect-14-rgb-41-cfm-140-mm-fans-3-pack-fd-f-as1-1406"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Athena Power Apollo 300 W SFX Power Supply",
+    "Manufacturer": "Athena Power",
+    "Part #": "AP-MP4ATX30",
+    "Type": "SFX",
+    "Wattage": "300 W",
+    "Length": "105 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@13A, +5V@13A, +12V1@16A, -12V@0.8A, -5V@0.5A, and +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fjV48d/athena-power-apollo-300-w-sfx-power-supply-ap-mp4atx30"
+}

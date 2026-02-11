@@ -1,0 +1,14 @@
+{
+    "name": "Kingston SSDNow M.2 120 GB M.2-2280 SATA Solid State Drive",
+    "Manufacturer": "Kingston",
+    "Part #": "SM2280S3/120GB",
+    "Capacity": "120 GB",
+    "Type": "SSD",
+    "Cache": "256 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 SATA",
+    "NVME": "No",
+    "SSD Controller": "Phison PS-3108",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XmyFf7/kingston-internal-hard-drive-sm2280s3120gb"
+}

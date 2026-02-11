@@ -1,0 +1,20 @@
+{
+    "name": "Zotac ZT-72SEG7N-HSL GeForce 7200 GS 256 MB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-72SEG7N-HSL",
+    "Chipset": "GeForce 7200 GS",
+    "Memory": "0.25 GB",
+    "Memory Type": "GDDR2",
+    "Core Clock": "450 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "S-Video Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KB3RsY/zotac-video-card-zt72seg7nhsl"
+}

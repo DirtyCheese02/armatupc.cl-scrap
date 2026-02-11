@@ -1,0 +1,18 @@
+{
+    "name": "Alpenföhn Wing Boost 3 ARGB 78.9 CFM 140 mm Fan",
+    "Manufacturer": "Alpenföhn",
+    "Part #": "84000000160",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "78.9 CFM",
+    "Noise Level": "25.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.07 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Dn6qqs/alpenfohn-wing-boost-3-140-789-cfm-140-mm-fan-84000000160"
+}

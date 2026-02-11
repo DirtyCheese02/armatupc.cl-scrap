@@ -1,0 +1,22 @@
+{
+    "name": "CyberPower PR750LCDRT1U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR750LCDRT1U",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "700 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "EMI / RFI",
+    "Receptacles": "7 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Pure Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PZ8H99/cyberpower-ups-pr750lcdrt1u"
+}

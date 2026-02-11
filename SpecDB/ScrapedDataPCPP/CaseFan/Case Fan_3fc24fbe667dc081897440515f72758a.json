@@ -1,0 +1,20 @@
+{
+    "name": "Fractal Design Aspect 12 PWM 56 CFM 120 mm Fan",
+    "Manufacturer": "Fractal Design",
+    "Model": "Aspect 12 PWM",
+    "Part #": "FD-F-AS1-1203",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "13 - 56 CFM",
+    "Noise Level": "10 - 33.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.34 mmH₂O",
+    "Bearing Type": "Rifle",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VzkWGX/fractal-design-aspect-12-pwm-56-cfm-120-mm-fan-fd-f-as1-1203"
+}

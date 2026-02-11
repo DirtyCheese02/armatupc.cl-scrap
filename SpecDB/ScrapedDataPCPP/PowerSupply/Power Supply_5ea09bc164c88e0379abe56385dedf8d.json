@@ -1,0 +1,22 @@
+{
+    "name": "Rosewill Capstone 650 W 80+ Gold Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Rosewill",
+    "Part #": "CAPSTONE-650-M",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "650 W",
+    "Length": "169 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@24A,+5V@22A,+12V@54A,-12V@0.5A,+5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pjzv6h/rosewill-power-supply-capstone650m"
+}

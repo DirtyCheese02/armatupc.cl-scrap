@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake TurboFan 50 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "A2492",
+    "Size": "120 mm",
+    "Color": "Red / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1400 RPM",
+    "Airflow": "50 CFM",
+    "Noise Level": "17 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[TurboFan, bullet-shaped fan hub, for improved air flow, Connects directly to Power Supply, Application for DC 12V, UL, CE approved]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z3Lypg/thermaltake-case-fan-a2492"
+}

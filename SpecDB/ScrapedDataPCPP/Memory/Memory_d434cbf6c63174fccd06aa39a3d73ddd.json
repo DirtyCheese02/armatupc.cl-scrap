@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Apollo RGB 32 GB (2 x 16 GB) DDR4-4000 CL17 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "BL.9BWWR.241",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver / Black",
+    "First Word Latency": "8.5 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "Timing": "17-17-17-37",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p8mmP6/acer-predator-apollo-32-gb-2-x-16-gb-ddr4-4000-cl17-memory-bl9bwwr241"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC P12 PST A-RGB 0dB 48.8 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "ARCTIC",
+    "Model": "P12 PST A-RGB 0dB",
+    "Part #": "ACFAN00232A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "Airflow": "48.8 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.85 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FQ6p99/arctic-p12-pst-a-rgb-0db-488-cfm-120-mm-fans-3-pack-acfan00232a"
+}

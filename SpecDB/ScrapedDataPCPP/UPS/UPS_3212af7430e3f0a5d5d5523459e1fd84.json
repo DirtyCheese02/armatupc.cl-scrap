@@ -1,0 +1,21 @@
+{
+    "name": "APC SMC1000I-2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMC1000I-2U",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay, Battery Failure]",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Protection Type": "[Surge, Spike, Lightning]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FNNypg/apc-ups-smc1000i2u"
+}

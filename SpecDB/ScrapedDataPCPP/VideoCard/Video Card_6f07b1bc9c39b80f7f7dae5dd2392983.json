@@ -1,0 +1,23 @@
+{
+    "name": "MSI GAMING X GeForce GTX 1660 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GTX 1660 GAMING X 6G, G1660GX6, GEFORCE GTX 1660 GAMING X 6G, 912-V379-009, V379-001R]",
+    "Chipset": "GeForce GTX 1660",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1860 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "247 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wfNv6h/msi-geforce-gtx-1660-6-gb-gaming-x-video-card-gtx-1660-gaming-x-6g"
+}

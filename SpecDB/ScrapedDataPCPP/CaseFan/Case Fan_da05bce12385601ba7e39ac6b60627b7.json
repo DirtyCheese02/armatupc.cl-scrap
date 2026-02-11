@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake CT140 ARGB Sync 77.37 CFM 140 mm Fans 2-Pack",
+    "Manufacturer": "Thermaltake",
+    "Model": "CT140 ARGB Sync",
+    "Part #": "CL-F150-PL14SW-A",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "77.37 CFM",
+    "Noise Level": "30.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w9WJ7P/thermaltake-ct140-argb-sync-7737-cfm-140-mm-fans-2-pack-cl-f150-pl14sw-a"
+}

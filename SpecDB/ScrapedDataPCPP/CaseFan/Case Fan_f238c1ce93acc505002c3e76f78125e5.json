@@ -1,0 +1,19 @@
+{
+    "name": "Scythe Kaze Flex 67.2 CFM 140 mm Fan",
+    "Manufacturer": "Scythe",
+    "Model": "Kaze Flex",
+    "Part #": "KF1425FD12R-P",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1200 RPM",
+    "Airflow": "16.8 - 67.2 CFM",
+    "Noise Level": "4.19 - 19.4 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "1.25 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FbQfrH/scythe-kaze-flex-672-cfm-140-mm-fan-kf1425fd12r-p"
+}

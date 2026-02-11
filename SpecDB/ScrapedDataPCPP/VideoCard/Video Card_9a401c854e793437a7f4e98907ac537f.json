@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCGGT7201D3LXPB GeForce GT 720 1 GB PCIe x8 Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGGT7201D3LXPB",
+    "Chipset": "GeForce GT 720",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "797 MHz",
+    "Effective Memory Clock": "1600 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "114 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9dNp99/pny-video-card-vcggt7201d3lxpb"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SMART3000RM2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART3000RM2U",
+    "Capacity (W)": "2250 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Over Voltage, Under Voltage]",
+    "Receptacles": "[4 x NEMA 5-15R, 4 x NEMA L5-30R, 1 x NEMA 5-20R]",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xD8H99/tripp-lite-ups-smart3000rm2u"
+}

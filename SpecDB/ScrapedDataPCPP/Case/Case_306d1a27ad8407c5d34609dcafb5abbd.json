@@ -1,0 +1,20 @@
+{
+    "name": "Antec Sonata Proto ATX Mid Tower Case",
+    "Manufacturer": "Antec",
+    "Part #": "Sonata Proto",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, Thin Mini ITX]",
+    "Maximum Video Card Length": "[267 mm, 10.512\"]",
+    "Drive Bays": "[3 x External 5.25\", 2 x External 3.5\", 4 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "120 mm",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[462 mm x 205 mm x 424 mm, 18.189\" x 8.071\" x 16.693\"]",
+    "Volume": "[40.157 L, 1.418 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hTh9TW/antec-case-sonataproto"
+}

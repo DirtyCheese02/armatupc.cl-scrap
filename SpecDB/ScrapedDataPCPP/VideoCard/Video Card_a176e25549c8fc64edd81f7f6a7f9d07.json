@@ -1,0 +1,20 @@
+{
+    "name": "PNY VCNRTXA1000LP-PB RTX A1000 8 GB PCIe x8 Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTXA1000LP-PB",
+    "Chipset": "RTX A1000",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Boost Clock": "1460 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "163 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZzTZxr/pny-vcnrtxa1000lp-pb-rtx-a1000-8-gb-pcie-x8-video-card-vcnrtxa1000lp-pb"
+}

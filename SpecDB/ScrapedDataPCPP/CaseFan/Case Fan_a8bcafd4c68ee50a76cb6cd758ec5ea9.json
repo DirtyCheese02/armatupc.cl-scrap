@@ -1,0 +1,20 @@
+{
+    "name": "Noctua F12 industrialPPC-3000 PWM 109.89 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "F12 industrialPPC-3000 PWM",
+    "Part #": "[NF-F12 industrialPPC-3000 PWM, NF-F12 iPPC-3000 PWM, NF-F12 PPC 3000 PWM]",
+    "Size": "120 mm",
+    "Color": "Brown / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "750 - 3000 RPM",
+    "Airflow": "109.89 CFM",
+    "Noise Level": "43.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "7.63 mmH₂O",
+    "Bearing Type": "SSO2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Mb4gXL/noctua-case-fan-nff12industrialppc3000pwm"
+}

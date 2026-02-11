@@ -1,0 +1,15 @@
+{
+    "name": "Transcend aXeRAM 8 GB (2 x 4 GB) DDR3-2000 CL9 Memory",
+    "Manufacturer": "Transcend",
+    "Part #": "TX2000KLN-8GK",
+    "Speed": "DDR3-2000",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / White",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.6 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YKtCmG/transcend-memory-tx2000kln8gk"
+}

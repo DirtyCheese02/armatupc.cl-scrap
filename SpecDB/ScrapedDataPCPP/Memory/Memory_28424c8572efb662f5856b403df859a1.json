@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB 32 GB (4 x 8 GB) DDR4-3333 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMR32GX4M4C3333C16",
+    "Speed": "DDR4-3333",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.601 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sCH48d/corsair-vengeance-rgb-32gb-4-x-8gb-ddr4-3333-memory-cmr32gx4m4c3333c16"
+}

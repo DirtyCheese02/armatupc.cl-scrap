@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D Twin X2 OC GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N50702-12D7X-195064N",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2325 MHz",
+    "Boost Clock": "2542 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "250 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZXkqqs/inno3d-twin-x2-oc-geforce-rtx-5070-12-gb-video-card-n50702-12d7x-195064n"
+}

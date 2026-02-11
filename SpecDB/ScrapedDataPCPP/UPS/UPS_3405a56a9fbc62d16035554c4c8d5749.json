@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite SU2200XLA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU2200XLA",
+    "Capacity (W)": "1600 W",
+    "Capacity (VA)": "2200 VA",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Dataline Protection": "RJ-45",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA 5-15/20R, 1 x NEMA L5-20R]",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2qkwrH/tripp-lite-ups-su2200xla"
+}

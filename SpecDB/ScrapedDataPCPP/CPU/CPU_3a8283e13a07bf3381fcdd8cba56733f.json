@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X4 840 3.2 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDX840WFGMBOX",
+    "Series": "AMD Phenom II X4",
+    "Microarchitecture": "K10",
+    "Core Family": "Deneb",
+    "Socket": "AM3",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QCXfrH/amd-cpu-hdx840wfgmbox"
+}

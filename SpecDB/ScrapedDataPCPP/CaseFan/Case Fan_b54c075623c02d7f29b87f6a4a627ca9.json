@@ -1,0 +1,16 @@
+{
+    "name": "PREYON Falcon Eye 49 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "PREYON",
+    "Part #": "PEE1203B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1800 RPM",
+    "Airflow": "49 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZHJBD3/preyon-falcon-eye-49-cfm-120-mm-fans-3-pack-pee1203b"
+}

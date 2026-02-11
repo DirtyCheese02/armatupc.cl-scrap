@@ -1,0 +1,18 @@
+{
+    "name": "Scythe Kaze Flex ARGB 51.17 CFM 120 mm Fan",
+    "Manufacturer": "Scythe",
+    "Part #": "KF1225FD12AR-P",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1200 RPM",
+    "Airflow": "16.6 - 51.17 CFM",
+    "Noise Level": "4 - 24.9 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.05 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YVNxFT/scythe-kaze-flex-argb-5117-cfm-120-mm-fan-kf1225fd12ar-p"
+}

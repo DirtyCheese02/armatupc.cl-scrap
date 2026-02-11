@@ -1,0 +1,22 @@
+{
+    "name": "Zalman 1250 Platinum 1250 W 80+ Platinum Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Zalman",
+    "Part #": "1250 Platinum",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "1250 W",
+    "Length": "199 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "9",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@45A, +12V2@65A, -12V@0.8A, +5VSB@4.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8GphP6/zalman-1250-platinum-1250-w-80-platinum-certified-semi-modular-atx-power-supply-1250-platinum"
+}

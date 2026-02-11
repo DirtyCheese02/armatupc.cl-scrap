@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite OMNISMART1400PNP UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNISMART1400PNP",
+    "Capacity (W)": "940 W",
+    "Capacity (VA)": "1400 VA",
+    "Alarm": "Power Failure",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g8KhP6/tripp-lite-ups-omnismart1400pnp"
+}

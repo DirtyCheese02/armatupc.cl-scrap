@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker ELoop B 88.46 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "NB-ELoop B12-4",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2400 RPM",
+    "Airflow": "88.46 CFM",
+    "Noise Level": "34 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GfXfrH/noiseblocker-nb-eloop-b12-4-8846-cfm-120-mm-fan-nb-eloop-b12-4"
+}

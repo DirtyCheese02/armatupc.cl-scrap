@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill NS 4 GB (1 x 4 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1333C9S-4GNS",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yL3RsY/gskill-memory-f31333c9s4gns"
+}

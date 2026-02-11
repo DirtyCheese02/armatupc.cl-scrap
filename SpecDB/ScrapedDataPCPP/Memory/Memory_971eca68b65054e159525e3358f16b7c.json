@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 RGB 48 GB (2 x 24 GB) DDR5-6800 CL32 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6800J3239F24GX2-TZ5RK",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Price / GB": "$18.435",
+    "Color": "Black",
+    "First Word Latency": "9.412 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.35 V",
+    "Timing": "32-39-39-108",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XqgZxr/gskill-trident-z5-rgb-48-gb-2-x-24-gb-ddr5-6800-cl32-memory-f5-6800j3239f24gx2-tz5rk"
+}

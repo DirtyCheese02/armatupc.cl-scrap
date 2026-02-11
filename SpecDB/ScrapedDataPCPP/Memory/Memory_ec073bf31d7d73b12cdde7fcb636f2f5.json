@@ -1,0 +1,16 @@
+{
+    "name": "Kingston ValueRAM 16 GB (1 x 16 GB) DDR4-2400 CL17 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR24E17D8/16",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$8.562",
+    "Color": "Green",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ygJtt6/kingston-valueram-16gb-1-x-16gb-ddr4-2400-memory-kvr24e17d816"
+}

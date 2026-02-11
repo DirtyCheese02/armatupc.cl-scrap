@@ -1,0 +1,22 @@
+{
+    "name": "Palit Dual OC GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE63060T19K9-190AD",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Effective Memory Clock": "1837 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "245 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G6XJ7P/palit-geforce-rtx-3060-12-gb-dual-oc-video-card-ne63060t19k9-190ad"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Jonsbo ZG 60.45 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Jonsbo",
+    "Part #": "ZG-120W(3 in 1)",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "20.1 - 60.45 CFM",
+    "Noise Level": "23.8 - 29.3 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.29 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T9cgXL/jonsbo-zg-6045-cfm-120-mm-fans-3-pack-zg-120w3-in-1"
+}

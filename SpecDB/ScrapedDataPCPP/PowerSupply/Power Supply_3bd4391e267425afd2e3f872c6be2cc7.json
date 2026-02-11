@@ -1,0 +1,22 @@
+{
+    "name": "EVGA Classified SR-2 1200 W 80+ Silver Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Part #": "100-PS-1200-GR",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "1200 W",
+    "Length": "200 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "12",
+    "PCIe 6-pin Connectors": "3",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@25A, +5V@30A, +12V1@38A, +12V2@38A, +12V3@38A, +12V4@38A, +12V5@38A, +12V6@38A, -12V@0.5A, +5VSB@6.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KLTmP6/evga-classified-sr-2-1200-w-80-silver-certified-fully-modular-atx-power-supply-100-ps-1200-gr"
+}

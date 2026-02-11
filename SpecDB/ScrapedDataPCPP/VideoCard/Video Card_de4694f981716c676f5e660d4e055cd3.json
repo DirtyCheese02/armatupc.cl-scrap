@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-50901-10M GeForce GTX 560 SE 1 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-50901-10M",
+    "Chipset": "GeForce GTX 560 SE",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "746 MHz",
+    "Effective Memory Clock": "3828 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "236 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C3xfrH/zotac-video-card-zt5090110m"
+}

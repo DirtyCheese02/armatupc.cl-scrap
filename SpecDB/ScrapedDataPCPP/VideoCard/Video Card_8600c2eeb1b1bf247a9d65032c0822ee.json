@@ -1,0 +1,22 @@
+{
+    "name": "PNY VCGGTX480XPB GeForce GTX 480 1.5 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGGTX480XPB",
+    "Chipset": "GeForce GTX 480",
+    "Memory": "1.5 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "3696 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/84W9TW/pny-video-card-vcggtx480xpb"
+}

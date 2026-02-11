@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 64 GB (2 x 32 GB) DDR4-4266 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4266C19D-64GTRS",
+    "Speed": "DDR4-4266",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Silver",
+    "First Word Latency": "8.908 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.5 V",
+    "Timing": "19-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rsvdnQ/gskill-trident-z-royal-64-gb-2-x-32-gb-ddr4-4266-cl19-memory-f4-4266c19d-64gtrs"
+}

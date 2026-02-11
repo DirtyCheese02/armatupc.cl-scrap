@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Proline 32 GB (1 x 32 GB) DDR4-2933 SODIMM CL22 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MPL4T320NF32G28",
+    "Speed": "DDR4-2933",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "First Word Latency": "15.002 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "Timing": "22-22-22-52",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vpC48d/mushkin-proline-32-gb-1-x-32-gb-ddr4-2933-cl22-memory-mpl4t320nf32g28"
+}

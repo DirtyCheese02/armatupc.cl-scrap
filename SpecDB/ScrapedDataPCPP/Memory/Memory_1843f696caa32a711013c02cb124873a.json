@@ -1,0 +1,15 @@
+{
+    "name": "OCZ Platinum 4 GB (2 x 2 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZ3P1600C9ELV4GK",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XLR48d/ocz-memory-ocz3p1600c9elv4gk"
+}

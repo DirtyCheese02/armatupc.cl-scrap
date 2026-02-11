@@ -1,0 +1,21 @@
+{
+    "name": "Inter-Tech Argus APS 720 W ATX Power Supply",
+    "Manufacturer": "Inter-Tech",
+    "Part #": "88882119",
+    "Type": "ATX",
+    "Wattage": "720 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Color": "Black / Orange",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/F2kH99/inter-tech-argus-aps-720-w-atx-power-supply-88882119"
+}

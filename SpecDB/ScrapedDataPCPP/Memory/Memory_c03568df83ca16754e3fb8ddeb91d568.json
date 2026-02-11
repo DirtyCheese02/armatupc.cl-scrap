@@ -1,0 +1,16 @@
+{
+    "name": "GeIL GS416GB2133C15DC 16 GB (2 x 8 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GS416GB2133C15DC",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h7CD4D/geil-16gb-2-x-8gb-ddr4-2133-memory-gs416gb2133c15dc"
+}

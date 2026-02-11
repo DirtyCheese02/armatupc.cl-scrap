@@ -1,0 +1,17 @@
+{
+    "name": "BGears b-Blaster 308 CFM 140 mm Fan",
+    "Manufacturer": "BGears",
+    "Part #": "b-Blaster 140x38",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "5200 RPM",
+    "Airflow": "308 CFM",
+    "Noise Level": "70 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tQK2FT/bgears-b-blaster-140x38-308-cfm-140-mm-fan-b-blaster-140x38"
+}

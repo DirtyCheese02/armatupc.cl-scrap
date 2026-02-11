@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-8000 CL38 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-8000J3848H16GX2-TZ5RS",
+    "Speed": "DDR5-8000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$17.187",
+    "Color": "Silver / Black",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.45 V",
+    "Timing": "38-38-48-128",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YzbTwP/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-8000-cl38-memory-f5-8000j3848h16gx2-tz5rs"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB Pro 128 GB (4 x 32 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMW128GX4M4D3000C16",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mn848d/corsair-vengeance-rgb-pro-128-gb-4-x-32-gb-ddr4-3000-memory-cmw128gx4m4d3000c16"
+}

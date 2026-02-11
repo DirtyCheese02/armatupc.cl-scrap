@@ -1,0 +1,23 @@
+{
+    "name": "PNY EPIC-X RGB OC GeForce RTX 5060 Ti 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG5060T8TFXXPB1-O",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2407 MHz",
+    "Boost Clock": "2692 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "297 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xcgZxr/pny-epic-x-rgb-oc-geforce-rtx-5060-ti-8-gb-video-card-vcg5060t8tfxxpb1-o"
+}

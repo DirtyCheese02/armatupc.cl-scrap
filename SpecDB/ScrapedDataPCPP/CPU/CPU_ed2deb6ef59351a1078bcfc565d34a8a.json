@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X2 B59 3.4 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDXB59WFK2DGM",
+    "Series": "AMD Phenom II X2",
+    "Microarchitecture": "K10",
+    "Core Family": "Callisto",
+    "Socket": "AM3",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.4 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "80 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nFfmP6/amd-cpu-hdxb59wfk2dgm"
+}

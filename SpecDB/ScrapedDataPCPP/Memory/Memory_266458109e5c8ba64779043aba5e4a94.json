@@ -1,0 +1,16 @@
+{
+    "name": "Klevv BOLT 8 GB (1 x 8 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KM4B8GX1A-3000-15-16-16-36-0",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3XVD4D/klevv-bolt-8gb-1-x-8gb-ddr4-3000-memory-km4b8gx1a-3000-15-16-16-36-0"
+}

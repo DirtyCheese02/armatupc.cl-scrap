@@ -1,0 +1,16 @@
+{
+    "name": "GeIL GS48GB2133C15SC 8 GB (1 x 8 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GS48GB2133C15SC",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yWrmP6/geil-8gb-1-x-8gb-ddr4-2133-memory-gs48gb2133c15sc"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F120 RGB DUO 48.58 CFM 120 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F120 RGB DUO",
+    "Part #": "RF-D12SF-B1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "48.58 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "2.42 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k8Fbt6/nzxt-f120-rgb-duo-4858-cfm-120-mm-fan-rf-d12sf-b1"
+}

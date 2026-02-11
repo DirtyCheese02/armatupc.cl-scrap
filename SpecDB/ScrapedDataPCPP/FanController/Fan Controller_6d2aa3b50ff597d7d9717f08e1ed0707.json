@@ -1,0 +1,12 @@
+{
+    "name": "Aerocool Strike-X-X1000 Fan Controller",
+    "Manufacturer": "Aerocool",
+    "Model": "Strike-X-X1000",
+    "Part #": "EN55536",
+    "Channels": "5",
+    "Channel Wattage": "25 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "5.25\"",
+    "Features": "[Controls 5 sets of fans, LED to indicate power or problem, Support up to maximum 25W per fan channel., Fans can be turned off (0 RPM) completely., Safaty fuse built in to prevent damage to PCB from over powering., Overheating alarm., USB 3.0 x 2 or USB 2.0 x 2 / Audio & Mic.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YD4NnQ/aerocool-fan-controller-en55536"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Zotac GAMING Trinity OC GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-D40900Q-10P",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Boost Clock": "2535 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "356 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yTP8TW/zotac-gaming-trinity-oc-geforce-rtx-4090-24-gb-video-card-zt-d40900q-10p"
+}

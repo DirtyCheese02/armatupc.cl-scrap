@@ -1,0 +1,22 @@
+{
+    "name": "Palit Dual GeForce RTX 5050 8 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE65050019P1-GB2070D",
+    "Chipset": "GeForce RTX 5050",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2317 MHz",
+    "Boost Clock": "2572 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "262 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XpDnTW/palit-dual-geforce-rtx-5050-8-gb-video-card-ne65050019p1-gb2070d"
+}

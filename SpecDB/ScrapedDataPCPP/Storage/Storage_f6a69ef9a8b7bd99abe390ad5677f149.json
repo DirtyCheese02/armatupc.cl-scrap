@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M6M PX-64M6M 64 GB mSATA Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Model": "M6M PX-64M6M",
+    "Part #": "PX-64M6M",
+    "Capacity": "64 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9188",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mvzv6h/plextor-internal-hard-drive-px64m6m"
+}

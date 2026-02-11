@@ -1,0 +1,22 @@
+{
+    "name": "APC SURT1000XLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURT1000XLI",
+    "Capacity (W)": "700 W",
+    "Capacity (VA)": "1000 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "10.20 Minutes",
+    "Backup/Run Time (Half Load)": "24.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[6 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "Switching Time": "0",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6tJkcf/apc-ups-surt1000xli"
+}

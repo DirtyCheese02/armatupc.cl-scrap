@@ -1,0 +1,12 @@
+{
+    "name": "TRENDnet TEW-664UB 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-664UB",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP (Hex & ASCII), WPA/WPA2 (TKIP/AES), WPA-PSK/WPA2-PSK, WPS.",
+    "Antenna": "Built-in 2 on board antennas",
+    "Operating Range": "Indoor: Up to 50m, Outdoor: Up to 100m",
+    "Features": "[Power Consumption: Receive mode: 300mA (max) ; Transmit mode : 450mA (max), Certification: FCC, CE, Output Power: 802.11a: 10dBm (typical), 802.11b: 16dBm (typical), 802.11g: 13dBm (typical), 802.11n : 13dBm (typical), Receiving Sensitivity: 802.11b: -86dBm at 11Mbps, 802.11g: -71dBm at 54Mbps, 802.11a: -70dBm at 54Mbps, 802.11n: -66dBm at 300Mbps, 802.11a: -69dBm at 300Mbps, Wi-Fi compliant with IEEE 802.11n standard., Supports Ad-Hoc (Client-Client) and Infrastructure (AP-Client) Mode., Supports Multiple Input Multiple Output (MIMO) technology., Wi-Fi Multimedia (WMM) Quality of Service (QoS) supported.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K94gXL/trendnet-wireless-network-card-tew664ub"
+}

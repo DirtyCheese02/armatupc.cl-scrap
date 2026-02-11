@@ -1,0 +1,22 @@
+{
+    "name": "Yeston Sakura GeForce RTX 4070 SUPER 12 GB Video Card",
+    "Manufacturer": "Yeston",
+    "Part #": "RTX4070 Super-12GD6X SA",
+    "Chipset": "GeForce RTX 4070 SUPER",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1980 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Blue",
+    "Frame Sync": "G-Sync",
+    "Length": "330 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fxhv6h/yeston-sakura-geforce-rtx-4070-super-12-gb-video-card-rtx4070-super-12gd6x-sa"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Philips BDM4065UC 40.0\" 3840 x 2160 60 Hz Monitor",
+    "Manufacturer": "Philips",
+    "Part #": "BDM4065UC",
+    "Screen Size": "40\"",
+    "Resolution": "3840 x 2160",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "3 ms",
+    "Panel Type": "VA",
+    "Aspect Ratio": "16:9",
+    "Brightness": "300 cd/m²",
+    "Pixel Pitch": "0.231 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "Yes",
+    "Viewing Angle": "176° H x 176° V",
+    "Contrast Ratio": "DC 50,000,000:1 (5000:1)",
+    "Inputs": "[1 x DisplayPort, 1 x Mini-DisplayPort, 2 x HDMI, 1 x VGA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YVcMnQ/philips-monitor-bdm4065uc"
+}

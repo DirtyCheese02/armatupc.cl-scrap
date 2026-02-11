@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS XTREME WATERFORCE GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N3080AORUSX W-12GD",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1830 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "252 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "240 mm Radiator",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8NTp99/gigabyte-geforce-rtx-3080-12gb-lhr-12-gb-aorus-xtreme-waterforce-video-card-gv-n3080aorusx-w-12gd"
+}

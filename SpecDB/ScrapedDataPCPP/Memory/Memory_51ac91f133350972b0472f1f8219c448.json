@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX16S9P1K2/16 16 GB (2 x 8 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX16S9P1K2/16",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Gray / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ssTmP6/kingston-memory-khx16s9p1k216"
+}

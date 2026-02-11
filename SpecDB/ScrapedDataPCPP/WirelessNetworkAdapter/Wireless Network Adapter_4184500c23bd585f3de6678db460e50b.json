@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WDN4800 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WDN4800",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128 bit WEP, WPA-PSK/WPA2-PSK,802.1x",
+    "Antenna": "3 x 2dBi Omni Directional, Detachable (RP-SMA)",
+    "Features": "[Wireless Modes: Ad-Hoc / Infrastructure mode, Achieves a maximum theoretical throughput of up to 450Mbps, Seamlessly compatible with 802.11a/b/g/n products, Experience smoother video streaming and online gaming by choosing the clearer 5GHz band for wireless connections, Bundled utility provides quick & hassle-free installation.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G4H323/tp-link-wireless-network-card-tlwdn4800"
+}

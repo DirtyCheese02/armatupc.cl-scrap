@@ -1,0 +1,21 @@
+{
+    "name": "Asus GT710-4H-SL-2GD5 GeForce GT 710 2 GB PCIe x1 Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[GT710-4H-SL-2GD5, 90YV0E60-M0NA00]",
+    "Chipset": "GeForce GT 710",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "954 MHz",
+    "Effective Memory Clock": "5012 MHz",
+    "Interface": "PCIe x1",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "167 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P2CFf7/asus-geforce-gt-710-2-gb-video-card-gt710-4h-sl-2gd5"
+}

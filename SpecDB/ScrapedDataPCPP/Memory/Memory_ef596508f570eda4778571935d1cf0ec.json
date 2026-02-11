@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator 4 GB (2 x 2 GB) DDR3-1600 CL8 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMP4GX3M2A1600C8",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.65 V",
+    "Timing": "8-8-8-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GvGkcf/corsair-memory-cmp4gx3m2a1600c8"
+}

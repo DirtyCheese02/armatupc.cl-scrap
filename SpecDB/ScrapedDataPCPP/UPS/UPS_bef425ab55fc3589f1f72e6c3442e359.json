@@ -1,0 +1,18 @@
+{
+    "name": "APC BK500EI UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK500EI",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "2.40 Minutes",
+    "Backup/Run Time (Half Load)": "13.90 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[2 x IEC 320-C13, 3 x IEC 320-C13, 1]",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6d648d/apc-ups-bk500ei"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Noctua R8 PWM 31.37 CFM 80 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "R8 PWM",
+    "Part #": "NF-R8 PWM",
+    "Size": "80 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1800 RPM",
+    "Airflow": "23.19 - 31.37 CFM",
+    "Noise Level": "10.19 - 17.1 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.41 mmH₂O",
+    "Bearing Type": "SSO-Bearing (Self-stabilising oil-presure bearing)",
+    "Features": "[Raised Blade Design, SSO Bearing ( Self-stabilizing Oil-pressure bearing ) design.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cWFPxr/noctua-nf-r8-pwm-3137-cfm-80-mm-fan-nf-r8-pwm"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "SK Hynix HMA451U6AFR8N-TF 4 GB (1 x 4 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "SK Hynix",
+    "Part #": "HMA451U6AFR8N-TF",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QkvZxr/sk-hynix-4gb-1-x-4gb-ddr4-2133-memory-hma451u6afr8n-tf"
+}

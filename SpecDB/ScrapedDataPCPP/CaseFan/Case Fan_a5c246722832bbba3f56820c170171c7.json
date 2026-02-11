@@ -1,0 +1,15 @@
+{
+    "name": "SilentiumPC Fluctus 120 mm Fan",
+    "Manufacturer": "SilentiumPC",
+    "Part #": "SPC316",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1800 RPM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/n8TFf7/silentiumpc-fluctus-120-mm-fan-spc316"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "APC SURTA3000RMXL UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTA3000RMXL",
+    "Capacity (W)": "2100 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "3U",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "14.10 Minutes",
+    "Backup/Run Time (Half Load)": "33.90 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA 5-15R, 2 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RBbkcf/apc-ups-surta3000rmxl"
+}

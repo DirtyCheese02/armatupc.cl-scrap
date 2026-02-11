@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-4266 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK16GX4M2K4266C16",
+    "Speed": "DDR4-4266",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "7.501 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.5 V",
+    "Timing": "16-22-22-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VmgQzy/corsair-vengeance-lpx-16-gb-2-x-8-gb-ddr4-4266-memory-cmk16gx4m2k4266c16"
+}

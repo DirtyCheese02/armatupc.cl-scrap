@@ -1,0 +1,16 @@
+{
+    "name": "Logitech BRIO STREAM Webcam",
+    "Manufacturer": "Logitech",
+    "Model": "BRIO STREAM",
+    "Part #": "960-001194",
+    "Resolution": "[4k, 1080p, 720p]",
+    "Connection": "USB 3.2 Gen 1 Type-A",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X, ChromeOS]",
+    "FOV Angle": "90°",
+    "Digital Zoom": "5X",
+    "Privacy Shutter": "Yes",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jkxxFT/logitech-brio-stream-webcam-960-001194"
+}

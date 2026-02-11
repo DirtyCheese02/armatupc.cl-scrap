@@ -1,0 +1,20 @@
+{
+    "name": "ATI 100-505648 FirePro V5900 2 GB Video Card",
+    "Manufacturer": "ATI",
+    "Part #": "100-505648",
+    "Chipset": "FirePro V5900",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lz3RsY/ati-video-card-100505648"
+}

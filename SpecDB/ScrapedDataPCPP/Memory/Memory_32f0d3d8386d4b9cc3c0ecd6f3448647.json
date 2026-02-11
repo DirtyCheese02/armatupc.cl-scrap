@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Z1 32 GB (4 x 8 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX4U2133W8G15-QRZ",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Red / Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6v8Zxr/a-data-memory-ax4u2133w8g15qrz"
+}

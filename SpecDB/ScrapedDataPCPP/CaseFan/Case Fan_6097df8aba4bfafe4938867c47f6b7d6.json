@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-B-S 69 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "[TL-B12-S, TL-B12-S 1P]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2150 RPM",
+    "Airflow": "69 CFM",
+    "Noise Level": "28.1 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.87 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bfjRsY/thermalright-tl-b-s-69-cfm-120-mm-fan-tl-b12-s"
+}

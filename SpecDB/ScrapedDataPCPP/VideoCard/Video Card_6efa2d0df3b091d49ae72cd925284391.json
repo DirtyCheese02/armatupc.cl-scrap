@@ -1,0 +1,21 @@
+{
+    "name": "Zotac ZT-71103-10L GeForce GT 730 2 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-71103-10L",
+    "Chipset": "GeForce GT 730",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "Frame Sync": "None",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gv648d/zotac-video-card-zt7110310l"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Supermicro AOC-SG-i2 2 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "Manufacturer": "Supermicro",
+    "Part #": "AOC-SG-i2",
+    "Interface": "PCIe x4",
+    "Features": "[Low-profile standard form factor, Intel I/O AT to improve CPU utilization, MSI-X support to minimize the overhead of interrupts and allow load balancing of interrupt handling between different CPUs/cores, Low-latency interrups, Support caches up to 64 packets descriptors per queue, Support for transmission and reception of packets up to 9.5KBs (Jumbo Frames), IEEE 802.3 auto-negotiation, IEEE 802.3 compliant flow-control support, VMDq for virtualized environments, Direct Cache Access (DCA), Tx/Rx IP, TCP, and UDP checksum offloading (IPv4, IPV6) capabilities, Tx TCP segmentation offloading (IPv4, IPv6), iSCSI boot, Supported cable length is more than 100 meters, Supported OS: Windows, Linux, VMWare, FreeBSD, Netware]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cTGkcf/supermicro-wired-network-card-aocsgi2"
+}

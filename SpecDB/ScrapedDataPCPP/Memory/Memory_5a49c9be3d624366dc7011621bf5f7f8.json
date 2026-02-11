@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Beast 16 GB (2 x 8 GB) DDR5-4800 CL38 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF548C38BBK2-16",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "15.833 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9fgFf7/kingston-fury-beast-16-gb-2-x-8-gb-ddr5-4800-cl38-memory-kf548c38bbk2-16"
+}

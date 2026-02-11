@@ -1,0 +1,21 @@
+{
+    "name": "Sparkle FSP350-60GNV 350 W SFX Power Supply",
+    "Manufacturer": "Sparkle",
+    "Part #": "FSP350-60GNV",
+    "Type": "SFX",
+    "Wattage": "350 W",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@18A,+5V@18A,+12V1@9A,+12V2@16A,-12V@0.5A,+5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K2sKHx/sparkle-fsp350-60gnv-350-w-sfx-power-supply-fsp350-60gnv"
+}

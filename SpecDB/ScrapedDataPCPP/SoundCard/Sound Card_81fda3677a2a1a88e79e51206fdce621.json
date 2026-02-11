@@ -1,0 +1,11 @@
+{
+    "name": "StarTech PCISOUND5CH 24-bit 48 kHz Sound Card",
+    "Manufacturer": "StarTech",
+    "Part #": "PCISOUND5CH",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Sample Rate": "48 kHz",
+    "Chipset": "C-Media CMI8738",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h8Gkcf/startech-sound-card-pcisound5ch"
+}

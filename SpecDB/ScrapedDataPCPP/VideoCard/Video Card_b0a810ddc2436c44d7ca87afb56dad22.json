@@ -1,0 +1,23 @@
+{
+    "name": "EVGA XC3 BLACK GAMING GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "12G-P5-4861-KL",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1710 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "285 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H6gFf7/evga-xc3-black-gaming-geforce-rtx-3080-12gb-lhr-12-gb-video-card-12g-p5-4861-kl"
+}

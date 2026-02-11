@@ -1,0 +1,16 @@
+{
+    "name": "Silicon Power XPOWER Storm RGB 64 GB (2 x 32 GB) DDR5-7200 CL34 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP064GXLWU720FDL",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "White",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-42-42-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y7zXsY/silicon-power-xpower-storm-rgb-64-gb-2-x-32-gb-ddr5-7200-cl34-memory-sp064gxlwu720fdl"
+}

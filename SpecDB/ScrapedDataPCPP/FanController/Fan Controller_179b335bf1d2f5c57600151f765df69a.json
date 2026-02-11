@@ -1,0 +1,11 @@
+{
+    "name": "NZXT Sentry Mesh Fan Controller",
+    "Manufacturer": "NZXT",
+    "Part #": "[Sentry Mesh, SEN-MESH]",
+    "Channels": "5",
+    "Channel Wattage": "30 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "5.25\"",
+    "Features": "[Mesh design to camouflage with mesh facade, Five 30W Controls, Easy-to-use sliders]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MLh9TW/nzxt-fan-controller-sentrymesh"
+}

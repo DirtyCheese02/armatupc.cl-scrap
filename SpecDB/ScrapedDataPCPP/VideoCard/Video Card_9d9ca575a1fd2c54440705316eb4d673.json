@@ -1,0 +1,23 @@
+{
+    "name": "XFX PV-T95G-ZNF2 GeForce 9500 GT 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "PV-T95G-ZNF2",
+    "Chipset": "GeForce 9500 GT",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "550 MHz",
+    "Effective Memory Clock": "800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "167 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/scDwrH/xfx-video-card-pvt95gznf2"
+}

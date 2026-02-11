@@ -1,0 +1,17 @@
+{
+    "name": "APC BH500NET UPS",
+    "Manufacturer": "APC",
+    "Part #": "BH500NET",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "4.40 Minutes",
+    "Backup/Run Time (Half Load)": "16.30 Minutes",
+    "Battery Chemistry": "Sealed Valve-regulated Lead Acid (VRLA)",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NFdFf7/apc-ups-bh500net"
+}

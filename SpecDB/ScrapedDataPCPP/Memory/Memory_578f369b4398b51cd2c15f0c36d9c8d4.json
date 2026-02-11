@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Value 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1600C11S-8GNT",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$6.765",
+    "Color": "Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4sDwrH/gskill-memory-f31600c11s8gnt"
+}

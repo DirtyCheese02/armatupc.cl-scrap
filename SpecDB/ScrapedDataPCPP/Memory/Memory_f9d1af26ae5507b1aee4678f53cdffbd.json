@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK32GX5M2B6000C30",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$16.875",
+    "Color": "Black / Gray",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.4 V",
+    "Timing": "30-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JkfxFT/corsair-vengeance-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-cmk32gx5m2b6000c30"
+}

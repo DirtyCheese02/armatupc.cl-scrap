@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N740D3-2GI GeForce GT 740 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N740D3-2GI",
+    "Chipset": "GeForce GT 740",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "993 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "190 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "2",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M6hj4D/gigabyte-video-card-gvn740d32gi"
+}

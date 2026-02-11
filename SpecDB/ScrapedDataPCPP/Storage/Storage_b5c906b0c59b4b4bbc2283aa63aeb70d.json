@@ -1,0 +1,13 @@
+{
+    "name": "VisionTek mSATA 120 GB mSATA Solid State Drive",
+    "Manufacturer": "VisionTek",
+    "Part #": "900611",
+    "Capacity": "120 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yf6BD3/visiontek-internal-hard-drive-900611"
+}

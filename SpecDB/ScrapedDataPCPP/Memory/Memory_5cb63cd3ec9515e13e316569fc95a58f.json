@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH32GX5M2B6000C40W",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$13.656",
+    "Color": "White",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.35 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qDLFf7/corsair-vengeance-rgb-32-gb-2-x-16-gb-ddr5-6000-cl40-memory-cmh32gx5m2b6000c40w"
+}

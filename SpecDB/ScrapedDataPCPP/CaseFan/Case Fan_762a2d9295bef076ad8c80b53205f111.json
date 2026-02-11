@@ -1,0 +1,20 @@
+{
+    "name": "Cooler Master R4-BC8R-18FB-R1 21.7 CFM 80 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "R4-BC8R-18FB-R1",
+    "Size": "80 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "21.7 CFM",
+    "Noise Level": "19 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.62 mmH₂O",
+    "Bearing Type": "Sleeve",
+    "Features": "[Fan Life Expectancy: 30,000 hours, Fan Air Pressure: 1.62 mmH2O ± 10%, Voltage Rating: 12 V DC, Current (Ampere): 0.14A, Power consumption: 1.68W, Connector: 3-pin]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MzQypg/cooler-master-case-fan-r4bc8r18fbr1"
+}

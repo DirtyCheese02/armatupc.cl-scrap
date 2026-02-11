@@ -1,0 +1,8 @@
+{
+    "name": "Rosewill RC-404 Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RC-404",
+    "Interface": "PCI",
+    "Features": "[Jumbo Frame Support: 7680Bytes, Slot: 1 BOOTROM slot, VLAN tagged Ethernet frames support., Contains two independent send and receive large-capacity FIFO buffer., Supports up to 128K-byte Flash memory/Boot-ROM interface., Support the parallel / cross-line automatic identification (Auto MDI / MDIX), simplify network deployment, maintenance., Integrated high-capacity, independent of the send / receive FIFO buffers High integration, high-performance single-chip.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TYvRsY/rosewill-wired-network-card-rc404"
+}

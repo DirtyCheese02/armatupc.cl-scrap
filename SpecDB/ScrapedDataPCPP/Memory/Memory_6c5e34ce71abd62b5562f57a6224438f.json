@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP004GBLTU133N02 4 GB (1 x 4 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP004GBLTU133N02",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Black / Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qycMnQ/silicon-power-memory-sp004gbltu133n02"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E5-2609 2.4 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "CM8062107186604",
+    "Series": "Intel Xeon E5",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge-EP",
+    "Socket": "LGA2011",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.4 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "10 MB",
+    "TDP": "80 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sD4NnQ/intel-cpu-cm8062107186604"
+}

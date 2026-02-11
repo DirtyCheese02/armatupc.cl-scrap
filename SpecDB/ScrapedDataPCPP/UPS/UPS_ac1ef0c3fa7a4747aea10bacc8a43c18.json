@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite ECO900UPSM UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "ECO900UPSM",
+    "Capacity (W)": "480 W",
+    "Capacity (VA)": "900 VA",
+    "Alarm": "[Overload, Power Failure]",
+    "Backup/Run Time (Full Load)": "2.40 Minutes",
+    "Backup/Run Time (Half Load)": "9.20 Minutes",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "[Tower, Desktop, Wall Mountable]",
+    "Input Voltage": "120 V AC",
+    "Output Voltage": "[115 V AC, 120 V AC]",
+    "Protection Type": "[EMI, RFI, Black Out, Transient, Surge, Brownout]",
+    "Receptacles": "12 x NEMA 5-15R",
+    "USB": "Yes",
+    "Waveform Type": "[Pulse-width Modulated Sine Wave, Sine Wave]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2HNypg/tripp-lite-ups-eco900upsm"
+}

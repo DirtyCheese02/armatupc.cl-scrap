@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper Elite 5 32 GB (2 x 16 GB) DDR5-7000 CL38 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "VEB532G7038KW",
+    "Speed": "DDR5-7000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10.857 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.45 V",
+    "Timing": "38-48-48-88",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mf4Pxr/patriot-viper-elite-5-32-gb-2-x-16-gb-ddr5-7000-cl38-memory-veb532g7038kw"
+}

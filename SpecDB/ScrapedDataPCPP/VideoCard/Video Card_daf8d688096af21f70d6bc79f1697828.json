@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS XTREME WATERFORCE GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N5080AORUSX W-16GD",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2805 MHz",
+    "Effective Memory Clock": "30000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "220 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "360 mm Radiator",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xpKnTW/gigabyte-aorus-xtreme-waterforce-geforce-rtx-5080-16-gb-video-card-gv-n5080aorusx-w-16gd"
+}

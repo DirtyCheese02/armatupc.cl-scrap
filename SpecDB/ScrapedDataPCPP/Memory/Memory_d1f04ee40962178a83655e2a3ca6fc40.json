@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 Royal 32 GB (2 x 16 GB) DDR5-8000 CL38 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-8000J3848G16GX2-TR5S",
+    "Speed": "DDR5-8000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$18.750",
+    "Color": "Silver",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.4 V",
+    "Timing": "38-48-48-128",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N4h2FT/gskill-trident-z5-royal-32-gb-2-x-16-gb-ddr5-8000-cl38-memory-f5-8000j3848g16gx2-tr5s"
+}

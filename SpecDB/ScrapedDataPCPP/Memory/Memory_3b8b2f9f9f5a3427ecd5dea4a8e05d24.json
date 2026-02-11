@@ -1,0 +1,16 @@
+{
+    "name": "Silicon Power XPOWER Storm RGB 32 GB (1 x 32 GB) DDR5-8000 CL38 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP032GXLWU800FSL",
+    "Speed": "DDR5-8000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 32GB",
+    "Color": "White",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.45 V",
+    "Timing": "38-48-48-128",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2ncgXL/silicon-power-xpower-storm-rgb-32-gb-1-x-32-gb-ddr5-8000-cl38-memory-sp032gxlwu800fsl"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Yeston Sakura Radeon RX 9070 XT 16 GB Video Card",
+    "Manufacturer": "Yeston",
+    "Part #": "RX9070XT-16GD6-OC-SA",
+    "Chipset": "Radeon RX 9070 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2070 MHz",
+    "Boost Clock": "2700 MHz",
+    "Effective Memory Clock": "20000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Blue",
+    "Frame Sync": "FreeSync",
+    "Length": "342 mm",
+    "TDP": "304 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L9nXsY/yeston-sakura-radeon-rx-9070-xt-16-gb-video-card-rx9070xt-16gd6-oc-sa"
+}

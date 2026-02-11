@@ -1,0 +1,22 @@
+{
+    "name": "PNY RTX A-Series RTX A4000 16 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTXA4000-PB",
+    "Chipset": "RTX A4000",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "735 MHz",
+    "Boost Clock": "1560 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "140 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zQKKHx/pny-rtx-a4000-16-gb-rtx-a-series-video-card-vcnrtxa4000-pb"
+}

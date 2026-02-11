@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F140Q (2022) 101 CFM 140 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F140Q (2022)",
+    "Part #": "RF-Q14SF-B1",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1200 RPM",
+    "Airflow": "42.92 - 101 CFM",
+    "Noise Level": "18 - 23 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/96WzK8/nzxt-f140q-2022-101-cfm-140-mm-fan-rf-q14sf-b1"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Kingston ValueRAM 8 GB (1 x 8 GB) Registered DDR4-2133 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR21R15S4/8HA",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$3.999",
+    "Color": "Black / Green",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rGL7YJ/kingston-memory-kvr21r15s48ha"
+}

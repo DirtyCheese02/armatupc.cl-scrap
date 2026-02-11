@@ -1,0 +1,23 @@
+{
+    "name": "Zotac 880GITX-A-E Mini ITX AM3 Motherboard",
+    "Manufacturer": "Zotac",
+    "Part #": "880GITX-A-E",
+    "Socket / CPU": "AM3",
+    "Form Factor": "Mini ITX",
+    "Chipset": "AMD 880G",
+    "Memory Max": "8 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "2",
+    "Memory Speed": "DDR3-1333",
+    "Color": "Black / Yellow",
+    "PCIe x1 Slots": "1",
+    "SATA 6.0 Gb/s Ports": "4",
+    "Onboard Ethernet": "1 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "2",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "Yes",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hXrG3C/zotac-motherboard-880gitxae"
+}

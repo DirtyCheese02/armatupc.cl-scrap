@@ -1,0 +1,23 @@
+{
+    "name": "CyberPower PR1500LCDRTXL2U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR1500LCDRTXL2U",
+    "Capacity (W)": "1350 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "[Rack-mountable, Tower]",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TQVBD3/cyberpower-ups-pr1500lcdrtxl2u"
+}

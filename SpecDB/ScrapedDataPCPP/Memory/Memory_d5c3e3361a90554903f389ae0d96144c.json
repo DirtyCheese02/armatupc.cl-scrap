@@ -1,0 +1,17 @@
+{
+    "name": "TEAMGROUP T-Create Classic 32 GB (2 x 16 GB) DDR5-6000 CL48 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "CTCCD532G6000HC48DC01",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$12.500",
+    "Color": "Black",
+    "First Word Latency": "16 ns",
+    "CAS Latency": "48",
+    "Voltage": "1.1 V",
+    "Timing": "48-48-48-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KZwmP6/teamgroup-t-create-classic-32-gb-2-x-16-gb-ddr5-6000-cl48-memory-ctccd532g6000hc48dc01"
+}

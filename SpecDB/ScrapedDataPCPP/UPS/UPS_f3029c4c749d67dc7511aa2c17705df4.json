@@ -1,0 +1,16 @@
+{
+    "name": "APC SUA5000RMT5U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA5000RMT5U",
+    "Capacity (W)": "4000 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "5U",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "208 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Receptacles": "[2 x NEMA L6-30R, 2 x NEMA L6-20R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WRGj4D/apc-ups-sua5000rmt5u"
+}

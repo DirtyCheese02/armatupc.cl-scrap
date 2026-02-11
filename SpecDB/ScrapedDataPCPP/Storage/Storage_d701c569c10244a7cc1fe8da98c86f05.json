@@ -1,0 +1,14 @@
+{
+    "name": "Gigabyte AORUS Gen4 7000s 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Gigabyte",
+    "Model": "AORUS Gen4 7000s",
+    "Part #": "GP-AG70S1TB",
+    "Capacity": "1 TB",
+    "Price / GB": "$0.226",
+    "Type": "SSD",
+    "Cache": "1024 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gMpzK8/gigabyte-aorus-gen4-7000s-1-tb-m2-2280-nvme-solid-state-drive-gp-ag70s1tb"
+}

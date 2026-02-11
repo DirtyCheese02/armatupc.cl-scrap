@@ -1,0 +1,19 @@
+{
+    "name": "Noctua P12 redux-1300 54.32 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "P12 redux-1300",
+    "Part #": "NF-P12 REDUX-1300",
+    "Size": "120 mm",
+    "Color": "Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1300 RPM",
+    "Airflow": "54.32 CFM",
+    "Noise Level": "19.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.68 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mtNv6h/noctua-nf-p12-redux-1300-543-cfm-120mm-fan-nf-p12-redux-1300"
+}

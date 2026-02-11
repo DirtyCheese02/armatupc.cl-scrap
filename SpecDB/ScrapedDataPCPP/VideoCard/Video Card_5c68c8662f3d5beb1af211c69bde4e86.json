@@ -1,0 +1,22 @@
+{
+    "name": "MSI N630GT-MD2GD3 GeForce GT 630 2 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N630GT-MD2GD3",
+    "Chipset": "GeForce GT 630",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w3PfrH/msi-video-card-n630gtmd2gd3"
+}

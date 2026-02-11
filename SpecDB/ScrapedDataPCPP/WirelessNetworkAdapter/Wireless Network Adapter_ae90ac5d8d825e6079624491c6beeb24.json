@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-G300LX 802.11b/g PCI Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-G300LX",
+    "Protocol": "Wi-Fi 3",
+    "Interface": "PCI",
+    "Security": "64/128bit WEP WPA WPA2 802.1x, 802.11i, AES, TKIP",
+    "Antenna": "External 2 dBi detachable dipole antenna",
+    "Features": "[Chipset: Ralink 2561T, Media Access Protocol: CSMA/CA (Collision Avoidance) with ACK, Sensitivity: 54Mbps: -68dBm, 11Mbps: -80dBm, Working Mode: Ad-Hoc or Infrastructure, Throughput: 22Mbps@54Mbps; 5.5Mbps@11Mbps, Operating Voltage: 3.3V]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LzQypg/rosewill-wireless-network-card-rnxg300lx"
+}

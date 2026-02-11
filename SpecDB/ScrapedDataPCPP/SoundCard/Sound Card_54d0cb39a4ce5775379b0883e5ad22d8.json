@@ -1,0 +1,11 @@
+{
+    "name": "HT Omega eClaro 24-bit 192 kHz Sound Card",
+    "Manufacturer": "HT Omega",
+    "Part #": "eClaro",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Sample Rate": "192 kHz",
+    "Chipset": "C-Media CMI8788",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7Hckcf/ht-omega-sound-card-eclaro"
+}

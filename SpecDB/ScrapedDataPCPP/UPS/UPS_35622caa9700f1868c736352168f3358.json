@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SMART1500CRMXL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART1500CRMXL",
+    "Capacity (W)": "1440 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "5.50 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tccMnQ/tripp-lite-ups-smart1500crmxl"
+}

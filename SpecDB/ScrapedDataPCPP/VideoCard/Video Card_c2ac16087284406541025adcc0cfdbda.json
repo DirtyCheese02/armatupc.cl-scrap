@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 01G-P3-1526-KR GeForce GT 520 1 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "01G-P3-1526-KR",
+    "Chipset": "GeForce GT 520",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "144 mm",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QnR48d/evga-video-card-01gp31526kr"
+}

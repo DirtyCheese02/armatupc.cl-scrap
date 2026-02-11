@@ -1,0 +1,14 @@
+{
+    "name": "TEAMGROUP Xtreem LV 16 GB (2 x 8 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TXD316G2400HC10QDC01",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7R2kcf/team-memory-txd316g2400hc10qdc01"
+}

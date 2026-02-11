@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal HX100 48 GB (2 x 24 GB) DDR5-6800 CL34 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "B5HX100486834ER2G-BS011",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.35 V",
+    "Timing": "34-46-46-108",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hL9nTW/biwin-black-opal-hx100-48-gb-2-x-24-gb-ddr5-6800-cl34-memory-b5hx100486834er2g-bs011"
+}

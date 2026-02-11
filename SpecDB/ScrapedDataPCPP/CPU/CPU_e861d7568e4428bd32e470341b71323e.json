@@ -1,0 +1,23 @@
+{
+    "name": "AMD A4-3420 2.8 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD3420OJZ22HX",
+    "Series": "AMD A4",
+    "Microarchitecture": "Lynx",
+    "Core Family": "Llano",
+    "Socket": "FM1",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.8 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 6410D",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8HV48d/amd-cpu-ad3420ojz22hx"
+}

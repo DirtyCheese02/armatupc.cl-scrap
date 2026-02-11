@@ -1,0 +1,19 @@
+{
+    "name": "APC SURT6000XLT UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURT6000XLT",
+    "Capacity (W)": "4200 W",
+    "Capacity (VA)": "6000 VA",
+    "Backup/Run Time (Full Load)": "3.30 Minutes",
+    "Backup/Run Time (Half Load)": "11.90 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[2 x NEMA L6-20R, 2 x NEMA L6-30R]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tf8H99/apc-ups-surt6000xlt"
+}

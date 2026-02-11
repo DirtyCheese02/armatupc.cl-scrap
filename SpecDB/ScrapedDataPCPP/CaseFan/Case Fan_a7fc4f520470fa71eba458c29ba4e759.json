@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks M25G2-120 72.72 CFM 120 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "M25G2-120",
+    "Part #": "PH-F120M25_G2_BBK01",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 2000 RPM",
+    "Airflow": "72.72 CFM",
+    "Noise Level": "35.13 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.51 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/f9G2FT/phanteks-m25g2-120-7272-cfm-120-mm-fan-ph-f120m25_g2_bbk01"
+}

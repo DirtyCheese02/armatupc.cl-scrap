@@ -1,0 +1,15 @@
+{
+    "name": "Avexir ROG Red Tesla 8 GB (2 x 4 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD4UZ126661504G-2RDROG",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sDqbt6/avexir-memory-avd4uz126661504g2rdrog"
+}

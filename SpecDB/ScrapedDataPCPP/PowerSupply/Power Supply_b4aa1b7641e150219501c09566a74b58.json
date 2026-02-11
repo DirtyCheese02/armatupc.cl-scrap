@@ -1,0 +1,23 @@
+{
+    "name": "FSP Group FSP220-60LE(80) 220 W 80+ Certified Mini ITX Power Supply",
+    "Manufacturer": "FSP Group",
+    "Part #": "FSP220-60LE(80)",
+    "Type": "Mini ITX",
+    "Efficiency Rating": "80+",
+    "Wattage": "220 W",
+    "Length": "150 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@14A, +5V@16A, +12V1@16A, +12V2@10A, -12V@0.8A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pqzv6h/fsp-group-fsp220-60le80-220-w-80-certified-mini-itx-power-supply-fsp220-60le80"
+}

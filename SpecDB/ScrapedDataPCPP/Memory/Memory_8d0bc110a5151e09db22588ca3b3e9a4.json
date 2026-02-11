@@ -1,0 +1,15 @@
+{
+    "name": "SK Hynix HMT41GU6MFR8C-PB 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "SK Hynix",
+    "Part #": "HMT41GU6MFR8C-PB",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Blue",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P3xbt6/sk-hynix-8-gb-1-x-8-gb-ddr3-1600-cl11-memory-hmt41gu6mfr8c-pb"
+}

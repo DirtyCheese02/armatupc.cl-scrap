@@ -1,0 +1,19 @@
+{
+    "name": "TEAMGROUP T-FORCE RT-X120 71.12 CFM 120 mm Fan",
+    "Manufacturer": "TEAMGROUP",
+    "Model": "T-FORCE RT-X120",
+    "Part #": "TF170602",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2200 RPM",
+    "Airflow": "61.4 - 71.12 CFM",
+    "Noise Level": "27.88 - 39.9 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.62 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zJCZxr/teamgroup-t-force-rt-x120-7112-cfm-120-mm-fan-tf170602"
+}

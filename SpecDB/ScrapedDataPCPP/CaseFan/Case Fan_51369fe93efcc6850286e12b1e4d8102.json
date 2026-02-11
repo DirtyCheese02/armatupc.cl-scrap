@@ -1,0 +1,18 @@
+{
+    "name": "Nidec Servo Gentle Typhoon 68 CFM 120 mm Fan",
+    "Manufacturer": "Nidec Servo",
+    "Model": "Gentle Typhoon",
+    "Part #": "D1225C12B6ZPA",
+    "Size": "120 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 2150 RPM",
+    "Airflow": "20 - 68 CFM",
+    "Noise Level": "15 - 34 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4N648d/nidec-servo-d1225c12b6zpa-680-cfm-120mm-fan-d1225c12b6zpa"
+}

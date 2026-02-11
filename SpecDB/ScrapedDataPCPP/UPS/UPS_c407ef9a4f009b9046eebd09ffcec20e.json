@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SMART1200LCD UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART1200LCD",
+    "Capacity (W)": "700 W",
+    "Capacity (VA)": "1200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rpbkcf/tripp-lite-ups-smart1200lcd"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "HP A7U60AT Quadro 410 512 MB Video Card",
+    "Manufacturer": "HP",
+    "Part #": "A7U60AT",
+    "Chipset": "Quadro 410",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "706 MHz",
+    "Effective Memory Clock": "1782 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "176 mm",
+    "TDP": "38 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sysKHx/hp-video-card-a7u60at"
+}

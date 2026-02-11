@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D iChill X3 RED GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "C30603-12D6X-1671VA39A",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1837 MHz",
+    "Effective Memory Clock": "15000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CMVmP6/inno3d-geforce-rtx-3060-12-gb-ichill-x3-red-video-card-c30603-12d6x-1671va39a"
+}

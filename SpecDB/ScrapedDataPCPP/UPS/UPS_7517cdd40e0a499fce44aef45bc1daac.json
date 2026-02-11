@@ -1,0 +1,18 @@
+{
+    "name": "APC SUA5000RMI5U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA5000RMI5U",
+    "Capacity (W)": "4000 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "5U",
+    "Backup/Run Time (Full Load)": "9.40 Minutes",
+    "Backup/Run Time (Half Load)": "26.70 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[8 x IEC 320-C13, 2 x IEC Jumper, 6 x IEC 320-C19]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8BPzK8/apc-ups-sua5000rmi5u"
+}

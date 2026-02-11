@@ -1,0 +1,18 @@
+{
+    "name": "APC BE325R UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE325R",
+    "Capacity (W)": "185 W",
+    "Capacity (VA)": "325 VA",
+    "Backup/Run Time (Full Load)": "1 Minute",
+    "Backup/Run Time (Half Load)": "8.10 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "12 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NGGj4D/apc-ups-be325r"
+}

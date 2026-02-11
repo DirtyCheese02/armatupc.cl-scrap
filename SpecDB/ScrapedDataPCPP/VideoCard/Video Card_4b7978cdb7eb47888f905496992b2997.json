@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Challenger Pro OC Radeon RX 5700 XT 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX5700XT CLP 8GO, RX5700XT-CLP-8GO]",
+    "Chipset": "Radeon RX 5700 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1580 MHz",
+    "Boost Clock": "1905 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "FreeSync",
+    "Length": "291 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/77bCmG/asrock-radeon-rx-5700-xt-8-gb-challenger-pro-oc-video-card-rx5700xt-clp-8go"
+}

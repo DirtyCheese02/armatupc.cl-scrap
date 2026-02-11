@@ -1,0 +1,16 @@
+{
+    "name": "Cougar Vortex 36.72 CFM 120 mm Fan",
+    "Manufacturer": "Cougar",
+    "Part #": "CF-V12FW",
+    "Size": "120 mm",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "36.72 CFM",
+    "Noise Level": "24.3 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4pRzK8/cougar-cf-v12fw-367-cfm-120mm-fan-cf-v12fw"
+}

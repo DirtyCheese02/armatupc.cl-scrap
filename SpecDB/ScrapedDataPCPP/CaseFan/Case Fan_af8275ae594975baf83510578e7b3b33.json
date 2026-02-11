@@ -1,0 +1,18 @@
+{
+    "name": "Silverstone Air Penetrator 184i ARGB 143.21 CFM 180 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Model": "Air Penetrator 184i ARGB",
+    "Part #": "SST-AP184i-ARGB",
+    "Size": "180 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 143.21 CFM",
+    "Noise Level": "0 - 34.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.22 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bMTFf7/silverstone-air-penetrator-184i-argb-14321-cfm-180-mm-fan-sst-ap184i-argb"
+}

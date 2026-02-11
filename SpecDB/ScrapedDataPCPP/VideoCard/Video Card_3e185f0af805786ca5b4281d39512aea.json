@@ -1,0 +1,22 @@
+{
+    "name": "MSI SUPRIM X GeForce RTX 4070 Ti 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4070 Ti SUPRIM X 12G, GEFORCE RTX 4070 TI SUPRIM X 12G, 912-V513-005, V513-005R, G407TSX12]",
+    "Chipset": "GeForce RTX 4070 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2790 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "338 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/36cG3C/msi-suprim-x-geforce-rtx-4070-ti-12-gb-video-card-rtx-4070-ti-suprim-x-12g"
+}

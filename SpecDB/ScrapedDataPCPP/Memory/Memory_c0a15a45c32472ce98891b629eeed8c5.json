@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Super Luce 32 GB (2 x 16 GB) DDR4-2400 CL14 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLW432GB2400C14DC",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mPVBD3/geil-memory-glw432gb2400c14dc"
+}

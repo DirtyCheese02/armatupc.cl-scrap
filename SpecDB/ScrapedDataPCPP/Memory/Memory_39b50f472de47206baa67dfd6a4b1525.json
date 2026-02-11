@@ -1,0 +1,15 @@
+{
+    "name": "GeIL EVO POTENZA 8 GB (2 x 4 GB) DDR3-3000 CL12 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GPW38GB3000C12DC",
+    "Speed": "DDR3-3000",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / White",
+    "First Word Latency": "8 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XqDwrH/geil-memory-gpw38gb3000c12dc"
+}

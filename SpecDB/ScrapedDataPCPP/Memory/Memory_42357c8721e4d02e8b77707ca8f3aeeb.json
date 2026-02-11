@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 64 GB (4 x 16 GB) DDR4-2933 CL17 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX429C17FBK4/64",
+    "Speed": "DDR4-2933",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "11.592 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HnqhP6/kingston-hyperx-fury-64gb-4-x-16gb-ddr4-2933-memory-hx429c17fbk464"
+}

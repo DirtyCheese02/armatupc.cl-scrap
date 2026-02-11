@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-40408-10P GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-40408-10P",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "720 MHz",
+    "Effective Memory Clock": "3600 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gdh9TW/zotac-video-card-zt4040810p"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS GP OC GeForce RTX 2060 SUPER 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "RTX 2060 SUPER VENTUS GP OC",
+    "Chipset": "GeForce RTX 2060 SUPER",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1470 MHz",
+    "Boost Clock": "1665 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "232 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pL4BD3/msi-geforce-rtx-2060-super-8-gb-ventus-gp-oc-video-card-rtx-2060-super-ventus-gp-oc"
+}

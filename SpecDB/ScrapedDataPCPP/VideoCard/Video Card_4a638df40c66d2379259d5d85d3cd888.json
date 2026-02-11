@@ -1,0 +1,22 @@
+{
+    "name": "Galaxy 22TGE8HX2IUN GeForce GT 220 1 GB Video Card",
+    "Manufacturer": "Galaxy",
+    "Part #": "22TGE8HX2IUN",
+    "Chipset": "GeForce GT 220",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "625 MHz",
+    "Effective Memory Clock": "800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "TDP": "58 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CmtCmG/galaxy-video-card-22tge8hx2iun"
+}

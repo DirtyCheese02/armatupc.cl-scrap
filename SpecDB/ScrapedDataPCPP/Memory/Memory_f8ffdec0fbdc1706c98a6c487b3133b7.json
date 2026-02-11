@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Flare X5 192 GB (4 x 48 GB) DDR5-6000 CL28 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J2836G48GX4-FX5",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 48GB",
+    "Color": "Black",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.4 V",
+    "Timing": "28-36-36-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vdgZxr/gskill-flare-x5-192-gb-4-x-48-gb-ddr5-6000-cl28-memory-f5-6000j2836g48gx4-fx5"
+}

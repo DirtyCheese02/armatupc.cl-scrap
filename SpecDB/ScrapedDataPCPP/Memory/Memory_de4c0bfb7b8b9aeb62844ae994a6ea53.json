@@ -1,0 +1,14 @@
+{
+    "name": "Crucial Ballistix Elite 16 GB (1 x 16 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLE16G4D32AEEA",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TNzkcf/crucial-ballistix-elite-16gb-1-x-16gb-ddr4-3200-memory-ble16g4d32aeea"
+}

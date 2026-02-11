@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle ECO Arc A310 4 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "[SA310C-4G, 1A1-S00401900G]",
+    "Chipset": "Arc A310",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1750 MHz",
+    "Boost Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "2",
+    "HDMI 2.0 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nj7scf/sparkle-eco-arc-a310-4-gb-video-card-sa310c-4g"
+}

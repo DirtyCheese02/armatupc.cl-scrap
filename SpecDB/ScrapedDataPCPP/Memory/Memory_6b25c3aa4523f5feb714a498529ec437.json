@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance 32 GB (4 x 8 GB) DDR3-2133 CL10 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMZ32GX3M4A2133C10",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "9.376 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "Timing": "10-11-11-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rQkD4D/corsair-memory-cmz32gx3m4a2133c10"
+}

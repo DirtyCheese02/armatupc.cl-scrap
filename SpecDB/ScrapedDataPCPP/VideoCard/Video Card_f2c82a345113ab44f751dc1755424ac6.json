@@ -1,0 +1,23 @@
+{
+    "name": "Palit OC GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE75070U19K9-GB2050W",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2160 MHz",
+    "Boost Clock": "2527 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "292 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kb62FT/palit-oc-geforce-rtx-5070-12-gb-video-card-ne75070u19k9-gb2050w"
+}

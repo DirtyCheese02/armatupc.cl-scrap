@@ -1,0 +1,15 @@
+{
+    "name": "Patriot Viper 4 16 GB (2 x 8 GB) DDR4-2800 CL16 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PV416G280C6K",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "11.429 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XTCrxr/patriot-memory-pv416g280c6k"
+}

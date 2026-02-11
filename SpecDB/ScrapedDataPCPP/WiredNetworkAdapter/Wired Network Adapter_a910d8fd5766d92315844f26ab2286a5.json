@@ -1,0 +1,8 @@
+{
+    "name": "Rosewill RC-401-EX Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RC-401-EX",
+    "Interface": "PCIe x1",
+    "Features": "[Compliant with PCI Express Specification, revision 1.0a., Lane 2.5Gbps PCI Express host interface., Low Profile PCI Form Factor., Supports Ethernet 10Mbps (half-duplex), Ethernet 20Mbps (full-duplex), Fast Ethernet 100Mbps (half-duplex), Fast Ethernet 200Mbps (full-duplex), Gigabit 1000Mbps (full-duplex) and Gigabit 2000Mbps (full-duplex)., RJ-45 Port offer high speed transmission over CAT 5 UTP cable., Auto-Negotiation with Next page capability., Supports pair swap/polarity/skew correction., Crossover Detection & Auto-Correction., Microsoft NDIS5 Checksum Offload (IP, TCP, UDP) and large send offload support., Supports IEEE 802.1Q VLAN tagging., 8K Transmit FIFO and 64K Receive FIFO support., Fully RoHS compliant.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/shh9TW/rosewill-wired-network-card-rc401ex"
+}

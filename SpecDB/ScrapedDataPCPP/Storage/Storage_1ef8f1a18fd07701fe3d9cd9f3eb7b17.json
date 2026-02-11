@@ -1,0 +1,13 @@
+{
+    "name": "MyDigitalSSD Super Boot Drive 8 GB mSATA Solid State Drive",
+    "Manufacturer": "MyDigitalSSD",
+    "Part #": "MDMS-SB-008",
+    "Capacity": "8 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Phison",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LRBrxr/mydigitalssd-internal-hard-drive-mdmssb008"
+}

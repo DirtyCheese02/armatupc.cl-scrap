@@ -1,0 +1,12 @@
+{
+    "name": "Asus Xonar Essence STX 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Asus",
+    "Part #": "[Xonar Essence STX, 90-YAA0C0-0UAN00Z, 90-YAA0C0-0AAN0BZ]",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "124 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "ASUS AV100",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WCTmP6/asus-sound-card-xonaressencestx"
+}

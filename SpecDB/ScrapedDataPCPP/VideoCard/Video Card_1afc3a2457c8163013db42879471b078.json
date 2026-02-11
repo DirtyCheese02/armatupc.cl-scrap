@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF Gaming X3 EVO OC Radeon RX 5700 XT 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "TUF 3-RX5700XT-O8G-EVO-GAMING",
+    "Chipset": "Radeon RX 5700 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1605 MHz",
+    "Boost Clock": "1980 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "283 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/78kgXL/asus-radeon-rx-5700-xt-8-gb-tuf-gaming-x3-evo-oc-video-card-tuf-3-rx5700xt-o8g-evo-gaming"
+}

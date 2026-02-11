@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 02G-P3-1569-KR GeForce GTX 560 Ti X2 2 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "02G-P3-1569-KR",
+    "Chipset": "GeForce GTX 560 Ti X2",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Effective Memory Clock": "4008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Yellow",
+    "Frame Sync": "None",
+    "Length": "292 mm",
+    "TDP": "420 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ysGkcf/evga-video-card-02gp31569kr"
+}

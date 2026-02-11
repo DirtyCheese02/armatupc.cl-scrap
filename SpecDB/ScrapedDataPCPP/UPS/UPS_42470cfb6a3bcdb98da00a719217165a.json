@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite SMART3000NET UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART3000NET",
+    "Capacity (W)": "2400 W",
+    "Capacity (VA)": "3000 VA",
+    "Alarm": "On Battery",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "23 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x NEMA 5-15R, 4 x NEMA 5-20R]",
+    "Switching Time": "4 ms",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fsJkcf/tripp-lite-ups-smart3000net"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte PB500 500 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Gigabyte",
+    "Part #": "PB500",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "500 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vNsmP6/gigabyte-500w-80-bronze-certified-atx-power-supply-pb500"
+}

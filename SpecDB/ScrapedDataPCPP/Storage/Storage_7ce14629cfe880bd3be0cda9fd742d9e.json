@@ -1,0 +1,13 @@
+{
+    "name": "Intel DC P3600 400 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDME400G401",
+    "Capacity": "400 GB",
+    "Price / GB": "$1.000",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4kcMnQ/intel-dc-p3600-400-gb-pci-e-nvme-solid-state-drive-ssdpedme400g401"
+}

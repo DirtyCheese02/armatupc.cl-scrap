@@ -1,0 +1,19 @@
+{
+    "name": "ECS NS8400GSC-1GQS-H GeForce 8400 GS 1 GB Video Card",
+    "Manufacturer": "ECS",
+    "Part #": "NS8400GSC-1GQS-H",
+    "Chipset": "GeForce 8400 GS",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rJ4gXL/ecs-video-card-ns8400gsc1gqsh"
+}

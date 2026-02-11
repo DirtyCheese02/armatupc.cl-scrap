@@ -1,0 +1,19 @@
+{
+    "name": "PNY VCQ6000-PB Quadro 6000 6 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQ6000-PB",
+    "Chipset": "Quadro 6000",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "TDP": "204 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wRdqqs/pny-video-card-vcq6000pb"
+}

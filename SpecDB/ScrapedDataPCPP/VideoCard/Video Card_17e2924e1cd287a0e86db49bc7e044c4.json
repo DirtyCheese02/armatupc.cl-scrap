@@ -1,0 +1,23 @@
+{
+    "name": "Palit GamingPro GeForce GTX 1650 G6 4 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE6165001BG1-1175A",
+    "Chipset": "GeForce GTX 1650 G6",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1590 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "170 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CsfnTW/palit-geforce-gtx-1650-g6-4-gb-gamingpro-video-card-ne6165001bg1-1175a"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "G.Skill F3-1600C11S-4GSL 4 GB (1 x 4 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1600C11S-4GSL",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vjw323/gskill-memory-f31600c11s4gsl"
+}

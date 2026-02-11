@@ -1,0 +1,15 @@
+{
+    "name": "Avexir Core 8 GB (2 x 4 GB) DDR3-3200 CL13 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD3UH32001304G-2CI",
+    "Speed": "DDR3-3200",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "8.125 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QQXfrH/avexir-memory-avd3uh32001304g2ci"
+}

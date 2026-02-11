@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks M25-120 PWM D-RGB 84.26 CFM 120 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "M25-120 PWM D-RGB",
+    "Part #": "PH-F120M25_DRGB_PWM_WT01",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "84.26 CFM",
+    "Noise Level": "35.7 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.67 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WmfnTW/phanteks-m25-120-pwm-d-rgb-8426-cfm-120-mm-fan-ph-f120m25_drgb_pwm_wt01"
+}

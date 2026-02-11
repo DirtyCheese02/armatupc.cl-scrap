@@ -1,0 +1,16 @@
+{
+    "name": "Thermaltake TOUGHRAM RC 32 GB (2 x 16 GB) DDR5-5200 CL38 Memory",
+    "Manufacturer": "Thermaltake",
+    "Part #": "RA50D516GX2-5200C38A",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "14.615 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.15 V",
+    "Timing": "38-38-38-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RDqrxr/thermaltake-toughram-rc-32-gb-2-x-16-gb-ddr5-5200-cl38-memory-ra50d516gx2-5200c38a"
+}

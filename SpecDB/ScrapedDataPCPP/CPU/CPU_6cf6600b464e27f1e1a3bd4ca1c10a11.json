@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron E3300 2.5 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "AT80571RG0601ML",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Wolfdale",
+    "Core Family": "Wolfdale",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.5 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G8ckcf/intel-cpu-at80571rg0601ml"
+}

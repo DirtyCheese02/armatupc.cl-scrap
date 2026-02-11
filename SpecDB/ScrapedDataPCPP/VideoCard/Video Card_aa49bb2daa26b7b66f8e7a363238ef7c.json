@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 2X OC GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 5070 12G VENTUS 2X OC, G5070-12V2C, RTX 5070 12G VENTUS 2X OC, V532-003R, 912-V532-003]",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2160 MHz",
+    "Boost Clock": "2557 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "236 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D3bypg/msi-ventus-2x-oc-geforce-rtx-5070-12-gb-video-card-geforce-rtx-5070-12g-ventus-2x-oc"
+}

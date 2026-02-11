@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Pro 32 GB (4 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMY32GX3M4C1600C9",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "Timing": "11-11-11-28",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DYH48d/corsair-memory-cmy32gx3m4c1600c9"
+}

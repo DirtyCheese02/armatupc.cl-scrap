@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 96 GB (2 x 48 GB) DDR5-6800 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH96GX5M2B6800C40",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Price / GB": "$15.937",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.765 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.4 V",
+    "Timing": "40-50-50-110",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VTpQzy/corsair-vengeance-rgb-96-gb-2-x-48-gb-ddr5-6800-cl40-memory-cmh96gx5m2b6800c40"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SU3000XLNAFTA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU3000XLNAFTA",
+    "Capacity (W)": "2400 W",
+    "Capacity (VA)": "3000 VA",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Dataline Protection": "RJ-45",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x NEMA 5-15R, 4 x NEMA 5-15/20R, 1 x NEMA L5-30R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nkTrxr/tripp-lite-ups-su3000xlnafta"
+}

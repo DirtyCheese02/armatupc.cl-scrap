@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO Potenza AMD Edition 16 GB (2 x 8 GB) DDR4-2400 CL17 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAPR416GB2400C17DC",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Red",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "Timing": "17-17-17-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nyzhP6/geil-evo-potenza-amd-edition-16-gb-2-x-8-gb-ddr4-2400-cl17-memory-gapr416gb2400c17dc"
+}

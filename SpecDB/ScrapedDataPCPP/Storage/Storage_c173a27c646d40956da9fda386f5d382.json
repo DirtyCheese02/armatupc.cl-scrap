@@ -1,0 +1,13 @@
+{
+    "name": "Intel 335 80 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSC2CT080A4K5",
+    "Capacity": "80 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kHXfrH/intel-internal-hard-drive-ssdsc2ct080a4k5"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Xilence XPF92.R.PWM 32.1 CFM 92 mm Fan",
+    "Manufacturer": "Xilence",
+    "Model": "XPF92.R.PWM",
+    "Part #": "[XF041, XPF92.R.PWM]",
+    "Size": "92 mm",
+    "Color": "Red / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1800 RPM",
+    "Airflow": "32.1 CFM",
+    "Noise Level": "22 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FVNYcf/xilence-xpf92rpwm-321-cfm-92-mm-fan-xf041"
+}

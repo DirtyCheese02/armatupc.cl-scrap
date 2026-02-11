@@ -1,0 +1,22 @@
+{
+    "name": "PNY T-Series T600 4 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNT600-PB",
+    "Chipset": "T600",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "735 MHz",
+    "Boost Clock": "1335 MHz",
+    "Effective Memory Clock": "10000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "40 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h3rRsY/pny-t600-4-gb-t-series-video-card-vcnt600-pb"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Lenovo 0B47075 Quadro 410 512 MB Video Card",
+    "Manufacturer": "Lenovo",
+    "Part #": "0B47075",
+    "Chipset": "Quadro 410",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR",
+    "Core Clock": "706 MHz",
+    "Effective Memory Clock": "1782 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "176 mm",
+    "TDP": "38 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NfYXsY/lenovo-video-card-0b47075"
+}

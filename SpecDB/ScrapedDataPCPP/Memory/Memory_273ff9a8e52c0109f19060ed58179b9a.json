@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Dark 32 GB (4 x 8 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TDRED432G3000HC16CQC01",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Red / Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3TrmP6/team-t-force-dark-32gb-4-x-8gb-ddr4-3000-memory-tdred432g3000hc16cqc01"
+}

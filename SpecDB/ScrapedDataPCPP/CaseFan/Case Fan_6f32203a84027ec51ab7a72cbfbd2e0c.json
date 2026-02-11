@@ -1,0 +1,19 @@
+{
+    "name": "Scythe Wonder Snail 120 37.73 CFM 120 mm Fan",
+    "Manufacturer": "Scythe",
+    "Model": "Wonder Snail 120",
+    "Part #": "WS1225FD12-P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 1200 RPM",
+    "Airflow": "8.01 - 37.73 CFM",
+    "Noise Level": "4 - 18.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "0.89 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r7mmP6/scythe-wonder-snail-120-3773-cfm-120-mm-fan-ws1225fd12-p"
+}

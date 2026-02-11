@@ -1,0 +1,21 @@
+{
+    "name": "CyberPower PR3000LCDSL UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR3000LCDSL",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Alarm": "[Low Battery, On Battery, Overload, Battery Missing, Fault]",
+    "Backup/Run Time (Full Load)": "1.98 Minutes",
+    "Backup/Run Time (Half Load)": "7.50 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA 5-20R, 1 x NEMA L5-30R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D9Wrxr/cyberpower-ups-pr3000lcdsl"
+}

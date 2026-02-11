@@ -1,0 +1,15 @@
+{
+    "name": "Samsung 980 Pro w/Heatsink 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Samsung",
+    "Part #": "MZ-V8P1T0CW",
+    "Capacity": "1 TB",
+    "Price / GB": "$0.159",
+    "Type": "SSD",
+    "Cache": "1024 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "SSD Controller": "Samsung Elpis",
+    "SSD NAND Flash Type": "3D V-NAND TLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4PYmP6/samsung-980-pro-heatsink-1-tb-m2-2280-nvme-solid-state-drive-mz-v8p1t0cw"
+}

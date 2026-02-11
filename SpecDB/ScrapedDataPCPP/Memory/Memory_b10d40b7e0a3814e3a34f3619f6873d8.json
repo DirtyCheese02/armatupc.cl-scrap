@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2400C15D-32GTZR",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fBKhP6/gskill-tridentz-rgb-series-32gb-2-x-16gb-ddr4-2400-memory-f4-2400c15d-32gtzr"
+}

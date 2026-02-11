@@ -1,0 +1,21 @@
+{
+    "name": "Athena Power AP-P4ATX80FEP8 800 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Athena Power",
+    "Part #": "AP-P4ATX80FEP8",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "800 W",
+    "Length": "156 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rg2kcf/athena-power-power-supply-app4atx80fep8"
+}

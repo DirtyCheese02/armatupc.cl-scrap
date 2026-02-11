@@ -1,0 +1,16 @@
+{
+    "name": "Lexar Ares RGB 2nd Gen 32 GB (2 x 16 GB) DDR5-6400 CL30 Memory",
+    "Manufacturer": "Lexar",
+    "Part #": "LD5U16G64C30SR-RGD",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver",
+    "First Word Latency": "9.375 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.4 V",
+    "Timing": "30-38-38-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DMVfrH/lexar-ares-rgb-2nd-gen-32-gb-2-x-16-gb-ddr5-6400-cl30-memory-ld5u16g64c30sr-rgd"
+}

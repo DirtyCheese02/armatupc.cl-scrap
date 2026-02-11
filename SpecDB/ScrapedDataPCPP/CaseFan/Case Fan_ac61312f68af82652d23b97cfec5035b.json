@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A14 ULN 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A14 ULN",
+    "Part #": "NF-A14 ULN",
+    "Size": "140 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 800 RPM",
+    "Noise Level": "9.1 - 11.9 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "SSO2-Bearing (Self-stabilising oil-presure bearing)",
+    "Features": "[Succeeding the award-winning NF-P14, Square 140mm frame, Flow Acceleration Channels, AAO Frame, Stepped Inlet Design, Inner Surface Microstructures, Integrated Anti-Vibration Pads, SSO2 Bearing, Metal bearing shell, Smooth Commutation Drive 2, 2 speed settings for full flexibility, Extensive cabling options, Ultra-Low Power Consumption]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qx8Zxr/noctua-case-fan-nfa14uln"
+}

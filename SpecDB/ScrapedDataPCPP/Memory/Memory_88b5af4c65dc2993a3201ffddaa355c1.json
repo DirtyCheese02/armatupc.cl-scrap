@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal Elite 16 GB (2 x 8 GB) DDR4-4800 CL20 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4800C20D-32GTEG",
+    "Speed": "DDR4-4800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Gold",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.55 V",
+    "Timing": "20-30-30-50",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k92WGX/gskill-trident-z-royal-elite-16-gb-2-x-8-gb-ddr4-4800-cl20-memory-f4-4800c20d-32gteg"
+}

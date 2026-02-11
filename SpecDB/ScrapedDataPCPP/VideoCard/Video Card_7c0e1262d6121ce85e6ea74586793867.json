@@ -1,0 +1,23 @@
+{
+    "name": "Asus Phoenix EVO GeForce GTX 1630 4 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ph-gtx1630-4g-evo",
+    "Chipset": "GeForce GTX 1630",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1740 MHz",
+    "Boost Clock": "1815 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "200 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.0b Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CCBG3C/asus-phoenix-evo-geforce-gtx-1630-4-gb-video-card-ph-gtx1630-4g-evo"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Jonsbo ZB-120B 65.26 CFM 120 mm Fan",
+    "Manufacturer": "Jonsbo",
+    "Part #": "ZB-120B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 2400 RPM",
+    "Airflow": "20.95 - 65.26 CFM",
+    "Noise Level": "20.3 - 36.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QFKnTW/jonsbo-zb-120b-6526-cfm-120-mm-fan-zb-120b"
+}

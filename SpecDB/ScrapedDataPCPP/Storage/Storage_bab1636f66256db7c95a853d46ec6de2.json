@@ -1,0 +1,14 @@
+{
+    "name": "Intel 530 80 GB M.2-2280 SATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSCKGW080A401",
+    "Capacity": "80 GB",
+    "Price / GB": "$0.919",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 SATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tVMFf7/intel-internal-hard-drive-ssdsckgw080a401"
+}

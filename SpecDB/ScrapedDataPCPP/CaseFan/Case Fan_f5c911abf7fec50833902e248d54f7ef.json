@@ -1,0 +1,18 @@
+{
+    "name": "SHARKOON Rebel F50 77.65 CFM 120 mm Fan",
+    "Manufacturer": "SHARKOON",
+    "Part #": "4044951040162",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2000 RPM",
+    "Airflow": "77.65 CFM",
+    "Noise Level": "35 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.9 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GRXV3C/sharkoon-rebel-f50-7765-cfm-120-mm-fan-4044951040162"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Silicon Power XPOWER Pulse Gaming 64 GB (2 x 32 GB) DDR5-6000 CL38 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SP064GXLWU60BFDJ, SU064GXLWU60BFDJSN, SU064GXLWU60BFDJBH]",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$11.719",
+    "Color": "Black",
+    "First Word Latency": "12.667 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-38-38-78",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yH2j4D/silicon-power-xpower-pulse-gaming-64-gb-2-x-32-gb-ddr5-6000-cl38-memory-sp064gxlwu60bfdj"
+}

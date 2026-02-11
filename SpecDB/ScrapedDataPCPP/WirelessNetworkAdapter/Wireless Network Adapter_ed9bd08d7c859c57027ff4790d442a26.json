@@ -1,0 +1,11 @@
+{
+    "name": "Asus USB-N66 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Asus",
+    "Part #": "USB-N66",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPA-Enterprise, WPA2-Enterprise, WPS support",
+    "Antenna": "3 x R SMA Antenna",
+    "Features": "[Management: Software AP, High Power Switch, Powerful dual-band 3x3 USB adapter delievers high speed 450Mbps Wi-Fi, 2.4GHz/5GHz dual-band reduces Wi-Fi interference for smooth HD streaming, Orthogonal antenna design for the best Wi-Fi coverage, Hardware high power switch switches performance modes, Turns into a wireless access point to allow internet connection sharing.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M9kD4D/asus-wireless-network-card-usbn66"
+}

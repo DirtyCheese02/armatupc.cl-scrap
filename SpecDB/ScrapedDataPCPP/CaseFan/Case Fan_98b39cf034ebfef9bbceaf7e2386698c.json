@@ -1,0 +1,19 @@
+{
+    "name": "Corsair RS140 ARGB 95.5 CFM 140 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "RS140 ARGB",
+    "Part #": "CO-9050182-WW",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "330 - 1700 RPM",
+    "Airflow": "14.6 - 95.5 CFM",
+    "Noise Level": "10 - 36 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.46 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gbmNnQ/corsair-rs140-argb-955-cfm-140-mm-fan-co-9050182-ww"
+}

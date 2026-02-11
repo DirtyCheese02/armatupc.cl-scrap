@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SM2200RMNAFTA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SM2200RMNAFTA",
+    "Capacity (W)": "1600 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "EMI / RFI",
+    "Receptacles": "[4 x NEMA 5-20R, 4 x NEMA 5-15R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d3FXsY/tripp-lite-ups-sm2200rmnafta"
+}

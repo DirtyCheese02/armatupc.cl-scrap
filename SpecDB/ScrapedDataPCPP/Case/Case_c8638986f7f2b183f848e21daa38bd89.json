@@ -1,0 +1,19 @@
+{
+    "name": "SAMA IM01 MicroATX Mini Tower Case",
+    "Manufacturer": "SAMA",
+    "Part #": "IM01",
+    "Type": "MicroATX Mini Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[335 mm, 13.189\"]",
+    "Drive Bays": "[5 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "4 x Full-Height",
+    "Fan Support": "[80 mm, 120 mm]",
+    "Dimensions": "[391 mm x 185 mm x 303 mm, 15.394\" x 7.283\" x 11.929\"]",
+    "Volume": "[21.918 L, 0.774 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pfvdnQ/sama-im01-microatx-mini-tower-case-im01"
+}

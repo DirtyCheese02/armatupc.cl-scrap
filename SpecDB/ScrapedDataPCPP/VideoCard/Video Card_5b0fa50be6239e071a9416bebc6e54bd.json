@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte TURBO GeForce RTX 3080 10GB 10 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N3080TURBO-10GD",
+    "Chipset": "GeForce RTX 3080 10GB",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1710 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "267 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yyKKHx/gigabyte-geforce-rtx-3080-10-gb-turbo-video-card-gv-n3080turbo-10gd"
+}

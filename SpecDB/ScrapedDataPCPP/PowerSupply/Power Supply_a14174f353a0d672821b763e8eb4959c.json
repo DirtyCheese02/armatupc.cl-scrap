@@ -1,0 +1,20 @@
+{
+    "name": "Dynapower EP-45X.0562B 450 W ATX Power Supply",
+    "Manufacturer": "Dynapower",
+    "Part #": "EP-45X.0562B",
+    "Type": "ATX",
+    "Wattage": "450 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@28A, +5V@40A, +12V@17A, -12V@0.8A, +5VSB@2A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sfBv6h/dynapower-power-supply-ep45x0562b"
+}

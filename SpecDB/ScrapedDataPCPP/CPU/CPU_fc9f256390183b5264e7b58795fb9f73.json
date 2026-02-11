@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-980X Extreme Edition 3.33 GHz 6-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80613I7980X",
+    "Series": "Intel Core i7 Extreme",
+    "Microarchitecture": "Westmere",
+    "Core Family": "Gulftown",
+    "Socket": "LGA1366",
+    "Core Count": "6",
+    "Thread Count": "12",
+    "Performance Core Clock": "3.33 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "12 MB",
+    "TDP": "130 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k2DwrH/intel-cpu-bx80613i7980x"
+}

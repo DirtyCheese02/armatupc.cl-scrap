@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-M12QW-S X3 68.9 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-M12QW-S X3",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "68.9 CFM",
+    "Noise Level": "28.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.21 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FWLp99/thermalright-tl-m12qw-s-x3-689-cfm-120-mm-fans-3-pack-tl-m12qw-s-x3"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Intel 530 240 GB mSATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDMCEAW240A401",
+    "Capacity": "240 GB",
+    "Price / GB": "$0.569",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sHYXsY/intel-internal-hard-drive-ssdmceaw240a401"
+}

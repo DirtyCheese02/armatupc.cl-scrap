@@ -1,0 +1,18 @@
+{
+    "name": "Alphacool 24853 103.03 CFM 140 mm Fan",
+    "Manufacturer": "Alphacool",
+    "Part #": "24853",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "103.03 CFM",
+    "Noise Level": "30 - 38.3 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "Manual",
+    "Static Pressure": "2.81 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HGtkcf/alphacool-24853-10303-cfm-140-mm-fan-24853"
+}

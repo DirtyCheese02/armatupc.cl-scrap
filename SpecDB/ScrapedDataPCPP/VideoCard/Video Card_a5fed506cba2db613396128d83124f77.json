@@ -1,0 +1,21 @@
+{
+    "name": "ASRock Low Profile Arc A380 6 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[A380 LP 6G, 90-G46ZZ-00UANF]",
+    "Chipset": "Arc A380",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "169 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort 2.0 Outputs": "1",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vrYRsY/asrock-low-profile-arc-a380-6-gb-video-card-a380-lp-6g"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "KOLINK KL-850M 850 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "KOLINK",
+    "Part #": "KL-850M",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "850 W",
+    "Length": "160 mm",
+    "Modular": "Semi",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KnvD4D/kolink-kl-850m-850-w-80-bronze-certified-semi-modular-atx-power-supply-kl-850m"
+}

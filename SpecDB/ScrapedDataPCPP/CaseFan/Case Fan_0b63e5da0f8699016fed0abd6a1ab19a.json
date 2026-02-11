@@ -1,0 +1,17 @@
+{
+    "name": "CRYORIG QF Performance 83 CFM 120 mm Fan",
+    "Manufacturer": "CRYORIG",
+    "Part #": "[QF120 Performance, CR-QFC]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2200 RPM",
+    "Airflow": "83 CFM",
+    "Noise Level": "13 - 37 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VJx9TW/cryorig-case-fan-qf120performance"
+}

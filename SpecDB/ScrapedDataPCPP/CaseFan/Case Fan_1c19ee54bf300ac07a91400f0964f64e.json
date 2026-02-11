@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li UNI FAN AL120 V2 77.3 CFM 120 mm Fan",
+    "Manufacturer": "Lian Li",
+    "Model": "UNI FAN AL120 V2",
+    "Part #": "AL120V2-1W",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 2000 RPM",
+    "Airflow": "77.3 CFM",
+    "Noise Level": "28.7 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.97 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y6RwrH/lian-li-uni-fan-al120-v2-773-cfm-120-mm-fan-al120v2-1w"
+}

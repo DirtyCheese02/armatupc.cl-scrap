@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron E1400 2 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "HH80557PG041D",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Core",
+    "Core Family": "Conroe",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mt2kcf/intel-cpu-hh80557pg041d"
+}

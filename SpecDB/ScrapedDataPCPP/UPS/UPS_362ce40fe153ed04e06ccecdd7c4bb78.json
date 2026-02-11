@@ -1,0 +1,16 @@
+{
+    "name": "APC SMX750I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMX750I",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "750 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "12 Minutes",
+    "Backup/Run Time (Half Load)": "34 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GZ8H99/apc-ups-smx750i"
+}

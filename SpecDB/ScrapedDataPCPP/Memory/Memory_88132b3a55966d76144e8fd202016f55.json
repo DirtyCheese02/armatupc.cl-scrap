@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill PI + Turbulence II 4 GB (2 x 2 GB) DDR3-2400 CL8 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-19200CL8D-4GBPID",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "6.667 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Qs4gXL/gskill-memory-f319200cl8d4gbpid"
+}

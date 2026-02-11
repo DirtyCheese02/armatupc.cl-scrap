@@ -1,0 +1,22 @@
+{
+    "name": "I/O Magic IBD1 Blu-Ray/DVD/CD Writer",
+    "Manufacturer": "I/O Magic",
+    "Part #": "IBD1",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "BD-ROM Speed": "10X",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "BD-R Speed": "10X",
+    "BD-R Dual-Layer Speed": "8X",
+    "BD-RE Speed": "2X",
+    "DVD+R Speed": "16X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "4X",
+    "DVD-R Speed": "16X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "4X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "24X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mGCwrH/io-magic-optical-drive-ibd1"
+}

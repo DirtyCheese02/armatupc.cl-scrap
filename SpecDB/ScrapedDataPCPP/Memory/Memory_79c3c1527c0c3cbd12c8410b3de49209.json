@@ -1,0 +1,16 @@
+{
+    "name": "Kingston KSM48E40BD8KM-32HM 32 GB (1 x 32 GB) DDR5-4800 CL40 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM48E40BD8KM-32HM",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 32GB",
+    "Price / GB": "$10.937",
+    "Color": "Green",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4N6NnQ/kingston-ksm48e40bd8km-32hm-32-gb-1-x-32-gb-ddr5-4800-cl40-memory-ksm48e40bd8km-32hm"
+}

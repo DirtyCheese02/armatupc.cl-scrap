@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite INTERNET550U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "INTERNET550U",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "550 VA",
+    "Alarm": "[Battery Backup, Self-test Operation]",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Black Out, Brownout]",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bWX2FT/tripp-lite-ups-internet550u"
+}

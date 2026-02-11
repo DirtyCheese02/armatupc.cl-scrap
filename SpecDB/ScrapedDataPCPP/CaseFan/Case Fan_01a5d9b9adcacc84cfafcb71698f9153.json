@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li UNI SL120 58.54 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Lian Li",
+    "Model": "UNI SL120",
+    "Part #": "[UF-SL120-3W, 12UF3W]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1900 RPM",
+    "Airflow": "58.54 CFM",
+    "Noise Level": "17 - 31 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "USB",
+    "Static Pressure": "2.54 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fwsnTW/lian-li-uni-sl120-5854-cfm-120-mm-fans-3-pack-uf-sl120-3w"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "VisionTek 901789 Radeon RX 560 - 896 4 GB PCIe x8 Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "901789",
+    "Chipset": "Radeon RX 560 - 896",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "115 MHz",
+    "Boost Clock": "1150 MHz",
+    "Effective Memory Clock": "6000 MHz",
+    "Interface": "PCIe x8",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "Length": "179 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI 2.0 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yDKnTW/visiontek-901789-radeon-rx-560-896-4-gb-pcie-x8-video-card-901789"
+}

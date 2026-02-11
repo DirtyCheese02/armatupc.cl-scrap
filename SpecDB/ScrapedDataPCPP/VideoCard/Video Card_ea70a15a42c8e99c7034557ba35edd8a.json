@@ -1,0 +1,21 @@
+{
+    "name": "MSI GAMING TRIO GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "RTX 4070 GAMING TRIO 12G",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "338 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LXbRsY/msi-gaming-trio-geforce-rtx-4070-12-gb-video-card-rtx-4070-gaming-trio-12g"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite SMX3000XLRT2UA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMX3000XLRT2UA",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[Power Failure, Low Battery, Overload, UPS Fault, Remote Shutdown, UPS StartUp]",
+    "Backup/Run Time (Full Load)": "3.90 Minutes",
+    "Backup/Run Time (Half Load)": "11.10 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "230 V AC",
+    "Maximum Battery Recharge Time": "5 Hour",
+    "Output Voltage": "230 V AC",
+    "Protection Type": "[Brownout, Over Voltage, Under Voltage, EMI / RFI, Black Out, Surge]",
+    "Receptacles": "[8 x IEC 60320 C13, 1 x IEC 60320 C19]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pM8H99/tripp-lite-ups-smx3000xlrt2ua"
+}

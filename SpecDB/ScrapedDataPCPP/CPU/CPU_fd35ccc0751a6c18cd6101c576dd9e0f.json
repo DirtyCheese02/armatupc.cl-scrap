@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X4 965 3.4 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDX965FBK4DGM",
+    "Series": "AMD Phenom II X4",
+    "Microarchitecture": "K10",
+    "Core Family": "Deneb",
+    "Socket": "AM3",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.4 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7rjG3C/amd-cpu-hdx965fbk4dgm"
+}

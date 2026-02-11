@@ -1,0 +1,19 @@
+{
+    "name": "Antec Fusion 120 ARGB White 57.93 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Model": "Fusion 120 ARGB White",
+    "Part #": "0-761345-74045-6",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2000 RPM",
+    "Airflow": "57.93 CFM",
+    "Noise Level": "17.02 - 31.24 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.11 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tg2WGX/antec-fusion-120-argb-white-5793-cfm-120-mm-fan-0-761345-74045-6"
+}

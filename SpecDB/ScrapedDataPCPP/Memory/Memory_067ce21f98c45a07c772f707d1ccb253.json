@@ -1,0 +1,17 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 48 GB (2 x 24 GB) DDR5-7600 CL36 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF4D548G7600HC36EDC01",
+    "Speed": "DDR5-7600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Price / GB": "$22.000",
+    "Color": "White",
+    "First Word Latency": "9.474 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.4 V",
+    "Timing": "36-47-47-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GWV2FT/teamgroup-t-force-delta-rgb-48-gb-2-x-24-gb-ddr5-7600-cl36-memory-ff4d548g7600hc36edc01"
+}

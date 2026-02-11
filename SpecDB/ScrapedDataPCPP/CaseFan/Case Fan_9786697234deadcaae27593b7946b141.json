@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek XAF 90.3 CFM 140 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XAF-F1451",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1300 RPM",
+    "Airflow": "90.3 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Aeronautical Oil System Bearing",
+    "Features": "Copper bushing axis Bearing to provide long-term life and stability.",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ztzv6h/xigmatek-xaf-f1451-903-cfm-140-mm-fan-xaf-f1451"
+}

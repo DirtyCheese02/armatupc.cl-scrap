@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite INTERNETOFFICE700 UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "INTERNETOFFICE700",
+    "Capacity (W)": "425 W",
+    "Capacity (VA)": "700 VA",
+    "Alarm": "[Utility Power Failure, Low Runtime]",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y4Crxr/tripp-lite-ups-internetoffice700"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Pioneer DVR-118LBK DVD/CD Writer",
+    "Manufacturer": "Pioneer",
+    "Part #": "DVR-118LBK",
+    "Form Factor": "5.25\"",
+    "Interface": "PATA 100",
+    "Buffer Cache": "2 MB",
+    "DVD-ROM Speed": "22X",
+    "CD-ROM Speed": "40X",
+    "DVD+R Speed": "22X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "12X",
+    "DVD-R Speed": "22X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "12X",
+    "DVD-RAM Speed": "12X",
+    "CD-R Speed": "40X",
+    "CD-RW Speed": "32X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m6W9TW/pioneer-optical-drive-dvr118lbk"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Z1 16 GB (4 x 4 GB) DDR4-2133 CL13 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX4U2133W4G13-QRZ",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Red / Black",
+    "First Word Latency": "12.189 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DryFf7/a-data-memory-ax4u2133w4g13qrz"
+}

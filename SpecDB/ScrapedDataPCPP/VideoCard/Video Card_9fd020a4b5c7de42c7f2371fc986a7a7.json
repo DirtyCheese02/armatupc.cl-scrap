@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Phantom Gaming D OC Radeon RX 6650 XT 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "RX6650XT PGD 8GO",
+    "Chipset": "Radeon RX 6650 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2055 MHz",
+    "Boost Clock": "2694 MHz",
+    "Effective Memory Clock": "17500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "305 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nr8bt6/asrock-radeon-rx-6650-xt-8-gb-phantom-gaming-d-oc-video-card-rx6650xt-pgd-8go"
+}

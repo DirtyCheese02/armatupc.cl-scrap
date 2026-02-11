@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF GAMING OC Radeon RX 7900 GRE 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[TUF-RX7900GRE-O16G-GAMING, 90YV0J91-M0NA00, 90YV0J91-M0AA00]",
+    "Chipset": "Radeon RX 7900 GRE",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1270 MHz",
+    "Boost Clock": "2391 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "320 mm",
+    "TDP": "260 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ry26Mp/asus-tuf-gaming-oc-radeon-rx-7900-gre-16-gb-video-card-tuf-rx7900gre-o16g-gaming"
+}

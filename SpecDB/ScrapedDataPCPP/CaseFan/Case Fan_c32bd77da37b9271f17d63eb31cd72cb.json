@@ -1,0 +1,19 @@
+{
+    "name": "Scythe Kaze Flex 100.8 CFM 140 mm Fan",
+    "Manufacturer": "Scythe",
+    "Model": "Kaze Flex",
+    "Part #": "KF1425FD18R-P",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1800 RPM",
+    "Airflow": "16.8 - 100.8 CFM",
+    "Noise Level": "4.19 - 26.45 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "2.81 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3gcRsY/scythe-kaze-flex-1008-cfm-140-mm-fan-kf1425fd18r-p"
+}

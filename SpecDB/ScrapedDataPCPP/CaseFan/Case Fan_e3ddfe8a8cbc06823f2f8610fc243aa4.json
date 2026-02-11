@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master MasterFan MF120R 59 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Cooler Master",
+    "Model": "MasterFan MF120R",
+    "Part #": "R4-120R-203C-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 2000 RPM",
+    "Airflow": "59 CFM",
+    "Noise Level": "31 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.14 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gb66Mp/cooler-master-mf120r-argb-59-cfm-120-mm-fans-3-pack-r4-120r-203c-r1"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Creative Labs Sound Blaster Audigy Rx OEM 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "Sound Blaster Audigy Rx OEM",
+    "Part #": "30SB155000001",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "106 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "Creative E-MU",
+    "Interface": "PCIe x1",
+    "Color": "Black",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bYH48d/creative-labs-sound-blaster-audigy-rx-oem-24-bit-192-khz-sound-card-30sb155000001"
+}

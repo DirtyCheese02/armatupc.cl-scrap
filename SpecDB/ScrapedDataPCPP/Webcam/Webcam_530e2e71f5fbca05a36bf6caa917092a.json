@@ -1,0 +1,17 @@
+{
+    "name": "Logitech C910 Webcam",
+    "Manufacturer": "Logitech",
+    "Model": "C910",
+    "Part #": "960-000597",
+    "Resolution": "[1080p, 720p]",
+    "Connection": "USB 2.0 Type-A",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X]",
+    "FOV Angle": "78°",
+    "Digital Zoom": "16X",
+    "Sensor Pixels": "10 MP",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2kCFf7/logitech-c910-webcam-960-000597"
+}

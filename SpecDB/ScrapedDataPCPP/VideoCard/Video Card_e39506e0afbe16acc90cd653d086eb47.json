@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D X3 OC GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N40903-246XX-18332989",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Boost Clock": "2550 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "336 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NJ6p99/inno3d-x3-oc-geforce-rtx-4090-24-gb-video-card-n40903-246xx-18332989"
+}

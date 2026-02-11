@@ -1,0 +1,15 @@
+{
+    "name": "PNY Anarchy 8 GB (1 x 8 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MD8GSD4240015AR",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Hb8H99/pny-memory-md8gsd4240015ar"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire Vapor-X Radeon R9 290X 8 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11226-05-40G",
+    "Chipset": "Radeon R9 290X",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1060 MHz",
+    "Effective Memory Clock": "5600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H4XfrH/sapphire-video-card-112260540g"
+}

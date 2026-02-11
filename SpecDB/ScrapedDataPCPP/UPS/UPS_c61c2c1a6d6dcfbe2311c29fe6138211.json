@@ -1,0 +1,16 @@
+{
+    "name": "HP AF418A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF418A",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "1U",
+    "Battery Chemistry": "Sealed Valve-regulated Lead Acid (VRLA)",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gvVBD3/hp-ups-af418a"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Intel 530 80 GB mSATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDMCEAW080A401",
+    "Capacity": "80 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q63RsY/intel-internal-hard-drive-ssdmceaw080a401"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "CyberPower CP350SLG UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP350SLG",
+    "Capacity (W)": "255 W",
+    "Capacity (VA)": "350 VA",
+    "Backup/Run Time (Full Load)": "1.98 Minutes",
+    "Backup/Run Time (Half Load)": "7.80 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XD8H99/cyberpower-ups-cp350slg"
+}

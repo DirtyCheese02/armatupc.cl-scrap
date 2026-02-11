@@ -1,0 +1,20 @@
+{
+    "name": "Lite-On iHAP222-06 DVD/CD Writer",
+    "Manufacturer": "Lite-On",
+    "Part #": "iHAP222-06",
+    "Form Factor": "5.25\"",
+    "Interface": "PATA 100",
+    "Buffer Cache": "2 MB",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "22X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "8X",
+    "DVD-R Speed": "22X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "8X",
+    "DVD-RAM Speed": "12X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "32X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZVvRsY/lite-on-optical-drive-ihap22206"
+}

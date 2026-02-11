@@ -1,0 +1,19 @@
+{
+    "name": "Noctua S12A FLX 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "S12A FLX",
+    "Part #": "[NF-S12A FLX, NF-S12A-FLX]",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1200 RPM",
+    "Noise Level": "7.4 - 17.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "SSO2",
+    "Features": "[Award-winning S12 design, Anti-Stall Knobs, AAO Frame, Stepped Inlet Design, Inner Surface Microstructures, Integrated Anti-Vibration Pads, Smooth Commutation Drive 2, 3 speed settings for full flexibility, Extensive Cabling Options, SSO2 Bearing, Metal bearing shell]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ky6BD3/noctua-case-fan-nfs12aflx"
+}

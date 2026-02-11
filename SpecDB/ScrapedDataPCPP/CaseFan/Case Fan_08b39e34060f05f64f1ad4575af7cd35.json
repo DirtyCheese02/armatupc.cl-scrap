@@ -1,0 +1,20 @@
+{
+    "name": "NZXT FS 89.5 CFM 193 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "FS-200RB",
+    "Size": "193 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 RPM",
+    "Airflow": "89.5 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.98 mmH₂O",
+    "Bearing Type": "Rifle Bearing",
+    "Features": "[11 Blade rifle bearing fan, Sleeved Cables, Compatibility only guaranteed for NZXT Vulcan, Phantom, and Hades, Life: 25,000 hours, Current: 0.42A, Input: 4.08W, Air Pressure: 0.98 mm H2O]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NrNp99/nzxt-fs-200rb-895-cfm-193-mm-fan-fs-200rb"
+}

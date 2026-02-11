@@ -1,0 +1,18 @@
+{
+    "name": "CRYORIG QF Performance 128 CFM 140 mm Fan",
+    "Manufacturer": "CRYORIG",
+    "Part #": "CR-Q4A",
+    "Size": "140 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1850 RPM",
+    "Airflow": "128 CFM",
+    "Noise Level": "13 - 38 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.12 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nz97YJ/cryorig-qf140-performance-421-cfm-140mm-fan-cr-q4a"
+}

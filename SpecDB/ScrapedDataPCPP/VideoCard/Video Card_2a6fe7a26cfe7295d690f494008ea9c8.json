@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS XTREME WATERFORCE GeForce RTX 4080 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N4080AORUSX W-16GD",
+    "Chipset": "GeForce RTX 4080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2205 MHz",
+    "Boost Clock": "2565 MHz",
+    "Effective Memory Clock": "22400 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "236 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "360 mm Radiator",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QnWzK8/gigabyte-aorus-xtreme-waterforce-geforce-rtx-4080-16-gb-video-card-gv-n4080aorusx-w-16gd"
+}

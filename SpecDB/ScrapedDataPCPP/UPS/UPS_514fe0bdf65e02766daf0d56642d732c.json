@@ -1,0 +1,19 @@
+{
+    "name": "CyberPower OR1500LCDRM1U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "[OR1500LCDRM1U, OR1500ELCDRM1U]",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "1U",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x NEMA 5-15R, 2 x NEMA 5-15R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dLDzK8/cyberpower-ups-or1500lcdrm1u"
+}

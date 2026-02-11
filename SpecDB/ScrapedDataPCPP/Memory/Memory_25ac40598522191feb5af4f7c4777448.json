@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 128 GB (8 x 16 GB) DDR4-3333 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3333C16Q2-128GTZR",
+    "Speed": "DDR4-3333",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.601 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mVvZxr/gskill-trident-z-rgb-128gb-8-x-16gb-ddr4-3333-memory-f4-3333c16q2-128gtzr"
+}

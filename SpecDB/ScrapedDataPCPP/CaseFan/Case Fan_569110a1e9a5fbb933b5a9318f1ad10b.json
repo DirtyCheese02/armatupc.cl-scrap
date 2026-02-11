@@ -1,0 +1,19 @@
+{
+    "name": "Evercool FAN-EC8015M05CA 29.58 CFM 80 mm Fan",
+    "Manufacturer": "Evercool",
+    "Part #": "FAN-EC8015M05CA",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "3500 RPM",
+    "Airflow": "12.66 - 29.58 CFM",
+    "Noise Level": "34 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Ball",
+    "Features": "[Material:impeller&Frame;:Plastic(UL 94V-0), Lead Wires: UL 1007 AWG #28 Or Equivalent, Red Wire Positive(+),Black Wire Negative(-),Yellow Wire Or Blue Wire Signal(FG), Function type is optional., The max air flow and the speed are measured in free air;max air pressure is measured at zero air flow., Noise is measured in anechoic chamber in free air,one meter from intake side., All readings are typical values at rated voltage., Specifications are subject to change without notice., Additional special function may be added according the requirement of customer.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P9Gj4D/evercool-case-fan-fanec8015m05ca"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Patriot Viper Venom 32 GB (2 x 16 GB) DDR5-7000 CL32 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVV532G700C32K",
+    "Speed": "DDR5-7000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$13.437",
+    "Color": "Black / White",
+    "First Word Latency": "9.143 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.45 V",
+    "Timing": "32-48-48-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZyZXsY/patriot-viper-venom-32-gb-2-x-16-gb-ddr5-7000-cl32-memory-pvv532g700c32k"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Crucial Ballistix 2 GB (1 x 2 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLT2G3D1869DT1TX0",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RP4gXL/crucial-memory-blt2g3d1869dt1tx0"
+}

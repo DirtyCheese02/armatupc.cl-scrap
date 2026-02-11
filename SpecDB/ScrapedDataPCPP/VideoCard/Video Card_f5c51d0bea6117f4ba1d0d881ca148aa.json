@@ -1,0 +1,23 @@
+{
+    "name": "NVIDIA Founders Edition GeForce RTX 3090 Ti 24 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "9001G1362505000",
+    "Chipset": "GeForce RTX 3090 Ti",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1560 MHz",
+    "Boost Clock": "1860 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "313 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 12-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C7bTwP/nvidia-geforce-rtx-3090-ti-24-gb-founders-edition-video-card-9001g1362505000"
+}

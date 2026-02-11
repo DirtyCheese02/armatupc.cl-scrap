@@ -1,0 +1,23 @@
+{
+    "name": "XFX RX-560D4SFGR Radeon RX 560 - 896 4 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-560D4SFGR",
+    "Chipset": "Radeon RX 560 - 896",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1196 MHz",
+    "Effective Memory Clock": "6000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sh8j4D/xfx-radeon-rx-560-896-4gb-video-card-rx-560d4sfgr"
+}

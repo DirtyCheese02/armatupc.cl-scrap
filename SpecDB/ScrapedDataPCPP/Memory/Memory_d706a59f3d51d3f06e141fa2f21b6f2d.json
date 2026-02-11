@@ -1,0 +1,15 @@
+{
+    "name": "AMD Performance Edition 4 GB (2 x 2 GB) DDR3-1333 CL8 Memory",
+    "Manufacturer": "AMD",
+    "Part #": "AP34G1338U1K",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Red",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h2dqqs/amd-memory-ap34g1338u1k"
+}

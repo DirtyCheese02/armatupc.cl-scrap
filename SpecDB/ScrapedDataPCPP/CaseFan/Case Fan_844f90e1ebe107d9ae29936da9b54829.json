@@ -1,0 +1,18 @@
+{
+    "name": "Xilence XPF40.W 11.73 CFM 40 mm Fan",
+    "Manufacturer": "Xilence",
+    "Model": "XPF40.W",
+    "Part #": "[XF031, XPF40.W]",
+    "Size": "40 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "4500 RPM",
+    "Airflow": "6.9 - 11.73 CFM",
+    "Noise Level": "19 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HyMMnQ/xilence-xpf40w-1173-cfm-40-mm-fan-xf031"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Enermax T.B. RGB 47.53 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTBRGB12-SG",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "47.53 CFM",
+    "Noise Level": "22 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "12V RGB",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dtBTwP/enermax-uctbrgb12-sg-4753-cfm-120-mm-fan-uctbrgb12-sg"
+}

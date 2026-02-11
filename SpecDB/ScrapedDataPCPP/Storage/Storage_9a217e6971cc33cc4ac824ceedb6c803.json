@@ -1,0 +1,13 @@
+{
+    "name": "Seagate 600 120 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "ST120HM000",
+    "Capacity": "120 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "LAMD LM87800",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KyGkcf/seagate-internal-hard-drive-st120hm000"
+}

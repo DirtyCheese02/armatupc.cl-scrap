@@ -1,0 +1,19 @@
+{
+    "name": "APC SURTD5000RMXLT3U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTD5000RMXLT3U",
+    "Capacity (W)": "3500 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "6.30 Minutes",
+    "Backup/Run Time (Half Load)": "18 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "[2 x NEMA L6-20R, 2 x NEMA L6-30R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xr7CmG/apc-ups-surtd5000rmxlt3u"
+}

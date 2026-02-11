@@ -1,0 +1,22 @@
+{
+    "name": "XFX GT-520M-CNF2 GeForce GT 520 2 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "GT-520M-CNF2",
+    "Chipset": "GeForce GT 520",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1066 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3TkD4D/xfx-video-card-gt520mcnf2"
+}

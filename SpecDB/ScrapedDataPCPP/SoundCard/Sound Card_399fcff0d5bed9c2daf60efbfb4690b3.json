@@ -1,0 +1,11 @@
+{
+    "name": "Encore ENM232-8VIA 24-bit 96 kHz Sound Card",
+    "Manufacturer": "Encore",
+    "Part #": "ENM232-8VIA",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Sample Rate": "96 kHz",
+    "Chipset": "VIA VT1723",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CkYXsY/encore-sound-card-enm2328via"
+}

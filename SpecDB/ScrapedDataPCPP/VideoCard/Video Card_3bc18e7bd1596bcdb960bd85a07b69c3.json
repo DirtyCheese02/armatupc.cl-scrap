@@ -1,0 +1,21 @@
+{
+    "name": "AMD 100-300000006 Radeon PRO W7700 16 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-300000006",
+    "Chipset": "Radeon PRO W7700",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1900 MHz",
+    "Boost Clock": "2600 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "190 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pJDQzy/amd-100-300000006-radeon-pro-w7700-16-gb-video-card-100-300000006"
+}

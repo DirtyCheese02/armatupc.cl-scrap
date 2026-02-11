@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M7V 512 GB M.2-2280 SATA Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-512M7VG",
+    "Capacity": "512 GB",
+    "Type": "SSD",
+    "Cache": "1024 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 SATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 88SS1074B1",
+    "SSD NAND Flash Type": "TLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QGPzK8/plextor-m7v-512gb-m2-2280-solid-state-drive-px-512m7vg"
+}

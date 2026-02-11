@@ -1,0 +1,16 @@
+{
+    "name": "Deepcool FC120 61.91 CFM 120 mm Fan",
+    "Manufacturer": "Deepcool",
+    "Model": "FC120",
+    "Part #": "[R-FC120-BKAMN1-G-1, R-FC120-BAMN1-G-1]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YYkWGX/deepcool-fc120-6191-cfm-120-mm-fan-r-fc120-bkamn1-g-1"
+}

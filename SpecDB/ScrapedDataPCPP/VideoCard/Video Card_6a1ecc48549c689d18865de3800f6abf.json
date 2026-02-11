@@ -1,0 +1,21 @@
+{
+    "name": "PowerColor AX5870 1GBD5-PPDHG2 Radeon HD 5870 1 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AX5870 1GBD5-PPDHG2",
+    "Chipset": "Radeon HD 5870",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "875 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "TDP": "188 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x4W9TW/powercolor-video-card-ax58701gbd5ppdhg2"
+}

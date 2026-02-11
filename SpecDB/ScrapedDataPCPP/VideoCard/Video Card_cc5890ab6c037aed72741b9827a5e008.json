@@ -1,0 +1,23 @@
+{
+    "name": "MSI GAMING GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 3060 GAMING 12G, GeForce RTX 3060 GAMING 12G]",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1777 MHz",
+    "Effective Memory Clock": "15000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "276 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2JXJ7P/msi-gaming-geforce-rtx-3060-12gb-12-gb-video-card-rtx-3060-gaming-12g"
+}

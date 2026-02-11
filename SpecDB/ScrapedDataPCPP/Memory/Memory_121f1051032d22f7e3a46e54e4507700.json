@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 128 GB (8 x 16 GB) DDR4-3000 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3000C14Q2-128GTZR",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "Timing": "14-14-14-34",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CZdxFT/gskill-trident-z-rgb-128gb-8-x-16gb-ddr4-3000-memory-f4-3000c14q2-128gtzr"
+}

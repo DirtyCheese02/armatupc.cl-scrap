@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RFA120L-B 77.26 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFA120L-B",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "77.26 CFM",
+    "Noise Level": "35.47 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[High Speed Air Flow, 4 Perfect Blue LEDs]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nx648d/rosewill-case-fan-rfa120lb"
+}

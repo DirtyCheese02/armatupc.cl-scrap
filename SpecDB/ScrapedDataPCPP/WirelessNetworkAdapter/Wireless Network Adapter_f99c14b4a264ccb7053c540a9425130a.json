@@ -1,0 +1,11 @@
+{
+    "name": "StarTech PCI300WN2X2 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "PCI300WN2X2",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "64/128-Bit WEP, WPA, WPA2, WPS",
+    "Antenna": "External Antenna",
+    "Features": "[2 Transmitter/2 Receiver (2x2:2) antenna configuration, Compliant with IEEE 802.11n standard, with support for up to 300Mbps of wireless data bandwidth, Backward compatible with IEEE 802.11b/g standards for up to 11/54Mbps connections respectively with Wireless-B and Wireless-G networks, Supported security features: WEP (64-128-bit), WPA, WPA2, WPS, Support for WMM/WMM-PS Quality of Service (QoS), Infrastructure and Ad-Hoc network modes support, Dual detachable 2dBi antennas, Includes Low Profile/Half-Height installation bracket]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Mmbp99/startech-wireless-network-card-pci300wn2x2"
+}

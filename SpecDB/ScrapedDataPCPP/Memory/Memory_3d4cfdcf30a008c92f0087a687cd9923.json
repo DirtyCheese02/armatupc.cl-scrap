@@ -1,0 +1,16 @@
+{
+    "name": "Avexir Blitz 16 GB (4 x 4 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD4UZ132001604G-4BZ1SW",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bWc48d/avexir-blitz-16gb-4-x-4gb-ddr4-3200-memory-avd4uz132001604g-4bz1sw"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "APC BF350U UPS",
+    "Manufacturer": "APC",
+    "Part #": "BF350U",
+    "Capacity (W)": "225 W",
+    "Capacity (VA)": "350 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "3.10 Minutes",
+    "Backup/Run Time (Half Load)": "11.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "9 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cvVBD3/apc-ups-bf350u"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws V 64 GB (4 x 16 GB) DDR4-3200 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C14Q-64GVR",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t8rcCJ/gskill-memory-f43200c14q64gvr"
+}

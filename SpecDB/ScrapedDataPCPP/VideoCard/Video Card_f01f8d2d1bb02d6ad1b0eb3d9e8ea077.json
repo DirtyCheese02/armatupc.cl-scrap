@@ -1,0 +1,22 @@
+{
+    "name": "MSI R5670-MD1GD3 Radeon HD 5670 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "R5670-MD1GD3",
+    "Chipset": "Radeon HD 5670",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "775 MHz",
+    "Effective Memory Clock": "1400 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JnDwrH/msi-video-card-r5670md1gd3"
+}

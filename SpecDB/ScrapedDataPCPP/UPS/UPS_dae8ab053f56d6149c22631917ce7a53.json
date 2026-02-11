@@ -1,0 +1,21 @@
+{
+    "name": "APC SY12KEXBX120 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SY12KEXBX120",
+    "Capacity (W)": "8400 W",
+    "Capacity (VA)": "12000 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "5.10 Minutes",
+    "Backup/Run Time (Half Load)": "16.70 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "1",
+    "Serial Port": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qFdFf7/apc-ups-sy12kexbx120"
+}

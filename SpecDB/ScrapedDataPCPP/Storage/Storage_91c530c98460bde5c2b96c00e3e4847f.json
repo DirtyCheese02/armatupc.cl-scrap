@@ -1,0 +1,14 @@
+{
+    "name": "Toshiba MKx001GRZB 100 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Toshiba",
+    "Part #": "MK1001GRZB",
+    "Capacity": "100 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SAS 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9032",
+    "SSD NAND Flash Type": "SLC",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Tc9KHx/toshiba-internal-hard-drive-mk1001grzb"
+}

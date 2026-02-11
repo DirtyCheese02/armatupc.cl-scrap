@@ -1,0 +1,21 @@
+{
+    "name": "MSI VENTUS 2X OC GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 3050 VENTUS 2X 8G OC, RTX 3050 VENTUS 2X 8G OC, V397-418R]",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "235 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qJZ9TW/msi-geforce-rtx-3050-8gb-8-gb-ventus-2x-oc-video-card-geforce-rtx-3050-ventus-2x-8g-oc"
+}

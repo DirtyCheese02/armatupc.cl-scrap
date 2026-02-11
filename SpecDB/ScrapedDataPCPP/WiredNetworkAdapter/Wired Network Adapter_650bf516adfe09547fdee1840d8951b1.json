@@ -1,0 +1,8 @@
+{
+    "name": "Syba SI-ADA24037 Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SI-ADA24037",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Features": "[Supports LPM (Link Power Management), Supports CDC-ECM, Supports Pair Swap/Polarity/Skew Correction, Crossover Detection 0 amp: Auto-Correction, Supports Link Down Power Saving When Ethernet Cable is Unplugged, Supports Wake-on-LAN and RealWoW!, Supports Hardware CRC (Cyclic Redundancy Check) Function, IEEE: Supports Full Duplex Operation with IEEE 802.3x Flow Control, Supports IEEE 802.1P Layer 2 Priority Encoding, Supports IEEE 802.1Q VLAN Tagging, Compatible with IEEE 802.3, IEEE 802.3u, Supports IEEE 802.3az-2010 (Energy Efficient Ethernet), Microsoft AOAC (Aways On Always Connected): Supports 16-set 128-byte Wake-Up Frame Pattern Exact Matching, Supports Link Change Wake Up, Supports Microsoft WPD (Wake Packet Detection), Supports Protocol Offload (ARP NS), Intel CPPM (Converged Platform Power Management): Supports L1 with 3ms BESL (USB 2.0), Dynamic LTM Messaging (USB 3.0), Supports U1/U2 (USB 3.0), Supports Selective Suspend]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9MqdnQ/syba-wired-network-card-siada24037"
+}

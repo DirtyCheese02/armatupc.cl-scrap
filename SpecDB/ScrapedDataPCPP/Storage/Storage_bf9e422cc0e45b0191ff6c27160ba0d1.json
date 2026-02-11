@@ -1,0 +1,22 @@
+{
+    "name": "Silicon Power A55 1 TB M.2-2280 SATA Solid State Drive",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SU001TBSS3A55M28AB, FBA-SU001TBSS3A55M28AB]",
+    "Capacity": "1 TB",
+    "Price / GB": "$0.105",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 SATA",
+    "NVME": "No",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H8xRsY/silicon-power-a55-1-tb-m2-2280-solid-state-drive-su001tbss3a55m28ab"
+}

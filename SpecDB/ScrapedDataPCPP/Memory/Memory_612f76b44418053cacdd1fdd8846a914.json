@@ -1,0 +1,16 @@
+{
+    "name": "Thermaltake TOUGHRAM RGB D5 48 GB (2 x 24 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "Thermaltake",
+    "Part #": "RG32D524GX2-6400C34A",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "White / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-40-40-80",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6drp99/thermaltake-toughram-rgb-d5-48-gb-2-x-24-gb-ddr5-6400-cl32-memory-rg32d524gx2-6400c34a"
+}

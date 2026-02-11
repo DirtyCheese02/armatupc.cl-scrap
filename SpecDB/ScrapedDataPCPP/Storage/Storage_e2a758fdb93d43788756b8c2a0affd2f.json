@@ -1,0 +1,13 @@
+{
+    "name": "Plextor M6e 128 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-AG128M6E",
+    "Capacity": "128 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Marvell 9183",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kjPfrH/plextor-internal-hard-drive-pxag128m6e"
+}

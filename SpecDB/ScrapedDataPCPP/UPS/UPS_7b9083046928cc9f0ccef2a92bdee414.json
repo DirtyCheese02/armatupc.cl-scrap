@@ -1,0 +1,15 @@
+{
+    "name": "APC BE400-FR UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE400-FR",
+    "Capacity (W)": "240 W",
+    "Capacity (VA)": "400 VA",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Receptacles": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sgL7YJ/apc-ups-be400fr"
+}

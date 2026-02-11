@@ -1,0 +1,14 @@
+{
+    "name": "Creative Labs Sound Blaster AE-7 32-bit 384 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "Sound Blaster AE-7",
+    "Part #": "[SB1800, AE-7]",
+    "Channels": "5.1",
+    "Digital Audio": "32-bit",
+    "Signal-To-Noise Ratio": "127 dB",
+    "Sample Rate": "384 kHz",
+    "Chipset": "Sound Core3D",
+    "Interface": "PCIe x1",
+    "Color": "Gray",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nNNgXL/creative-labs-sound-blaster-ae-7-32-bit-384-khz-sound-card-sb1800"
+}

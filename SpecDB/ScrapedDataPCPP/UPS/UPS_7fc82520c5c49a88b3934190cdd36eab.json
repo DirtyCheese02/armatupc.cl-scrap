@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SMART750RM1U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART750RM1U",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "750 VA",
+    "Rack Height": "1U",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "4.80 Minutes",
+    "Backup/Run Time (Half Load)": "16.20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/djcMnQ/tripp-lite-ups-smart750rm1u"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Gigabyte GV-N460SE-1GI GeForce GTX 460 SE 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N460SE-1GI",
+    "Chipset": "GeForce GTX 460 SE",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "730 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fWqdnQ/gigabyte-video-card-gvn460se1gi"
+}

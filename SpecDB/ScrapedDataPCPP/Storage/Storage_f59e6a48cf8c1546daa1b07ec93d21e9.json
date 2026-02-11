@@ -1,0 +1,22 @@
+{
+    "name": "Crucial T705 2 TB M.2-2280 PCIe 5.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT2000T705SSD3",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.120",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 5.0 X4",
+    "NVME": "Yes",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WVP8TW/crucial-t705-2-tb-m2-2280-pcie-50-x4-nvme-solid-state-drive-ct2000t705ssd3"
+}

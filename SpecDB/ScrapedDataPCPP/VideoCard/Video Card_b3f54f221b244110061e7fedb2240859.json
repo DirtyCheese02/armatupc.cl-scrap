@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GV-N450OC2-1GI GeForce GTS 450 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N450OC2-1GI",
+    "Chipset": "GeForce GTS 450",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "930 MHz",
+    "Effective Memory Clock": "4000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "106 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZMNp99/gigabyte-video-card-gvn450oc21gi"
+}

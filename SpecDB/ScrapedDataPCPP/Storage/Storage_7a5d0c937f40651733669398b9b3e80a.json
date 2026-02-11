@@ -1,0 +1,13 @@
+{
+    "name": "Intel 910 800 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDPX800G301",
+    "Capacity": "800 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Intel EW29AA31AA1",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yxw323/intel-internal-hard-drive-ssdpedpx800g301"
+}

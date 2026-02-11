@@ -1,0 +1,23 @@
+{
+    "name": "Gainward Phoenix GeForce RTX 4080 16 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NED4080019T2-1032X",
+    "Chipset": "GeForce RTX 4080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2205 MHz",
+    "Boost Clock": "2505 MHz",
+    "Effective Memory Clock": "11200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "329 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H9rqqs/gainward-phoenix-geforce-rtx-4080-16-gb-video-card-ned4080019t2-1032x"
+}

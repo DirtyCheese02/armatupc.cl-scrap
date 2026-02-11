@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 500 W1 500 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "500 W1",
+    "Part #": "[100-W1-0500-KR, 100-W1-0500-K2, 100-W1-0500-K3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "500 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XCjG3C/evga-500-w1-500-w-80-certified-atx-power-supply-100-w1-0500-kr"
+}

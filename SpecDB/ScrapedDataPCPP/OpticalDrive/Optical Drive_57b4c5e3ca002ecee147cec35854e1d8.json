@@ -1,0 +1,21 @@
+{
+    "name": "LG CU20N Blu-Ray Reader, DVD/CD Writer",
+    "Manufacturer": "LG",
+    "Part #": "CU20N",
+    "Form Factor": "5.25\" Slim",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "4 MB",
+    "BD-ROM Speed": "6X",
+    "DVD-ROM Speed": "8X",
+    "CD-ROM Speed": "24X",
+    "DVD+R Speed": "8X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "6X",
+    "DVD-R Speed": "8X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "6X",
+    "DVD-RAM Speed": "5X",
+    "CD-R Speed": "24X",
+    "CD-RW Speed": "16X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fNGj4D/lg-optical-drive-cu20n"
+}

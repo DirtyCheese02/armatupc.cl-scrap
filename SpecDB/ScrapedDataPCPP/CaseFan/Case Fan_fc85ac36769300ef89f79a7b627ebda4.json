@@ -1,0 +1,17 @@
+{
+    "name": "Aerocool Project 7 RGB 12 45.8 CFM 120 mm Fan",
+    "Manufacturer": "Aerocool",
+    "Part #": "[P7-F12, ACF3-P710217.01]",
+    "Size": "120 mm",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "45.8 CFM",
+    "Noise Level": "14.5 dB",
+    "PWM": "No",
+    "LED": "RGB",
+    "Connector": "3-pin + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "1.01 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m4m323/aerocool-p7-f12-458-cfm-120-mm-fan-p7-f12"
+}

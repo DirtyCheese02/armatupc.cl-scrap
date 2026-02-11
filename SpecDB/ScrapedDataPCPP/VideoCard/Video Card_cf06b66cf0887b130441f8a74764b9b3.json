@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N740D5OC-1GI GeForce GT 740 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N740D5OC-1GI",
+    "Chipset": "GeForce GT 740",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1071 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "187 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "2",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZgDwrH/gigabyte-video-card-gvn740d5oc1gi"
+}

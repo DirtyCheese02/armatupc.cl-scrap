@@ -1,0 +1,13 @@
+{
+    "name": "Seagate 1200 SSD 800 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "ST800FM0043",
+    "Capacity": "800 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SAS 12.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Marvell ASIC",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RPtCmG/seagate-internal-hard-drive-st800fm0043"
+}

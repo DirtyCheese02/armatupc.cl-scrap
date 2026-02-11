@@ -1,0 +1,17 @@
+{
+    "name": "Patriot Viper Elite II 32 GB (1 x 32 GB) DDR4-3600 CL20 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVE2432G360C0",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "Price / GB": "$5.937",
+    "Color": "Red / Black",
+    "First Word Latency": "11.111 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.35 V",
+    "Timing": "20-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sCwypg/patriot-viper-elite-ii-32-gb-1-x-32-gb-ddr4-3600-cl20-memory-pve2432g360c0"
+}

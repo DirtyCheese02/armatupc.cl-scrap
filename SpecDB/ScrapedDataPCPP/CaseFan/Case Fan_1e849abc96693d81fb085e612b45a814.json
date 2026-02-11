@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone FHP 173.5 CFM 140 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "[SST-FHP141-VF, FHP141-VF]",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "43.75 - 173.5 CFM",
+    "Noise Level": "16.5 - 41.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/37448d/silverstone-sst-fhp141-vf-1735-cfm-140mm-fan-sst-fhp141-vf"
+}

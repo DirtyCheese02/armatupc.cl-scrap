@@ -1,0 +1,21 @@
+{
+    "name": "Topower TOP-1000P12-ADJ 1000 W Semi-modular ATX Power Supply",
+    "Manufacturer": "Topower",
+    "Part #": "TOP-1000P12-ADJ",
+    "Type": "ATX",
+    "Wattage": "1000 W",
+    "Length": "165 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@30A, +5V@30A, +12V1@19A, +12V2@19A, +12V3@19A, +12V4@19A, +12V5@19A, +12V6@19A, -12V@1A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HgYXsY/topower-top-1000p12-adj-1000-w-semi-modular-atx-power-supply-top-1000p12-adj"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "CyberPower CP600LCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP600LCD",
+    "Capacity (W)": "340 W",
+    "Capacity (VA)": "600 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "9 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z4Crxr/cyberpower-ups-cp600lcd"
+}

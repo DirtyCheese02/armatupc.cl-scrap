@@ -1,0 +1,21 @@
+{
+    "name": "APC SRT10KRMXLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SRT10KRMXLI",
+    "Capacity (W)": "10000 W",
+    "Capacity (VA)": "10000 VA",
+    "Rack Height": "6U",
+    "Alarm": "Battery Failure",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "1.50 Hour",
+    "Output Voltage": "230 V AC",
+    "Protection Type": "[Surge, Spike, Lightning]",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CRGj4D/apc-ups-srt10krmxli"
+}

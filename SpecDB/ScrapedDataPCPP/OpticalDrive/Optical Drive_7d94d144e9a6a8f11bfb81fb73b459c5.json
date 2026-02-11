@@ -1,0 +1,20 @@
+{
+    "name": "Plextor PX-L871A DVD/CD Writer",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-L871A",
+    "Form Factor": "5.25\"",
+    "Interface": "PATA 100",
+    "Buffer Cache": "2 MB",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "22X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "12X",
+    "DVD-R Speed": "22X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "12X",
+    "DVD-RAM Speed": "12X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "24X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vBBv6h/plextor-optical-drive-pxl871a"
+}

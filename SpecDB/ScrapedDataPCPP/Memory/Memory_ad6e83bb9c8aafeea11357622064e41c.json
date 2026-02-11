@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX1600C9S3P1K2/4G 4 GB (2 x 2 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1600C9S3P1K2/4G",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Gray / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nw4gXL/kingston-memory-khx1600c9s3p1k24g"
+}

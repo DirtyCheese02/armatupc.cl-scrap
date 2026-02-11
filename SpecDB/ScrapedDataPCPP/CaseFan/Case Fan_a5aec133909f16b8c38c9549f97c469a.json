@@ -1,0 +1,19 @@
+{
+    "name": "Thermalright TL-B12 69 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Model": "TL-B12",
+    "Part #": "[TL-B12W D6, TL-B12W]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2150 RPM",
+    "Airflow": "69 CFM",
+    "Noise Level": "28.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.87 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RV26Mp/thermalright-tl-b12-69-cfm-120-mm-fan-tl-b12w-d6"
+}

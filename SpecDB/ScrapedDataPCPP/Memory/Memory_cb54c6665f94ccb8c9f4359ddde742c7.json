@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 64 GB (8 x 8 GB) DDR4-2800 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD64GX4M8B2800C14",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cRkwrH/corsair-memory-cmd64gx4m8b2800c14"
+}

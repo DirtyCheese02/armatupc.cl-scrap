@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-R697UD-2GD Radeon HD 6970 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R697UD-2GD",
+    "Chipset": "Radeon HD 6970",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "880 MHz",
+    "Effective Memory Clock": "1375 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "289 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QYjG3C/gigabyte-video-card-gvr697ud2gd"
+}

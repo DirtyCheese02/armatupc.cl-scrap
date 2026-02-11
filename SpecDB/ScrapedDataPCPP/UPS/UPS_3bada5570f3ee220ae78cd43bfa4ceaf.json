@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SM2200RMDVTAA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SM2200RMDVTAA",
+    "Capacity (W)": "1920 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "12 Minutes",
+    "Backup/Run Time (Half Load)": "30 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x NEMA 5-15/20R, 4 x NEMA 5-15R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mf8H99/tripp-lite-ups-sm2200rmdvtaa"
+}

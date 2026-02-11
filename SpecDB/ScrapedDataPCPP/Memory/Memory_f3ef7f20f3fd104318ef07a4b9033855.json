@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 128 GB (8 x 16 GB) DDR4-3800 CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK128GX4M8X3800C19",
+    "Speed": "DDR4-3800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4hHRsY/corsair-vengeance-lpx-128-gb-8-x-16-gb-ddr4-3800-memory-cmk128gx4m8x3800c19"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "APC BK350EI UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK350EI",
+    "Capacity (W)": "210 W",
+    "Capacity (VA)": "350 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "4.70 Minutes",
+    "Backup/Run Time (Half Load)": "18.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[1 x IEC 320-C13, 3 x IEC 320-C13, 2]",
+    "USB": "Yes",
+    "Waveform Type": "Stepped Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WCyxFT/apc-ups-bk350ei"
+}

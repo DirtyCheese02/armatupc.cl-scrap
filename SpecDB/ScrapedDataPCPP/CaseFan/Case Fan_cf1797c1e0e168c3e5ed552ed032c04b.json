@@ -1,0 +1,20 @@
+{
+    "name": "Rosewill Hyperborea 57.53 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "ROCF-11004",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1300 RPM",
+    "Airflow": "57.53 CFM",
+    "Noise Level": "6.9 - 16.05 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.64 mmH₂O",
+    "Bearing Type": "HDB (Hydro Dynamic)",
+    "Features": "[Super silent 12cm fan with S-FLOW blades supplying 30% more airflow than a standard fan at the same speed. The greater performance combined with PWM automatic speed control allows the fan noise to be kept to a minimum, Max static air pressure: 2.64 mm H2O, Voltage rating: 12V DC, Fan life expectancy: 50,000 hours]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qKvRsY/rosewill-hyperborea-5753-cfm-120-mm-fan-rocf-11004"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill PI + Turbulence 4 GB (2 x 2 GB) DDR3-2133 CL7 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-17066CL7D-4GBPIS",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "6.564 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tFNp99/gskill-memory-f317066cl7d4gbpis"
+}

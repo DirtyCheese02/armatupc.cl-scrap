@@ -1,0 +1,18 @@
+{
+    "name": "Lian Li Uni Fan SL-Infinity 63.6 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Lian Li",
+    "Part #": "[12RSLIN3B, G99.12RSLIN3B.00]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "200 - 2100 RPM",
+    "Airflow": "63.6 CFM",
+    "Noise Level": "32 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "USB",
+    "Static Pressure": "2.02 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7vh2FT/lian-li-uni-fan-sl-infinity-636-cfm-120-mm-fans-3-pack-12rslin3b"
+}

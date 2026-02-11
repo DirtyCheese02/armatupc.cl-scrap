@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC F14 PST 74 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F14 PST",
+    "Part #": "ACFAN00079A",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1350 RPM",
+    "Airflow": "74 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bkZFf7/arctic-f14-pwm-pst-74-cfm-140mm-fan-acfan00079a"
+}

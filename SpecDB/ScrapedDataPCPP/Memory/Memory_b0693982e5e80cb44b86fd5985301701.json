@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Elite 16 GB (2 x 8 GB) DDR5-5200 CL42 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TED516G5200C42DC01",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "Timing": "42-42-42-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/prqrxr/teamgroup-elite-16-gb-2-x-8-gb-ddr5-5200-cl42-memory-ted516g5200c42dc01"
+}

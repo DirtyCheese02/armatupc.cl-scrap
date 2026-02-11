@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FQ 27.53 CFM 80 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FQ81",
+    "Size": "80 mm",
+    "Color": "White / Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 2800 RPM",
+    "Airflow": "12 - 27.53 CFM",
+    "Noise Level": "19 - 28.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Optimum airflow, pressure and extremely silent performance, PWM design allows 1200~2800rpm fan speed control by motherboard, Mixed fan blade design for noise reduction]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yVnG3C/silverstone-case-fan-fq81"
+}

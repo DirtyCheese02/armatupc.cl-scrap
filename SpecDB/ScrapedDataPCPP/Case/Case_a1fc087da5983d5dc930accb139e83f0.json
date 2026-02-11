@@ -1,0 +1,20 @@
+{
+    "name": "Lian Li PC-Q11 Mini ITX Tower Case",
+    "Manufacturer": "Lian Li",
+    "Part #": "PC-Q11R",
+    "Type": "Mini ITX Tower",
+    "Color": "Red",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[Mini ITX, Thin Mini ITX]",
+    "Maximum Video Card Length": "[240 mm, 9.449\"]",
+    "Drive Bays": "[1 x External 5.25\", 2 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "2 x Full-Height",
+    "Fan Support": "140 mm",
+    "Radiator Support": "140 mm",
+    "Dimensions": "[260 mm x 199 mm x 325 mm, 10.236\" x 7.835\" x 12.795\"]",
+    "Volume": "[16.816 L, 0.594 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kjV48d/lian-li-case-pcq11r"
+}

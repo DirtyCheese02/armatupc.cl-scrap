@@ -1,0 +1,15 @@
+{
+    "name": "TEAMGROUP Elite 8 GB (1 x 8 GB) DDR3-1333 SODIMM CL9 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TMD38GM1333HC9-S01",
+    "Speed": "DDR3-1333",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Silver",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7FTrxr/team-memory-tmd38gm1333hc9s01"
+}

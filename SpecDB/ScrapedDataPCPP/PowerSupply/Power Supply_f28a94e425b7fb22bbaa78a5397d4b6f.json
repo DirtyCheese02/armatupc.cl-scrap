@@ -1,0 +1,22 @@
+{
+    "name": "Thermaltake Toughpower XT 1275 W 80+ Platinum Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Thermaltake",
+    "Part #": "[TPX-1275M, TPX-1275MPCGAU]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "1275 W",
+    "Length": "199 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "2",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "16",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@45A, +12V2@65A, -12V@0.8A, +5VSB@4A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sRW9TW/thermaltake-power-supply-tpx1275m"
+}

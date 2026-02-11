@@ -1,0 +1,22 @@
+{
+    "name": "Antec EDGE 650 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Antec",
+    "Part #": "[EDGE 650, EDG650]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "650 W",
+    "Length": "170 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@20A, +5V@20A, +12V1@35A, +12V2@35A, -12V@0.3A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wLkwrH/antec-power-supply-edge650"
+}

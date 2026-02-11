@@ -1,0 +1,19 @@
+{
+    "name": "Cougar CFD 64.5 CFM 140 mm Fan",
+    "Manufacturer": "Cougar",
+    "Part #": "CFT14SB4",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "64.5 CFM",
+    "Noise Level": "17.89 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hyper-spin",
+    "Features": "[OPTIMUM COOLING EFFICIENCY & EXTREMELY SILENT PERFORMANCE, NINE DIVERSION GROOVE BLADE DESIGN, Nine diversion groove blade design generate outstanding air pressure & focus air flow, optimize cooling efficiency (Patent), AERO-DYNAMICAL DESIGN, Air-inlet with optimal aero-dynamical design reducing noisy air turbulences, HYPER-SPIN BEARING FOR LONGER LIFE EXPECTANCY]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MJ8H99/cougar-case-fan-cft14sb4"
+}

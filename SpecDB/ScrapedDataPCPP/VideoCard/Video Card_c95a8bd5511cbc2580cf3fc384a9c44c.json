@@ -1,0 +1,23 @@
+{
+    "name": "Gainward Phoenix GS GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NED3080S19KB-132AX",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1740 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "294 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qZPQzy/gainward-geforce-rtx-3080-12gb-lhr-12-gb-phoenix-gs-video-card-ned3080s19kb-132ax"
+}

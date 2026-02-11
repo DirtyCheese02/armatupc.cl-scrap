@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB Pro 64 GB (2 x 32 GB) DDR4-4000 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMW64GX4M2K4000C18",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qmyqqs/corsair-vengeance-rgb-pro-64-gb-2-x-32-gb-ddr4-4000-cl18-memory-cmw64gx4m2k4000c18"
+}

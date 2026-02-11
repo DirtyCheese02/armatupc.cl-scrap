@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB 32 GB (4 x 8 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMR32GX4M4D3000C16W",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "White",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dcMwrH/corsair-vengeance-rgb-32gb-4-x-8gb-ddr4-3000-memory-cmr32gx4m4d3000c16w"
+}

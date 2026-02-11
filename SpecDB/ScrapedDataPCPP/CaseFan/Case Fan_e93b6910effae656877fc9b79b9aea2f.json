@@ -1,0 +1,19 @@
+{
+    "name": "Noctua NF-A14 INDUSTRIALPPC-24V-3000 Q100 IP67 PWM 158.5 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "NF-A14 INDUSTRIALPPC-24V-3000 Q100 IP67 PWM",
+    "Part #": "NF-A14 industrialPPC-24V-300M",
+    "Size": "140 mm",
+    "Color": "Black / Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 3000 RPM",
+    "Airflow": "158.5 CFM",
+    "Noise Level": "41.3 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "6.58 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hqcG3C/noctua-nf-a14-industrialppc-24v-3000-q100-ip67-pwm-1585-cfm-140-mm-fan-nf-a14-industrialppc-24v-300m"
+}

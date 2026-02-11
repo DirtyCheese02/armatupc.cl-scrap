@@ -1,0 +1,19 @@
+{
+    "name": "Vantec Stealth 28 CFM 92 mm Fan",
+    "Manufacturer": "Vantec",
+    "Part #": "SF9225L",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1750 RPM",
+    "Airflow": "28 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "Smart Fan with Speed Detection",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VxphP6/vantec-sf9225l-28-cfm-92-mm-fan-sf9225l"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "CyberPower CS50U48V UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CS50U48V",
+    "Capacity (W)": "50 W",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "18 Hour",
+    "Output Voltage": "48 V DC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VVYWGX/cyberpower-ups-cs50u48v"
+}

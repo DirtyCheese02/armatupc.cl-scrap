@@ -1,0 +1,19 @@
+{
+    "name": "Geometric Future Squama 2503R 71.8 CFM 140 mm Fan",
+    "Manufacturer": "Geometric Future",
+    "Model": "Squama 2503R",
+    "Part #": "GEO-S2503RW-14S",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "800 - 2100 RPM",
+    "Airflow": "71.8 CFM",
+    "Noise Level": "34 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TkkH99/geometric-future-squama-2503r-718-cfm-140-mm-fan-geo-s2503rw-14s"
+}

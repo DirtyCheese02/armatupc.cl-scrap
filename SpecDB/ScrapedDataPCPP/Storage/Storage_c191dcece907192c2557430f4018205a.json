@@ -1,0 +1,13 @@
+{
+    "name": "Plextor M6e 256 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-AG256M6E",
+    "Capacity": "256 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Marvell 9183",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nd4gXL/plextor-internal-hard-drive-pxag256m6e"
+}

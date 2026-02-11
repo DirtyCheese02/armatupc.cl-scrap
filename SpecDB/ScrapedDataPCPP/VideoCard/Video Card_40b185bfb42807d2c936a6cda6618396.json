@@ -1,0 +1,23 @@
+{
+    "name": "Gainward Phoenix GS GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NE75070T19K9-GB2050X",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2160 MHz",
+    "Boost Clock": "2572 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "332 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Tw62FT/gainward-phoenix-gs-geforce-rtx-5070-12-gb-video-card-ne75070t19k9-gb2050x"
+}

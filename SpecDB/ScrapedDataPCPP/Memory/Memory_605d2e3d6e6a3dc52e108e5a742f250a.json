@@ -1,0 +1,15 @@
+{
+    "name": "GeIL GX2S5300-2GB 2 GB (1 x 2 GB) DDR2-667 SODIMM CL5 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GX2S5300-2GB",
+    "Speed": "DDR2-667",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 2GB",
+    "Color": "Green",
+    "First Word Latency": "14.993 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cVvRsY/geil-memory-gx2s53002gb"
+}

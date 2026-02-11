@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Lancer Blade 16 GB (1 x 16 GB) DDR5-6000 CL48 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX5U6000C4816G-SLABWH",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "White",
+    "First Word Latency": "16 ns",
+    "CAS Latency": "48",
+    "Voltage": "1.4 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bBLp99/adata-xpg-lancer-blade-16-gb-1-x-16-gb-ddr5-6000-cl48-memory-ax5u6000c4816g-slabwh"
+}

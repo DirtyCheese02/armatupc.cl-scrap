@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS 3X OC GeForce RTX 3080 10GB LHR 10 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 3080 VENTUS 3X 10G OC LHR, RTX 3080 VENTUS 3X 10G OC LHR]",
+    "Chipset": "GeForce RTX 3080 10GB LHR",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1740 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "305 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7vYmP6/msi-geforce-rtx-3080-lhr-10-gb-ventus-3x-oc-video-card-geforce-rtx-3080-ventus-3x-10g-oc-lhr"
+}

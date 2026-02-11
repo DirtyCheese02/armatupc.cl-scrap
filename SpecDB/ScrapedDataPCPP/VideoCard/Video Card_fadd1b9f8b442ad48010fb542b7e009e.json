@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GAMING GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N4090GAMING-24GD",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Boost Clock": "2520 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "340 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xxgrxr/gigabyte-gaming-geforce-rtx-4090-24-gb-video-card-gv-n4090gaming-24gd"
+}

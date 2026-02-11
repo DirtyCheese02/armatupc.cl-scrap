@@ -1,0 +1,15 @@
+{
+    "name": "Kingston SSDNow E100 400 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Kingston",
+    "Model": "SSDNow E100",
+    "Part #": "SE100S37/400G",
+    "Capacity": "400 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2582",
+    "SSD NAND Flash Type": "eMLC",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6myFf7/kingston-internal-hard-drive-se100s37400g"
+}

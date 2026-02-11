@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Titanium RGB 48 GB (2 x 24 GB) DDR5-6400 CL36 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMP48GX5M2B6400C36",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-48-48-104",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/v8vscf/corsair-dominator-titanium-rgb-48-gb-2-x-24-gb-ddr5-6400-cl36-memory-cmp48gx5m2b6400c36"
+}

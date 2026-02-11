@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone AP 25.5 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-AP124-ARGB",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "6.37 - 25.5 CFM",
+    "Noise Level": "19.25 - 23.54 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y6m323/silverstone-sst-ap124-argb-255-cfm-120-mm-fan-sst-ap124-argb"
+}

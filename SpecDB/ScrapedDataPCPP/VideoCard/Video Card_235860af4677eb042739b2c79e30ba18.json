@@ -1,0 +1,23 @@
+{
+    "name": "Asus ROG STRIX GAMING OC GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ROG-STRIX-RTX3060TI-O8G-GAMING",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1890 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "318 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tWVG3C/asus-geforce-rtx-3060-ti-8-gb-rog-strix-gaming-oc-video-card-rog-strix-rtx3060ti-o8g-gaming"
+}

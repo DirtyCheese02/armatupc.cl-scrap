@@ -1,0 +1,20 @@
+{
+    "name": "Phanteks F120SP 54.4 CFM 120 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F120SP",
+    "Part #": "PH-F120SP_RLED",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1300 RPM",
+    "Airflow": "54.4 CFM",
+    "Noise Level": "24.2 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "Features": "[The new redeveloped blades in PH-F120SP are angled lower to achieve higher air pressure.  The redesigned MVB blades generate better airflow and produces better performance.  It improves the balance of airflow and air pressure when using with as a cooler fan or case fan., The PH-F120SP has a larger base size with a magnetic brushless DC motor to avoid the effects of resonance and for rotational stability. To create better structural strength, Phanteks redesigned the back frame of the PH-F120SP. Phanteks fans now comes with pre-installed rubber pads to help reduce vibration occurrences., With the noise reduction challenges in mind, we modified the component for lower actuator noise, PCBA for lower electromagnetic noise, brushless motor structure for lower operating noise and frame rib for lower wind and vibration noise.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/THNypg/phanteks-case-fan-phf120sprled"
+}

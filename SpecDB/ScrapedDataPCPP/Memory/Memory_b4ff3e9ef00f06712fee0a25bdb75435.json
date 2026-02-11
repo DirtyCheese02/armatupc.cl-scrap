@@ -1,0 +1,14 @@
+{
+    "name": "Kingston Server Premier 32 GB (1 x 32 GB) DDR4-3200 CL22 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM32ED8/32ME",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PYD7YJ/kingston-server-premier-32-gb-1-x-32-gb-ddr4-3200-cl22-memory-ksm32ed832me"
+}

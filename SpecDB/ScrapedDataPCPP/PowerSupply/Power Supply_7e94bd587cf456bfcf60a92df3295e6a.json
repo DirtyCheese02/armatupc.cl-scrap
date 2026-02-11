@@ -1,0 +1,23 @@
+{
+    "name": "Athena Power AP-TFX40 400 W 80+ Bronze Certified TFX Power Supply",
+    "Manufacturer": "Athena Power",
+    "Part #": "AP-TFX40",
+    "Type": "TFX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "400 W",
+    "Length": "175 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "2",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "2",
+    "Output": "+5V@15A, -5V@0.5A, +12V1@16A, +12V2@16A, -12V@0.8A, +3.3V@15A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tJLypg/athena-power-ap-tfx40-400-w-80-bronze-certified-tfx-power-supply-ap-tfx40"
+}

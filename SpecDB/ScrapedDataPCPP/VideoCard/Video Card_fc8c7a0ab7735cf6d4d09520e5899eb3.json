@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N210SL-1GI GeForce 210 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N210SL-1GI",
+    "Chipset": "GeForce 210",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "520 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Green / Silver",
+    "Frame Sync": "None",
+    "Length": "160 mm",
+    "TDP": "31 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qfbp99/gigabyte-video-card-gvn210sl1gi"
+}

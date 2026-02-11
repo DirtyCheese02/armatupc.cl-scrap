@@ -1,0 +1,23 @@
+{
+    "name": "Asus GTX1050TI-O4G-LP-BRK GeForce GTX 1050 Ti 4 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "GTX1050TI-O4G-LP-BRK",
+    "Chipset": "GeForce GTX 1050 Ti",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1303 MHz",
+    "Boost Clock": "1442 MHz",
+    "Effective Memory Clock": "7008 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "G-Sync",
+    "Length": "182 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GsgzK8/asus-geforce-gtx-1050-ti-4-gb-lp-video-card-gtx1050ti-o4g-lp-brk"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X II AMD 8 GB (2 x 4 GB) DDR4-3200 CL22 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAEXSY48GB3200C22DC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "Timing": "22-22-22-52",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7yBzK8/geil-evo-x-ii-amd-8-gb-2-x-4-gb-ddr4-3200-cl22-memory-gaexsy48gb3200c22dc"
+}

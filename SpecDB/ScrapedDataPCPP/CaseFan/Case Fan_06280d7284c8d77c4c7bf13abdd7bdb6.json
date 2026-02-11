@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-E12B EXTREM 78 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-E12B EXTREM",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1850 RPM",
+    "Airflow": "78 CFM",
+    "Noise Level": "27.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.34 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FZXV3C/thermalright-tl-e12b-extrem-78-cfm-120-mm-fan-tl-e12b-extrem"
+}

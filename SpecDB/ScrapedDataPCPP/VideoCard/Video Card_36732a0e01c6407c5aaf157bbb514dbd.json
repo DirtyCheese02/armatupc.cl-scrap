@@ -1,0 +1,22 @@
+{
+    "name": "MSI N465GTX-M2D1G GeForce GTX 465 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N465GTX-M2D1G",
+    "Chipset": "GeForce GTX 465",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "607 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "243 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s2CwrH/msi-video-card-n465gtxm2d1g"
+}

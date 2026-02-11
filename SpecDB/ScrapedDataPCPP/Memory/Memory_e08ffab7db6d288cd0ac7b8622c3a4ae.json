@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG GAMMIX D30 32 GB (2 x 16 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX4U3000316G16-DR30",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver / Red",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dkJmP6/adata-xpg-gammix-d30-32-gb-2-x-16-gb-ddr4-3000-memory-ax4u3000316g16-dr30"
+}

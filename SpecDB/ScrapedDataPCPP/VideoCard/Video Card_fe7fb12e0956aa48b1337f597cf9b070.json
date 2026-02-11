@@ -1,0 +1,21 @@
+{
+    "name": "AMD FirePro RG220A FirePro RG220A 512 MB Video Card",
+    "Manufacturer": "AMD",
+    "Model": "FirePro RG220A",
+    "Part #": "100-505715",
+    "Chipset": "FirePro RG220A",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "500 MHz",
+    "Effective Memory Clock": "1600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "35 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FK8H99/amd-video-card-100505715"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Xtreem 16 GB (2 x 8 GB) DDR4-3733 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TXGD416G3733HC18ADC01",
+    "Speed": "DDR4-3733",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "9.644 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-20-20-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZP4NnQ/team-t-force-xtreem-16gb-2-x-8gb-ddr4-3733-memory-txgd416g3733hc18adc01"
+}

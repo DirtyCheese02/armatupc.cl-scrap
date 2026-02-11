@@ -1,0 +1,18 @@
+{
+    "name": "Tripp Lite SMART3000SLT UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART3000SLT",
+    "Capacity (W)": "2250 W",
+    "Capacity (VA)": "3000 VA",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "9 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[1 x NEMA 5-15/20R, 6 x NEMA L5-30R]",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NLDzK8/tripp-lite-ups-smart3000slt"
+}

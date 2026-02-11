@@ -1,0 +1,23 @@
+{
+    "name": "AMD A4-5300 3.4 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD5300OKA23HJ",
+    "Series": "AMD A4",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Trinity",
+    "Socket": "FM2",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.4 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 7480D",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/98h9TW/amd-cpu-ad5300oka23hj"
+}

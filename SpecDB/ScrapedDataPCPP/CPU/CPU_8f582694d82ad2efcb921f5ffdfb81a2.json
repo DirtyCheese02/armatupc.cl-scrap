@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X6 1055T 2.8 GHz 6-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDT55TFBGRBOX",
+    "Series": "AMD Phenom II X6",
+    "Microarchitecture": "K10",
+    "Core Family": "Thuban",
+    "Socket": "AM3",
+    "Core Count": "6",
+    "Thread Count": "6",
+    "Performance Core Clock": "2.8 GHz",
+    "L2 Cache": "3 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LQQypg/amd-cpu-hdt55tfbgrbox"
+}

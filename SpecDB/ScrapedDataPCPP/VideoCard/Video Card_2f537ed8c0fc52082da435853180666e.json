@@ -1,0 +1,23 @@
+{
+    "name": "MSI D4 LP OC GeForce GT 1030 DDR4 4 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "GT 1030 4GD4 LP OC",
+    "Chipset": "GeForce GT 1030 DDR4",
+    "Memory": "4 GB",
+    "Memory Type": "DDR4",
+    "Core Clock": "1151 MHz",
+    "Boost Clock": "1430 MHz",
+    "Effective Memory Clock": "2100 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "150 mm",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NjJp99/msi-d4-lp-oc-geforce-gt-1030-ddr4-4-gb-video-card-gt-1030-4gd4-lp-oc"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "ADATA XPG Gaming Series v2.0 8 GB (2 x 4 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX3U2400GC4G10-DG2",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7dZQzy/a-data-memory-ax3u2400gc4g10dg2"
+}

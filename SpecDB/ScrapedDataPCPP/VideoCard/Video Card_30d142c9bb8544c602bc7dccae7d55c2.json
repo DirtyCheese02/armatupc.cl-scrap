@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL OC GeForce RTX 3060 8GB 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RTX3060-O8G, 90YV0GB5-M0AA00, 90YV0GB5-M0NA00]",
+    "Chipset": "GeForce RTX 3060 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1867 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "200 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TJvdnQ/asus-dual-oc-geforce-rtx-3060-8gb-8-gb-video-card-dual-rtx3060-o8g"
+}

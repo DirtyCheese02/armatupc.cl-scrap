@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M8Pe 256 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-256M8PeY",
+    "Capacity": "256 GB",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Marvell 88SS1093",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jJyxFT/plextor-m8pe-256gb-pci-e-solid-state-drive-px-256m8pey"
+}

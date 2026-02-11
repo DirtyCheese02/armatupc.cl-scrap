@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Vesta II RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "[VESTA2-64GB-6000-2R8-V1, BL.9BWWR.334]",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-38-38-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4wQKHx/acer-predator-vesta-ii-rgb-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-vesta2-64gb-6000-2r8-v1"
+}

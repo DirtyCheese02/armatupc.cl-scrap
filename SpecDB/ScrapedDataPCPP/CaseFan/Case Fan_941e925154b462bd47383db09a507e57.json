@@ -1,0 +1,16 @@
+{
+    "name": "Cooler Master MOBIUS 76.5 CFM 140 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "MFZ-M4NK-19NPK-R1",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 76.5 CFM",
+    "Noise Level": "0 - 30 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MGmNnQ/cooler-master-mobius-765-cfm-140-mm-fan-mfz-m4nk-19npk-r1"
+}

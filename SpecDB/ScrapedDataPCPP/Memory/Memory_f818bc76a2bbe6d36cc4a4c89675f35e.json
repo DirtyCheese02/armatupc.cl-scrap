@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 4 32 GB (4 x 8 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2666C16Q-32GRB",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Blue",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fCJkcf/gskill-memory-f42666c16q32grb"
+}

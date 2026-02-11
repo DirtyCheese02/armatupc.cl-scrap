@@ -1,0 +1,18 @@
+{
+    "name": "Asus TUF Gaming TR120 ARGB 77.4 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Asus",
+    "Part #": "[TUF GAMING TR120 FAN ARGB WHITE 3IN1, 90DA0093-B08020]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "77.4 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6QNscf/asus-tuf-gaming-tr120-argb-774-cfm-120-mm-fans-3-pack-tuf-gaming-tr120-fan-argb-white-3in1"
+}

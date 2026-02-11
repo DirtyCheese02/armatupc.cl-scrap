@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A15 HS-PWM chromax.black.swap 82.52 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A15 HS-PWM chromax.black.swap",
+    "Part #": "[NF-A15 HS-PWM chromax.black.swap, NF-A15 HS-PWM CH.BK.S, NF-A15 HS-PWM CHROMAX, NF-A15-HS-PWM-CH-BK-S]",
+    "Size": "140 mm",
+    "Color": "Multicolor",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1500 RPM",
+    "Airflow": "82.52 CFM",
+    "Noise Level": "24.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.08 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DKFXsY/noctua-nf-a15-hs-pwm-chromaxblackswap-825-cfm-140mm-fan-nf-a15-hs-pwm-chromaxblackswap"
+}

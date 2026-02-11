@@ -1,0 +1,21 @@
+{
+    "name": "EVGA 768-P3-1360-RX GeForce GTX 460 768 MB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "768-P3-1360-RX",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "0.75 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "675 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KmTmP6/evga-video-card-768p31360rx"
+}

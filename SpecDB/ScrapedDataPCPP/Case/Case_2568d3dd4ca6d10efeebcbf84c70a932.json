@@ -1,0 +1,19 @@
+{
+    "name": "Antec VSK2450 ATX Mid Tower Case w/450 W Power Supply",
+    "Manufacturer": "Antec",
+    "Part #": "VSK2450",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "450 W",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, Thin Mini ITX]",
+    "Drive Bays": "[3 x External 5.25\", 1 x External 3.5\", 6 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "120 mm",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[469 mm x 200 mm x 449 mm, 18.465\" x 7.874\" x 17.677\"]",
+    "Volume": "[42.116 L, 1.487 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q9zv6h/antec-case-vsk2450"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "VisionTek 900849 8 GB (1 x 8 GB) DDR3-1866 SODIMM CL13 Memory",
+    "Manufacturer": "VisionTek",
+    "Part #": "900849",
+    "Speed": "DDR3-1866",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Green / Black",
+    "First Word Latency": "13.934 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Yb22FT/visiontek-8gb-1-x-8gb-ddr3-1866-memory-900849"
+}

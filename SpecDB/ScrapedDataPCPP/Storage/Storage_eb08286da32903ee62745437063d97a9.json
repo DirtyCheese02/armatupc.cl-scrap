@@ -1,0 +1,13 @@
+{
+    "name": "Western Digital WD_BLACK SN8100 2 TB M.2-2280 PCIe 5.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Western Digital",
+    "Part #": "[WDS200T1X0M, WDS200T1X0M-00CMT0]",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.266",
+    "Type": "SSD",
+    "Cache": "2048 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 5.0 X4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hmFCmG/western-digital-wd_black-sn8100-2-tb-m2-2280-pcie-50-x4-nvme-solid-state-drive-wds200t1x0m"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQP4000-PB Quadro P4000 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQP4000-PB",
+    "Chipset": "Quadro P4000",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1227 MHz",
+    "Boost Clock": "1480 MHz",
+    "Effective Memory Clock": "6008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "242 mm",
+    "TDP": "105 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7ms8TW/pny-quadro-p4000-8gb-video-card-vcqp4000-pb"
+}

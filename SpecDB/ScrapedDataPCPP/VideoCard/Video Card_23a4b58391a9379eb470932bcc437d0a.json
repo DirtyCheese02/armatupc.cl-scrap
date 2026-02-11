@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte AORUS MASTER GeForce RTX 3080 10GB 10 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N3080AORUS M-10GD (rev. 1.0)",
+    "Chipset": "GeForce RTX 3080 10GB",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "319 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fDWBD3/gigabyte-aorus-master-geforce-rtx-3080-10gb-10-gb-video-card-gv-n3080aorus-m-10gd-rev-10"
+}

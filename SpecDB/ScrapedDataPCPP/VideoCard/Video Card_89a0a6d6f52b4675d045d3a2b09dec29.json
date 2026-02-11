@@ -1,0 +1,23 @@
+{
+    "name": "Asus EAH5870/2DIS/1GD5/V2 Radeon HD 5870 1 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "EAH5870/2DIS/1GD5/V2",
+    "Chipset": "Radeon HD 5870",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "188 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HNmLrH/asus-video-card-eah58702dis1gd5v2"
+}

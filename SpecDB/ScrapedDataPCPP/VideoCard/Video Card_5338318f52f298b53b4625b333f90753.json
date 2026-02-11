@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire PULSE Radeon RX VEGA 56 8 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "[11276-02-40G, 100420PSR]",
+    "Chipset": "Radeon RX VEGA 56",
+    "Memory": "8 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1208 MHz",
+    "Boost Clock": "1512 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "FreeSync",
+    "Length": "282 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cKhKHx/sapphire-radeon-rx-vega-56-2gb-pulse-video-card-11276-02-40g"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Antec Tranquil 59.23 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Part #": "0-761345-40025-1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 2000 RPM",
+    "Airflow": "11.05 - 59.23 CFM",
+    "Noise Level": "18.7 - 28.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.46 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jgkH99/antec-tranquil-5923-cfm-120-mm-fan-0-761345-40025-1"
+}

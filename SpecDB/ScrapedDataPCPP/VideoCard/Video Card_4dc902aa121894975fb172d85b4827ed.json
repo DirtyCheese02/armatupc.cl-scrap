@@ -1,0 +1,22 @@
+{
+    "name": "KFA2 (1-Click OC) GeForce RTX 4060 Ti 8 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "46ISL8MD8COK",
+    "Chipset": "GeForce RTX 4060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2565 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "237 mm",
+    "TDP": "165 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s6DQzy/kfa2-1-click-oc-geforce-rtx-4060-ti-8-gb-video-card-46isl8md8cok"
+}

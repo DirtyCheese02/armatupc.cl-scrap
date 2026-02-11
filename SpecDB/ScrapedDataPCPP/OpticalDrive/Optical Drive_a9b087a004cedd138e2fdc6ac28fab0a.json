@@ -1,0 +1,20 @@
+{
+    "name": "Asus DRW-2014L1T DVD/CD Writer",
+    "Manufacturer": "Asus",
+    "Part #": "DRW-2014L1T",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "2 MB",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "20X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "8X",
+    "DVD-R Speed": "20X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "8X",
+    "DVD-RAM Speed": "14X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "32X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B6YXsY/asus-optical-drive-drw2014l1t"
+}

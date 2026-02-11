@@ -1,0 +1,21 @@
+{
+    "name": "Thermaltake Litepower 550 W ATX Power Supply",
+    "Manufacturer": "Thermaltake",
+    "Part #": "PS-LTP-0550NNCNUS-F",
+    "Type": "ATX",
+    "Wattage": "550 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@21A, +5V@16A, +12V@38A, -12V@0.5A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jKbkcf/thermaltake-litepower-550-w-atx-power-supply-ps-ltp-0550nncnus-f"
+}

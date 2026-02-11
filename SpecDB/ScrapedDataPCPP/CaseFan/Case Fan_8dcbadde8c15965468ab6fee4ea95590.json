@@ -1,0 +1,18 @@
+{
+    "name": "Anidees AI Tesseract 30.54 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Anidees",
+    "Part #": "AI-Tesseract (3 pack)",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1200 RPM",
+    "Airflow": "30.54 CFM",
+    "Noise Level": "19 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "1.81 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/db848d/anidees-ai-tesseract-3054-cfm-120-mm-fans-3-pack-ai-tesseract-3-pack"
+}

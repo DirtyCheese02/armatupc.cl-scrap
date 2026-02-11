@@ -1,0 +1,23 @@
+{
+    "name": "Asus ENGTX560TI448DC2/2DIS/1280M GeForce GTX 560 Ti 448 1.25 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ENGTX560TI448DC2/2DIS/1280M",
+    "Chipset": "GeForce GTX 560 Ti 448",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "732 MHz",
+    "Effective Memory Clock": "3800 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "281 mm",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gJLypg/asus-video-card-engtx560ti448dc22dis1280m"
+}

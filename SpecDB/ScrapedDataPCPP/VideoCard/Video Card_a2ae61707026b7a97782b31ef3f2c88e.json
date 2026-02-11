@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire NITRO+ Radeon RX 9070 16 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11349-01-20G",
+    "Chipset": "Radeon RX 9070",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2210 MHz",
+    "Boost Clock": "2700 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "331 mm",
+    "TDP": "245 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1a Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zvjv6h/sapphire-nitro-radeon-rx-9070-16-gb-video-card-11349-01-20g"
+}

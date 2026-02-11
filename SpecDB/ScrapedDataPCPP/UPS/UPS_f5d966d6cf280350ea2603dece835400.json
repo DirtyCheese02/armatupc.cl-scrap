@@ -1,0 +1,15 @@
+{
+    "name": "APC SRT8KRMXLT UPS",
+    "Manufacturer": "APC",
+    "Part #": "SRT8KRMXLT",
+    "Capacity (W)": "8000 W",
+    "Capacity (VA)": "8000 VA",
+    "Rack Height": "6U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Form Factor": "Rack-mountable",
+    "Input Voltage": "208 V AC",
+    "Maximum Battery Recharge Time": "1.50 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[1 x Hard Wire 3-wire (2PH + G), 4 x NEMA L6-20R, 2 x NEMA L6-30R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Hm8H99/apc-ups-srt8krmxlt"
+}

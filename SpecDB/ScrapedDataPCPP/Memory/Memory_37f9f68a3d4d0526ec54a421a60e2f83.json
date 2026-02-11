@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP032GBLFU240B21 32 GB (2 x 16 GB) DDR4-2400 CL17 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP032GBLFU240B21",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FBM48d/silicon-power-sp032gblfu240b21-32-gb-2-x-16-gb-ddr4-2400-cl17-memory-sp032gblfu240b21"
+}

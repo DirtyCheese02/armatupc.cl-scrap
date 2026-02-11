@@ -1,0 +1,20 @@
+{
+    "name": "Antec P82 Silent ATX Mid Tower Case",
+    "Manufacturer": "Antec",
+    "Part #": "P82 Silent",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[380 mm, 14.961\"]",
+    "Drive Bays": "[2 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm, 360 mm]",
+    "Dimensions": "[454 mm x 215 mm x 480 mm, 17.874\" x 8.465\" x 18.898\"]",
+    "Volume": "[46.853 L, 1.655 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XcFbt6/antec-p82-silent-atx-mid-tower-case-p82-silent"
+}

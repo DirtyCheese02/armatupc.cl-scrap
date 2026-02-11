@@ -1,0 +1,18 @@
+{
+    "name": "APC BE700G-UK UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE700G-UK",
+    "Capacity (W)": "405 W",
+    "Capacity (VA)": "700 VA",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "Waveform Type": "Step Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wJVBD3/apc-ups-be700guk"
+}

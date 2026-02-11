@@ -1,0 +1,17 @@
+{
+    "name": "APC BE400-GR UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE400-GR",
+    "Capacity (W)": "240 W",
+    "Capacity (VA)": "400 VA",
+    "Backup/Run Time (Full Load)": "5.20 Minutes",
+    "Backup/Run Time (Half Load)": "18.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Desktop",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "4 x Schuko CEE 7",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c7hj4D/apc-ups-be400gr"
+}

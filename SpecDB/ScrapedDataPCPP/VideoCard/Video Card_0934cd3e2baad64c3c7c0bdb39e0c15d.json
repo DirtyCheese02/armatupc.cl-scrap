@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 01G-P3-2711-KR GeForce GT 710 1 GB PCIe x8 Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "01G-P3-2711-KR",
+    "Chipset": "GeForce GT 710",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "954 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "115 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ytnG3C/evga-video-card-01gp32711kr"
+}

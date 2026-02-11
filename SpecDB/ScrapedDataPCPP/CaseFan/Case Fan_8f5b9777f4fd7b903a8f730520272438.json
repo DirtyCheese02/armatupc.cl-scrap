@@ -1,0 +1,18 @@
+{
+    "name": "ARCTIC P14 Slim PWM PST 52 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P14 Slim PWM PST",
+    "Part #": "ACFAN00268A",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "150 - 1800 RPM",
+    "Airflow": "52 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.55 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jPjBD3/arctic-p14-slim-pwm-pst-52-cfm-140-mm-fan-acfan00268a"
+}

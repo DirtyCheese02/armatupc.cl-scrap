@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX1333C7AD3/4G 4 GB (1 x 4 GB) DDR3-1333 CL7 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1333C7AD3/4G",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "10.503 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wMtCmG/kingston-memory-khx1333c7ad34g"
+}

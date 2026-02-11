@@ -1,0 +1,8 @@
+{
+    "name": "Syba SY-PEX24030 Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SY-PEX24030",
+    "Interface": "PCIe x1",
+    "Features": "[Realtek RTL8111C Chipset, Single-Lane (x1) PCI-Express with Transfer Rate 2.5Gb/s Full Duplex Channel, Supports 10/100/1000 Base-T Networking with Auto-Negotiation, Compatible with IEEEE 802.3, 802.3ab, 802.3u, 802.3x, 802.1Q, VLAN, Supports Full Duplex Flow Control (IEEE 802.3x), Automatic Crossover Detection and Correction Supported, Transmit and Receiving FIFO of 1024 Package Buffer Each for Fast Operation, Compliant with PCI-Express Revision 1.0a, PCI Express x1 Interface, Compatible with PCI Express x1, x4, x8, x16 Slot, Supports Jumbo Frame, Fully Plug and Play.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4dyFf7/syba-wired-network-card-sypex24030"
+}

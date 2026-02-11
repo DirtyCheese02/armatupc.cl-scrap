@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 4 32 GB (8 x 4 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "32GB DDR4 2400GSKILL",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vgX2FT/gskill-memory-32gbddr42400gskill"
+}

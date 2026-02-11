@@ -1,0 +1,18 @@
+{
+    "name": "Zalman SF120 54 CFM 120 mm Fan",
+    "Manufacturer": "Zalman",
+    "Model": "SF120",
+    "Part #": "ZM-SF120",
+    "Size": "120 mm",
+    "Color": "Silver / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1500 RPM",
+    "Airflow": "54 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fXH7YJ/zalman-sf120-54-cfm-120-mm-fan-zm-sf120"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Corsair iCUE LINK LX140-R RGB 90 CFM 140 mm Fans 2-Pack",
+    "Manufacturer": "Corsair",
+    "Model": "iCUE LINK LX140-R RGB",
+    "Part #": "CO-9051056-WW",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "2000 RPM",
+    "Airflow": "90 CFM",
+    "Noise Level": "35.4 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "USB",
+    "Static Pressure": "3.55 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GRNYcf/corsair-icue-link-lx140-r-rgb-90-cfm-140-mm-fans-2-pack-co-9051056-ww"
+}

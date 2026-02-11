@@ -1,0 +1,22 @@
+{
+    "name": "HP C2J92AA Quadro K600 1 GB Video Card",
+    "Manufacturer": "HP",
+    "Part #": "C2J92AA",
+    "Chipset": "Quadro K600",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "876 MHz",
+    "Effective Memory Clock": "1782 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "160 mm",
+    "TDP": "41 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZCBv6h/hp-video-card-c2j92aa"
+}

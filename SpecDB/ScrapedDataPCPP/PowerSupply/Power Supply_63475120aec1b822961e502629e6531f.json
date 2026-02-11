@@ -1,0 +1,22 @@
+{
+    "name": "SeaSonic SS-1250XM2 1250 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Model": "SS-1250XM2",
+    "Part #": "SS-1250XM",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1250 W",
+    "Length": "190 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "10",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "14",
+    "AMP/Molex 4-pin Connectors": "5",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Hk98TW/seasonic-power-supply-ss1250xm"
+}

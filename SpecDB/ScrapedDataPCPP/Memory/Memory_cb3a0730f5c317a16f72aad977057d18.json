@@ -1,0 +1,15 @@
+{
+    "name": "Kingston Savage 16 GB (2 x 8 GB) DDR4-2666 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX426C13SB2K2/16",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.752 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ftnG3C/kingston-memory-hx426c13sb2k216"
+}

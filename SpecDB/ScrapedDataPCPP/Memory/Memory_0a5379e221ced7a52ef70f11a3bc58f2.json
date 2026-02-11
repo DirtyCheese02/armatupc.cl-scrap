@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Hera RGB 32 GB (2 x 16 GB) DDR5-8200 CL36 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "[BL.9BWWR.594, HERA-32GB-8200-1R8-V9]",
+    "Speed": "DDR5-8200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver",
+    "First Word Latency": "8.78 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.45 V",
+    "Timing": "36-47-47-126",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k6h2FT/acer-predator-hera-rgb-32-gb-2-x-16-gb-ddr5-8200-cl36-memory-bl9bwwr594"
+}

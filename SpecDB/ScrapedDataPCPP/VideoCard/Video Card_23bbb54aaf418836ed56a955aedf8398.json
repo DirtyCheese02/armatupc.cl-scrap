@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS ELITE Rev 2.0 GeForce RTX 3060 Ti LHR 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "[GV-N306TAORUS E-8GD (rev. 2.0), GV-N306TAORUS E-8GD (REV 2.0), GV-N306TAORUS E-8GD REV2.0, GV-N306TAORUS E-8GV2]",
+    "Chipset": "GeForce RTX 3060 Ti LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1785 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "296 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3jvdnQ/gigabyte-aorus-elite-rev-20-geforce-rtx-3060-ti-lhr-8-gb-video-card-gv-n306taorus-e-8gd-rev-20"
+}

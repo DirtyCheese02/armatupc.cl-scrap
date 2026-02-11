@@ -1,0 +1,23 @@
+{
+    "name": "SeaSonic SS-350SFE 350 W 80+ Certified SFX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Part #": "SS-350SFE",
+    "Type": "SFX",
+    "Efficiency Rating": "80+",
+    "Wattage": "350 W",
+    "Length": "130 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@20A, +5V@20A, +12V1@18A, +12V2@18A, -12V@0.8A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wvxfrH/seasonic-ss-350sfe-350-w-80-certified-sfx-power-supply-ss-350sfe"
+}

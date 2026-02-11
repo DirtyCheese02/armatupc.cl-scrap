@@ -1,0 +1,21 @@
+{
+    "name": "Silverstone Extreme Rz 1000 W Fully Modular SFX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-EX1000R-PM",
+    "Type": "SFX",
+    "Wattage": "1000 W",
+    "Length": "100 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "4",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "1",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q4jv6h/silverstone-extreme-rz-1000-w-fully-modular-sfx-power-supply-sst-ex1000r-pm"
+}

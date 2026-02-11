@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper Elite 5 Ultra 48 GB (2 x 24 GB) DDR5-8000 CL36 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "VEU548G8036K",
+    "Speed": "DDR5-8000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.4 V",
+    "Timing": "36-52-52-126",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mQBFf7/patriot-viper-elite-5-ultra-48-gb-2-x-24-gb-ddr5-8000-cl36-memory-veu548g8036k"
+}

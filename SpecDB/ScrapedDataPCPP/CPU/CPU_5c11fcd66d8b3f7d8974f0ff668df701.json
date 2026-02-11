@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron 420 1.6 GHz Single-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80557420R",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Core",
+    "Core Family": "Conroe",
+    "Socket": "LGA775",
+    "Core Count": "1",
+    "Thread Count": "1",
+    "Performance Core Clock": "1.6 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xwbp99/intel-cpu-bx80557420r"
+}

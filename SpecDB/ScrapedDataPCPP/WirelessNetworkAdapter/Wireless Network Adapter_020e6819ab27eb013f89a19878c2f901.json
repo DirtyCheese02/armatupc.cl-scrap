@@ -1,0 +1,11 @@
+{
+    "name": "Asus PCE-AC68 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Asus",
+    "Part #": "[PCE-AC68, 90IG00R0-BM0G00]",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "PCIe x1",
+    "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK",
+    "Antenna": "3 x R SMA Antenna",
+    "Features": "[Data Rate: AC1750 ultimate AC performance; 450+1300Mbps, 802.11a/b/g/n/ac: downlink up to 1300Mbps, uplink up to 1300Mbps (20/40/80MHz), Management: Wireless configuration, connection management, connection profile setup, 5th generation 802.11ac chipset gives you dual-band, 2.4GHz/5GHz for up to super-fast 1.30Gbps, Flexible extended antenna placement helps you pinpoint the best reception in your environment, Instant Wi-Fi upgrade for your desktop: no more messy Ethernet cables needed, High-power design clears up dead zones with 150% greater coverage, Custom heatsink dissipates heat for more stable and reliable non-stop operation.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8VMFf7/asus-wireless-network-card-pceac68"
+}

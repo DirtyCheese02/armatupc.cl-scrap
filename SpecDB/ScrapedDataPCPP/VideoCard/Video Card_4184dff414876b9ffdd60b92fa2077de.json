@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Phantom Gaming OC Arc A770 16 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[A770 PG 16GO, 90-GA4KZZ-00UANF]",
+    "Chipset": "Arc A770",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2100 MHz",
+    "Effective Memory Clock": "17500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "305 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QVGhP6/asrock-phantom-gaming-oc-arc-a770-16-gb-video-card-a770-pg-16go"
+}

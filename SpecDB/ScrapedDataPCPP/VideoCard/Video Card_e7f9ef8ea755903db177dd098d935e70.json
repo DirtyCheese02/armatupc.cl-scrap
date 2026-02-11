@@ -1,0 +1,21 @@
+{
+    "name": "AMD FirePro 2450 FirePro 2450 512 MB Video Card",
+    "Manufacturer": "AMD",
+    "Model": "FirePro 2450",
+    "Part #": "100-505840",
+    "Chipset": "FirePro 2450",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "600 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "32 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/prH48d/amd-video-card-100505840"
+}

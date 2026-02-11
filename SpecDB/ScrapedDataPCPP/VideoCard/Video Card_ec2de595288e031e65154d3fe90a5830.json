@@ -1,0 +1,22 @@
+{
+    "name": "ATI FirePro S7000 FirePro S7000 4 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro S7000",
+    "Part #": "100-505749",
+    "Chipset": "FirePro S7000",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "950 MHz",
+    "Effective Memory Clock": "4800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "292 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b3rG3C/ati-video-card-100505749"
+}

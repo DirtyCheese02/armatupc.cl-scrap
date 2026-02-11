@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon X4 750K 3.4 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD750KWOHJBOX",
+    "Series": "AMD Athlon X4",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Trinity",
+    "Socket": "FM2",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.4 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "100 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cztCmG/amd-cpu-ad750kwohjbox"
+}

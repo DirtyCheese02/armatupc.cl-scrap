@@ -1,0 +1,16 @@
+{
+    "name": "OLOy Blade 16 GB (2 x 8 GB) DDR4-4000 CL16 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "ND4U0840160BRQDE",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "8 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.4 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/74BG3C/oloy-blade-16-gb-2-x-8-gb-ddr4-4000-cl16-memory-nd4u0840160brqde"
+}

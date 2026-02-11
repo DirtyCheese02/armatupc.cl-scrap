@@ -1,0 +1,21 @@
+{
+    "name": "EVGA 015-P3-1582-AR GeForce GTX 580 1.5 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "015-P3-1582-AR",
+    "Chipset": "GeForce GTX 580",
+    "Memory": "1.5 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "797 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "SLI/CrossFire": "[4-way SLI Capable, 3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "244 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x3phP6/evga-video-card-015p31582ar"
+}

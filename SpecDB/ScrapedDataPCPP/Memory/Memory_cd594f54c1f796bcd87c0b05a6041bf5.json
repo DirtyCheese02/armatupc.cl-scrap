@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z 64 GB (4 x 16 GB) DDR4-3400 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3400C16Q-64GTZ",
+    "Speed": "DDR4-3400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "9.412 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P8rcCJ/gskill-memory-f43400c16q64gtz"
+}

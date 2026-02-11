@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Zeus 64 GB (2 x 32 GB) DDR4-3200 CL20 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TTZD464G3200HC20DC01",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.2 V",
+    "Timing": "20-22-22-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XBMTwP/teamgroup-t-force-zeus-64-gb-2-x-32-gb-ddr4-3200-cl20-memory-ttzd464g3200hc20dc01"
+}

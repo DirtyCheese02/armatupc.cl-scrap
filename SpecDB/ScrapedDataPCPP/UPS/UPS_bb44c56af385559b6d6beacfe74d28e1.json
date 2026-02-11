@@ -1,0 +1,18 @@
+{
+    "name": "APC SC620I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SC620I",
+    "Capacity (W)": "390 W",
+    "Capacity (VA)": "620 VA",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Backup/Run Time (Full Load)": "5.50 Minutes",
+    "Backup/Run Time (Half Load)": "15.70 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[3 x IEC 320-C13, 2 x IEC 320-C13, 1]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rbjWGX/apc-ups-sc620i"
+}

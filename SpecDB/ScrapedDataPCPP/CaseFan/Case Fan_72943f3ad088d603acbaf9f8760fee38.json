@@ -1,0 +1,17 @@
+{
+    "name": "Tempest TP-FAN120-B 37.8 CFM 120 mm Fan",
+    "Manufacturer": "Tempest",
+    "Part #": "TP-FAN120-B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "37.8 CFM",
+    "Noise Level": "20.4 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yn3gXL/tempest-tp-fan120-b-378-cfm-120-mm-fan-tp-fan120-b"
+}

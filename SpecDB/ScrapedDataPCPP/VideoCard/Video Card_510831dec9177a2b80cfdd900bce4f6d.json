@@ -1,0 +1,22 @@
+{
+    "name": "Asus ENGTX460 DC TOP/2DI/1GD5/V2 GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ENGTX460 DC TOP/2DI/1GD5/V2",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "775 MHz",
+    "Effective Memory Clock": "4000 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "248 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tVK7YJ/asus-video-card-engtx460dctop2di1gd5v2"
+}

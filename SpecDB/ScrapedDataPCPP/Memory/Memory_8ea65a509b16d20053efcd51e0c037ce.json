@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F4-3200C16Q2-64GTZSW 64 GB (8 x 8 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C16Q2-64GTZSW",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 8GB",
+    "Color": "Gray / White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/v94Ycf/gskill-f4-3200c16q2-64gtzsw-64-gb-8-x-8-gb-ddr4-3200-cl16-memory-f4-3200c16q2-64gtzsw"
+}

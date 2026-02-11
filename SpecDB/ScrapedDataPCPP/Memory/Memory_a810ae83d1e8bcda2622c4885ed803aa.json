@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 64 GB (2 x 32 GB) DDR4-4000 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4000C18D-64GTRG",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Gold",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.4 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dLZzK8/gskill-trident-z-royal-64-gb-2-x-32-gb-ddr4-4000-cl18-memory-f4-4000c18d-64gtrg"
+}

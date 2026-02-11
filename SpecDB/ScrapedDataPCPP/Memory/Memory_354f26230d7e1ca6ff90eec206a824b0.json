@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill F2-4200PHU2-2GBSA 2 GB (2 x 1 GB) DDR2-533 SODIMM CL4 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F2-4200PHU2-2GBSA",
+    "Speed": "DDR2-533",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "2 x 1GB",
+    "Color": "Green",
+    "First Word Latency": "15.009 ns",
+    "CAS Latency": "4",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yyn2FT/gskill-memory-f24200phu22gbsa"
+}

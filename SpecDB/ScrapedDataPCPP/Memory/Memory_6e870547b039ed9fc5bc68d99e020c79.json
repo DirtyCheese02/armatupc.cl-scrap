@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z5 Neo RGB 256 GB (4 x 64 GB) DDR5-6000 CL32 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J3244G64GX4-TZ5NR",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 64GB",
+    "Color": "Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-44-44-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xFYfrH/gskill-trident-z5-neo-rgb-256-gb-4-x-64-gb-ddr5-6000-cl32-memory-f5-6000j3244g64gx4-tz5nr"
+}

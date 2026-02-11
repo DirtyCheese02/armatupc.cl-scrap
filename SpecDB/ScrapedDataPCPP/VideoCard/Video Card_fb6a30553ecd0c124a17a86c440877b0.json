@@ -1,0 +1,22 @@
+{
+    "name": "NVIDIA Founders Edition GeForce RTX 4070 SUPER 12 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "900-1G141-2534-000",
+    "Chipset": "GeForce RTX 4070 SUPER",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1980 MHz",
+    "Boost Clock": "2480 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "244 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QHDQzy/nvidia-founders-edition-geforce-rtx-4070-super-12-gb-video-card-900-1g141-2534-000"
+}

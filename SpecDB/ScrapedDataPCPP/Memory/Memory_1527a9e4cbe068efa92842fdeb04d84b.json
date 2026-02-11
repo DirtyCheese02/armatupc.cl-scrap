@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-5600 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK32GX5M2B5600Z40",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Gray",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wzCZxr/corsair-vengeance-32-gb-2-x-16-gb-ddr5-5600-cl40-memory-cmk32gx5m2b5600z40"
+}

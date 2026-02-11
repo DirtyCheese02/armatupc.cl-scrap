@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Dark 16 GB (2 x 8 GB) DDR3-2400 CL11 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TDRED316G2400HC11CDC01",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Red",
+    "First Word Latency": "9.167 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "Timing": "11-13-13-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2Q4NnQ/team-dark-16gb-2-x-8gb-ddr3-2400-memory-tdred316g2400hc11cdc01"
+}

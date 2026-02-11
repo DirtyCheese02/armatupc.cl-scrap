@@ -1,0 +1,21 @@
+{
+    "name": "KTC M32P10 31.5\" 3840 x 2160 144 Hz Monitor",
+    "Manufacturer": "KTC",
+    "Part #": "M32P10",
+    "Screen Size": "31.5\"",
+    "Resolution": "3840 x 2160",
+    "Refresh Rate": "144 Hz",
+    "Response Time (MPRT)": "1 ms",
+    "Panel Type": "IPS",
+    "Aspect Ratio": "16:9",
+    "Color": "Black",
+    "Pixel Pitch": "0.182 mm",
+    "HDR Tier": "HDR 1000",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "[FreeSync, G-Sync Compatible]",
+    "Built-in Speakers": "No",
+    "Viewing Angle": "178° H x 178° V",
+    "Inputs": "[1 x DisplayPort 1.4, 2 x HDMI 2.1, 1 x USB Type-C]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XXhv6h/ktc-m32p10-315-3840-x-2160-144-hz-monitor-m32p10"
+}

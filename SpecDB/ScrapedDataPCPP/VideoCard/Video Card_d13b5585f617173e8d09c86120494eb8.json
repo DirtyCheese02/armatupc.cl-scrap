@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Steel Legend OC Radeon RX 7600 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX7600 SL 8GO, 90-GA4DZZ-00UANF]",
+    "Chipset": "Radeon RX 7600",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1720 MHz",
+    "Boost Clock": "2725 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "303 mm",
+    "TDP": "165 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZPJp99/asrock-steel-legend-oc-radeon-rx-7600-xt-8-gb-video-card-rx7600-sl-8go"
+}

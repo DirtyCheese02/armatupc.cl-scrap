@@ -1,0 +1,22 @@
+{
+    "name": "Western Digital Blue 1 TB M.2-2280 SATA Solid State Drive",
+    "Manufacturer": "Western Digital",
+    "Part #": "WDS100T2B0B",
+    "Capacity": "1 TB",
+    "Price / GB": "$0.160",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 SATA",
+    "NVME": "No",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DgJtt6/western-digital-blue-1tb-m2-2280-solid-state-drive-wds100t2b0b"
+}

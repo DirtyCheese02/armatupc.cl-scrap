@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN823N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN823N",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP<br/>WPA-PSK / WPA2-PSK<br/>WPA / WPA2<br/>WPS",
+    "Antenna": "Internal Antenna",
+    "Features": "[EIRP: <20dBm (EIRP), Wireless Modes: Soft AP Mode, Client Mode (support Ad-hoc/Infrastructure network), Wireless N speed up to 300Mbps makes the TL-WN823N ideal for HD video streaming, online gaming and VoIP calls, Easy one-touch wireless security encryption with the WPS(Wi-Fi Protected Setup) button, Supports Soft AP function for Wireless Internet Sharing, Supports Sony PSP X-Link for lag-free online gaming for Windows XP, Bundled utility provides quick & hassle free installation.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gWg323/tp-link-wireless-network-card-tlwn823n"
+}

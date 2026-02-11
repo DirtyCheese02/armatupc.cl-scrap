@@ -1,0 +1,18 @@
+{
+    "name": "Silverstone Air Nexus 60.4 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-AN120W-ARGB-3PK",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "60.4 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.4 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yjP8TW/silverstone-air-nexus-604-cfm-120-mm-fans-3-pack-sst-an120w-argb-3pk"
+}

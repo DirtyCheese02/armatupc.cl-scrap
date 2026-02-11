@@ -1,0 +1,14 @@
+{
+    "name": "G.Skill Ripjaws 4 GB (2 x 2 GB) DDR3-2000 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-16000CL9D-4GBRH",
+    "Speed": "DDR3-2000",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kbJwrH/gskill-memory-f316000cl9d4gbrh"
+}

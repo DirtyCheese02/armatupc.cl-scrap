@@ -1,0 +1,17 @@
+{
+    "name": "KOLINK UMBRA VOID 41 CFM 120 mm Fan",
+    "Manufacturer": "KOLINK",
+    "Part #": "UMBRA VOID 120MM",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "41 CFM",
+    "Noise Level": "19.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8Pqrxr/kolink-umbra-void-41-cfm-120-mm-fan-umbra-void-120mm"
+}

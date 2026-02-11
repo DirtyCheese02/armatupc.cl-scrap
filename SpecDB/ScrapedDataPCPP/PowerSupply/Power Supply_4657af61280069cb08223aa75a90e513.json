@@ -1,0 +1,22 @@
+{
+    "name": "In Win IP-S300FF1-0 300 W 80+ Certified TFX Power Supply",
+    "Manufacturer": "In Win",
+    "Part #": "IP-S300FF1-0",
+    "Type": "TFX",
+    "Efficiency Rating": "80+",
+    "Wattage": "300 W",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "2",
+    "Output": "+12V1@16A, +12V2@16A, +5V@16A, +3.3V@16A, -12V@0.3A, +5VSB@2A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XkNp99/in-win-ip-s300ff1-0-300-w-80-certified-tfx-power-supply-ip-s300ff1-0"
+}

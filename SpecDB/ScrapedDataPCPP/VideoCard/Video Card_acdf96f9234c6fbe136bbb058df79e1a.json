@@ -1,0 +1,21 @@
+{
+    "name": "PNY VCQ295NVS-X1-PB Quadro NVS 295 256 MB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQ295NVS-X1-PB",
+    "Chipset": "Quadro NVS 295",
+    "Memory": "0.25 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "540 MHz",
+    "Effective Memory Clock": "1390 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "23 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z6w323/pny-video-card-vcq295nvsx1pb"
+}

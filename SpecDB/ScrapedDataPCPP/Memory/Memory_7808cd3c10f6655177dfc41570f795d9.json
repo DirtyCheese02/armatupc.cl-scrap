@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 8 GB (1 x 8 GB) DDR4-2666 SODIMM CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLRD48G2666HC18F-S01",
+    "Speed": "DDR4-2666",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hQL48d/team-t-force-vulcan-8gb-1-x-8gb-ddr4-2666-memory-tlrd48g2666hc18f-s01"
+}

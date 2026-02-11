@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Flare X5 256 GB (4 x 64 GB) DDR5-6000 CL34 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J3444F64GX4-FX5",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 64GB",
+    "Price / GB": "$11.016",
+    "Color": "Black",
+    "First Word Latency": "11.333 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.35 V",
+    "Timing": "34-44-44-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/btNscf/gskill-flare-x5-256-gb-4-x-64-gb-ddr5-6000-cl34-memory-f5-6000j3444f64gx4-fx5"
+}

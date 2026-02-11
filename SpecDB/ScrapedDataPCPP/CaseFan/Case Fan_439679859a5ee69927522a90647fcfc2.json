@@ -1,0 +1,17 @@
+{
+    "name": "Cooler Master MasterFan MF200R 90 CFM 200 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "MasterFan MF200R",
+    "Part #": "R4-200R-08FC-R1",
+    "Size": "200 mm",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 RPM",
+    "Airflow": "90 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "No",
+    "LED": "RGB",
+    "Connector": "3-pin + 4-pin 12V RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HYHRsY/cooler-master-masterfan-mf200r-rgb-90-cfm-200-mm-fan-r4-200r-08fc-r1"
+}

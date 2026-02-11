@@ -1,0 +1,21 @@
+{
+    "name": "Silverstone OP1000-E 1000 W ATX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Part #": "OP1000-E",
+    "Type": "ATX",
+    "Wattage": "1000 W",
+    "Length": "150 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "4",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@28A, +5V@30A, +12V@80A, -12V@0.5A, +5VSB@4.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FnvRsY/silverstone-power-supply-op1000e"
+}

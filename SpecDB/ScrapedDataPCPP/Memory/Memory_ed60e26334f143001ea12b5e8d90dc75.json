@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force DELTAα RGB 16 GB (2 x 8 GB) DDR5-5200 CL38 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF7D516G5200HC38CDC016",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "14.615 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.25 V",
+    "Timing": "38-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pFsV3C/teamgroup-t-force-delta-rgb-16-gb-2-x-8-gb-ddr5-5200-cl38-memory-ff7d516g5200hc38cdc016"
+}

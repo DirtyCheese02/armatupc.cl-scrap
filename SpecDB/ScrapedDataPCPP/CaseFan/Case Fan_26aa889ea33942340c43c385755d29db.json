@@ -1,0 +1,18 @@
+{
+    "name": "ARCTIC BioniX P120 67.56 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "BioniX P120",
+    "Part #": "ACFAN00116A",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 2100 RPM",
+    "Airflow": "67.56 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.75 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hNqBD3/arctic-bionix-p120-6756-cfm-120-mm-fan-acfan00116a"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator 12 GB (6 x 2 GB) DDR3-1600 CL8 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD12GX3M6A1600C8",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "6 x 2GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.65 V",
+    "Timing": "8-8-8-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MPkD4D/corsair-memory-cmd12gx3m6a1600c8"
+}

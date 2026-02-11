@@ -1,0 +1,11 @@
+{
+    "name": "Intel DC P3608 3.2 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPECME032T401",
+    "Capacity": "3.2 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/27X2FT/intel-internal-hard-drive-ssdpecme032t401"
+}

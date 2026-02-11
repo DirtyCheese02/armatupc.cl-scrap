@@ -1,0 +1,23 @@
+{
+    "name": "MSI MECH OC Radeon RX 5700 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[Radeon RX 5700 MECH OC, RX 5700 MECH OC, R5700MHC]",
+    "Chipset": "Radeon RX 5700",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1515 MHz",
+    "Boost Clock": "1750 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "232 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K8MTwP/msi-radeon-rx-5700-8-gb-mech-oc-video-card-radeon-rx-5700-mech-oc"
+}

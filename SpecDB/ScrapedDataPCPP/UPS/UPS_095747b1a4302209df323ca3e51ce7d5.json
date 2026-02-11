@@ -1,0 +1,20 @@
+{
+    "name": "APC SU5000R5TBX120 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SU5000R5TBX120",
+    "Capacity (W)": "3750 W",
+    "Capacity (VA)": "5000 VA",
+    "Alarm": "[Low Battery, On Battery]",
+    "Backup/Run Time (Full Load)": "5.70 Minutes",
+    "Backup/Run Time (Half Load)": "18.80 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[2 x NEMA L6-20R, 2 x NEMA L6-30R, 1 x NEMA 5-15R]",
+    "Serial Port": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xM8H99/apc-ups-su5000r5tbx120"
+}

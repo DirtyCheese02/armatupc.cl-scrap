@@ -1,0 +1,23 @@
+{
+    "name": "Corsair MP700 PRO w/Heatsink 2 TB M.2-2280 PCIe 5.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Corsair",
+    "Part #": "CSSD-F2000GBMP700PRO",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.147",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 5.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D TLC",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kmRwrH/corsair-mp700-pro-wheatsink-2-tb-m2-2280-pcie-50-x4-nvme-solid-state-drive-cssd-f2000gbmp700pro"
+}

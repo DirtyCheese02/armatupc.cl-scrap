@@ -1,0 +1,20 @@
+{
+    "name": "Solid Gear SDGR-FLEX220 220 W Flex ATX Power Supply",
+    "Manufacturer": "Solid Gear",
+    "Part #": "SDGR-FLEX220",
+    "Type": "Flex ATX",
+    "Wattage": "220 W",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KwR48d/solid-gear-sdgr-flex220-220-w-flex-atx-power-supply-sdgr-flex220"
+}

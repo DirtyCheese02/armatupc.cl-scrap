@@ -1,0 +1,23 @@
+{
+    "name": "AMD 100-506001 Radeon Pro WX 2100 2 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-506001",
+    "Chipset": "Radeon Pro WX 2100",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "925 MHz",
+    "Boost Clock": "1219 MHz",
+    "Effective Memory Clock": "7000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "Frame Sync": "FreeSync",
+    "Length": "145 mm",
+    "TDP": "35 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "MiniDisplayPort Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rnkwrH/amd-radeon-pro-wx-2100-2-gb-video-card-100-506001"
+}

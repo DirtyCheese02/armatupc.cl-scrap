@@ -1,0 +1,23 @@
+{
+    "name": "XFX Speedster QICK 319 Core Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-67XTYLUDP",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Boost Clock": "2581 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "323 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.3 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/98M48d/xfx-radeon-rx-6700-xt-12-gb-speedster-qick-319-core-video-card-rx-67xtyludp"
+}

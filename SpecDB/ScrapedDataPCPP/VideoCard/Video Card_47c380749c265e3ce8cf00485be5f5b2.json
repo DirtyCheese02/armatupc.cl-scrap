@@ -1,0 +1,21 @@
+{
+    "name": "ATI FirePro 2270 FirePro 2270 1 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro 2270",
+    "Part #": "100-505755",
+    "Chipset": "FirePro 2270",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "600 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "15 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B2dqqs/ati-video-card-100505755"
+}

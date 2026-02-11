@@ -1,0 +1,19 @@
+{
+    "name": "Prolimatech Vortex 98 CFM 140 mm Fan",
+    "Manufacturer": "Prolimatech",
+    "Part #": "PRO-USV14-WH",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1000 RPM",
+    "Airflow": "98 CFM",
+    "Noise Level": "9 - 18 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Double Ball Bearing",
+    "Features": "[17 bladed fan specially engineered to provide high static pressure and wind volume while reducing noise., Only 15 mm thick! Allows the USV Fan to be installed in smaller spaces that 25 mm fans won't fit!, Variable fan speed from 300 to 1000 RPM with PWM., Light weight, reducing stress on boards already burdened with heavy heatsinks!, Especially suited for Home Theater PCs and smaller cases, where excellent cooling ability and quiet operation is desired.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2LW9TW/prolimatech-case-fan-prousv14wh"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Asus DUAL OC Radeon RX 6600 XT 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RX6600XT-O8G, 90YV0GN1-M0NA00]",
+    "Chipset": "Radeon RX 6600 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1968 MHz",
+    "Boost Clock": "2607 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / White",
+    "Frame Sync": "FreeSync",
+    "Length": "243 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X26p99/asus-radeon-rx-6600-xt-8-gb-dual-oc-video-card-dual-rx6600xt-o8g"
+}

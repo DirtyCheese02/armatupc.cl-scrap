@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 3X E OC GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 4090 VENTUS 3X E 24G OC, RTX 4090 VENTUS 3X E 24G OC, V510-271R, 912-V510-271]",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Boost Clock": "2565 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "322 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1a Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LLqrxr/msi-ventus-3x-e-oc-geforce-rtx-4090-24-gb-video-card-geforce-rtx-4090-ventus-3x-e-24g-oc"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC P12 PST RGB 0dB 48.8 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P12 PST RGB 0dB",
+    "Part #": "ACFAN00186A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "48.8 CFM",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "1.85 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dckWGX/arctic-p12-pst-rgb-0db-488-cfm-120-mm-fan-acfan00186a"
+}

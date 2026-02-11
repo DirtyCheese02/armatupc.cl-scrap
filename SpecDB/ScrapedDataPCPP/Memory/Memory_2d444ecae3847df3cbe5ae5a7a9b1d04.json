@@ -1,0 +1,15 @@
+{
+    "name": "GeIL EVO VELOCE 32 GB (4 x 8 GB) DDR3-2133 CL11 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GEV332GB2133C11QC",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "10.314 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DWg323/geil-memory-gev332gb2133c11qc"
+}

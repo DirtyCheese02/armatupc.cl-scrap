@@ -1,0 +1,14 @@
+{
+    "name": "Wintec Value 8 GB (2 x 4 GB) DDR3-1333 CL11 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "3VH13339U8-8GK",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "First Word Latency": "16.504 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C4yFf7/wintec-memory-3vh13339u88gk"
+}

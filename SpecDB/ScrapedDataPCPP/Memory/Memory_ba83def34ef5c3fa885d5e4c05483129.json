@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Plus 8 GB (2 x 4 GB) DDR3-1333 CL8 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AXDU1333PC4G8-2P",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tg6BD3/a-data-memory-axdu1333pc4g82p"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "HP AF466A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF466A",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "2880 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "48 Hour",
+    "Receptacles": "[1 x NEMA 5-20R, 4 x NEMA L5-30R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hhqbt6/hp-ups-af466a"
+}

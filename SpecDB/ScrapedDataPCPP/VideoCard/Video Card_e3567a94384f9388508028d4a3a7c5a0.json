@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte GV-N720D3-1GL GeForce GT 720 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N720D3-1GL",
+    "Chipset": "GeForce GT 720",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "797 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/krx9TW/gigabyte-video-card-gvn720d31gl"
+}

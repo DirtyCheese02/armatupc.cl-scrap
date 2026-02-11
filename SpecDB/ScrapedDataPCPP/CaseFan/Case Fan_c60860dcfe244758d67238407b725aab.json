@@ -1,0 +1,17 @@
+{
+    "name": "DARKROCK R120 120 mm Fans 2-Pack",
+    "Manufacturer": "DARKROCK",
+    "Model": "R120",
+    "Part #": "DR-FAN-R120-WT X2",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "800 - 1600 RPM",
+    "Noise Level": "27.7 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BBWmP6/darkrock-r120-120-mm-fans-2-pack-dr-fan-r120-wt-x2"
+}

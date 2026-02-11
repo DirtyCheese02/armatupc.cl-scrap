@@ -1,0 +1,21 @@
+{
+    "name": "Sapphire 100322FLEX Radeon HD 6450 1 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100322FLEX",
+    "Chipset": "Radeon HD 6450",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "625 MHz",
+    "Effective Memory Clock": "1600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "TDP": "27 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CrkD4D/sapphire-video-card-100322flex"
+}

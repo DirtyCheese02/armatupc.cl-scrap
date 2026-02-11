@@ -1,0 +1,18 @@
+{
+    "name": "Scythe Kaze Flex 43.03 CFM 120 mm Fan",
+    "Manufacturer": "Scythe",
+    "Part #": "SU1225FD12LR-RDP",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 800 RPM",
+    "Airflow": "16.6 - 43.03 CFM",
+    "Noise Level": "4 - 14.05 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "0.49 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K2MTwP/scythe-kaze-flex-4303-cfm-120-mm-fan-su1225fd12lr-rdp"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N630D3-2GL GeForce GT 630 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N630D3-2GL",
+    "Chipset": "GeForce GT 630",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "902 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FwxfrH/gigabyte-video-card-gvn630d32gl"
+}

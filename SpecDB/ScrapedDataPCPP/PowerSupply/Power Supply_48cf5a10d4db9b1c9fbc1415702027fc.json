@@ -1,0 +1,23 @@
+{
+    "name": "Cooler Master MWE 450 450 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "Cooler Master",
+    "Model": "MWE 450",
+    "Part #": "[MPW-4502-ACABW-EU, MPW-5002-ACABW-AU, MPW-5002-ACABW-UK]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "450 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m766Mp/cooler-master-mwe-450w-80-certified-atx-power-supply-mpw-4502-acabw-eu"
+}

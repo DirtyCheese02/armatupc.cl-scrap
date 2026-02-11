@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SU1500XLCD UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU1500XLCD",
+    "Capacity (W)": "1350 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "[127 V AC, 110 V AC, 120 V AC]",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/72RFf7/tripp-lite-ups-su1500xlcd"
+}

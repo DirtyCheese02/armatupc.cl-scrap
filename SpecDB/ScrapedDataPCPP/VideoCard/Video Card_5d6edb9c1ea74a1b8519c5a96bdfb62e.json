@@ -1,0 +1,21 @@
+{
+    "name": "PowerColor AX6450 1GBK3-MH Radeon HD 6450 1 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AX6450 1GBK3-MH",
+    "Chipset": "Radeon HD 6450",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "625 MHz",
+    "Effective Memory Clock": "800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "TDP": "27 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3vg323/powercolor-video-card-ax64501gbk3mh"
+}

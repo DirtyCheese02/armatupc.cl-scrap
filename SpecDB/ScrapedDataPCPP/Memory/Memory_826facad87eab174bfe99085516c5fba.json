@@ -1,0 +1,15 @@
+{
+    "name": "Avexir Raiden 16 GB (4 x 4 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD4UZ130001504G-4RD",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "White / Blue",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WKp323/avexir-memory-avd4uz130001504g4rd"
+}

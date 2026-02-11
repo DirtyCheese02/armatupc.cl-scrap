@@ -1,0 +1,21 @@
+{
+    "name": "Corsair SP120 62.74 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "SP120",
+    "Part #": "CO-9050013-WW",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2350 RPM",
+    "Airflow": "62.74 CFM",
+    "Noise Level": "35 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.1 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "Features": "[The SP120 High Performance Edition, at full RPM, has outstanding static pressure, up to 3.1mm/H2O, when used on a radiator or heatsink., 4-PIN PWM Support for increased fan speed control, Seven wide body, low-pitch custom blades for optimal static pressure at very low noise levels., Custom fan enclosure for ducting air in the right direction with minimal interference., Advanced Hydraulic Bearing for reliable, quiet operation., Rubberized corners for sound damping when installed with standard screws., User-replaceable colored rings so you can match your fans to your case]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ygV48d/corsair-case-fan-co9050013ww"
+}

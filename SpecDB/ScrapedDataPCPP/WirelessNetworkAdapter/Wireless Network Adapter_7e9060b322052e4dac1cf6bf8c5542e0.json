@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN725N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN725N",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128 WEP, WPA/WPA2, WPA-PSK/WPA2-PSK (TKIP/AES), supports IEEE 802.1X",
+    "Antenna": "Internal Antenna",
+    "Features": "[Wireless Modes: Ad-Hoc / Infrastructure mode, Wireless N speed up to 150Mbps, 14-language utility and auto run CD, Supports WMM (Wi-Fi Multimedia) Standard for better streaming of real-time data such as Video, Music, Video Chat, Supports software-based WPS, Supports Soft AP function for Wireless Internet Sharing, Supports Sony PSP X-Link for lag-free online gaming for Windows XP.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wQmLrH/tp-link-wireless-network-card-tlwn725n"
+}

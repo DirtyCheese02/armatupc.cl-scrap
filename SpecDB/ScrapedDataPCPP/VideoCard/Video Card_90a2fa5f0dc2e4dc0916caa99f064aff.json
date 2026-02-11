@@ -1,0 +1,23 @@
+{
+    "name": "MSI GAMING Z TRIO GeForce RTX 3080 10GB LHR 10 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 3080 GAMING Z TRIO 10G LHR, GeForce RTX 3080 GAMING Z TRIO 10G LHR, V389-203R, G3080GZT10R]",
+    "Chipset": "GeForce RTX 3080 10GB LHR",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1830 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "323 mm",
+    "TDP": "370 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MXYmP6/msi-geforce-rtx-3080-lhr-10-gb-gaming-z-trio-video-card-rtx-3080-gaming-z-trio-10g-lhr"
+}

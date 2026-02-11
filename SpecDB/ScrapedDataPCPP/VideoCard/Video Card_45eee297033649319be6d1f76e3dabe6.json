@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 128-P2-N428-LR GeForce 7200 GS 512 MB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "128-P2-N428-LR",
+    "Chipset": "GeForce 7200 GS",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR2",
+    "Core Clock": "450 MHz",
+    "Effective Memory Clock": "666 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "S-Video Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wb9KHx/evga-video-card-128p2n428lr"
+}

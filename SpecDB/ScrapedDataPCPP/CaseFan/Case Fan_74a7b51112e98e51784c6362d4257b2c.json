@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master Mobius 120 Slim 53.7 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "Mobius 120 Slim",
+    "Part #": "MFZ-S2NN-25NPK-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2500 RPM",
+    "Airflow": "53.7 CFM",
+    "Noise Level": "31.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.53 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wwwmP6/cooler-master-mobius-120-slim-537-cfm-120-mm-fan-mfz-s2nn-25npk-r1"
+}

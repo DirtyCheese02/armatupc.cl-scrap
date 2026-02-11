@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron E1500 2.2 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80557E1500",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Core",
+    "Core Family": "Conroe",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.2 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8V8Zxr/intel-cpu-bx80557e1500"
+}

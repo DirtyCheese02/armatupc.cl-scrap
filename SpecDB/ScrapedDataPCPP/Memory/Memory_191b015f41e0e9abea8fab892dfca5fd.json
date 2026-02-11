@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Night Hawk 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TF1D416G3600HC18EDC01",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-20-20-44",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YNyV3C/team-t-force-night-hawk-16gb-2-x-8gb-ddr4-3600-memory-tf1d416g3600hc18edc01"
+}

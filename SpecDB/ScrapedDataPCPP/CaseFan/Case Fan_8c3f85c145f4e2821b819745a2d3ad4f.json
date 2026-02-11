@@ -1,0 +1,17 @@
+{
+    "name": "Noctua NF-A14x25 G2 LS-PWM chromax.black 48.03 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Part #": "NF-A14x25 G2 LS-PWM chromax.black",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 48.03 CFM",
+    "Noise Level": "0 - 11.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "0.71 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gNFCmG/noctua-nf-a14x25-g2-ls-pwm-chromaxblack-4803-cfm-140-mm-fan-nf-a14x25-g2-ls-pwm-chromaxblack"
+}

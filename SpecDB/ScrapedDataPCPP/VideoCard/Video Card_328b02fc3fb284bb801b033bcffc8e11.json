@@ -1,0 +1,23 @@
+{
+    "name": "XFX RX-VEGMA3FD6 Radeon VII 16 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-VEGMA3FD6",
+    "Chipset": "Radeon VII",
+    "Memory": "16 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1400 MHz",
+    "Boost Clock": "1801 MHz",
+    "Effective Memory Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "280 mm",
+    "TDP": "295 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s2Jtt6/xfx-radeon-vii-16-gb-video-card-rx-vegma3fd6"
+}

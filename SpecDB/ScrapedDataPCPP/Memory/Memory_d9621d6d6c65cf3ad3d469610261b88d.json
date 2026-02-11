@@ -1,0 +1,16 @@
+{
+    "name": "Silicon Power SP064GBSVU560F22 64 GB (2 x 32 GB) DDR5-5600 SODIMM CL46 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SP064GBSVU560F22, SU064GBSVU560F22BH, SU064GBSVU560F22SN]",
+    "Speed": "DDR5-5600",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$8.437",
+    "Color": "Black",
+    "First Word Latency": "16.429 ns",
+    "CAS Latency": "46",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PVQKHx/silicon-power-sp064gbsvu560f22-64-gb-2-x-32-gb-ddr5-5600-sodimm-cl46-memory-sp064gbsvu560f22"
+}

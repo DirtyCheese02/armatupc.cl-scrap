@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Proline 16 GB (1 x 16 GB) DDR4-2400 CL17 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MPL4E240HF16G28",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "Timing": "17-17-17-39",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/36JgXL/mushkin-proline-16-gb-1-x-16-gb-ddr4-2400-cl17-memory-mpl4e240hf16g28"
+}

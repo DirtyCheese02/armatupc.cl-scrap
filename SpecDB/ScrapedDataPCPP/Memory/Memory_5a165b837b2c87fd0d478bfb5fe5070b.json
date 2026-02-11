@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power XPOWER Turbine 16 GB (2 x 8 GB) DDR4-4133 CL19 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP016GXLZU413BDA",
+    "Speed": "DDR4-4133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Blue",
+    "First Word Latency": "9.194 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZsmFf7/silicon-power-xpower-turbine-16-gb-2-x-8-gb-ddr4-4133-memory-sp016gxlzu413bda"
+}

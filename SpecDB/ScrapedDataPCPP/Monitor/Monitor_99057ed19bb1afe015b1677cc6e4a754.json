@@ -1,0 +1,23 @@
+{
+    "name": "Dell UP3214Q 31.5\" 3840 x 2160 60 Hz Monitor",
+    "Manufacturer": "Dell",
+    "Part #": "UP3214Q",
+    "Screen Size": "31.5\"",
+    "Resolution": "3840 x 2160",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "8 ms",
+    "Panel Type": "IPS",
+    "Aspect Ratio": "16:9",
+    "Brightness": "300 cd/m²",
+    "Pixel Pitch": "0.182 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "No",
+    "VESA Mounting": "100 x 100",
+    "Viewing Angle": "178° H x 178° V",
+    "Display Colors": "1070000000",
+    "Contrast Ratio": "2,000,000:1",
+    "Inputs": "[1 x DisplayPort, 1 x HDMI]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vz2kcf/dell-monitor-up3214q"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Thermaltake TOUGHRAM XG RGB 64 GB (2 x 32 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "Thermaltake",
+    "Part #": "RG06R432GX2-4000C19B",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$8.594",
+    "Color": "White / Silver",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-23-23-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kvTp99/thermaltake-toughram-xg-rgb-64-gb-2-x-32-gb-ddr4-4000-cl19-memory-rg06r432gx2-4000c19b"
+}

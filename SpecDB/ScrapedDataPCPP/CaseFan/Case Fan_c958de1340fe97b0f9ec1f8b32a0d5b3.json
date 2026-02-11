@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-B6W 16.17 CFM 60 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-B6W",
+    "Size": "60 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "3200 RPM",
+    "Airflow": "16.17 CFM",
+    "Noise Level": "20.17 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.6 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cd4Zxr/thermalright-tl-b6w-1617-cfm-60-mm-fan-tl-b6w"
+}

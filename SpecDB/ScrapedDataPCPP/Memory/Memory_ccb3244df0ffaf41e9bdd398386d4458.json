@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Super Luce 128 GB (8 x 16 GB) DDR4-2400 CL14 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLWW4128GB2400C14DQC",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "White",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hDx9TW/geil-memory-glww4128gb2400c14dqc"
+}

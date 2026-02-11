@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks PH-F120SK 50 CFM 120 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "PH-F120SK",
+    "Part #": "PH-F120SK_DRGB_PWM",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "50 CFM",
+    "Noise Level": "27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "0.96 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8CWBD3/phanteks-ph-f120sk-50-cfm-120-mm-fan-ph-f120sk_drgb_pwm"
+}

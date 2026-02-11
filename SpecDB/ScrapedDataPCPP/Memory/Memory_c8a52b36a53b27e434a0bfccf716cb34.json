@@ -1,0 +1,15 @@
+{
+    "name": "Corsair Vengeance LP 4 GB (1 x 4 GB) DDR3-1600 CL7 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CML4GX3M1A1600C7",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QLZQzy/corsair-memory-cml4gx3m1a1600c7"
+}

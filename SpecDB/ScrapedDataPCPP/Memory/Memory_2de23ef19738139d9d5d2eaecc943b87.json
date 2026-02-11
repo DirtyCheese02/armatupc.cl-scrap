@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMR16GX4M2D3000C16W",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sgPKHx/corsair-vengeance-rgb-32gb-2-x-16gb-ddr4-3000-memory-cmr16gx4m2d3000c16w"
+}

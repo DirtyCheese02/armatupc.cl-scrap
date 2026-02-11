@@ -1,0 +1,15 @@
+{
+    "name": "PNY Anarchy 16 GB (2 x 8 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MD16GK2D4240015AR",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B7Trxr/pny-memory-md16gk2d4240015ar"
+}

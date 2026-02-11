@@ -1,0 +1,11 @@
+{
+    "name": "Lamptron FC-FC2-B Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Part #": "FC-FC2-B",
+    "Channels": "6",
+    "Channel Wattage": "45 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "5.25\"",
+    "Features": "[Black, CNC milled solid aluminium panel of up to 3/4\", 6-channel x 45W per channel power control with stepless RPM control, Blue LED brightness intensifies as cooling fan's RPM climbs, 6 x 3-pin connector to fan, 1 x 4-pin molex connector to power supply, Fits any standard 5.25\" drive bay (5-7/8\" x 1-5/8\")]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jJvRsY/lamptron-fan-controller-fcfc2b"
+}

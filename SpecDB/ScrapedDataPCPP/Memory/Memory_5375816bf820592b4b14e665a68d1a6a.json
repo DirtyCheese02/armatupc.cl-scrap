@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 Royal 48 GB (2 x 24 GB) DDR5-7600 CL38 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-7600J3848F24GX2-TR5S",
+    "Speed": "DDR5-7600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Price / GB": "$11.875",
+    "Color": "Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-48-48-121",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wJZWGX/gskill-trident-z5-royal-48-gb-2-x-24-gb-ddr5-7600-cl38-memory-f5-7600j3848f24gx2-tr5s"
+}

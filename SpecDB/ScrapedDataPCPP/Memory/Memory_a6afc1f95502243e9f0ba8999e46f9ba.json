@@ -1,0 +1,16 @@
+{
+    "name": "Corsair XMS3 3 GB (3 x 1 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "TR3X3G1333C9",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 1GB",
+    "Color": "Black / White",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PbYXsY/corsair-memory-tr3x3g1333c9"
+}

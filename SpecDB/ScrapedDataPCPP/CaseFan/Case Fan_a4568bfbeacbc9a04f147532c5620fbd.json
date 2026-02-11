@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC P14 PST 72.8 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P14 PST",
+    "Part #": "ACFAN00197A",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 1700 RPM",
+    "Airflow": "72.8 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.4 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3wxRsY/arctic-p14-pst-728-cfm-140-mm-fan-acfan00197a"
+}

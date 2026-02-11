@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KTM-SX421LQ/32G 32 GB (1 x 32 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KTM-SX421LQ/32G",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "Color": "Black / Green",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/327CmG/kingston-memory-ktmsx421lq32g"
+}

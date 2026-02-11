@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN951N 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN951N",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK",
+    "Antenna": "3 x 2dBi Omni Directional, Detachable (RP-SMA)",
+    "Features": "[Wireless Modes: Ad-Hoc / Infrastructure mode, Provides two methods of operation: Infrastructure and Ad-Hoc., Adopts MIMO technology for wireless rates of up to 300Mbps., Adopts CCA technology which automatically avoids channel conflicts using its channel selection feature., Supports Roaming technology, guaranteeing efficient wireless connections.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qnPfrH/tp-link-wireless-network-card-tlwn951n"
+}

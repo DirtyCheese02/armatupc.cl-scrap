@@ -1,0 +1,16 @@
+{
+    "name": "OLOy Blade RGB 32 GB (2 x 16 GB) DDR5-7600 CL36 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "ND5U1676360IRKDE",
+    "Speed": "DDR5-7600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.474 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.45 V",
+    "Timing": "36-44-44-122",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r7kWGX/oloy-blade-rgb-32-gb-2-x-16-gb-ddr5-7600-cl36-memory-nd5u1676360irkde"
+}

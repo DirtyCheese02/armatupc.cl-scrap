@@ -1,0 +1,20 @@
+{
+    "name": "VisionTek 900270 Radeon HD 4350 512 MB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900270",
+    "Chipset": "Radeon HD 4350",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "575 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZG4gXL/visiontek-video-card-900270"
+}

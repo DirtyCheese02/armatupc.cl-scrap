@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA NEX750B 750 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA NEX750B",
+    "Part #": "120-PB-0750-KR",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "750 W",
+    "Length": "180 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A,+5VSB@3A, -12V@0.8A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fyYXsY/evga-supernova-nex750b-750-w-80-bronze-certified-semi-modular-atx-power-supply-120-pb-0750-kr"
+}

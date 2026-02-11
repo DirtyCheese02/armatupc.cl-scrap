@@ -1,0 +1,11 @@
+{
+    "name": "Asus PCE-N53 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Asus",
+    "Part #": "PCE-N53",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "WEP, WPA, WPA2, WPS",
+    "Antenna": "2 x R SMA Antenna",
+    "Features": "[Flexible Dual-band connection for lag-free streaming and high performance networking., Physical WPS (Wi-Fi Protected Setup) button quickly sets up a secure wireless connection., Software AP mode allows the WLAN card to act as a virtual access point, and connects your notebook, or other game consoles to the Internet., Support WEP, WPA, and WPA2 encryption methods for enhanced security.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fc8Zxr/asus-wireless-network-card-pcen53"
+}

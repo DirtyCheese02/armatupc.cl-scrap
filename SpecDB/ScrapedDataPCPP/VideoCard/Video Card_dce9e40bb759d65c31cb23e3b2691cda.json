@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor D6-3DHV2/OC Radeon RX 5600 XT 6 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "[5600XT 6GBD6-3DHV2OC, AXRX 5600 XT 6GBD6-3DHV2/OC]",
+    "Chipset": "Radeon RX 5600 XT",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1247 MHz",
+    "Boost Clock": "1620 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "230 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WyGnTW/powercolor-d6-3dhv2oc-radeon-rx-5600-xt-6-gb-video-card-5600xt-6gbd6-3dhv2oc"
+}

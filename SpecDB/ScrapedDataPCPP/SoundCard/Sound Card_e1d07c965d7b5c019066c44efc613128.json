@@ -1,0 +1,12 @@
+{
+    "name": "Asus Xonar DS 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Asus",
+    "Part #": "Xonar DS",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "107 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "ASUS AV200",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xp6BD3/asus-sound-card-xonards"
+}

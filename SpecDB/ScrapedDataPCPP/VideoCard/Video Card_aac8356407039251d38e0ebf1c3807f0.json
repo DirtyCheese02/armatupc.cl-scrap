@@ -1,0 +1,22 @@
+{
+    "name": "Asus EN8400GS/DI/512MD2(LP) GeForce 8400 GS 512 MB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "EN8400GS/DI/512MD2(LP)",
+    "Chipset": "GeForce 8400 GS",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "589 MHz",
+    "Effective Memory Clock": "667 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MRPfrH/asus-video-card-en8400gsdi512md2lp"
+}

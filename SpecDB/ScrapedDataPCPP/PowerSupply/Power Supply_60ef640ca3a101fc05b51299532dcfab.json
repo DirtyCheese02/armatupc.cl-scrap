@@ -1,0 +1,22 @@
+{
+    "name": "OCZ ZT 650 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "OCZ",
+    "Part #": "[OCZ-ZT650W, OCZ-ZT650W-UK]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "650 W",
+    "Length": "175 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@30A, +5V@24A, +12V@54A, -12V@0.5A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bBV48d/ocz-power-supply-oczzt650w"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Silicon Power XPOWER Zenith RGB Gaming 16 GB (1 x 16 GB) DDR5-6800 CL40 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP016GXLWU680FSH",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "White",
+    "First Word Latency": "11.765 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.4 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZXqrxr/silicon-power-xpower-zenith-rgb-gaming-16-gb-1-x-16-gb-ddr5-6800-cl40-memory-sp016gxlwu680fsh"
+}

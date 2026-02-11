@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill FORTIS 32 GB (4 x 8 GB) DDR4-2400 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2400C16Q-32GFT",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9r8H99/gskill-fortis-32gb-4-x-8gb-ddr4-2400-memory-f4-2400c16q-32gft"
+}

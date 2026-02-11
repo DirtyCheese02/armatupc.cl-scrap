@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SMX1000RT2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMX1000RT2U",
+    "Capacity (W)": "700 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "9 Minutes",
+    "Backup/Run Time (Half Load)": "21 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "6 x IEC 320-C13",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DCyxFT/tripp-lite-ups-smx1000rt2u"
+}

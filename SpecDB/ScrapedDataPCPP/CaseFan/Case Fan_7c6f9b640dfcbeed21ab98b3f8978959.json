@@ -1,0 +1,18 @@
+{
+    "name": "SeaSonic MAGFLOW ARGB 49.47 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "SeaSonic",
+    "Part #": "[MAGFLOW-ARGB-3, SF-12025MF-L3]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "49.47 CFM",
+    "Noise Level": "30.115 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "2.28 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mCcgXL/seasonic-magflow-argb-4947-cfm-120-mm-fans-3-pack-magflow-argb-3"
+}

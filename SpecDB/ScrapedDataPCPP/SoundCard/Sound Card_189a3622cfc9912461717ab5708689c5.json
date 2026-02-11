@@ -1,0 +1,14 @@
+{
+    "name": "Creative Labs Sound Blaster Z SE 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "Sound Blaster Z SE",
+    "Part #": "70SB150000004",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "116 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "Sound Core3D",
+    "Interface": "PCIe x1",
+    "Color": "Red / Black",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H97G3C/creative-labs-sound-blaster-z-se-24-bit-192-khz-sound-card-70sb150000004"
+}

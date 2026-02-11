@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Light Wings PWM high-speed 71.7 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "be quiet!",
+    "Model": "Light Wings PWM high-speed",
+    "Part #": "BL079",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "71.7 CFM",
+    "Noise Level": "31 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "2.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FFpzK8/be-quiet-light-wings-pwm-high-speed-717-cfm-140-mm-fans-3-pack-bl079"
+}

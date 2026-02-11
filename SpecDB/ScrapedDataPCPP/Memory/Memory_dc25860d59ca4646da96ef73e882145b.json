@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance 64 GB (2 x 32 GB) DDR5-6200 CL32 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK64GX5M2B6200C32",
+    "Speed": "DDR5-6200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$17.250",
+    "Color": "Black / Gray",
+    "First Word Latency": "10.323 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-38-38-80",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HjXV3C/corsair-vengeance-64-gb-2-x-32-gb-ddr5-6200-cl32-memory-cmk64gx5m2b6200c32"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "XFX Mercury OC Magnetic Air RGB Radeon RX 9070 XT 16 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-97TMARGB9",
+    "Chipset": "Radeon RX 9070 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1870 MHz",
+    "Boost Clock": "3100 MHz",
+    "Effective Memory Clock": "20000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "360 mm",
+    "TDP": "304 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h9cBD3/xfx-mercury-oc-magnetic-air-rgb-radeon-rx-9070-xt-16-gb-video-card-rx-97tmargb9"
+}

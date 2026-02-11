@@ -1,0 +1,15 @@
+{
+    "name": "Kingston ValueRAM 16 GB (1 x 16 GB) DDR4-3200 SODIMM CL22 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR32S22S8/16",
+    "Speed": "DDR4-3200",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$8.420",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xQH7YJ/kingston-valueram-16-gb-1-x-16-gb-ddr4-3200-cl22-memory-kvr32s22s816"
+}

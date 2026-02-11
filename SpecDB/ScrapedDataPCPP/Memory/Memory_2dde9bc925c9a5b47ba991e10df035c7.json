@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline 16 GB (2 x 8 GB) DDR3-2400 CL11 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRC3U240BDDZ8GX2",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.167 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "Timing": "11-13-13-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qtzhP6/mushkin-redline-16-gb-2-x-8-gb-ddr3-2400-cl11-memory-mrc3u240bddz8gx2"
+}

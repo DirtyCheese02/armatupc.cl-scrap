@@ -1,0 +1,21 @@
+{
+    "name": "Apex SL-275TFX 275 W TFX Power Supply",
+    "Manufacturer": "Apex",
+    "Part #": "SL-275TFX",
+    "Type": "TFX",
+    "Wattage": "275 W",
+    "Length": "146 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7qn2FT/apex-sl-275tfx-275-w-tfx-power-supply-sl-275tfx"
+}

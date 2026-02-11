@@ -1,0 +1,15 @@
+{
+    "name": "Wintec Value 2 GB (1 x 2 GB) DDR2-800 SODIMM CL5 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "3VT8005S9-2GR",
+    "Speed": "DDR2-800",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 2GB",
+    "Color": "Green",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JTLypg/wintec-memory-3vt8005s92gr"
+}

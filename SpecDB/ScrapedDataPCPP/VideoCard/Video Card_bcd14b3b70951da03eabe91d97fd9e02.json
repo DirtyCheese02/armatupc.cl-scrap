@@ -1,0 +1,23 @@
+{
+    "name": "AMD 100-506048 Radeon Pro Duo Polaris 32 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-506048",
+    "Chipset": "Radeon Pro Duo Polaris",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1243 MHz",
+    "Effective Memory Clock": "7000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "Length": "305 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/77zZxr/amd-radeon-pro-duo-polaris-16gb-video-card-100-506048"
+}

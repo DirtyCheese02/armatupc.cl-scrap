@@ -1,0 +1,17 @@
+{
+    "name": "Thermalright TY 73.6 CFM 140 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TY-147",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1300 RPM",
+    "Airflow": "28.3 - 73.6 CFM",
+    "Noise Level": "17 - 21 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qMR48d/thermalright-case-fan-ty147"
+}

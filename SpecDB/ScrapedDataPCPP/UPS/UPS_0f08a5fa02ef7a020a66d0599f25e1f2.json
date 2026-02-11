@@ -1,0 +1,20 @@
+{
+    "name": "APC BK500 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK500",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Step Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jCyxFT/apc-ups-bk500"
+}

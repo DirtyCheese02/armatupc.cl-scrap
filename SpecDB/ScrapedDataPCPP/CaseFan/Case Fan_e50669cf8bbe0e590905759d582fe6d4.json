@@ -1,0 +1,21 @@
+{
+    "name": "Fractal Design Dynamic X2 GP-12 52.3 CFM 120 mm Fan",
+    "Manufacturer": "Fractal Design",
+    "Model": "Dynamic X2 GP-12",
+    "Part #": "[FD-FAN-DYN-X2-GP12-BK, FAN-DYN-X2-GP12-BK]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "52.3 CFM",
+    "Noise Level": "19.4 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.88 mmH₂O",
+    "Bearing Type": "LLS",
+    "Features": "[High grade LLS bearing with class leading 100,000 hours MTBF., Equipped with a counter-pull magnet that reduces the axial tension on the bearing, Fan geometry optimized for a good balance between static pressure and maximum airflow, resulting in great performance in all usage scenarios, Aerodynamically shaped stator struts including the wire strut. Helps reduce noise and unwanted turbulence., Stator struts sit on a wide angle to the trailing edge of the blades which result in a lower noise level and smoother noise profile, Strategically placed notches near the fan hub on the trailing edge of the blades further reducing the humming noise produced when the blades pass the stator struts, A \"trip wire\" on the rear side of the blades near the leading edge. The trip wire introduces a larger turbulent boundary layer at an earlier stage, this delays the layer separation and improves both airflow and noise characteristics., The customized design of the Dynamic Series fans contributes to a beautiful, cool build, Available in two color combinations, Number of blades: 7, Maximum pressure [mm H2O]: 0.88, Actual input power [W]: 1.32, Maximum rated input current [A]: 0.18, Nominal input voltage [V]: 12, Minimum startup voltage [V]: 4.0, MTBF [hours]: 100,000, Unit weight [lb.]: 0.26, Cable length [mm]: 500, Cable type: Black ribbon cable]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4hH48d/fractal-design-x2-gp-12-black-523-cfm-120mm-fan-fd-fan-dyn-x2-gp12-bk"
+}

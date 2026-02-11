@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Pro 16 GB (2 x 8 GB) DDR3-2133 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMY16GX3M2A2133C9R",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8.439 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-11-10-30",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rn3RsY/corsair-memory-cmy16gx3m2a2133c9r"
+}

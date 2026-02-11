@@ -1,0 +1,15 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (4 x 4 GB) DDR3-2800 CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX3M4A2800C11",
+    "Speed": "DDR3-2800",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "First Word Latency": "7.857 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "Timing": "11-14-14-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6Ndqqs/corsair-memory-cmd16gx3m4a2800c11"
+}

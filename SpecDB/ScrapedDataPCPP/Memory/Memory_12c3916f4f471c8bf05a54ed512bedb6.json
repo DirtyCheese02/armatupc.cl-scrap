@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KVR16LR11S4K3/24 24 GB (3 x 8 GB) Registered DDR3-1600 CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR16LR11S4K3/24",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 8GB",
+    "Color": "Black / Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cvWrxr/kingston-memory-kvr16lr11s4k324"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Quad Q6700 2.66 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80562Q6700",
+    "Series": "Intel Core 2 Quad",
+    "Microarchitecture": "Core",
+    "Core Family": "Kentsfield",
+    "Socket": "LGA775",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.66 GHz",
+    "L2 Cache": "8 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "100 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bmzv6h/intel-cpu-bx80562q6700"
+}

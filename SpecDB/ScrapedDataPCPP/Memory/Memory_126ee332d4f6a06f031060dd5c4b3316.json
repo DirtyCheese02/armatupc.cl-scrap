@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Proline 16 GB (1 x 16 GB) DDR4-2666 SODIMM CL19 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MPL4T266KF16G28",
+    "Speed": "DDR4-2666",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "Timing": "19-19-19-43",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qTQcCJ/mushkin-proline-16-gb-1-x-16-gb-ddr4-2666-cl19-memory-mpl4t266kf16g28"
+}

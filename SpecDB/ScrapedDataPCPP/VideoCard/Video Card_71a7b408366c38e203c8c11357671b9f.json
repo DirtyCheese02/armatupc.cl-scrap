@@ -1,0 +1,23 @@
+{
+    "name": "HIS H545H1G Radeon HD 5450 1 GB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "H545H1G",
+    "Chipset": "Radeon HD 5450",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "650 MHz",
+    "Effective Memory Clock": "1300 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JtDwrH/his-video-card-h545h1g"
+}

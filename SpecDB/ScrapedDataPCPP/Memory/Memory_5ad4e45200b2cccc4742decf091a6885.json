@@ -1,0 +1,14 @@
+{
+    "name": "TEAMGROUP TXD316G1866HC9KQC-D 16 GB (4 x 4 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TXD316G1866HC9KQC-D",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zfNp99/team-memory-txd316g1866hc9kqcd"
+}

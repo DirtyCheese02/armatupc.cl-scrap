@@ -1,0 +1,22 @@
+{
+    "name": "Western Digital Blue SN570 2 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Western Digital",
+    "Part #": "WDS200T3B0C",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.150",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rr8bt6/western-digital-blue-sn570-2-tb-m2-2280-nvme-solid-state-drive-wds200t3b0c"
+}

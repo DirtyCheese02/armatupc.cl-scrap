@@ -1,0 +1,15 @@
+{
+    "name": "Tripp Lite SMARTINT1400RM UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMARTINT1400RM",
+    "Capacity (W)": "940 W",
+    "Capacity (VA)": "1400 VA",
+    "Alarm": "On Battery",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "6 x IEC 320-C13",
+    "Switching Time": "4 ms",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pxYWGX/tripp-lite-ups-smartint1400rm"
+}

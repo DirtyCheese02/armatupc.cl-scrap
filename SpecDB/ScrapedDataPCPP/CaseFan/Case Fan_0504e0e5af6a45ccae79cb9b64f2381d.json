@@ -1,0 +1,17 @@
+{
+    "name": "Nexus SP802512H-03PWM 38 CFM 80 mm Fan",
+    "Manufacturer": "Nexus",
+    "Part #": "SP802512H-03PWM",
+    "Size": "80 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2800 RPM",
+    "Airflow": "38 CFM",
+    "Noise Level": "16.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rsdqqs/nexus-sp802512h-03pwm-38-cfm-80-mm-fan-sp802512h-03pwm"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Gaming Series v2.0 4 GB (2 x 2 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX3U1600GB2G9-DG2",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Green",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.55 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Jb9KHx/a-data-memory-ax3u1600gb2g9dg2"
+}

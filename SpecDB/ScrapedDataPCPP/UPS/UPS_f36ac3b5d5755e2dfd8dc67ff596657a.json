@@ -1,0 +1,18 @@
+{
+    "name": "APC SUA1500R2X93 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA1500R2X93",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1440 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "7.40 Minutes",
+    "Backup/Run Time (Half Load)": "26.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pd648d/apc-ups-sua1500r2x93"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Corsair CX500M 500 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Part #": "[CX500M, CP-9020059-UK, CMPSU-500CXM, CP-9020059-AU]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "500 W",
+    "Length": "140 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@25A, +5V@20A, +12V@38A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PHCwrH/corsair-cx500m-500-w-80-bronze-certified-semi-modular-atx-power-supply-cx500m"
+}

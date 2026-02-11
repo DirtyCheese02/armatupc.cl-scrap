@@ -1,0 +1,19 @@
+{
+    "name": "Apevia 14S-BT 59.6 CFM 140 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "14S-BT",
+    "Size": "140 mm",
+    "Color": "Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "59.6 CFM",
+    "Noise Level": "29.4 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.81 mmH₂O",
+    "Features": "Apevia 140mm case fan with both 3 pin and 4 pin connectors without led",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X9kD4D/apevia-14s-bt-596-cfm-140-mm-fan-14s-bt"
+}

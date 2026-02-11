@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Light Wings 52.3 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL101",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2500 RPM",
+    "Airflow": "52.3 CFM",
+    "Noise Level": "31 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "2.6 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ydmNnQ/be-quiet-light-wings-523-cfm-120-mm-fans-3-pack-bl101"
+}

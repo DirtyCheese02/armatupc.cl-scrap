@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li UNI FAN AL120 64.5 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Lian Li",
+    "Model": "UNI FAN AL120",
+    "Part #": "UF-AL120-3B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1900 RPM",
+    "Airflow": "64.5 CFM",
+    "Noise Level": "17 - 28.3 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "2.62 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YPKKHx/lian-li-uni-fan-al120-645-cfm-120-mm-fans-3-pack-uf-al120-3b"
+}

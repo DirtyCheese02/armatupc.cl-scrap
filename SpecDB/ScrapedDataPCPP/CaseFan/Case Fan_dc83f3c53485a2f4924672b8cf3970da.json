@@ -1,0 +1,18 @@
+{
+    "name": "HAVN H14 85.18 CFM 140 mm Fan",
+    "Manufacturer": "HAVN",
+    "Model": "H14",
+    "Part #": "HVN-FS-H1430-02",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "85.18 CFM",
+    "Noise Level": "30.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.19 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HG62FT/havn-h14-8518-cfm-140-mm-fan-hvn-fs-h1430-02"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "XFX HD-545X-ZNF2 Radeon HD 5450 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-545X-ZNF2",
+    "Chipset": "Radeon HD 5450",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "650 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9R3RsY/xfx-video-card-hd545xznf2"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Silverstone SX300-B 300 W 80+ Bronze Certified SFX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Model": "SX300-B",
+    "Part #": "SST-SX300-B",
+    "Type": "SFX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "300 W",
+    "Length": "100 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yzqBD3/silverstone-sx-b-300-w-80-bronze-certified-sfx-power-supply-sst-sx300-b"
+}

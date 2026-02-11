@@ -1,0 +1,22 @@
+{
+    "name": "MSI CYCLONE GeForce RTX 5060 Ti 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 5060 Ti 16G CYCLONE, G506T-16C, RTX 5060 Ti 16G CYCLONE]",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2587 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Camo",
+    "Frame Sync": "G-Sync",
+    "Length": "161 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CCkqqs/msi-cyclone-geforce-rtx-5060-ti-16-gb-video-card-geforce-rtx-5060-ti-16g-cyclone"
+}

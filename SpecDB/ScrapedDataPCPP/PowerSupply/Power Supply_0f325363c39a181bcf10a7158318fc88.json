@@ -1,0 +1,22 @@
+{
+    "name": "CoolMax ZX-500 500 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "CoolMax",
+    "Part #": "ZX-500",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "500 W",
+    "Length": "165 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+5V@20A, +3.3V@25A, +12V@34A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XZMFf7/coolmax-power-supply-zx500"
+}

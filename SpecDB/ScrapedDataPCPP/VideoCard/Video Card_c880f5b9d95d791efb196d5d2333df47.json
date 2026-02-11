@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 02G-P3-1735-KR GeForce GT 730 1 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "02G-P3-1735-KR",
+    "Chipset": "GeForce GT 730",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "902 MHz",
+    "Effective Memory Clock": "5010 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "145 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8gBTwP/evga-geforce-gt-730-1gb-video-card-02g-p3-1735-kr"
+}

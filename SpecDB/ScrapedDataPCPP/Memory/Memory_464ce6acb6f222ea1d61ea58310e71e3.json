@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESW532GB6000C30ADC",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dFCZxr/geil-evo-v-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-gesw532gb6000c30adc"
+}

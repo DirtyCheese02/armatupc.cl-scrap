@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 16 GB (1 x 16 GB) DDR4-2133 CL14 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX421C14FR/16",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "13.127 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/72x2FT/kingston-hyperx-fury-16gb-1-x-16gb-ddr4-2133-memory-hx421c14fr16"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake DuraMax 38.2 CFM 80 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "AF0058",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2900 RPM",
+    "Airflow": "38.2 CFM",
+    "Noise Level": "31.3 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[Rated Voltage: 12 V, Started Voltage: 6 V, Rated Current: 0.17 A, Power Input: 2.04 W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3fYXsY/thermaltake-case-fan-af0058"
+}

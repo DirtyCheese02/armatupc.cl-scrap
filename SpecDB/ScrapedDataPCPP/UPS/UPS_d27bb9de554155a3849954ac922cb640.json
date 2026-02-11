@@ -1,0 +1,22 @@
+{
+    "name": "APC SMX2000LV UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMX2000LV",
+    "Capacity (W)": "1800 W",
+    "Capacity (VA)": "1920 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "11 Minutes",
+    "Backup/Run Time (Half Load)": "28 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[3 x NEMA 5-20R, 6 x NEMA L5-20R, 1 x NEMA 5-15R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/F2RFf7/apc-ups-smx2000lv"
+}

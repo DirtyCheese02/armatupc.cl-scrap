@@ -1,0 +1,13 @@
+{
+    "name": "OCZ RevoDrive 350 960 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "RVD350-FHPX28-960G",
+    "Capacity": "960 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2282",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cCBv6h/ocz-internal-hard-drive-rvd350fhpx28960g"
+}

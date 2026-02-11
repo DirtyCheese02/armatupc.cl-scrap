@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake SWAFAN EX12 ARGB 57.11 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Thermaltake",
+    "Model": "SWAFAN EX12 ARGB",
+    "Part #": "CL-F169-PL12SW-A",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "56.26 - 57.11 CFM",
+    "Noise Level": "30.6 - 32.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.39 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gzhv6h/thermaltake-swafan-ex12-argb-5711-cfm-120-mm-fans-3-pack-cl-f169-pl12sw-a"
+}

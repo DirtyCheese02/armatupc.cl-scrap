@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 24 GB (1 x 24 GB) DDR5-8400 CL42 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESG524GB8400C42ASC",
+    "Speed": "DDR5-8400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.45 V",
+    "Timing": "42-56-56-120",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qh26Mp/geil-evo-v-rgb-24-gb-1-x-24-gb-ddr5-8400-cl42-memory-gesg524gb8400c42asc"
+}

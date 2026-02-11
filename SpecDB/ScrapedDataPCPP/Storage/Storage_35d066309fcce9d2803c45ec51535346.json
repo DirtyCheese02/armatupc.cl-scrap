@@ -1,0 +1,13 @@
+{
+    "name": "Intel X25-M 80 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSA2MJ080G2C1",
+    "Capacity": "80 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Varies",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w9H323/intel-internal-hard-drive-ssdsa2mj080g2c1"
+}

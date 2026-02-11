@@ -1,0 +1,21 @@
+{
+    "name": "Samsung SH-S203B DVD/CD Writer",
+    "Manufacturer": "Samsung",
+    "Part #": "SH-S203B",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "2 MB",
+    "Color": "Black",
+    "DVD-ROM Speed": "20X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "20X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "12X",
+    "DVD-R Speed": "20X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "12X",
+    "DVD-RAM Speed": "12X",
+    "CD-R Speed": "32X",
+    "CD-RW Speed": "48X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hKJgXL/samsung-sh-s203b-dvdcd-writer-sh-s203b"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "AMD R7 Performance 8 GB (1 x 8 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "AMD",
+    "Part #": "R748G2133U2S",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9kX2FT/amd-memory-r748g2133u2s"
+}

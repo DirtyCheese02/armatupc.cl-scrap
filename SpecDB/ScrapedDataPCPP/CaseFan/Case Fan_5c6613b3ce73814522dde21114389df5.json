@@ -1,0 +1,17 @@
+{
+    "name": "Xilence Performance C 32.1 CFM 80 mm Fan",
+    "Manufacturer": "Xilence",
+    "Part #": "COO-XPF80.R.PWM",
+    "Size": "80 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "32.1 CFM",
+    "Noise Level": "22 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mBjWGX/xilence-case-fan-cooxpf80rpwm"
+}

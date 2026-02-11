@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake Thunderblade 70.2 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "AF0032",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "70.2 CFM",
+    "Noise Level": "31.7 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[1800RPM -Low speed fan at minimal noise level., 4 LED 120 x 120 x 25 Fan, 3 to 4 Pins Adapter Included]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qjdqqs/thermaltake-case-fan-af0032"
+}

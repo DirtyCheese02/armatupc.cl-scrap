@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite OMNIVSINT1500XL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNIVSINT1500XL",
+    "Capacity (W)": "940 W",
+    "Capacity (VA)": "1500 VA",
+    "Alarm": "Power Failure",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "8 x IEC 320 EN 60320 C13",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DD8H99/tripp-lite-ups-omnivsint1500xl"
+}

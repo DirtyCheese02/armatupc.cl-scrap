@@ -1,0 +1,21 @@
+{
+    "name": "be quiet! Dark Power Pro 11 550 W 80+ Platinum Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "be quiet!",
+    "Part #": "[BN250, BN650]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "550 W",
+    "Length": "180 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "5",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x4s8TW/be-quiet-power-supply-bn250"
+}

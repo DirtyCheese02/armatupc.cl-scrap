@@ -1,0 +1,22 @@
+{
+    "name": "Asus TUF GAMING GeForce RTX 4070 SUPER 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "tuf-rtx4070s-12g-gaming",
+    "Chipset": "GeForce RTX 4070 SUPER",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1980 MHz",
+    "Boost Clock": "2505 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "301 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p6dG3C/asus-tuf-gaming-geforce-rtx-4070-super-12-gb-video-card-tuf-rtx4070s-12g-gaming"
+}

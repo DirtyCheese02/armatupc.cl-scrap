@@ -1,0 +1,18 @@
+{
+    "name": "NoiseBlocker ELoop B 43.33 CFM 140 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "ITR-B14-1",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 RPM",
+    "Airflow": "43.33 CFM",
+    "Noise Level": "5.71 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.33 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3T98TW/noiseblocker-nb-eloop-b14-1-736-cfm-140mm-fan-itr-b14-1"
+}

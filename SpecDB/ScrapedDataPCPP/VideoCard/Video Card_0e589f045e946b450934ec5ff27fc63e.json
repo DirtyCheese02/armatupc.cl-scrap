@@ -1,0 +1,20 @@
+{
+    "name": "PNY RVCGGTX470XXB GeForce GTX 470 1.25 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "RVCGGTX470XXB",
+    "Chipset": "GeForce GTX 470",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "607 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GDg323/pny-video-card-rvcggtx470xxb"
+}

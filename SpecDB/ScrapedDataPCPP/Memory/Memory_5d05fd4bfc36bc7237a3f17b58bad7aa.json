@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Elite 32 GB (2 x 16 GB) DDR5-6400 CL52 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TED516G6400C52DC01",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "16.25 ns",
+    "CAS Latency": "52",
+    "Voltage": "1.1 V",
+    "Timing": "52-52-52-103",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qhvD4D/teamgroup-elite-32-gb-2-x-16-gb-ddr5-6400-cl52-memory-ted516g6400c52dc01"
+}

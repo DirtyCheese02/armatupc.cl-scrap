@@ -1,0 +1,21 @@
+{
+    "name": "Asus BC-12B1ST/BLK/B/AS Blu-Ray Reader, DVD/CD Writer",
+    "Manufacturer": "Asus",
+    "Part #": "BC-12B1ST/BLK/B/AS",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "2 MB",
+    "BD-ROM Speed": "12X",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "16X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "8X",
+    "DVD-R Speed": "16X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "8X",
+    "DVD-RAM Speed": "12X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "24X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hCR48d/asus-optical-drive-bc12b1stblkbas"
+}

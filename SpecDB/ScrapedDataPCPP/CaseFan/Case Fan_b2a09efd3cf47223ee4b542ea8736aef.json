@@ -1,0 +1,18 @@
+{
+    "name": "Iceberg Thermal IceGALE ARGB 96 CFM 140 mm Fan",
+    "Manufacturer": "Iceberg Thermal",
+    "Part #": "ICEGALE14A-D0A",
+    "Size": "140 mm",
+    "Color": "Teal / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "96 CFM",
+    "Noise Level": "0 - 36 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.65 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NYwypg/iceberg-thermal-icegale-argb-96-cfm-140-mm-fan-icegale14a-d0a"
+}

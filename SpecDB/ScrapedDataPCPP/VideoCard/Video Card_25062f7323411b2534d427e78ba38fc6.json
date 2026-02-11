@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte XTREME GeForce RTX 2070 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N2070AORUS X-8GC",
+    "Chipset": "GeForce RTX 2070",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1620 MHz",
+    "Boost Clock": "1815 MHz",
+    "Effective Memory Clock": "14142 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "290 mm",
+    "TDP": "185 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s9YLrH/gigabyte-geforce-rtx-2070-8gb-xtreme-video-card-gv-n2070aorus-x-8gc"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Ripjaws 32 GB (2 x 16 GB) DDR5-4800 SODIMM CL34 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "[F5-4800S3434A16GA2-RS, F5-4800S3434A16GX2-RS]",
+    "Speed": "DDR5-4800",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$10.938",
+    "Color": "Black / Silver",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.1 V",
+    "Timing": "34-34-34-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rF88TW/gskill-ripjaws-32-gb-2-x-16-gb-ddr5-4800-sodimm-cl34-memory-f5-4800s3434a16ga2-rs"
+}

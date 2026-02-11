@@ -1,0 +1,22 @@
+{
+    "name": "EVGA XC3 ULTRA GAMING iCX3 GeForce RTX 3080 Ti 12 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "12G-P5-3955-KR",
+    "Chipset": "GeForce RTX 3080 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1725 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QFPQzy/evga-xc3-ultra-gaming-icx3-geforce-rtx-3080-ti-12-gb-video-card-12g-p5-3955-kr"
+}

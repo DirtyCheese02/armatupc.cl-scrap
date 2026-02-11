@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire PULSE UEFI Radeon RX 570 4 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11266-68-21G",
+    "Chipset": "Radeon RX 570",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1168 MHz",
+    "Boost Clock": "1284 MHz",
+    "Effective Memory Clock": "7000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "FreeSync",
+    "Length": "230 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z9VD4D/sapphire-radeon-rx-570-4-gb-pulse-uefi-video-card-11266-68-21g"
+}

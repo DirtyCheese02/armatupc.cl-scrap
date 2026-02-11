@@ -1,0 +1,21 @@
+{
+    "name": "APC SC450R1X542 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SC450R1X542",
+    "Capacity (W)": "280 W",
+    "Capacity (VA)": "450 VA",
+    "Rack Height": "1U",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "19 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RS-232",
+    "Form Factor": "Rack-mountable",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "5 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Waveform Type": "Stepped Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mM8H99/apc-ups-sc450r1x542"
+}

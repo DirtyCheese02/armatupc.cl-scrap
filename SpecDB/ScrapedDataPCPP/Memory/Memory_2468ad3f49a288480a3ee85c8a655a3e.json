@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill TridentZ RGB  16 GB (2 x 8 GB) DDR4-4800 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4800C19D-16GTZRC",
+    "Speed": "DDR4-4800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "7.917 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.5 V",
+    "Timing": "19-28-28-48",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ckD7YJ/gskill-tridentz-rgb-16-gb-2-x-8-gb-ddr4-4800-cl19-memory-f4-4800c19d-16gtzrc"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator GT 4 GB (2 x 2 GB) DDR3-2000 CL8 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT4GX3M2A2000C8",
+    "Speed": "DDR3-2000",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.65 V",
+    "Timing": "8-9-8-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s8g323/corsair-memory-cmt4gx3m2a2000c8"
+}

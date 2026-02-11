@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A4x10 PWM 5.24 CFM 40 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A4x10 PWM",
+    "Part #": "NF-A4x10 PWM",
+    "Size": "40 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 5000 RPM",
+    "Airflow": "3.88 - 5.24 CFM",
+    "Noise Level": "12.9 - 19.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.95 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NZ7p99/noctua-nf-a4x10-pwm-524-cfm-40-mm-fan-nf-a4x10-pwm"
+}

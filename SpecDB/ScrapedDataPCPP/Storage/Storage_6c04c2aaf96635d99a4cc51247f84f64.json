@@ -1,0 +1,14 @@
+{
+    "name": "Crucial M4 256 GB mSATA Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT256M4SSD3",
+    "Capacity": "256 GB",
+    "Price / GB": "$1.085",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9174",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DsTmP6/crucial-internal-hard-drive-ct256m4ssd3"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws V 16 GB (4 x 4 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2133C15Q-16GVR",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7HBrxr/gskill-memory-f42133c15q16gvr"
+}

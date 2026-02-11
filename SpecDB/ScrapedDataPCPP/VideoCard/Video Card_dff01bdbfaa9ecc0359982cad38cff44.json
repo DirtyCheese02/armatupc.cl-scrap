@@ -1,0 +1,19 @@
+{
+    "name": "XFX HD-597X-ENFN Radeon HD 5970 4 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-597X-ENFN",
+    "Chipset": "Radeon HD 5970",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "294 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KHMFf7/xfx-video-card-hd597xenfn"
+}

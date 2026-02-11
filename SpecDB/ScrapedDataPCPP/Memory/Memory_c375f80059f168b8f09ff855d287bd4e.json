@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Zeus 64 GB (2 x 32 GB) DDR4-3200 SODIMM CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TTZD464G3200HC16FDC-S01",
+    "Speed": "DDR4-3200",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Red / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8CJp99/teamgroup-t-force-zeus-64-gb-2-x-32-gb-ddr4-3200-sodimm-cl16-memory-ttzd464g3200hc16fdc-s01"
+}

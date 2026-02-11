@@ -1,0 +1,12 @@
+{
+    "name": "NZXT Sentry LX Fan Controller",
+    "Manufacturer": "NZXT",
+    "Model": "Sentry LX",
+    "Part #": "SEN-001LX",
+    "Channels": "5",
+    "Channel Wattage": "6 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "2 x 5.25\"",
+    "Features": "[Large dual 5.25\" LCD screen, NZXT designed intuitive control, set and change fan speeds and settings on the fly, Auto/Manual modes, let the LCD take control or set fan speeds to your liking, Temperature alarm, Aluminum finish, NZXT Designed graphical interface, easy to read and understand, Saved Settings, calendar and fan settings are stored even during system off so settings don't need to be redone, Supports up to 6Watt per channel, Supports only 3pin fans]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KNfp99/nzxt-fan-controller-sen001lx"
+}

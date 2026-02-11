@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 430 W1 430 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "430 W1",
+    "Part #": "[100-W1-0430-KR, 100-W1-0430-K2, 100-W1-0430-K3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "430 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HvTmP6/evga-430-w1-430-w-80-certified-atx-power-supply-100-w1-0430-kr"
+}

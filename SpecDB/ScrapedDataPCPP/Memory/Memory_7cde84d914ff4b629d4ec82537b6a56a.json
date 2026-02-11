@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws V 32 GB (1 x 32 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C16S-32GVK",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bnGnTW/gskill-ripjaws-v-32-gb-1-x-32-gb-ddr4-3200-memory-f4-3200c16s-32gvk"
+}

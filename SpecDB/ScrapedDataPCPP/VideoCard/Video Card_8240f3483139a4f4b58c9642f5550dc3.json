@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS Radeon RX 5700 XT 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R57XTAORUS-8GD",
+    "Chipset": "Radeon RX 5700 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1770 MHz",
+    "Boost Clock": "2010 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "290 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YcRgXL/gigabyte-radeon-rx-5700-xt-8-gb-aorus-video-card-gv-r57xtaorus-8gd"
+}

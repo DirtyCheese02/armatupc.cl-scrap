@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper LED 8 GB (2 x 4 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVLR48G300C5K",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CH3H99/patriot-viper-led-8gb-2-x-4gb-ddr4-3000-memory-pvlr48g300c5k"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D Twin X2 OC GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N306T2-08D6X-1190VA32D",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1680 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "240 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yPmFf7/inno3d-geforce-rtx-3060-ti-8-gb-twin-x2-oc-video-card-n306t2-08d6x-1190va32d"
+}

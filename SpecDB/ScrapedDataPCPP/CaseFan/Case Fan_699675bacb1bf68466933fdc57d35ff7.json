@@ -1,0 +1,19 @@
+{
+    "name": "SilenX Effizio 74 CFM 120 mm Fan",
+    "Manufacturer": "SilenX",
+    "Part #": "EFX-12-15R",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1400 RPM",
+    "Airflow": "74 CFM",
+    "Noise Level": "15 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "3rd generation fluid dynamic bearing",
+    "Features": "[Power:, Operating voltage: 6-12V, Current draw: 0.17A, Power consumption: 2.04W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cZNp99/silenx-case-fan-efx1215r"
+}

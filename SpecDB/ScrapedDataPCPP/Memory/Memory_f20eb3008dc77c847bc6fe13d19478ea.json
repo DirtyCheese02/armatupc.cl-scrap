@@ -1,0 +1,17 @@
+{
+    "name": "Corsair WS 64 GB (4 x 16 GB) Registered DDR5-5600 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMA64GX5M4B5600C40",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 16GB",
+    "Price / GB": "$10.797",
+    "Color": "Black / Green",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bcn9TW/corsair-ws-64-gb-4-x-16-gb-registered-ddr5-5600-cl40-memory-cma64gx5m4b5600c40"
+}

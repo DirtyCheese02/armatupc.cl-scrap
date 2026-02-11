@@ -1,0 +1,18 @@
+{
+    "name": "Rosewill RCA-220-BL 110 CFM 220 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RCA-220-BL",
+    "Size": "220 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 RPM",
+    "Airflow": "110 CFM",
+    "Noise Level": "21 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3fQypg/rosewill-case-fan-rca220bl"
+}

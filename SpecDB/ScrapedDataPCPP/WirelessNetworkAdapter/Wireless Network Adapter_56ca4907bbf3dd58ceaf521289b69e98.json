@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN723N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN723N",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128 bit WEP, WPA/WPA2/WPA-PSK/WPA2-PSK, Wireless MAC Filtering",
+    "Antenna": "Internal Antenna",
+    "Features": "[Button: QSSPush Button, Receive Sensitivity: 130M: -68dBm@10% PER, 108M: -68dBm@10% PER, 54M: -68dBm@10% PER, 11M: -85dBm@8% PER, 6M: -88dBm@10% PER, 1M: -90dBm@8% PER, Work Mode: Ad-Hoc / Infrastructure mode, Certification: CE, FCC, RoHS, Easy one-touch wireless security encryption with the Quick Security Setup button., Supports Sony PSP X-Link for lag-free online gaming for Windows XP.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HgvRsY/tp-link-wireless-network-card-tlwn723n"
+}

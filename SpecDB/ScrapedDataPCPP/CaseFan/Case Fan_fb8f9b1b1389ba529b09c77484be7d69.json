@@ -1,0 +1,19 @@
+{
+    "name": "Apevia CF4SL-URED 25.64 CFM 80 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF4SL-URED",
+    "Size": "80 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "25.64 CFM",
+    "Noise Level": "22.05 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.64 mmH₂O",
+    "Features": "[UV red reactive LED fan, 4* super bright red LED lights, Ultra quiet and powerful]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kCH323/apevia-case-fan-cf4slured"
+}

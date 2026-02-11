@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC F9 35 CFM 92 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F9",
+    "Part #": "[AF9 PWM, AFACO-090P0-GBA01]",
+    "Size": "92 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "35 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[PWM Sharing Technology (PST), Extremely quiet, High air flow and static pressure, Low noise impeller, Fluid dynamic bearing extends service life]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p7Qypg/arctic-f9-pwm-35-cfm-92-mm-fan-af9-pwm"
+}

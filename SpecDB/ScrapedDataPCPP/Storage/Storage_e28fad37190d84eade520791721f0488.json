@@ -1,0 +1,21 @@
+{
+    "name": "Western Digital Blue SN580 250 GB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Western Digital",
+    "Part #": "[WDS250G3B0E, WDS250G3B0E-00CHF0]",
+    "Capacity": "250 GB",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xx26Mp/western-digital-blue-sn580-250-gb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds250g3b0e"
+}

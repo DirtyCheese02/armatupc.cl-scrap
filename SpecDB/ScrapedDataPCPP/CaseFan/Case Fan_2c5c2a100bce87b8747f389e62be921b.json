@@ -1,0 +1,19 @@
+{
+    "name": "Cougar Vortex 70.5 CFM 140 mm Fan",
+    "Manufacturer": "Cougar",
+    "Part #": "CF-V14HP",
+    "Size": "140 mm",
+    "Color": "Orange",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1200 RPM",
+    "Airflow": "70.5 CFM",
+    "Noise Level": "19.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Hydro Bearing",
+    "Features": "[PWM-FUNCTION, PWM stands for Pulse Width Modulation. The 4-Pin connector allows the mainboard to control the fan speed from 800-1500RPM., HIGH-VORTEX-AIRFLOW WITH TURBINE BLADE & FRAME PATENTED DESIGN, Optimum airflow, air pressure & extremely silent performance, DIVERSION GROOVE BLADE DESIGN, Innovative blade design focus air flow & optimum cooling efficiency (Patent), ANTI-VIBRATION PAD DESIGN, Reduce the vibrations efficiently & silent operation, AERO-DYNAMICAL DESIGN, Air-inlet with optimal aero-dynamical design reducing noisy air turbulences, HYDRO-DYNAMIC-BEARING TECHNOLOGY, HDB runs more smoothly with no friction, make it quietly & durability(MTBF300,000hrs), TOOL-LESS FIXED PINS, Rubber fixed pins also reduces vibrations (fan run more quietly) and Tool-less makes it easy to mount, with no tools required]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3CNp99/cougar-vortex-705-cfm-140-mm-fan-cf-v14hp"
+}

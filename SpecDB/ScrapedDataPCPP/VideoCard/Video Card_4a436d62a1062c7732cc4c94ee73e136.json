@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire PULSE ITX PURE Radeon RX 6500 XT 4 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11314-04-20G",
+    "Chipset": "Radeon RX 6500 XT",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2825 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "152 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort 1.4 Outputs": "1",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g2rp99/sapphire-pulse-itx-pure-radeon-rx-6500-xt-4-gb-video-card-11314-04-20g"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "NZXT Aer RGB 61.4 CFM 120 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "RF-AR120-B1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "20 - 61.4 CFM",
+    "Noise Level": "22 - 31 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w7RFf7/nzxt-aer-rgb120-614-cfm-120-mm-fan-rf-ar120-b1"
+}

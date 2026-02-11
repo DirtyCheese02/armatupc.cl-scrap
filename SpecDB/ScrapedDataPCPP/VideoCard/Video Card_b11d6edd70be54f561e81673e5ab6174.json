@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N650OC-1GI GeForce GTX 650 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N650OC-1GI",
+    "Chipset": "GeForce GTX 650",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1100 MHz",
+    "Effective Memory Clock": "6008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "187 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "2",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QX8Zxr/gigabyte-video-card-gvn650oc1gi"
+}

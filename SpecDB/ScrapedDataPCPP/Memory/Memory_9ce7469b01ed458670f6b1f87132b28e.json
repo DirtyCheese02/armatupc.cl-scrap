@@ -1,0 +1,17 @@
+{
+    "name": "Thermaltake TOUGHRAM XG RGB 16 GB (2 x 8 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "Thermaltake",
+    "Part #": "RG06D408GX2-4000C19B",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$10.936",
+    "Color": "White / Silver",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-23-23-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bsqPxr/thermaltake-toughram-xg-rgb-16-gb-2-x-8-gb-ddr4-4000-cl19-memory-rg06d408gx2-4000c19b"
+}

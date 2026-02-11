@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SU8000RT4U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU8000RT4U",
+    "Capacity (W)": "5600 W",
+    "Capacity (VA)": "8000 VA",
+    "Rack Height": "4U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "[Tower, Rack-mountable]",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "[2 x NEMA L6-30R, 2 x NEMA L6-20R, 4 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s6X2FT/tripp-lite-ups-su8000rt4u"
+}

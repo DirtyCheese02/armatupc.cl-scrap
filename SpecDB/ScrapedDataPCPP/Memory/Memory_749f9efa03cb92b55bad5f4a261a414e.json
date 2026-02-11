@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB RS 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMG16GX4M2D3600C18",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$10.687",
+    "Color": "Black / Gray",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RvmmP6/corsair-vengeance-rgb-rs-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-cmg16gx4m2d3600c18"
+}

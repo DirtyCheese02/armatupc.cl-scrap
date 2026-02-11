@@ -1,0 +1,22 @@
+{
+    "name": "Asus TUF GAMING OC Radeon RX 6950 XT 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "TUF-RX6950XT-O16G-GAMING",
+    "Chipset": "Radeon RX 6950 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1890 MHz",
+    "Boost Clock": "2324 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "320 mm",
+    "TDP": "335 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZPkWGX/asus-radeon-rx-6950-xt-16-gb-tuf-gaming-oc-video-card-tuf-rx6950xt-o16g-gaming"
+}

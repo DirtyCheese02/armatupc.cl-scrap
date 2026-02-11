@@ -1,0 +1,18 @@
+{
+    "name": "Nanoxia Deep Silence 76.5 CFM 140 mm Fan",
+    "Manufacturer": "Nanoxia",
+    "Part #": "NDS140PWM-1400",
+    "Size": "140 mm",
+    "Color": "Black / Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 1400 RPM",
+    "Airflow": "76.5 CFM",
+    "Noise Level": "16.89 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Features": "This 140 mm model of the Deep Silence fan series is equipped with a 4-pin PWM connector for automatic adjustment of the fan speed. The rotary speed spectrum ranges from 650 to a maximum of 1,500 rounds per minute. The Deep Silence 120 mm PWM 1500 generates an air flow of up to 67.3 CFM at a noise level of not more than 16.9 dB(A). A set of fan shock absorbers as well as a set of fan screws is included.",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DmyFf7/nanoxia-case-fan-nds140pwm1400"
+}

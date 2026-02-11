@@ -1,0 +1,15 @@
+{
+    "name": "TEAMGROUP Dark 8 GB (2 x 4 GB) DDR4-2800 CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TDKED48G2800HC16ADC01",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / White",
+    "First Word Latency": "11.429 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vTCrxr/team-memory-tdked48g2800hc16adc01"
+}

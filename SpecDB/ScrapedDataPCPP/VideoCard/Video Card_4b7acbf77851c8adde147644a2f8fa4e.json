@@ -1,0 +1,22 @@
+{
+    "name": "VisionTek 900568 Radeon HD 7850 2 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900568",
+    "Chipset": "Radeon HD 7850",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "860 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "MiniDisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WQkD4D/visiontek-video-card-900568"
+}

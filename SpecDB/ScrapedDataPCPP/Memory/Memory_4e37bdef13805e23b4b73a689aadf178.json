@@ -1,0 +1,14 @@
+{
+    "name": "Lexar CT2KIT51264BC160B 8 GB (2 x 4 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Lexar",
+    "Part #": "CT2KIT51264BC160B",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jkYXsY/lexar-memory-ct2kit51264bc160b"
+}

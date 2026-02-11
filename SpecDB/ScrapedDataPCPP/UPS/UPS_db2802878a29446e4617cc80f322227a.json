@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite SUINT2000XL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SUINT2000XL",
+    "Capacity (W)": "1400 W",
+    "Capacity (VA)": "2000 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "8 x IEC 320-C13",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JFdFf7/tripp-lite-ups-suint2000xl"
+}

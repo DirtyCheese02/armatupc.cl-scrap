@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury RGB 64 GB (4 x 16 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX424C15FB3AK4/64",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MnLwrH/kingston-hyperx-fury-rgb-64-gb-4-x-16-gb-ddr4-2400-memory-hx424c15fb3ak464"
+}

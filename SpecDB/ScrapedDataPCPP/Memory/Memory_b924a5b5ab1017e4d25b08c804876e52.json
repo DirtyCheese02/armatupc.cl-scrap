@@ -1,0 +1,17 @@
+{
+    "name": "Patriot Viper Elite II 32 GB (2 x 16 GB) DDR4-3200 CL18 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVE2432G320C8K",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$5.312",
+    "Color": "Red / Black",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7qddnQ/patriot-viper-elite-ii-32-gb-2-x-16-gb-ddr4-3200-cl18-memory-pve2432g320c8k"
+}

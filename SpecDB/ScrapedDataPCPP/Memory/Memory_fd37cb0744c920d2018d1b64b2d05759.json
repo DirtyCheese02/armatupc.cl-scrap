@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 192 GB (4 x 48 GB) DDR5-5200 CL38 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH192GX5M4B5200C38",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 48GB",
+    "Price / GB": "$12.479",
+    "Color": "Black",
+    "First Word Latency": "14.615 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.25 V",
+    "Timing": "38-38-38-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xrV2FT/corsair-vengeance-rgb-192-gb-4-x-48-gb-ddr5-5200-cl38-memory-cmh192gx5m4b5200c38"
+}

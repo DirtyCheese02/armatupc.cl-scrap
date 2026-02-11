@@ -1,0 +1,20 @@
+{
+    "name": "APC SURTA2200RMXL2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTA2200RMXL2U",
+    "Capacity (W)": "1750 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qzM323/apc-ups-surta2200rmxl2u"
+}

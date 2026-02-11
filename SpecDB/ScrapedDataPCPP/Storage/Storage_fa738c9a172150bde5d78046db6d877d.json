@@ -1,0 +1,13 @@
+{
+    "name": "Seagate ST6000NM0024 6 TB 3.5\" 7200 RPM Internal Hard Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "ST6000NM0024",
+    "Capacity": "6 TB",
+    "Price / GB": "$0.024",
+    "Type": "7200 RPM",
+    "Cache": "128 MB",
+    "Form Factor": "3.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9YyFf7/seagate-internal-hard-drive-st6000nm0024"
+}

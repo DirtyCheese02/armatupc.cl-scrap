@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D X3 OC GeForce RTX 3080 Ti 12 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N308T3-126XX-1810VA44",
+    "Chipset": "GeForce RTX 3080 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1680 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lh92FT/inno3d-geforce-rtx-3080-ti-12-gb-x3-oc-video-card-n308t3-126xx-1810va44"
+}

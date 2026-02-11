@@ -1,0 +1,15 @@
+{
+    "name": "Tripp Lite INTRNT OFFC700R UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "INTRNT OFFC700R",
+    "Capacity (W)": "425 W",
+    "Capacity (VA)": "700 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/93FXsY/tripp-lite-ups-intrntoffc700r"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Creative Labs Recon3D Fatal1ty Professional 24-bit 96 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "Recon3D Fatal1ty Professional",
+    "Part #": "[70SB135600000, SB-RECON3D-FPRO]",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "102 dB",
+    "Sample Rate": "96 kHz",
+    "Chipset": "Sound Core3D",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R69KHx/creative-labs-sound-card-70sb135600000"
+}

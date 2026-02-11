@@ -1,0 +1,20 @@
+{
+    "name": "CyberPower SE425G UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "SE425G",
+    "Capacity (W)": "255 W",
+    "Capacity (VA)": "425 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "7 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Surge, EMI / RFI, Sag, Brownout]",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Waveform Type": "Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MsJkcf/cyberpower-ups-se425g"
+}

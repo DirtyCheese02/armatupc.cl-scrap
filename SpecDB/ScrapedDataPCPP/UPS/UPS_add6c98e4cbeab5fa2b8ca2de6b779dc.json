@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SMC10002URM UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMC10002URM",
+    "Capacity (W)": "700 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[UPS StartUp, Power Failure, Low Battery, Overload, UPS Fault, Remote Shutdown]",
+    "Backup/Run Time (Full Load)": "6.40 Minutes",
+    "Backup/Run Time (Half Load)": "15.60 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "120 V AC",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Brownout, Over Voltage, Surge, Black Out, Under Voltage, EMI / RFI]",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "[Sine Wave, Pure Sine Wave]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Mr7CmG/tripp-lite-ups-smc10002urm"
+}

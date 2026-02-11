@@ -1,0 +1,17 @@
+{
+    "name": "Kingston ValueRAM 16 GB (1 x 16 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR21S15D8/16",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$6.807",
+    "Color": "Black / Green",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-33",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wFgPxr/kingston-valueram-16gb-1-x-16gb-ddr4-2133-memory-kvr21s15d816"
+}

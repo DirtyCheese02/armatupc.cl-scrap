@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG SPECTRIX D40 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX4U320038G16-DRS",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Red",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gW448d/xpg-spectrix-d40-16gb-2-x-8gb-ddr4-3200-memory-ax4u320038g16-drs"
+}

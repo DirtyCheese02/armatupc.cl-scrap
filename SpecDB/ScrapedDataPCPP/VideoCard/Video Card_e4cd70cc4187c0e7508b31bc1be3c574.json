@@ -1,0 +1,20 @@
+{
+    "name": "Diamond A4890PE51G Radeon HD 4890 1 GB Video Card",
+    "Manufacturer": "Diamond",
+    "Part #": "A4890PE51G",
+    "Chipset": "Radeon HD 4890",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Effective Memory Clock": "975 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "190 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kGCwrH/diamond-video-card-a4890pe51g"
+}

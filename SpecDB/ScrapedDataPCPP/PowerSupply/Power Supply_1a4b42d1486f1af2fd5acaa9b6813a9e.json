@@ -1,0 +1,21 @@
+{
+    "name": "Athena Power AP-P4ATX85FEP 850 W ATX Power Supply",
+    "Manufacturer": "Athena Power",
+    "Part #": "AP-P4ATX85FEP",
+    "Type": "ATX",
+    "Wattage": "850 W",
+    "Length": "158 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@24A, +5V@24/26A, +12V1@19A, +12V2@19A, +12V3@19A, +12V4@19A, -12V@0.8A, +5VSB@4A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gNh9TW/athena-power-850-w-atx-power-supply-ap-p4atx85fep"
+}

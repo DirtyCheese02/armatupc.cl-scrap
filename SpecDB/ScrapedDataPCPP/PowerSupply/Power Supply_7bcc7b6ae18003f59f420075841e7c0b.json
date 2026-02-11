@@ -1,0 +1,23 @@
+{
+    "name": "SilentiumPC Elementum E2 230V 550 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "SilentiumPC",
+    "Model": "Elementum E2 230V",
+    "Part #": "SPC252",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "550 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zmNYcf/silentiumpc-elementum-e2-230v-550-w-80-certified-atx-power-supply-spc252"
+}

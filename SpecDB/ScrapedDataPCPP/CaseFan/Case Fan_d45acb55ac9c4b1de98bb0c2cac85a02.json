@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake Riing 40.6 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F042-PL12SW-A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 1500 RPM",
+    "Airflow": "40.6 CFM",
+    "Noise Level": "26.4 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "Manual",
+    "Bearing Type": "Hydraulic",
+    "Features": "[Patented Circular LED Ring, High Static Pressure for Case/Radiator Applications, Concentrated Compression Blade Design, Hydraulic Bearing for Low noise/Longer Lifespan, 256 Color 3 Packs customized LED lighting effect, Anti-vibration Mounting System]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/69Gj4D/thermaltake-riing-12-rgb-406-cfm-120-mm-fan-cl-f042-pl12sw-a"
+}

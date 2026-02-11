@@ -1,0 +1,19 @@
+{
+    "name": "Akasa Vegas TLX 35.2 CFM 120 mm Fan",
+    "Manufacturer": "Akasa",
+    "Model": "Vegas TLX",
+    "Part #": "AK-FN101",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "35.2 CFM",
+    "Noise Level": "23.8 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.04 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ztxbt6/akasa-vegas-tlx-352-cfm-120-mm-fan-ak-fn101"
+}

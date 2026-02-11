@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone SCOOL 42.15 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SCOOL121",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 950 RPM",
+    "Airflow": "17.75 - 42.15 CFM",
+    "Noise Level": "15 - 18 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wM9KHx/silverstone-scool121-4215-cfm-120-mm-fan-scool121"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Wintec Value 8 GB (1 x 8 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "3VH160011S9-8GR",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gJckcf/wintec-memory-3vh160011s98gr"
+}

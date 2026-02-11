@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ares 8 GB (1 x 8 GB) DDR3-1600 CL10 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1600C10S-8GAO",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Orange",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nDPQzy/gskill-ares-8-gb-1-x-8-gb-ddr3-1600-cl10-memory-f3-1600c10s-8gao"
+}

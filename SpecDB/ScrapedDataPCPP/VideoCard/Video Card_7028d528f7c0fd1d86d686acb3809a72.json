@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle X520 King GeForce GT 520 2 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "X520 King",
+    "Chipset": "GeForce GT 520",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Beige",
+    "Frame Sync": "None",
+    "Length": "154 mm",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VXckcf/sparkle-video-card-x520king"
+}

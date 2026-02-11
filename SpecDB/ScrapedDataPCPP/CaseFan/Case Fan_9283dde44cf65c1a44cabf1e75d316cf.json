@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek XLF 63.5 CFM 140 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XLF-F1455",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "63.5 CFM",
+    "Noise Level": "16 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Higher airflow, static pressure and torque., Reduce noise and power consumption, 4 pcs White LEDs and transparent colorific blade and frame, Low noise level., Optimized blade design to create cooling performance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/f37wrH/xigmatek-case-fan-xlff1455"
+}

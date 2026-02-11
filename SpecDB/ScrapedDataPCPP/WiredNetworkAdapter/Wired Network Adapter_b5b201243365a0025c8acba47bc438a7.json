@@ -1,0 +1,8 @@
+{
+    "name": "Syba SD-PEX24009 Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SD-PEX24009",
+    "Interface": "PCIe x1",
+    "Features": "[PCI-Express 1-Lane (x1) Interface, Supports Full Duplex Flow Control (IEEE 802.3x), Supports IEEE 802.1P Layer 2 Priority Encoding, Supports IEEE 802.1Q VLAN Tagging, Crossover Detection and Auto Correction Operation]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZZV48d/syba-wired-network-card-sdpex24009"
+}

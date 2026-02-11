@@ -1,0 +1,17 @@
+{
+    "name": "Azza Hurricane 56.12 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Azza",
+    "Part #": "FNAZ-12RGB-B-131",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "56.12 CFM",
+    "Noise Level": "33.8 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qKc48d/azza-hurricane-rgb-5612-cfm-120-mm-fans-3-pack-fnaz-12rgb-b-131"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-AC1200PCE 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-AC1200PCE",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "PCIe x1",
+    "Security": "64/128 bit WEP<br/>WPA(TKIP with IEEE 802.1x)<br/>WPA2(AES with IEEE 802.1X)",
+    "Antenna": "Remote Magnetic Antenna Stand with 2x5 dBi Antennas",
+    "Features": "[- High Power Amplifiers and Antennas, Provide wilder range for extensive internet uses., - Latest 802.11 AC Standard, Provide fast HD streaming and instant data transfers., - Dual Band Wi-Fi, 2.4GHz + 5.0GHz networks give more speed and un-intervention Wi-Fi environment., - Magnetic Antenna Stand, Better signal extension with antenna stand., - Cool Heat Sink, Excellent heat sink design avoids overheating and   show better performance., - Working mode: Infrastructure, Ad-Hoc, Soft AP, - QoS enhancement: WMM,WMM-SA, - Certification:\tFCC, CE]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WTdqqs/rosewill-wireless-network-card-rnxac1200pce"
+}

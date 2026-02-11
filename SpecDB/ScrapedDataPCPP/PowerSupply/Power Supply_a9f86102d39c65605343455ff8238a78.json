@@ -1,0 +1,23 @@
+{
+    "name": "Corsair HX1200 Platinum 1200 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "HX1200 Platinum",
+    "Part #": "[CP-9020140-NA, CP-9020140-WW, CP-9020140-UK, CP-9020140-EU, CP-9020140-AU, CP-9020140-CN, CP-9020140-JP, CP-9020140-KR]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "1200 W",
+    "Length": "200 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "16",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@30A, +5V@30A, +12V@100A, -12V@0.8A, +5HXB@3.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/f7L7YJ/corsair-hx1200-platinum-1200-w-80-platinum-certified-fully-modular-atx-power-supply-cp-9020140-na"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan Z 32 GB (2 x 16 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLZGD432G3000HC16FDC01",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Gray",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kzTp99/team-t-force-vulcan-z-32-gb-2-x-16-gb-ddr4-3000-cl16-memory-tlzgd432g3000hc16fdc01"
+}

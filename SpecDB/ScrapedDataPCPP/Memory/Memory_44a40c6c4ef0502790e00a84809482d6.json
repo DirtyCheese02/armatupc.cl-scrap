@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F4-3866C19Q2-128GTZSW 128 GB (8 x 16 GB) DDR4-3866 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3866C19Q2-128GTZSW",
+    "Speed": "DDR4-3866",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Gray / White",
+    "First Word Latency": "9.829 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Vp7G3C/gskill-f4-3866c19q2-128gtzsw-128-gb-8-x-16-gb-ddr4-3866-cl19-memory-f4-3866c19q2-128gtzsw"
+}

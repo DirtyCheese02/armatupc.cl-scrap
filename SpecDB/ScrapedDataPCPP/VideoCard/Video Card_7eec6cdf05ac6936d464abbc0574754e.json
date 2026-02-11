@@ -1,0 +1,23 @@
+{
+    "name": "ATI FirePro V5800 FirePro V5800 1 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro V5800",
+    "Part #": "100-505839",
+    "Chipset": "FirePro V5800",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "4000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "229 mm",
+    "TDP": "74 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zXg323/ati-video-card-100505839"
+}

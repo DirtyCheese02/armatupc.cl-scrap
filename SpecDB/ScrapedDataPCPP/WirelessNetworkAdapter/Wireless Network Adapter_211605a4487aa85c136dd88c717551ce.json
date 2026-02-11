@@ -1,0 +1,12 @@
+{
+    "name": "TRENDnet TEW-648UB 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-648UB",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP, WPA/WPA2-RADIUS, WPA-PSK/WPA2-PSK",
+    "Antenna": "Internal Antenna",
+    "Operating Range": "Indoor: Up to 50m, Outdoor: Up to 100m",
+    "Features": "[One-touch setup with Wi-Fi Protected Setup (WPS) support, Supports Ad-Hoc (Client-Client) and Infrastructure (AP-Client) Mode, Maximum reliability, throughput and connectivity with automatic data rate switching, Low interference and high susceptibility provide reliable performance, Wi-Fi Multimedia (WMM) Quality of Service (QoS) supported, Easy user setup and intuitive diagnostic utility]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dX4gXL/trendnet-wireless-network-card-tew648ub"
+}

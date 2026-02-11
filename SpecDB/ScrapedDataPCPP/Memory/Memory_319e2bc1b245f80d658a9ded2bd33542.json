@@ -1,0 +1,16 @@
+{
+    "name": "OCZ Value 1 GB (1 x 1 GB) DDR2-667 CL5 Memory",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZ26671024V",
+    "Speed": "DDR2-667",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "1 x 1GB",
+    "Price / GB": "$34.950",
+    "Color": "Green",
+    "First Word Latency": "14.993 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RB3RsY/ocz-memory-ocz26671024v"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "XFX Core Edition Radeon HD 6670 2 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-667X-CDFR",
+    "Chipset": "Radeon HD 6670",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "800 MHz",
+    "Effective Memory Clock": "1300 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "151 mm",
+    "TDP": "66 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CN3H99/xfx-radeon-hd-6670-2-gb-core-edition-video-card-hd-667x-cdfr"
+}

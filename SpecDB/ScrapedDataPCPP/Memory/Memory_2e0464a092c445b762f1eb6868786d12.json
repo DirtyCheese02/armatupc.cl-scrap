@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z 16 GB (2 x 8 GB) DDR4-4400 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4400C19D-16GTZKK",
+    "Speed": "DDR4-4400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$11.500",
+    "Color": "Black",
+    "First Word Latency": "8.636 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "Timing": "19-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LRfmP6/gskill-trident-z-16gb-2-x-8gb-ddr4-4400-memory-f4-4400c19d-16gtzkk"
+}

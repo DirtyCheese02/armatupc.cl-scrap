@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB RT 256 GB (8 x 32 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMN256GX4M8Z3600C18",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D3WzK8/corsair-vengeance-rgb-rt-256-gb-8-x-32-gb-ddr4-3600-cl18-memory-cmn256gx4m8z3600c18"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "AMD FirePro 2460 FirePro 2460 512 MB Video Card",
+    "Manufacturer": "AMD",
+    "Model": "FirePro 2460",
+    "Part #": "100-505611",
+    "Chipset": "FirePro 2460",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CZL7YJ/amd-video-card-100505611"
+}

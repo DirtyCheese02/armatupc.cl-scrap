@@ -1,0 +1,20 @@
+{
+    "name": "Noctua S12B FLX 59.21 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "S12B FLX",
+    "Part #": "NF-S12B FLX",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1200 RPM",
+    "Airflow": "28.95 - 59.21 CFM",
+    "Noise Level": "6 - 18.1 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "SSO",
+    "Features": "[Highly optimised impeller with Bevelled Blade Tips, 3 speed settings for full flexibility, Smooth Commutation Drive 2]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ck2kcf/noctua-nf-s12b-flx-5921-cfm-120-mm-fan-nf-s12b-flx"
+}

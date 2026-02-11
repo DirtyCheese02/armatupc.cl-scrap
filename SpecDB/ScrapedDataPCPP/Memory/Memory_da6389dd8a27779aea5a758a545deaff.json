@@ -1,0 +1,16 @@
+{
+    "name": "Kingston 1500 4 GB (1 x 4 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Model": "1500",
+    "Part #": "KHX16S9P1/4",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Gray / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xnPfrH/kingston-memory-khx16s9p14"
+}

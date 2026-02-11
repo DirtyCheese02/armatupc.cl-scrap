@@ -1,0 +1,15 @@
+{
+    "name": "Crucial Ballistix 8 GB (2 x 4 GB) DDR4-2400 CL16 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BL2K4G24C16U4B",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8XMTwP/crucial-ballistix-8-gb-2-x-4-gb-ddr4-2400-memory-bl2k4g24c16u4b"
+}

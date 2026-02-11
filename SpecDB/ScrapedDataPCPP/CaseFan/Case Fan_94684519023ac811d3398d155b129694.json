@@ -1,0 +1,19 @@
+{
+    "name": "Corsair RS120 ARGB 72.8 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Corsair",
+    "Model": "RS120 ARGB",
+    "Part #": "CO-9050181-WW",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "420 - 2100 RPM",
+    "Airflow": "13.3 - 72.8 CFM",
+    "Noise Level": "10 - 36 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "4.15 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H2vD4D/corsair-rs120-argb-728-cfm-120-mm-fans-3-pack-co-9050181-ww"
+}

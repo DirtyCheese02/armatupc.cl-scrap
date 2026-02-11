@@ -1,0 +1,14 @@
+{
+    "name": "OCZ Z-Drive R2 P88 512 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZSSDPX-ZD2P88512G",
+    "Capacity": "512 GB",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Indilinx Barefoot 1",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pjV48d/ocz-internal-hard-drive-oczssdpxzd2p88512g"
+}

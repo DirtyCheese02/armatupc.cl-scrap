@@ -1,0 +1,15 @@
+{
+    "name": "APC BK200 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK200",
+    "Capacity (W)": "130 W",
+    "Capacity (VA)": "200 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "5.60 Minutes",
+    "Backup/Run Time (Half Load)": "17.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "2 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cPs8TW/apc-ups-bk200"
+}

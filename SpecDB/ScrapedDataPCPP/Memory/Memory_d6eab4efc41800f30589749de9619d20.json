@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-4400 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4400C17D-32GVK",
+    "Speed": "DDR4-4400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "7.727 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.5 V",
+    "Timing": "17-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PhFbt6/gskill-ripjaws-v-32-gb-2-x-16-gb-ddr4-4400-cl17-memory-f4-4400c17d-32gvk"
+}

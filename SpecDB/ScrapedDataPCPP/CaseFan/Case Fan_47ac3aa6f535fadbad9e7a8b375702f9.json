@@ -1,0 +1,19 @@
+{
+    "name": "Apevia CF8SL-BRD 17.21 CFM 80 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF8SL-BRD",
+    "Size": "80 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "17.21 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.88 mmH₂O",
+    "Features": "[Seven UV-reactive blades and black frame, Can plug into motherboard or power supply, Material: UV reactive PU plastic, Air Power: 12 VDC, Operation Voltage Range: 7 VDC ~ 13.5 VDC, Start-up Voltage: 7 VDC, Rated Voltage: 12 VDC, Rated Current: 0.17 A, Lock Rotor Current: 0.07  A, Static Air Pressure: 0.88mm-H2O, Life Expectation: 25,000 hours]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9jdqqs/apevia-case-fan-cf8slbrd"
+}

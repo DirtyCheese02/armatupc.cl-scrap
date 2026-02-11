@@ -1,0 +1,14 @@
+{
+    "name": "APC BF350-FR UPS",
+    "Manufacturer": "APC",
+    "Part #": "BF350-FR",
+    "Capacity (W)": "225 W",
+    "Capacity (VA)": "350 VA",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KLDzK8/apc-ups-bf350fr"
+}

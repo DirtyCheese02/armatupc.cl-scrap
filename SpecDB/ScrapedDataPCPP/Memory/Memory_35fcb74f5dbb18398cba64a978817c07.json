@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Vulcan 32 GB (2 x 16 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLRED432G2400HC15BDC01",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ds7CmG/team-t-force-vulcan-32gb-2-x-16gb-ddr4-2400-memory-tlred432g2400hc15bdc01"
+}

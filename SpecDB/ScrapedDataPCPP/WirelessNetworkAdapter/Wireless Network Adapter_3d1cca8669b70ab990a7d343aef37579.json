@@ -1,0 +1,11 @@
+{
+    "name": "Hawking Technology HWUG1 802.11b/g USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Hawking Technology",
+    "Part #": "HWUG1",
+    "Protocol": "Wi-Fi 3",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP Data Encryption, WPA, WPA2, AES and IEEE 802.1x",
+    "Antenna": "External Dipole Antenna",
+    "Features": "[Removable antenna with reverse SMA connector – upgradeable to a higher power antenna for a wider wireless coverage. (For the best result, pair the HWUG1 with a Hawking Hi-Gain Antenna ), Signal strength indicator shows current wireless signal reception information, Supports Turbo Mode to enhance the data transfer speed within a specific wireless network., Supports WMM (IEEE 802.11e QoS standard)- High throughput allows for the transfer of data heavy multi-media files., Automatic fallback increases data security and reliability., USB2.0 Compliant & Bus powered.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r4H323/hawking-technology-wireless-network-card-hwug1"
+}

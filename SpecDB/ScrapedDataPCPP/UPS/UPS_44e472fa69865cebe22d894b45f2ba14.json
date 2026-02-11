@@ -1,0 +1,14 @@
+{
+    "name": "APC BGE90M UPS",
+    "Manufacturer": "APC",
+    "Part #": "BGE90M",
+    "Capacity (W)": "75 W",
+    "Capacity (VA)": "125 VA",
+    "Backup/Run Time (Full Load)": "36 Minutes",
+    "Form Factor": "Tower",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 1-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rXH48d/apc-ups-bge90m"
+}

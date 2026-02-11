@@ -1,0 +1,19 @@
+{
+    "name": "Antec Prizm 3+2+C 45.03 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Antec",
+    "Model": "Prizm 3+2+C",
+    "Part #": "[Prizm 120 ARGB 3+2+C, 0-761345-77511-3]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "45.03 CFM",
+    "Noise Level": "32.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "Static Pressure": "2.56 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z47v6h/antec-prizm-120-argb-32c-4503-cfm-120-mm-fans-3-pack-prizm-120-argb-32c"
+}

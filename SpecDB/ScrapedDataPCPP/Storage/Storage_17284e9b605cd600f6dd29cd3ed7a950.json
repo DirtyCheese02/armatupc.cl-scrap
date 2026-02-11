@@ -1,0 +1,11 @@
+{
+    "name": "Intel Optane 900P 480 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPED1D480GASX",
+    "Capacity": "480 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TmfhP6/intel-optane-900p-480-gb-pci-e-solid-state-drive-ssdped1d480gasx"
+}

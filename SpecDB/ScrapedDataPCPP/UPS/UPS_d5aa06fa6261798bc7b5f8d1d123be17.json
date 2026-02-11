@@ -1,0 +1,16 @@
+{
+    "name": "CyberPower EC850LCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "EC850LCD",
+    "Capacity (W)": "510 W",
+    "Capacity (VA)": "850 VA",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kYrcCJ/cyberpower-ups-ec850lcd"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Asus AT5NM10T-I Mini ITX Atom D525 Motherboard",
+    "Manufacturer": "Asus",
+    "Part #": "AT5NM10T-I",
+    "Socket / CPU": "Integrated Atom D525",
+    "Form Factor": "Mini ITX",
+    "Chipset": "Intel NM10",
+    "Memory Max": "4 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "2",
+    "Memory Speed": "DDR3-800",
+    "Color": "Black / Blue",
+    "PCIe x4 Slots": "1",
+    "SATA 3.0 Gb/s Ports": "4",
+    "Onboard Ethernet": "1 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "1",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "No",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vyn2FT/asus-motherboard-at5nm10ti"
+}

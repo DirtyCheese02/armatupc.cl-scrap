@@ -1,0 +1,20 @@
+{
+    "name": "APC SMX2200RMHV2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMX2200RMHV2U",
+    "Capacity (W)": "1980 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "10 Minutes",
+    "Backup/Run Time (Half Load)": "25 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tYrcCJ/apc-ups-smx2200rmhv2u"
+}

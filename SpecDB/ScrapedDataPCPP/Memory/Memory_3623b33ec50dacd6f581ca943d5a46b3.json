@@ -1,0 +1,15 @@
+{
+    "name": "GOODRAM IRDM PRO 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "GOODRAM",
+    "Part #": "IRP-K3600D4V64L18/32GDC",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D8xxFT/goodram-irdm-pro-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-irp-k3600d4v64l1832gdc"
+}

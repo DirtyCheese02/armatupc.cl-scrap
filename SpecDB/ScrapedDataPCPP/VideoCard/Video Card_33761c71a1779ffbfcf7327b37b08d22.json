@@ -1,0 +1,21 @@
+{
+    "name": "Intel Limited Edition Arc A750 8 GB Video Card",
+    "Manufacturer": "Intel",
+    "Part #": "[99AM3D, 21P02J00BA]",
+    "Chipset": "Arc A750",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2050 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "250 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DMRYcf/intel-limited-edition-arc-a750-8-gb-video-card-99am3d"
+}

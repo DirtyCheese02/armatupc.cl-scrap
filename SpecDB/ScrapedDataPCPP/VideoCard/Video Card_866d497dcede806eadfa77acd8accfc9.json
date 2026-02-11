@@ -1,0 +1,21 @@
+{
+    "name": "XFX HD-677X-Z5F3 Radeon HD 6770 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-677X-Z5F3",
+    "Chipset": "Radeon HD 6770",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "223 mm",
+    "TDP": "108 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "5",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CVphP6/xfx-video-card-hd677xz5f3"
+}

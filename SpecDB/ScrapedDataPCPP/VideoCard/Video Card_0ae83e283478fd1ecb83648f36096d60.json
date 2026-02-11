@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire PULSE Radeon RX 7900 XTX 24 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11322-02-20G",
+    "Chipset": "Radeon RX 7900 XTX",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2525 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "FreeSync",
+    "Length": "313 mm",
+    "TDP": "370 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "2",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RRfnTW/sapphire-pulse-radeon-rx-7900-xtx-24-gb-video-card-11322-02-20g"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Enermax ECA3192 ATX Mid Tower Case",
+    "Manufacturer": "Enermax",
+    "Part #": "ECA3192-BS",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[310 mm, 12.205\"]",
+    "Drive Bays": "[5 x External 5.25\", 5 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm]",
+    "Dimensions": "[469 mm x 199 mm x 445 mm, 18.465\" x 7.835\" x 17.52\"]",
+    "Volume": "[41.532 L, 1.467 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BTckcf/enermax-case-eca3192bs"
+}

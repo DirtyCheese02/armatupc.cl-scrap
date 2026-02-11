@@ -1,0 +1,11 @@
+{
+    "name": "Asus PCE-N10 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Asus",
+    "Part #": "[PCE-N10, 90-IG1Q003M00-0PA0-]",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPS support",
+    "Antenna": "1 x R SMA Antenna",
+    "Features": "[Management: Software AP, WPS(Wi-Fi Protected Setup) button - Quickly set up a secure wireless connection.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9fQypg/asus-wireless-network-card-pcen10"
+}

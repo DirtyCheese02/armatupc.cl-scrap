@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master MasterFan SF120M ARGB 62 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "MasterFan SF120M ARGB",
+    "Part #": "MFZ-B2DN-20NPA-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 2000 RPM",
+    "Airflow": "35 - 62 CFM",
+    "Noise Level": "5.5 - 22 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.4 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sj4Zxr/cooler-master-masterfan-sf120m-argb-62-cfm-120-mm-fan-mfz-b2dn-20npa-r1"
+}

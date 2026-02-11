@@ -1,0 +1,21 @@
+{
+    "name": "XFX P1-850X-XXB9 850 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "XFX",
+    "Part #": "P1-850X-XXB9",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "850 W",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@25A, +12V@70A, +5V@25A, -12V@0.5A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W69KHx/xfx-p1-850x-xxb9-850-w-80-bronze-certified-semi-modular-atx-power-supply-p1-850x-xxb9"
+}

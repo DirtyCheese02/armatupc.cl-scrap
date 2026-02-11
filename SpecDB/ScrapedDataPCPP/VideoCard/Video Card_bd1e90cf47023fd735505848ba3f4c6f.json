@@ -1,0 +1,22 @@
+{
+    "name": "KFA2 (1-Click OC) GeForce RTX 5050 8 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "55NSL8MHCZBK",
+    "Chipset": "GeForce RTX 5050",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2317 MHz",
+    "Boost Clock": "2602 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "222 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "2",
+    "HDMI 2.1b Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CvsMnQ/kfa2-1-click-oc-geforce-rtx-5050-8-gb-video-card-55nsl8mhczbk"
+}

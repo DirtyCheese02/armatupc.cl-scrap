@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 64 GB (2 x 32 GB) DDR5-4800 CL40 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESG564GB4800C40DC",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h9n9TW/geil-evo-v-rgb-64-gb-2-x-32-gb-ddr5-4800-cl40-memory-gesg564gb4800c40dc"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ATI FirePro W9000 FirePro W9000 6 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro W9000",
+    "Part #": "100 - 505632",
+    "Chipset": "FirePro W9000",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "975 MHz",
+    "Effective Memory Clock": "5500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "279 mm",
+    "TDP": "274 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B6JwrH/ati-video-card-100505632"
+}

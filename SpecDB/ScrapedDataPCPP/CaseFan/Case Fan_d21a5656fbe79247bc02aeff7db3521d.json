@@ -1,0 +1,18 @@
+{
+    "name": "Montech METAL 120 PWM 69 CFM 120 mm Fan",
+    "Manufacturer": "Montech",
+    "Part #": "METAL 120 PWM",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1950 RPM",
+    "Airflow": "69 CFM",
+    "Noise Level": "26 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.82 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YVt9TW/montech-metal-120-pwm-69-cfm-120-mm-fan-metal-120-pwm"
+}

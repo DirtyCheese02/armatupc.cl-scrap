@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite SUINT3000RTXL3U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SUINT3000RTXL3U",
+    "Capacity (W)": "2400 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "[240 V AC, 230 V AC]",
+    "Receptacles": "[2 x IEC 320-C13, 8 x IEC 320-C19]",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hsJkcf/tripp-lite-ups-suint3000rtxl3u"
+}

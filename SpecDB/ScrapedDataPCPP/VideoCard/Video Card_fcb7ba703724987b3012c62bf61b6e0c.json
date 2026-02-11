@@ -1,0 +1,22 @@
+{
+    "name": "HP 20X24AT RTX A4000 16 GB Video Card",
+    "Manufacturer": "HP",
+    "Part #": "20X24AT",
+    "Chipset": "RTX A4000",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "735 MHz",
+    "Boost Clock": "1560 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "242 mm",
+    "TDP": "140 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PnBG3C/hp-20x24at-rtx-a4000-16-gb-video-card-20x24at"
+}

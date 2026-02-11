@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Silent Wings Pure 48.9 CFM 92 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL042",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1600 RPM",
+    "Airflow": "28.8 - 48.9 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.7 mmH₂O",
+    "Bearing Type": "Rifle",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vb7wrH/be-quiet-case-fan-bl042"
+}

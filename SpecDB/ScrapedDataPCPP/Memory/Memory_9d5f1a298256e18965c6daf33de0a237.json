@@ -1,0 +1,16 @@
+{
+    "name": "Crucial Pro 48 GB (2 x 24 GB) DDR5-5600 CL46 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CP2K24G56C46U5",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Price / GB": "$8.479",
+    "Color": "Black",
+    "First Word Latency": "16.429 ns",
+    "CAS Latency": "46",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z6NYcf/crucial-pro-48-gb-2-x-24-gb-ddr5-5600-cl46-memory-cp2k24g56c46u5"
+}

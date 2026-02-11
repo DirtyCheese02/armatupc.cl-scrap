@@ -1,0 +1,18 @@
+{
+    "name": "CyberPower EC750G UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "EC750G",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "1.80 Minutes",
+    "Backup/Run Time (Half Load)": "9 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rKZ2FT/cyberpower-ups-ec750g"
+}

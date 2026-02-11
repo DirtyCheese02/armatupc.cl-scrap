@@ -1,0 +1,22 @@
+{
+    "name": "APC SUA750RMI2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA750RMI2U",
+    "Capacity (W)": "480 W",
+    "Capacity (VA)": "750 VA",
+    "Rack Height": "2U",
+    "Alarm": "[Low Battery, On Battery]",
+    "Backup/Run Time (Full Load)": "5.50 Minutes",
+    "Backup/Run Time (Half Load)": "16.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[4 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PqkwrH/apc-ups-sua750rmi2u"
+}

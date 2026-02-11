@@ -1,0 +1,19 @@
+{
+    "name": "APC DLT1500RMI2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "DLT1500RMI2U",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Alarm": "[Configurable Delay, Low Battery]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Rack-mountable",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "[220 V AC, 230 V AC, 240 V AC]",
+    "Protection Type": "Surge",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7FdFf7/apc-ups-dlt1500rmi2u"
+}

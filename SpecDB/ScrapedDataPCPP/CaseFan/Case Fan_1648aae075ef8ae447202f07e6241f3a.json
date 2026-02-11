@@ -1,0 +1,17 @@
+{
+    "name": "MSI MEG SILENT GALE P12 56.2 CFM 120 mm Fan",
+    "Manufacturer": "MSI",
+    "Part #": "[MEG SILENT GALE P12, OE3-7G17F01-809]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 56.2 CFM",
+    "Noise Level": "0 - 22.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.21 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XJRnTW/msi-meg-silent-gale-p12-562-cfm-120-mm-fan-meg-silent-gale-p12"
+}

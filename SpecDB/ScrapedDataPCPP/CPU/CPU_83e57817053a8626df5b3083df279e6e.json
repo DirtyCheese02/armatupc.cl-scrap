@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E5-2603 V3 1.6 GHz 6-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80644E52603V3",
+    "Series": "Intel Xeon E5",
+    "Microarchitecture": "Haswell",
+    "Core Family": "Haswell-EP",
+    "Socket": "LGA2011-3",
+    "Core Count": "6",
+    "Thread Count": "6",
+    "Performance Core Clock": "1.6 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "15 MB",
+    "TDP": "85 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "Boxed",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YdnG3C/intel-cpu-bx80644e52603v3"
+}

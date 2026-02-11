@@ -1,0 +1,22 @@
+{
+    "name": "KFA2 HOF Gaming GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "58NZN6MDDPFG",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2775 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "341 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gyrp99/kfa2-hof-gaming-geforce-rtx-5080-16-gb-video-card-58nzn6mddpfg"
+}

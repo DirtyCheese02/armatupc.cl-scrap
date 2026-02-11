@@ -1,0 +1,11 @@
+{
+    "name": "Edimax EW-7811Un 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Edimax",
+    "Part #": "EW-7811Un",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "WEP 64/128, WPA, WPA2, IEEE802.1x, WPS",
+    "Antenna": "Internal Antenna",
+    "Features": "[Green Power Saving: supports smart transmit power control and auto-idle state adjustment, Supports WPS (Wi-Fi Protected Setup), Increases wireless coverage 3 times further, Supports QoS-WMM, WMM-Power Save mode, Portable and compact design]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hHdqqs/edimax-wireless-network-card-ew7811un"
+}

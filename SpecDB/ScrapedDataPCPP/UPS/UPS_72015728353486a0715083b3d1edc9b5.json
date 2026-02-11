@@ -1,0 +1,20 @@
+{
+    "name": "APC BE650G1-LM UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE650G1-LM",
+    "Capacity (W)": "390 W",
+    "Capacity (VA)": "650 VA",
+    "Alarm": "[Low Battery, On Battery]",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "110 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/39Wrxr/apc-ups-be650g1lm"
+}

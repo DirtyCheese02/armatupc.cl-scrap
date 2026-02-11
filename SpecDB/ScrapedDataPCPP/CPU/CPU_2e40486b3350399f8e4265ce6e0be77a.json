@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-2600 3.4 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80623I72600",
+    "Series": "Intel Core i7",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "3.4 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "Intel HD Graphics 2000",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nvyFf7/intel-cpu-bx80623i72600"
+}

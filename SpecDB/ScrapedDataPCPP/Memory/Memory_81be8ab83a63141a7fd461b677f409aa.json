@@ -1,0 +1,15 @@
+{
+    "name": "Crucial CT12864AC800 1 GB (1 x 1 GB) DDR2-800 SODIMM CL6 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CT12864AC800",
+    "Speed": "DDR2-800",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 1GB",
+    "Color": "Green",
+    "First Word Latency": "15 ns",
+    "CAS Latency": "6",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C2DwrH/crucial-memory-ct12864ac800"
+}

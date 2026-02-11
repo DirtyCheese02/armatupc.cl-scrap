@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power XPOWER Turbine 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SP016GXLZU266BDA, FBA-SP016GXLZU266BDA]",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Blue",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B8jNnQ/silicon-power-xpower-turbine-16-gb-2-x-8-gb-ddr4-2666-memory-sp016gxlzu266bda"
+}

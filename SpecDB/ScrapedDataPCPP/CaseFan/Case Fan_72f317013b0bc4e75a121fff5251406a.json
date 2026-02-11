@@ -1,0 +1,20 @@
+{
+    "name": "Thermaltake Riing 40.6 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F038-PL12GR-A",
+    "Size": "120 mm",
+    "Color": "Black / Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 1500 RPM",
+    "Airflow": "40.6 CFM",
+    "Noise Level": "18.7 - 24.6 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2.01 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "Features": "[Patented Circular White LED Ring, High Static Pressure for Case/Radiator Applications, Concentrated Compression Blade Design, Hydraulic Bearing for Low noise/Longer Lifespan, LNC (Low Noise Cable) Included to Reduced Noise, Anti-vibration Mounting System]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gdCrxr/thermaltake-case-fan-clf038pl12gra"
+}

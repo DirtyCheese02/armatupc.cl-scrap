@@ -1,0 +1,18 @@
+{
+    "name": "Zalman F3 120 mm Fan",
+    "Manufacturer": "Zalman",
+    "Part #": "F3 FDB (SF)",
+    "Size": "120 mm",
+    "Color": "Black / Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Noise Level": "20 - 23 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Fluid dynamic bearing (FDB), FDB (Fluid Dynamic Bearing) structure generates high pressure oil layer on micro channel's intersecting point,, which prevents friction between the fan's shaft and bearing,, thus resulting in maximum fan lifespan (150,000hrs) with minimum noise., Shark fin blade design, Optimized for maximum airflow, Shark`s Fin blade greatly reduces the turbulence caused by fan rotation,, thus decreasing the noise and vibration while increasing the airflow., Minimized noise and vibration, Minimized noise and vibration through lowest rpm., Silicone pin provided, Silicone pin absorbs the vibration between the fan and the case allowing a quiet work environment.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P8h9TW/zalman-case-fan-f3fdbsf"
+}

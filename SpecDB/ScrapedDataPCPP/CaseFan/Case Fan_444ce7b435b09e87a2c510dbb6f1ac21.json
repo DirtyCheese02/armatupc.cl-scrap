@@ -1,0 +1,19 @@
+{
+    "name": "Vantec Tornado 119 CFM 92 mm Fan",
+    "Manufacturer": "Vantec",
+    "Part #": "TD9238H",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "4800 RPM",
+    "Airflow": "119 CFM",
+    "Noise Level": "56.4 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "Custom Made Cable For Fan R.P.M Detection",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DpCwrH/vantec-td9238h-119-cfm-92-mm-fan-td9238h"
+}

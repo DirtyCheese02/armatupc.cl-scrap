@@ -1,0 +1,12 @@
+{
+    "name": "Creative Labs SB X-Fi Xtreme Audio 24-bit 96 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "SB X-Fi Xtreme Audio",
+    "Part #": "70SB104000000",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "100 dB",
+    "Sample Rate": "96 kHz",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Kb3RsY/creative-labs-sound-card-70sb104000000"
+}

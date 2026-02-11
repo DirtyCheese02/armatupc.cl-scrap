@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Challenger D OC Radeon RX 6650 XT 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX6650XT CLD 8GO, 90-GA3RZZ-00UANF]",
+    "Chipset": "Radeon RX 6650 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2055 MHz",
+    "Boost Clock": "2669 MHz",
+    "Effective Memory Clock": "17500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "269 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NjM48d/asrock-radeon-rx-6650-xt-8-gb-challenger-d-oc-video-card-rx6650xt-cld-8go"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper Venom 16 GB (2 x 8 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVV516G640C32GK",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ycBFf7/patriot-viper-venom-16-gb-2-x-8-gb-ddr5-6400-cl32-memory-pvv516g640c32gk"
+}

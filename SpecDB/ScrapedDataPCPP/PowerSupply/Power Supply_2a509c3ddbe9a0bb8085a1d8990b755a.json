@@ -1,0 +1,20 @@
+{
+    "name": "XFX TS 550 W 80+ Gold Certified ATX Power Supply",
+    "Manufacturer": "XFX",
+    "Part #": "P1-550G-TS3X",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "550 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3pqdnQ/xfx-ts-550-w-80-gold-certified-atx-power-supply-p1-550g-ts3x"
+}

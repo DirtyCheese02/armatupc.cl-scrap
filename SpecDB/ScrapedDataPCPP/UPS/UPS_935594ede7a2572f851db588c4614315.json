@@ -1,0 +1,16 @@
+{
+    "name": "APC SURTD3000RMXLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTD3000RMXLI",
+    "Capacity (W)": "2100 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "3U",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Receptacles": "[2 x IEC 320-C19, 3 x IEC 320-C13, 8]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MtJkcf/apc-ups-surtd3000rmxli"
+}

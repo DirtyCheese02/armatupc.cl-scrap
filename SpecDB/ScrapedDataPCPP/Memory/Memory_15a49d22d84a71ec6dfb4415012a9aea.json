@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HX426C13PB2K4/16 16 GB (4 x 4 GB) DDR4-2666 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX426C13PB2K4/16",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "9.752 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xj4NnQ/kingston-memory-hx426c13pb2k416"
+}

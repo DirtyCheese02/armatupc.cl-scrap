@@ -1,0 +1,16 @@
+{
+    "name": "OLOy Blade RGB 64 GB (2 x 32 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "ND4U3236181BRPDE",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZFhFf7/oloy-blade-rgb-64-gb-2-x-32-gb-ddr4-3600-cl18-memory-nd4u3236181brpde"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "PNY Anarchy 8 GB (2 x 4 GB) DDR3-2933 CL12 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MD8GK2D3293312AXR-Z",
+    "Speed": "DDR3-2933",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8.183 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B4nG3C/pny-memory-md8gk2d3293312axrz"
+}

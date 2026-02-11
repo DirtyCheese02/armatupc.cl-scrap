@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A4x20 PWM 5.53 CFM 40 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A4x20 PWM",
+    "Part #": "NF-A4x20 PWM",
+    "Size": "40 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 5000 RPM",
+    "Airflow": "4.89 - 5.53 CFM",
+    "Noise Level": "12.2 - 14.9 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.26 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t9s8TW/noctua-nf-a4x20-pwm-55-cfm-40mm-fan-nf-a4x20-pwm"
+}

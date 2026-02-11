@@ -1,0 +1,15 @@
+{
+    "name": "Apacer AU 8 GB (1 x 8 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Apacer",
+    "Part #": "AU08GGB13CDTBGH",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bGGbt6/apacer-au-8-gb-1-x-8-gb-ddr4-2133-cl15-memory-au08ggb13cdtbgh"
+}

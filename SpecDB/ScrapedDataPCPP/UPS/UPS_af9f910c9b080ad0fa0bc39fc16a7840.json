@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite OMNI700LCD UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNI700LCD",
+    "Capacity (W)": "420 W",
+    "Capacity (VA)": "700 VA",
+    "Rack Height": "2U",
+    "Alarm": "[Power Failure, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "3.70 Minutes",
+    "Backup/Run Time (Half Load)": "11.40 Minutes",
+    "Form Factor": "[Tower, Desktop, Rack-mountable]",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "[115 V AC, 120 V AC]",
+    "Protection Type": "[Surge, Under Voltage, Over Voltage, EMI / RFI]",
+    "Receptacles": "8 x NEMA 5-15R",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RQVBD3/tripp-lite-ups-omni700lcd"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite OMNIX1500XLTAA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNIX1500XLTAA",
+    "Capacity (W)": "940 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "8",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nf8H99/tripp-lite-ups-omnix1500xltaa"
+}

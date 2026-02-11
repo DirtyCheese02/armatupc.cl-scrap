@@ -1,0 +1,17 @@
+{
+    "name": "Patriot Viper Steel RGB 64 GB (2 x 32 GB) DDR4-3200 CL18 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVSR464G320C8K",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$8.672",
+    "Color": "Black",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YP2bt6/patriot-viper-steel-rgb-64-gb-2-x-32-gb-ddr4-3200-cl18-memory-pvsr464g320c8k"
+}

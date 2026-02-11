@@ -1,0 +1,22 @@
+{
+    "name": "PNY RTX A-Series RTX A2000 12GB 12 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTXA200012GBPB",
+    "Chipset": "RTX A2000 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "562 MHz",
+    "Boost Clock": "1200 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "167 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dVpzK8/pny-rtx-a2000-12gb-12-gb-rtx-a-series-video-card-vcnrtxa200012gbpb"
+}

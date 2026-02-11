@@ -1,0 +1,22 @@
+{
+    "name": "MSI SUPRIM X GeForce RTX 4080 SUPER 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4080 SUPER 16G SUPRIM X, GeForce RTX 4080 SUPER 16G SUPRIM X, G4080S16SX, V511-248R, 912-V511-249]",
+    "Chipset": "GeForce RTX 4080 SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2210 MHz",
+    "Boost Clock": "2655 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "336 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/89LdnQ/msi-suprim-x-geforce-rtx-4080-super-16-gb-video-card-rtx-4080-super-16g-suprim-x"
+}

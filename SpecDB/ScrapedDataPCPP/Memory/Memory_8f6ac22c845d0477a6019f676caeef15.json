@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper Venom RGB 32 GB (2 x 16 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVR432G300C6K",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dHfFf7/patriot-viper-rgb-32-gb-2-x-16-gb-ddr4-3000-cl16-memory-pvr432g300c6k"
+}

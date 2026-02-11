@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master MasterFan MF Prismatic 55 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Cooler Master",
+    "Part #": "MFY-B2DN-203PA-R1",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 2000 RPM",
+    "Airflow": "55 CFM",
+    "Noise Level": "8 - 27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "2.91 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YX2WGX/cooler-master-masterfan-mf-prismatic-55-cfm-120-mm-fans-3-pack-mfy-b2dn-203pa-r1"
+}

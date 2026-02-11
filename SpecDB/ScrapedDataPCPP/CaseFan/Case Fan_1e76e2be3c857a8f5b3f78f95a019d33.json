@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FN 100 CFM 180 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FN181-BL",
+    "Size": "180 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 RPM",
+    "Airflow": "100 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[High performance for positive pressure solution, High air pressure and less noise with giant-bladed design, Four blue LEDs on fan frame for extra brilliance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cQrG3C/silverstone-case-fan-fn181bl"
+}

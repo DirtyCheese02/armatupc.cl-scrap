@@ -1,0 +1,20 @@
+{
+    "name": "Lian Li PC-Q08 Mini ITX Tower Case",
+    "Manufacturer": "Lian Li",
+    "Part #": "PC-Q08R",
+    "Type": "Mini ITX Tower",
+    "Color": "Red",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[Mini ITX, Thin Mini ITX]",
+    "Maximum Video Card Length": "[300 mm, 11.811\"]",
+    "Drive Bays": "[1 x External 5.25\", 6 x Internal 3.5\"]",
+    "Expansion Slots": "2 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm]",
+    "Dimensions": "[344 mm x 227 mm x 272 mm, 13.543\" x 8.937\" x 10.709\"]",
+    "Volume": "[21.24 L, 0.75 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/973RsY/lian-li-case-pcq08r"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Lamptron FC-CM615-BK Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Part #": "FC-CM615-BK",
+    "Channels": "6",
+    "Channel Wattage": "15 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "5.25\"",
+    "Features": "[Power Input : +12VDC (via standard 4-pin Molex), Power Output : Up to 15W per channel x 6 channels, Control Range : 0 - 12VDC, Fan Header : Molex Standard 3-pin x 6, Front Panel Color : Black, Power Supply : 500W or higher, Remote connectivity with network and internet access via software compatible to Windows XP/7/8, Auto Fan Temperature Curve & full system status monitoring, Start Boost, 15W x 6 channels, LCD touch based control, This extra premium, touch based fan controller brings remote connectivity to your cooling needs with network and internet access to your new controller via software compatible with Windows XP, 7 and 8. When you are in front of your system, the CM615 features a wide touch screen for full control at your fingertips! The CM615 comes with 6 x 15W channels, and the unique Start-boost technology makes sure all your fans will start up properly when your PC does, along with Automatic Fan Temperature Curve and Full System Status Monitoring.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WLW9TW/lamptron-fan-controller-fccm615bk"
+}

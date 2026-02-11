@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master MOBIUS 120 63.1 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "MOBIUS 120",
+    "Part #": "MFZ-M2NN-21NPK-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "63.1 CFM",
+    "Noise Level": "22.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.69 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pzt9TW/cooler-master-mobius-120-631-cfm-120-mm-fan-mfz-m2nn-21npk-r1"
+}

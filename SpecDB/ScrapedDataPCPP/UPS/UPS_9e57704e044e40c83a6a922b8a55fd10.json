@@ -1,0 +1,15 @@
+{
+    "name": "APC BE700-UK UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE700-UK",
+    "Capacity (W)": "405 W",
+    "Capacity (VA)": "700 VA",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Receptacles": "4 x BS 1363",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6FdFf7/apc-ups-be700uk"
+}

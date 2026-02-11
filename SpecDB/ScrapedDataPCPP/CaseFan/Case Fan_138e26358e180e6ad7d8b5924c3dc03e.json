@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker BlackSilentPro P-P 31.78 CFM 80 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "NB-BlackSilentPro P-P",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "31.78 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JVxfrH/noiseblocker-nb-blacksilentpro-p-p-3178-cfm-80-mm-fan-nb-blacksilentpro-p-p"
+}

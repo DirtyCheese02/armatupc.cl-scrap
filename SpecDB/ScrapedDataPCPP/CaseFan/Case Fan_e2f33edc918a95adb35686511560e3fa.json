@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks F140SP 82.1 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F140SP",
+    "Part #": "PH-F140SP_BBK",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "82.1 CFM",
+    "Noise Level": "19 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DnL7YJ/phanteks-case-fan-phf140spbbk"
+}

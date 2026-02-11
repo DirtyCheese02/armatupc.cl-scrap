@@ -1,0 +1,15 @@
+{
+    "name": "Avexir Blitz 8 GB (2 x 4 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD3U24001004G-2BZ1S",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / White",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/98KhP6/avexir-memory-avd3u24001004g2bz1s"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sparkle ROC Luna OC Arc A770 16 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "[SA770RW-16GOC, 1A1-S00413400G]",
+    "Chipset": "Arc A770",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2100 MHz",
+    "Boost Clock": "2300 MHz",
+    "Effective Memory Clock": "17500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "None",
+    "Length": "281 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tWQKHx/sparkle-roc-luna-oc-arc-a770-16-gb-video-card-sa770rw-16goc"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N740D5OC-2GI REV2 GeForce GT 740 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N740D5OC-2GI REV2",
+    "Chipset": "GeForce GT 740",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1072 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "186 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "2",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w6X2FT/gigabyte-video-card-gvn740d5oc2girev2"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Zotac ZT-40708-10L GeForce GT 440 1 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-40708-10L",
+    "Chipset": "GeForce GT 440",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1333 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "Frame Sync": "None",
+    "Length": "144 mm",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T47wrH/zotac-video-card-zt4070810l"
+}

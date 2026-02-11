@@ -1,0 +1,13 @@
+{
+    "name": "APC BE670M1 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE670M1",
+    "Capacity (W)": "360 W",
+    "Capacity (VA)": "675 VA",
+    "Battery Type": "Lead-acid battery",
+    "Topology": "Standby",
+    "Transfer Time": "6 ms typical : 10 ms maximum",
+    "Typical recharge time": "10 hours",
+    "Waveform type": "Stepped approximation to a sinewave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yh3gXL/apc-be670m1-ups-be670m1"
+}

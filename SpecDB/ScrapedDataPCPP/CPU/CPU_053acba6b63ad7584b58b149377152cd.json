@@ -1,0 +1,23 @@
+{
+    "name": "AMD A10-6700 3.7 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD6700OKHLBOX",
+    "Series": "AMD A10",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Richland",
+    "Socket": "FM2",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.7 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 8670D",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4b7wrH/amd-cpu-ad6700okhlbox"
+}

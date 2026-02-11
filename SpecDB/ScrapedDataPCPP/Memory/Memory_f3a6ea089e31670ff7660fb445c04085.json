@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Ripjaws M5 RGB 64 GB (2 x 32 GB) DDR5-5200 CL40 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5200J4040A32GX2-RM5RW",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$11.406",
+    "Color": "White",
+    "First Word Latency": "15.385 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "Timing": "40-40-40-83",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yKvD4D/gskill-ripjaws-m5-rgb-64-gb-2-x-32-gb-ddr5-5200-cl40-memory-f5-5200j4040a32gx2-rm5rw"
+}

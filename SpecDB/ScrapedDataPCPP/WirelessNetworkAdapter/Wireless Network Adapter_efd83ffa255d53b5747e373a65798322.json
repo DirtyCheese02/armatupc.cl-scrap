@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN8200ND 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN8200ND",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "Support 64/128 bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK",
+    "Antenna": "2 x 5dBi Detachable Omni Directional (RP-SMA)",
+    "Features": "[Wireless Modes: Ad-Hoc / Infrastructure mode, Button: WPS, 300Mbps wireless data rates ideal for interruption sensitive applications like HD video streaming as well as day-to-day tasks like sending emails., High power and high receive sensitivity deliver performance enhancement compared with normal power, Strong penetrability insures sustainable and reliable signal even across multiple walls or floors, Easily setup a highly secured wireless connection at a push of WPS button, WPA-PSK/WPA2-PSK encryptions effectively protect your network from outside intrusions, Supports soft AP mode for Windows XP/Vista/7, easily making the local network sharing, Supports Sony PSP X-link for online gaming for Windows XP, Bundled CD provides easy and hassle-free installation and configuration, Backward compatible with all IEEE 802.11b/g products, Desktop design guarantees the stable signal and prettifies your home network, Two external detachable antennas allow for better alignment and stronger antenna upgrades.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MN8Zxr/tp-link-wireless-network-card-tlwn8200nd"
+}

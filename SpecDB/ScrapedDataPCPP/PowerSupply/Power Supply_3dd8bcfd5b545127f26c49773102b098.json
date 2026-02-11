@@ -1,0 +1,22 @@
+{
+    "name": "Corsair RM650e (2025) 650 W Fully Modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "RM650e (2025)",
+    "Part #": "[CP-9020302-NA, CP-9020302-AU, CP-9020302-EU, CP-9020302-UK]",
+    "Type": "ATX",
+    "Wattage": "650 W",
+    "Length": "140 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "1",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "3",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6TBFf7/corsair-rm650e-2025-650-w-fully-modular-atx-power-supply-cp-9020302-na"
+}

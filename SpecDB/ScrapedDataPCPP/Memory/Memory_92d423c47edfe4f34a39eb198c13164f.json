@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB (For AMD) 128 GB (8 x 16 GB) DDR4-2933 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2933C16Q2-128GTZRX",
+    "Speed": "DDR4-2933",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10.91 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9MzhP6/gskill-trident-z-rgb-for-amd-128-gb-8-x-16-gb-ddr4-2933-cl16-memory-f4-2933c16q2-128gtzrx"
+}

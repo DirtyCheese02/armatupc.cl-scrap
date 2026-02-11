@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone FW 60.54 CFM 140 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-FW142-RGB",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "18.77 - 60.54 CFM",
+    "Noise Level": "18.48 - 23.33 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nssmP6/silverstone-sst-fw142-rgb-6054-cfm-140-mm-fan-sst-fw142-rgb"
+}

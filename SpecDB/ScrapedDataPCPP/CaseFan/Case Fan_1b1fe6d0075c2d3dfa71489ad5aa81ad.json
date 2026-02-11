@@ -1,0 +1,18 @@
+{
+    "name": "LC-Power LC-CF-120-PRO 68.4 CFM 120 mm Fan",
+    "Manufacturer": "LC-Power",
+    "Part #": "LC-CF-120-PRO",
+    "Size": "120 mm",
+    "Color": "Translucent Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1200 RPM",
+    "Airflow": "27.6 - 68.4 CFM",
+    "Noise Level": "14.6 - 60.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.88 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hCYWGX/lc-power-lc-cf-120-pro-684-cfm-120-mm-fan-lc-cf-120-pro"
+}

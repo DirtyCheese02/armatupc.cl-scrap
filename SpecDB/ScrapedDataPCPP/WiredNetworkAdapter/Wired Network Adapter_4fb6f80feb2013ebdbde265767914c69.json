@@ -1,0 +1,8 @@
+{
+    "name": "StarTech ST1000SPEX2L Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "ST1000SPEX2L",
+    "Interface": "PCIe x1",
+    "Features": "[Chipset ID: Realtek RTL8111E, Card Type: Low Profile (SP bracket incl.), Auto MDIX: Yes, Full Duplex Support: Yes, Supported Protocols: CSMA/CD, OS Compatibility: Windows 8 (32/64bit), 7 (32/64), Vista(32/64), XP(32/64), 2000, Windows Server 2008 R2, 2003(32/64), Mac OS X (Intel based, tested up to 10.8), Linux, A single 10/100/1000Mbps compatible RJ45 Ethernet port, Gigabit detection and Link/Activity LED indicators, Fully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3x and IEEE 802.3ab standards, Supports IEEE 802.1Q VLAN tagging, IEEE 802.1P Layer 2 Priority Encoding and IEEE 802.3x Full Duplex Flow Control, Jumbo frame support, Full and half duplex support, Supports Wake-on-LAN function, Crossover Detection & Auto-Correction (Auto MDI/MDI-X)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kFQypg/startech-wired-network-card-st1000spex2l"
+}

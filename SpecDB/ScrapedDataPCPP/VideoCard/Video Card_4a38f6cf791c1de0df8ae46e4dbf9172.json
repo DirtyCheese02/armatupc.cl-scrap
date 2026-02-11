@@ -1,0 +1,22 @@
+{
+    "name": "Palit JetStream OC GeForce RTX 4070 Ti SUPER 16 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NED47TSS19T2-1043J",
+    "Chipset": "GeForce RTX 4070 Ti SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2340 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "329 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x7Hqqs/palit-jetstream-oc-geforce-rtx-4070-ti-super-16-gb-video-card-ned47tss19t2-1043j"
+}

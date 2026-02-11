@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FW 32.6 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FW121",
+    "Size": "120 mm",
+    "Color": "Blue / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2000 RPM",
+    "Airflow": "13.1 - 32.6 CFM",
+    "Noise Level": "14.7 - 24.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Slim 15mm thick design for superb compatibility with smaller case designs, Optimized fan blades for balanced air pressure and airflow, PWM enabled for silent or high performance applications]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4QzZxr/silverstone-case-fan-fw121"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Strata 30 GB mSATA Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "STR-MSATA-30G",
+    "Capacity": "30 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Indilinx Barefoot Eco",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bwBv6h/ocz-internal-hard-drive-strmsata30g"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron 430 1.8 GHz Single-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "HH80557RG033512",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Core",
+    "Core Family": "Conroe",
+    "Socket": "LGA775",
+    "Core Count": "1",
+    "Thread Count": "1",
+    "Performance Core Clock": "1.8 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gMH323/intel-cpu-hh80557rg033512"
+}

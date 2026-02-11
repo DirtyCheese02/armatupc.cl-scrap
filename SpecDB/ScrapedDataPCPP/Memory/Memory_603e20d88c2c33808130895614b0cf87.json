@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 48 GB (2 x 24 GB) DDR5-8400 CL40 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-8400J4052G24GX2-TZ5K",
+    "Speed": "DDR5-8400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Price / GB": "$20.248",
+    "Color": "Black",
+    "First Word Latency": "9.524 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.4 V",
+    "Timing": "40-52-52-134",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bzRnTW/gskill-trident-z5-48-gb-2-x-24-gb-ddr5-8400-cl40-memory-f5-8400j4052g24gx2-tz5k"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS XS OC GeForce GTX 1660 Ti 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GTX 1660 Ti VENTUS XS 6G OC, GEFORCE GTX 1660 Ti VENTUS XS 6G OC, G1660TVXS6C, V375-032R]",
+    "Chipset": "GeForce GTX 1660 Ti",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1830 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "G-Sync",
+    "Length": "204 mm",
+    "TDP": "120 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RGyV3C/msi-geforce-gtx-1660-ti-6-gb-ventus-xs-video-card-gtx-1660-ti-ventus-xs-6g-oc"
+}

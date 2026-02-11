@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper Steel RGB 16 GB (1 x 16 GB) DDR4-3600 CL20 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVSR416G360C0",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "11.111 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.35 V",
+    "Timing": "20-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6nWBD3/patriot-viper-steel-rgb-16-gb-1-x-16-gb-ddr4-3600-cl20-memory-pvsr416g360c0"
+}

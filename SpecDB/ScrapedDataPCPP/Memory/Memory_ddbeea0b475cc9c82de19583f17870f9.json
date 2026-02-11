@@ -1,0 +1,14 @@
+{
+    "name": "Mushkin Redline 16 GB (4 x 4 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "994084",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c9g323/mushkin-memory-994084"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Silverstone Strider 600 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Part #": "[ST60F-P, SST-ST60F-P]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "600 W",
+    "Length": "160 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "3",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@24A, +5V@24A, +12V1@42A, -12V@0.3A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6ZyFf7/silverstone-power-supply-st60fp"
+}

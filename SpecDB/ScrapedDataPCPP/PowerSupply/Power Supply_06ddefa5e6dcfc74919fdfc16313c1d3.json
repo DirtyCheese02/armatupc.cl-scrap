@@ -1,0 +1,19 @@
+{
+    "name": "Logisys PS480X2 480 W ATX Power Supply",
+    "Manufacturer": "Logisys",
+    "Part #": "PS480X2",
+    "Type": "ATX",
+    "Wattage": "480 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9mMFf7/logisys-power-supply-ps480x2"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "HP AF467A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF467A",
+    "Capacity (W)": "3000 W",
+    "Capacity (VA)": "3300 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "48 Hour",
+    "Receptacles": "[1 x IEC 60320 C13, 6 x IEC 60320 C19, 2 x NEMA L6-20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HPs8TW/hp-ups-af467a"
+}

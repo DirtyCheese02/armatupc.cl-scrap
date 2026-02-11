@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance 64 GB (2 x 32 GB) DDR5-6000 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK64GX5M2B6000Z40",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$13.265",
+    "Color": "Gray",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.35 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LWVmP6/corsair-vengeance-64-gb-2-x-32-gb-ddr5-6000-cl40-memory-cmk64gx5m2b6000z40"
+}

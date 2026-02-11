@@ -1,0 +1,20 @@
+{
+    "name": "Noctua B9 redux-1600 PWM 37.85 CFM 92 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "B9 redux-1600 PWM",
+    "Part #": "NF-B9 redux-1600 PWM",
+    "Size": "92 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 1600 RPM",
+    "Airflow": "37.85 CFM",
+    "Noise Level": "17.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.61 mmH₂O",
+    "Bearing Type": "SSO",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jZn2FT/noctua-case-fan-nfb9redux1600pwm"
+}

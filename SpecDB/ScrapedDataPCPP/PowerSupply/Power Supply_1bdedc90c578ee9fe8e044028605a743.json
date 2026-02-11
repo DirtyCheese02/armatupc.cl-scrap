@@ -1,0 +1,20 @@
+{
+    "name": "Kingwin MK 850 W ATX Power Supply",
+    "Manufacturer": "Kingwin",
+    "Part #": "MK-850W",
+    "Type": "ATX",
+    "Wattage": "850 W",
+    "Length": "163 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "5",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t6DzK8/kingwin-mk-850w-atx-power-supply-mk-850w"
+}

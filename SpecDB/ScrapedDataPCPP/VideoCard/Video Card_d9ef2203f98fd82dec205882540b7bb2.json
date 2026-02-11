@@ -1,0 +1,22 @@
+{
+    "name": "PNY ARGB EPIC-X RGB OC GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG508016TFXXPB1-O",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2780 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "329 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mYgZxr/pny-argb-epic-x-rgb-oc-geforce-rtx-5080-16-gb-video-card-vcg508016tfxxpb1-o"
+}

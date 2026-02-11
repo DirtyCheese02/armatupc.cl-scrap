@@ -1,0 +1,22 @@
+{
+    "name": "MSI MECH 2X OC Radeon RX 6500 XT 4 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[Radeon RX 6500 XT MECH 2X 4G OC, RX 6500 XT MECH 2X 4G OC]",
+    "Chipset": "Radeon RX 6500 XT",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2825 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "172 mm",
+    "TDP": "107 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xh8bt6/msi-radeon-rx-6500-xt-4-gb-mech-2x-oc-video-card-radeon-rx-6500-xt-mech-2x-4g-oc"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SMART1500RMXL2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART1500RMXL2U",
+    "Capacity (W)": "940 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "12 Minutes",
+    "Backup/Run Time (Half Load)": "30 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QFdFf7/tripp-lite-ups-smart1500rmxl2u"
+}

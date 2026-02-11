@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TTCED432G3600HC18JDC01",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Gray",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GkJgXL/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-ttced432g3600hc18jdc01"
+}

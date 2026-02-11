@@ -1,0 +1,13 @@
+{
+    "name": "Intel 310 80 GB mSATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDMAEMC080G2C1",
+    "Capacity": "80 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21BA0",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rNh9TW/intel-internal-hard-drive-ssdmaemc080g2c1"
+}

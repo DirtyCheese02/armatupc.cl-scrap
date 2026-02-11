@@ -1,0 +1,17 @@
+{
+    "name": "Crucial Pro 64 GB (2 x 32 GB) DDR5-6000 CL40 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CP2K32G60C40U5B",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$8.328",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.35 V",
+    "Timing": "40-40-40-80",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KP8Pxr/crucial-pro-64-gb-2-x-32-gb-ddr5-6000-cl40-memory-cp2k32g60c40u5b"
+}

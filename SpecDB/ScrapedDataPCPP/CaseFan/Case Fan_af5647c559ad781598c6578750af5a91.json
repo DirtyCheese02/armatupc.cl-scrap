@@ -1,0 +1,20 @@
+{
+    "name": "Masscool FD12025B1H3/4 81.02 CFM 120 mm Fan",
+    "Manufacturer": "Masscool",
+    "Part #": "FD12025B1H3/4",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "81.02 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "3.86 mmH₂O",
+    "Bearing Type": "Ball",
+    "Features": "[Max. Fan Air Pressure: 3.86 mmH2O, Rated Voltage: 12 V, Rated Current: 0.30 A, Rated Power: 3.6 W, Power Connector: 3-pin motherboard; 4-pin power supply]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mrdqqs/masscool-case-fan-fd12025b1h34"
+}

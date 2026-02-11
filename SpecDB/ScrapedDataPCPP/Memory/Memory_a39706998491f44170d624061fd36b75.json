@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 64 GB (4 x 16 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX426C16FB4K4/64",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YLMTwP/kingston-hyperx-fury-64-gb-4-x-16-gb-ddr4-2666-cl16-memory-hx426c16fb4k464"
+}

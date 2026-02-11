@@ -1,0 +1,21 @@
+{
+    "name": "Kingwin ABT-750MM 750 W ATX Power Supply",
+    "Manufacturer": "Kingwin",
+    "Part #": "ABT-750MM",
+    "Type": "ATX",
+    "Wattage": "750 W",
+    "Length": "146 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@24A, +5V@32A, +12V@55A, -12V@0.5A, +5VSB@2.2A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YXckcf/kingwin-power-supply-abt750mm"
+}

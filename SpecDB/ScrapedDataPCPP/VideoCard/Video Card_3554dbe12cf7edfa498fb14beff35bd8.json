@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D X3 GeForce RTX 4070 Ti SUPER 16 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N407TS2-166XX-186158N",
+    "Chipset": "GeForce RTX 4070 Ti SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2340 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "297 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TGDQzy/inno3d-x3-geforce-rtx-4070-ti-super-16-gb-video-card-n407ts2-166xx-186158n"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X II AMD 8 GB (1 x 8 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAEXSW48GB3200C16ASC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TjQKHx/geil-evo-x-ii-amd-8-gb-1-x-8-gb-ddr4-3200-cl16-memory-gaexsw48gb3200c16asc"
+}

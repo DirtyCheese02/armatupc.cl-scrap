@@ -1,0 +1,21 @@
+{
+    "name": "PC Power & Cooling S61EPS-B 610 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "PC Power & Cooling",
+    "Part #": "S61EPS-B",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "610 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3@24A,+5V@30A,+12V@49A (Large Single Rail),-12V@0.8A,+5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qvyFf7/pc-power-cooling-610-w-80-certified-atx-power-supply-s61eps-b"
+}

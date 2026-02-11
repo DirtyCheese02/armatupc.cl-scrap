@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG V1.0 4 GB (1 x 4 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX3U1600W4G11-RD",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/87mLrH/a-data-memory-ax3u1600w4g11rd"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle TITAN Luna OC Arc B580 12 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "[SB580TW-12GOC, 1A1-S00428700G]",
+    "Chipset": "Arc B580",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2670 MHz",
+    "Boost Clock": "2740 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "None",
+    "Length": "315 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kgLp99/sparkle-titan-luna-oc-arc-b580-12-gb-video-card-sb580tw-12goc"
+}

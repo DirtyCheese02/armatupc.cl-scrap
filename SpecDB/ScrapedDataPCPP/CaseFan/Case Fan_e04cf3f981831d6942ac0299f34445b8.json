@@ -1,0 +1,19 @@
+{
+    "name": "Logisys CF120DCA 57.91 CFM 120 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "CF120DCA",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "57.91 CFM",
+    "Noise Level": "26.6 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydro Bearing",
+    "Features": "[Rated Voltage: 12VDC, Power Input: 1.2W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7fQypg/logisys-cf120dca-5791-cfm-120-mm-fan-cf120dca"
+}

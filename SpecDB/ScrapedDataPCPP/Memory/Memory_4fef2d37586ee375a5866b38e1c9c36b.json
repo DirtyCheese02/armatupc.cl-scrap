@@ -1,0 +1,15 @@
+{
+    "name": "Wintec Value 4 GB (1 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "3VH160011U9-4GR",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Green",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t7mLrH/wintec-memory-3vh160011u94gr"
+}

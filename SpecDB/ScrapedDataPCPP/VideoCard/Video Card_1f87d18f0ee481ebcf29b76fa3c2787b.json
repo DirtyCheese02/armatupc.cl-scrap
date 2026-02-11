@@ -1,0 +1,19 @@
+{
+    "name": "EVGA 01G-P1-N948-LR GeForce 9400 GT 1 GB PCI Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "01G-P1-N948-LR",
+    "Chipset": "GeForce 9400 GT",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Interface": "PCI",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "S-Video Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Yrg323/evga-video-card-01gp1n948lr"
+}

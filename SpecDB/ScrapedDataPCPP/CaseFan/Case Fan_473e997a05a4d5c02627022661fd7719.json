@@ -1,0 +1,20 @@
+{
+    "name": "Thermaltake Blue-Eye 47 CFM 92 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "AF0035",
+    "Size": "92 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1300 - 2500 RPM",
+    "Airflow": "47 CFM",
+    "Noise Level": "18.6 - 28 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2.7 mmH₂O",
+    "Bearing Type": "1 Ball, 1 Sleeve",
+    "Features": "[Fan Speed Control: Speed Control Knob, MTBF: 50,000 hrs @ 25°C, Max. Air Pressure: 2.70 mmH2O, Rated Voltage: 12 V, Started Voltage: <= 9 V, Rated Current: 0.30 A, Power Input: 3.60 W, Weight: 76 g]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yC7wrH/thermaltake-case-fan-af0035"
+}

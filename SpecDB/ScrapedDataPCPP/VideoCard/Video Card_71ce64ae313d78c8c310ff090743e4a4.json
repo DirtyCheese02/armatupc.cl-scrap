@@ -1,0 +1,23 @@
+{
+    "name": "PNY UPRISING GeForce RTX 3070 LHR 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG30708LDFMPB",
+    "Chipset": "GeForce RTX 3070 LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1725 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "265 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 12-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7ZmmP6/pny-uprising-geforce-rtx-3070-lhr-8-gb-video-card-vcg30708ldfmpb"
+}

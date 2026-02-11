@@ -1,0 +1,22 @@
+{
+    "name": "Asus Noctua OC GeForce RTX 3080 10GB LHR 10 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "RTX3080-O10G-NOCTUA",
+    "Chipset": "GeForce RTX 3080 10GB LHR",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1815 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Brown",
+    "Frame Sync": "G-Sync",
+    "Length": "306 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "5",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qcstt6/asus-geforce-rtx-3080-10gb-lhr-10-gb-noctua-oc-video-card-rtx3080-o10g-noctua"
+}

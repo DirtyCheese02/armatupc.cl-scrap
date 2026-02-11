@@ -1,0 +1,11 @@
+{
+    "name": "TRENDnet TEW-703PIL 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-703PIL",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "64/128-bit WEP (Hex & ASCII), WPA/WPA2 (TKIP/AES), WPA-PSK/WPA2-PSK",
+    "Antenna": "1 x 2dBi dipole detachable antenna with Reverse SMA connector",
+    "Features": "[Compatible with low profile desktop computers, Wi-Fi compliant with IEEE 802.11n standard, Backwards compatible with  IEEE 802.11g and IEEE 802.11b devices, Supports Ad-Hoc (Peer-to-Peer b/g only) or Infrastructure (AP-Client) mode, High-speed data rates up to 150Mbps using an IEEE 802.11n connection, Dynamic Data Rate Scaling from 150Mbps to 1Mbps, Maximum reliability, throughput, and connectivity with Automatic Data Rate Switching, Supports advanced wireless encryption up to WPA/WPA2-RADIUS, Easy user setup and diagnostic utilities.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w6Gkcf/trendnet-wireless-network-card-tew703pil"
+}

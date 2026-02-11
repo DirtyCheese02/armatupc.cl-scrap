@@ -1,0 +1,16 @@
+{
+    "name": "Lexar Ares RGB 16 GB (2 x 8 GB) DDR4-3866 CL18 Memory",
+    "Manufacturer": "Lexar",
+    "Part #": "LD4EU008G-R3866GDWA",
+    "Speed": "DDR4-3866",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White",
+    "First Word Latency": "9.312 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-20-20-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zW7scf/lexar-ares-rgb-16-gb-2-x-8-gb-ddr4-3866-cl18-memory-ld4eu008g-r3866gdwa"
+}

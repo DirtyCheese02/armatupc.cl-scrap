@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN7200ND 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN7200ND",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128 bit WEP, WPA/WPA2/WPA-PSK/WPA2-PSK, Wireless MAC Filtering",
+    "Antenna": "1 x External 5dBi Detachable Omni Directional Antenna",
+    "Features": "[Button: Qss Push Button/software, Antenna Type: Detachable, Omni Directional, Antenna Gain: 5dbi, Work Mode: Ad-Hoc / Infrastructure mode, Special Function: WMM,Soft AP (For Windows 7/ XP/ Vista), PSP X-LINK(For Windows XP), Roaming.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yzJwrH/tp-link-wireless-network-card-tlwn7200nd"
+}

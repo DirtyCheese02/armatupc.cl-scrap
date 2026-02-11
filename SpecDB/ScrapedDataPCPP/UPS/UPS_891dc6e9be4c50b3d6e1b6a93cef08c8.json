@@ -1,0 +1,17 @@
+{
+    "name": "CyberPower CP1500AVRLCD3 UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP1500AVRLCD3",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Communication": "USB, Serial",
+    "Data line protection": "Ethernet, Coaxial",
+    "Outlets": "12 (6 surge, 6 surge + battery backup)",
+    "Output": "120 VAC ± 5%",
+    "Plug type & cord": "NEMA 5-15P, 6ft. cord",
+    "Runtime (half/full)": "12 minutes / 3 minutes",
+    "Topology": "Line Interactive",
+    "USB Charge Ports": "2 (1 USB-A 2.4A, 1 USB-C 15W)",
+    "Waveform": "Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GRjBD3/cyberpower-cp1500avrlcd3-ups-cp1500avrlcd3"
+}

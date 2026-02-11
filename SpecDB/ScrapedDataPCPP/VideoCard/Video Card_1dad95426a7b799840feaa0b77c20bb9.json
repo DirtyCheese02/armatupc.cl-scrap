@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte EAGLE OC SFF GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N5070EAGLEOC-ICE-12GD",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2160 MHz",
+    "Boost Clock": "2587 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "290 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ypG2FT/gigabyte-eagle-oc-sff-geforce-rtx-5070-12-gb-video-card-gv-n5070eagleoc-ice-12gd"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Thermaltake TOUGHRAM RGB D5 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "Thermaltake",
+    "Part #": "RG32D516GX2-6400C32A",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WCFCmG/thermaltake-toughram-rgb-d5-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-rg32d516gx2-6400c32a"
+}

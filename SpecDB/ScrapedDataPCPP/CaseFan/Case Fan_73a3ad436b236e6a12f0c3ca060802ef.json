@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A14 PWM chromax.black.swap 82.52 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A14 PWM chromax.black.swap",
+    "Part #": "[NF-A14 PWM chromax.black.swap, NF-A14 PWM CH.BK.S, NF-A14-PWM-CH-BK-S, NF-A14 PWM CHROMAX]",
+    "Size": "140 mm",
+    "Color": "Multicolor",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1500 RPM",
+    "Airflow": "82.52 CFM",
+    "Noise Level": "24.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.08 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sWM323/noctua-nf-a14-pwm-chromaxblackswap-825-cfm-140mm-fan-nf-a14-pwm-chromaxblackswap"
+}

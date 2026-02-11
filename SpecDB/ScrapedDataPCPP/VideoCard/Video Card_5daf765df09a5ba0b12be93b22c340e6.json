@@ -1,0 +1,22 @@
+{
+    "name": "Asus ROG Astral GeForce RTX 5090 32 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "rog-astral-rtx5090-32g-white",
+    "Chipset": "GeForce RTX 5090",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2010 MHz",
+    "Boost Clock": "2467 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "358 mm",
+    "TDP": "575 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "4 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QJm2FT/asus-rog-astral-geforce-rtx-5090-32-gb-video-card-rog-astral-rtx5090-32g-white"
+}

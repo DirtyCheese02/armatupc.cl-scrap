@@ -1,0 +1,19 @@
+{
+    "name": "BitFenix Spectre Xtreme 66 CFM 120 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-SXTR-12025G-RP",
+    "Size": "120 mm",
+    "Color": "Black / Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "950 - 2000 RPM",
+    "Airflow": "66 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2.74 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wW4NnQ/bitfenix-case-fan-bffsxtr12025grp"
+}

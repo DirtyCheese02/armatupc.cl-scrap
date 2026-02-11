@@ -1,0 +1,8 @@
+{
+    "name": "Rosewill RNG-406U Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNG-406U",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Features": "[Chipset: Asix AX88179, Compliant with Universal Serial Bus 3.0 Specification, Revision 1.0, Compatible with USB Specification, Revision 2.0, Supports full duplex operation with IEEE 802.3x flow control and half duplex operation with back-pressure flow control, Compatible with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, Supports IEEE 802.3az (Energy Efficient Ethernet) auto-detect usage for energy saving adjustment, Supports crossover detection and auto-correction, Supports advanced link down power saving when Ethernet cable is unplugged, Supports Wake-on-LAN, Upstream port: USB 3.0 type A, Downstream port: RJ45, LEDs indicate the status of Power status and Ethernet connection, Support Windows 2000/XP/Vista/7/8 (32/64 bit) and 2003; Mac OS X 10.6/10.7/10.8; Android 1.x/2.x/3.x/4.x, and Linux kernel 2.6.14 and later.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GPw323/rosewill-wired-network-card-rng406u"
+}

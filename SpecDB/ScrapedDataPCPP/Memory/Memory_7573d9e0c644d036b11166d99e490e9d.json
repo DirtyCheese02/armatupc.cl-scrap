@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Savage 16 GB (4 x 4 GB) DDR4-2400 CL12 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX424C12SBK4/16",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y6RFf7/kingston-memory-hx424c12sbk416"
+}

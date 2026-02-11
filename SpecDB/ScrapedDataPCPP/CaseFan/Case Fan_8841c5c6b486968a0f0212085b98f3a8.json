@@ -1,0 +1,20 @@
+{
+    "name": "Delta Electronics FFB1212EHE-F00 190 CFM 120 mm Fan",
+    "Manufacturer": "Delta Electronics",
+    "Part #": "FFB1212EHE-F00",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "4000 RPM",
+    "Airflow": "190 CFM",
+    "Noise Level": "59 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "17.78 mmH₂O",
+    "Bearing Type": "2 Ball",
+    "Features": "[Rated Voltage : 12V, Operating Voltage Range : 7 ~ 13.2V, Input Current : 2.00 Amp, Input Power : 24W, Maximum Air Pressure : 17.78 mmH2O, The Delta 120x38mm Extreme High-Speed Fan is an outrageously high performance fan that moves 190 cubic feet of air every minute. It also has an amazing over 3:1 airflow to noise ratio. The 120mm EHE features directional fin design characteristic of FFB series. Directional fins force air to flow exactly where it's needed and achieve minimum noise under high airflow and strong air pressure. The fan has RPM TAC output through its 3 Pin connector.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jFR48d/delta-electronics-case-fan-ffb1212ehef00"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Lancer Blade RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX5U6000C3016G-DTLABRWH",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8TV2FT/adata-xpg-lancer-blade-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-ax5u6000c3016g-dtlabrwh"
+}

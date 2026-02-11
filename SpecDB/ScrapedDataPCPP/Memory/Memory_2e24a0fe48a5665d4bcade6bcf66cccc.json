@@ -1,0 +1,14 @@
+{
+    "name": "Kingston Server Premier 32 GB (1 x 32 GB) Registered DDR4-2666 CL19 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM26RD832MEI",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kQ7G3C/kingston-server-premier-32-gb-1-x-32-gb-registered-ddr4-2666-cl19-memory-ksm26rd832mei"
+}

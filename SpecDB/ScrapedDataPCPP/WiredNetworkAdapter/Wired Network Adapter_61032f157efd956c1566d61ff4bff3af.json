@@ -1,0 +1,8 @@
+{
+    "name": "StarTech ST1000SPEX Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "[ST1000SPEX, CBL-SFF8087OCF-05M]",
+    "Interface": "PCIe x1",
+    "Features": "[Designed to meet PCI Express Base Specification Revision 1.0a, Dual brackets allow this card to fit in both standard and low profile/small form factor computer cases, Supports Jumbo Frames - reduce overhead of large file transfers by enabling larger packet size instead of standard Ethernet packet size]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gc9KHx/startech-wired-network-card-st1000spex"
+}

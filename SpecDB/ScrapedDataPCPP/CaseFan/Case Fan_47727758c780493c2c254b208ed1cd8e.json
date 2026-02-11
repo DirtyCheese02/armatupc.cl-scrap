@@ -1,0 +1,18 @@
+{
+    "name": "LEPA Casino 63.91 CFM 120 mm Fan",
+    "Manufacturer": "LEPA",
+    "Part #": "LPVC4C12P",
+    "Size": "120 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1600 RPM",
+    "Airflow": "24.85 - 63.91 CFM",
+    "Noise Level": "15 - 25 dB",
+    "PWM": "Yes",
+    "LED": "Multicolor",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Features": "[Spiral LEDs with 18 diodes, Up to 6 lighting effects, Reflex blade design enhances LED brightness, Vortex frame design integrates air flow for better cooling performance, PWM speed control for the best balance of performance and silence]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3hh9TW/lepa-casino-4c-6391-cfm-120-mm-fan-lpvc4c12p"
+}

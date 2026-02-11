@@ -1,0 +1,17 @@
+{
+    "name": "Antec Skeleton ATX Mini Tower Case",
+    "Manufacturer": "Antec",
+    "Part #": "Skeleton",
+    "Type": "ATX Mini Tower",
+    "Color": "Silver / Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, Thin Mini ITX]",
+    "Drive Bays": "[2 x External 5.25\", 2 x Internal 3.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Dimensions": "[419 mm x 375 mm x 330 mm, 16.496\" x 14.764\" x 12.992\"]",
+    "Volume": "[51.851 L, 1.831 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vYGkcf/antec-case-skeleton"
+}

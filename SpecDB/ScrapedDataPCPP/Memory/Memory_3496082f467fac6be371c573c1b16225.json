@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Night Hawk RGB Gen 2 16 GB (2 x 8 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TF14D416G3000HC16CDC01",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7XxRsY/teamgroup-night-hawk-rgb-gen-2-16-gb-2-x-8-gb-ddr4-3000-cl16-memory-tf14d416g3000hc16cdc01"
+}

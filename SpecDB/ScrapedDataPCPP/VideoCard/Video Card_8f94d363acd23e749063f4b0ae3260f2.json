@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 01G-P3-3711-KR GeForce GT 710 1 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "01G-P3-3711-KR",
+    "Chipset": "GeForce GT 710",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "945 MHz",
+    "Effective Memory Clock": "5010 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "Length": "145 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZmDJ7P/evga-geforce-gt-710-1gb-video-card-01g-p3-3711-kr"
+}

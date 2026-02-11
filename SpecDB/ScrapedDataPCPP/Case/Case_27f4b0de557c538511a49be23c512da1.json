@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li PC-T60 ATX Test Bench Case",
+    "Manufacturer": "Lian Li",
+    "Part #": "PC-T60R",
+    "Type": "ATX Test Bench",
+    "Color": "Red",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "None",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, Thin Mini ITX]",
+    "Drive Bays": "[2 x External 5.25\", 3 x Internal 3.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm]",
+    "Dimensions": "[398 mm x 327 mm x 350 mm, 15.669\" x 12.874\" x 13.78\"]",
+    "Volume": "[45.551 L, 1.609 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qncMnQ/lian-li-pc-t60r-atx-test-bench-case-pc-t60r"
+}

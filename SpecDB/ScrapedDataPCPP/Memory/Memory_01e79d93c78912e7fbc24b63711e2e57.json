@@ -1,0 +1,15 @@
+{
+    "name": "GeIL EVO CORSA 16 GB (4 x 4 GB) DDR3-2133 CL11 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GOC316GB2133C11QC",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "10.314 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xfw323/geil-memory-goc316gb2133c11qc"
+}

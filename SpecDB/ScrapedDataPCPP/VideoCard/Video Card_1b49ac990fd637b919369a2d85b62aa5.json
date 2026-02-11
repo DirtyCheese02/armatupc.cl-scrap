@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle ELF Arc A380 6 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "[SA380E-6G, 1A1-S00394100G]",
+    "Chipset": "Arc A380",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2000 MHz",
+    "Boost Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue / Black",
+    "Frame Sync": "None",
+    "Length": "153 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.0 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JVWJ7P/sparkle-elf-arc-a380-6-gb-video-card-sa380e-6g"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 RGB 96 GB (2 x 48 GB) DDR5-5600 CL40 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5600J4040D48GX2-TZ5RK",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Price / GB": "$11.185",
+    "Color": "Black",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-89",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gN6NnQ/gskill-trident-z5-rgb-96-gb-2-x-48-gb-ddr5-5600-cl40-memory-f5-5600j4040d48gx2-tz5rk"
+}

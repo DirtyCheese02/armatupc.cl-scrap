@@ -1,0 +1,15 @@
+{
+    "name": "GeIL GLR464GB3000C13QC 64 GB (4 x 16 GB) DDR4-3000 CL13 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLR464GB3000C13QC",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8.667 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/drVBD3/geil-memory-glr464gb3000c13qc"
+}

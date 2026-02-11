@@ -1,0 +1,21 @@
+{
+    "name": "XFX HD-577X-Z5F3 Radeon HD 5770 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-577X-Z5F3",
+    "Chipset": "Radeon HD 5770",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "108 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "5",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yWh9TW/xfx-video-card-hd577xz5f3"
+}

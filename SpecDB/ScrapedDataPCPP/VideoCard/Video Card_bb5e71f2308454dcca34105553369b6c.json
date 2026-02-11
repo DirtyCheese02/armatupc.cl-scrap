@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N460OC-1GI V3 GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N460OC-1GI V3",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "788 MHz",
+    "Effective Memory Clock": "4008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "238 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/V2dqqs/gigabyte-video-card-gvn460oc1giv3"
+}

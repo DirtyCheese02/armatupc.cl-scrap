@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GAMING OC PRO Rev 3.0 GeForce RTX 3060 Ti LHR 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "[GV-N306TGAMINGOC PRO-8GD (rev. 3.0), GV-N306TGAMINGOC PRO-8GD 3.0, GV-N306TGAMINGOC PRO-8GD rev3.0]",
+    "Chipset": "GeForce RTX 3060 Ti LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1770 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "281 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rMD7YJ/gigabyte-geforce-rtx-3060-ti-lhr-8-gb-gaming-oc-pro-rev-30-video-card-gv-n306tgamingoc-pro-8gd-rev-30"
+}

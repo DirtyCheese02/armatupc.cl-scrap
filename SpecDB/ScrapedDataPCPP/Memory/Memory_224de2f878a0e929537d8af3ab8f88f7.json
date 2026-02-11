@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X II AMD 16 GB (2 x 8 GB) DDR4-4266 CL18 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAEXSY416GB4266C18ADC",
+    "Speed": "DDR4-4266",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "8.439 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.45 V",
+    "Timing": "18-24-24-44",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lf4Zxr/geil-evo-x-ii-amd-16-gb-2-x-8-gb-ddr4-4266-cl18-memory-gaexsy416gb4266c18adc"
+}

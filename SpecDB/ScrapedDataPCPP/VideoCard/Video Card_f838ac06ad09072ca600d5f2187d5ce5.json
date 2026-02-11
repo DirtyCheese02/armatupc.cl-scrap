@@ -1,0 +1,22 @@
+{
+    "name": "Yeston Sakura Radeon RX 6750 XT 12 GB Video Card",
+    "Manufacturer": "Yeston",
+    "Part #": "RX6750XT-12G D6 YB",
+    "Chipset": "Radeon RX 6750 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2495 MHz",
+    "Boost Clock": "2600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Blue",
+    "Frame Sync": "FreeSync",
+    "Length": "310 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8tQKHx/yeston-sakura-radeon-rx-6750-xt-12-gb-video-card-rx6750xt-12g-d6-yb"
+}

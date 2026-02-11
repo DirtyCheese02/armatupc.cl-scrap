@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M6M PX-256M6M 256 GB mSATA Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Model": "M6M PX-256M6M",
+    "Part #": "PX-256M6M",
+    "Capacity": "256 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9188",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nFFPxr/plextor-internal-hard-drive-px256m6m"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "APC SC420I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SC420I",
+    "Capacity (W)": "260 W",
+    "Capacity (VA)": "420 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "5.50 Minutes",
+    "Backup/Run Time (Half Load)": "13.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Emergency Power OFF": "No",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[3 x IEC 320-C13, 1 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VvVBD3/apc-ups-sc420i"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "CyberPower CP800AVR UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP800AVR",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "800 VA",
+    "Alarm": "[Low Battery, On Battery, Overload]",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[Type F Connector, RJ-45]",
+    "Emergency Power OFF": "No",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P4Crxr/cyberpower-ups-cp800avr"
+}

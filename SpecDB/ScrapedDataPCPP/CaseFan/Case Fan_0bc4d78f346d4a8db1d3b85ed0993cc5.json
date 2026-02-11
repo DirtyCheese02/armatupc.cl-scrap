@@ -1,0 +1,19 @@
+{
+    "name": "Aerocool Streamliner 54.7 CFM 140 mm Fan",
+    "Manufacturer": "Aerocool",
+    "Part #": "STREAMLINER-SILVER",
+    "Size": "140 mm",
+    "Color": "Silver",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "54.7 CFM",
+    "Noise Level": "17 - 19.6 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Rated Voltage: 12 V, Operating Voltage: 10.2-13.8 VDC, Static Pressure: 0.036 Inch-H2O, Input Current: 0.23A (max), Input Power: 2.76W, Operating Temperature: -10C to +70C, Note: The 14cm fan + adaptor can only be installed to the side panel in most PC cases with 12cm fan screw holes., User is recommended to determine the interior space available in his/her own case if intend to mount at places other then the side panel.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ntJkcf/aerocool-case-fan-streamlinersilver"
+}

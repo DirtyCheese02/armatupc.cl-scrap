@@ -1,0 +1,19 @@
+{
+    "name": "ID-COOLING NO-9215-XT ARGB 44.3 CFM 92 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "NO-9215-XT ARGB",
+    "Size": "92 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2500 RPM",
+    "Airflow": "44.3 CFM",
+    "Noise Level": "14 - 33.4 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.24 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zc8bt6/id-cooling-no-9215-xt-argb-443-cfm-92-mm-fan-no-9215-xt-argb"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire PULSE Radeon RX 5500 XT 4 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "[11295-03-20G, 100418P4GL]",
+    "Chipset": "Radeon RX 5500 XT",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1607 MHz",
+    "Boost Clock": "1845 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "233 mm",
+    "TDP": "135 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tx2bt6/sapphire-radeon-rx-5500-xt-4-gb-pulse-video-card-11295-03-20g"
+}

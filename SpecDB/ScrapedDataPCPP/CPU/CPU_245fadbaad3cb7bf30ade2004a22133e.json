@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i3-3245 3.4 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80637I33245",
+    "Series": "Intel Core i3",
+    "Microarchitecture": "Ivy Bridge",
+    "Core Family": "Ivy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "2",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.4 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "3 MB",
+    "TDP": "55 W",
+    "Integrated Graphics": "Intel HD Graphics 4000",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "Boxed",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3wR48d/intel-cpu-bx80637i33245"
+}

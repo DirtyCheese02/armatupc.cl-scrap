@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master MasterFan Pro Air Balance 42.7 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "MFY-B2DN-13NPC-R1",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 1300 RPM",
+    "Airflow": "42.7 CFM",
+    "Noise Level": "6 - 20 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "0.96 mmH₂O",
+    "Features": "[Air Pressure (mmH2O): 0.96 +/- 10%, Rated Current (A): 0.07, MTTF (hours): 490,000, L-10 Life (hours): 70,000, Rated Voltage: 12 VDC, Safety Current: 0.45A]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WVQRsY/cooler-master-masterfan-pro-120-air-balance-rgb-427-cfm-120-mm-fan-mfy-b2dn-13npc-r1"
+}

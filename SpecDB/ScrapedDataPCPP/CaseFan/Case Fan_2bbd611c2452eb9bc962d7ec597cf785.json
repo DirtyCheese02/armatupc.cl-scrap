@@ -1,0 +1,20 @@
+{
+    "name": "Rosewill Hyperborea 89.55 CFM 140 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "ROCF-11003",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1300 RPM",
+    "Airflow": "89.55 CFM",
+    "Noise Level": "12.5 - 22.19 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.76 mmH₂O",
+    "Bearing Type": "HDB (Hydro Dynamic Bearing)",
+    "Features": "[Super silent 14cm fan with S-FLOW blades supplying 30% more airflow than a standard fan at the same speed. The greater performance combined with PWM automatic speed control allows the fan noise to be kept to a minimum., Max static air pressure: 2.76 mm H2O, Voltage rating: 12V DC, Fan life expectancy: 50,000 hours]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gD9KHx/rosewill-hyperborea-8955-cfm-140-mm-fan-rocf-11003"
+}

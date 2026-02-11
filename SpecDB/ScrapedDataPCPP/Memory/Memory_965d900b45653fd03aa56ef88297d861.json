@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP008GBLFU240N02 8 GB (1 x 8 GB) DDR4-2400 CL17 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP008GBLFU240N02",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WVjBD3/silicon-power-sp008gblfu240n02-8-gb-1-x-8-gb-ddr4-2400-cl17-memory-sp008gblfu240n02"
+}

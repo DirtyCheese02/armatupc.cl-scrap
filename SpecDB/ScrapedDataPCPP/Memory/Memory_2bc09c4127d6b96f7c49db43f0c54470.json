@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-4800 SODIMM CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSX32GX5M2A4800C40",
+    "Speed": "DDR5-4800",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$12.937",
+    "Color": "Black / White",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qMcgXL/corsair-vengeance-32-gb-2-x-16-gb-ddr5-4800-sodimm-cl40-memory-cmsx32gx5m2a4800c40"
+}

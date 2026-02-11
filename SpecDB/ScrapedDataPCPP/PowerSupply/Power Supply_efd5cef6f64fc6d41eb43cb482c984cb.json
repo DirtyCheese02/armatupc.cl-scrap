@@ -1,0 +1,21 @@
+{
+    "name": "Xion AXP-700W14FG 700 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Xion",
+    "Part #": "AXP-700W14FG",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "700 W",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "3",
+    "PCIe 6-pin Connectors": "3",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3@24A, +5V@24A, +12V@58A, -12V@0.5A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LLR48d/xion-axp-700w14fg-700-w-80-gold-certified-fully-modular-atx-power-supply-axp-700w14fg"
+}

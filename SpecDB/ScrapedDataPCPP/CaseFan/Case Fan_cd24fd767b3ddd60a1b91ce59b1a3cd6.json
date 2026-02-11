@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker ELoop B 51.14 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "[NB-ELoop B12-2, ITR-B12-2]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1300 RPM",
+    "Airflow": "51.14 CFM",
+    "Noise Level": "17 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NN8Zxr/noiseblocker-nb-eloop-b12-2-5114-cfm-120-mm-fan-nb-eloop-b12-2"
+}

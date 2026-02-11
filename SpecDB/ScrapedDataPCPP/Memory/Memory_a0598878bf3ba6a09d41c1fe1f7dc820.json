@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Elite 2 GB (1 x 2 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TED32GM1600C1101",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "Color": "Green / Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "Timing": "11-11-11-28",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2FPKHx/team-elite-2gb-1-x-2gb-ddr3-1600-memory-ted32gm1600c1101"
+}

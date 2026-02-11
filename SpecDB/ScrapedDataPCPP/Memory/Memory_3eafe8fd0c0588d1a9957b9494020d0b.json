@@ -1,0 +1,16 @@
+{
+    "name": "Avexir Blitz 1.1 16 GB (2 x 8 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD3U24001008G-2BZ1",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "Timing": "10-12-12-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dsprxr/avexir-blitz-11-16gb-2-x-8gb-ddr3-2400-memory-avd3u24001008g-2bz1"
+}

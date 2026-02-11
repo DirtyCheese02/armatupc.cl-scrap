@@ -1,0 +1,23 @@
+{
+    "name": "MSI A1000G PCIE5 1000 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "MSI",
+    "Model": "A1000G PCIE5",
+    "Part #": "[MPG A1000G PCIE 5, 306-7ZP7C11-CE0]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1000 W",
+    "Length": "150 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "1",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZDt9TW/msi-a1000g-pcie5-1000-w-80-gold-certified-fully-modular-atx-power-supply-mpg-a1000g-pcie-5"
+}

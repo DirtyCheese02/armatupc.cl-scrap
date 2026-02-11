@@ -1,0 +1,9 @@
+{
+    "name": "Rosewill RC-703 44.1 kHz Sound Card",
+    "Manufacturer": "Rosewill",
+    "Part #": "RC-703",
+    "Channels": "7.1",
+    "Sample Rate": "44.1 kHz",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fWg323/rosewill-sound-card-rc703"
+}

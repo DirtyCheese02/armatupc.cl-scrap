@@ -1,0 +1,16 @@
+{
+    "name": "Lexar Hades RGB 16 GB (1 x 16 GB) DDR4-3200 CL18 Memory",
+    "Manufacturer": "Lexar",
+    "Part #": "LD4BU016G-R3200GSLH",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kPC48d/lexar-hades-rgb-16-gb-1-x-16-gb-ddr4-3200-cl16-memory-ld4bu016g-r3200gslh"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "PNY VCQK1200DP-PB Quadro K1200 4 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQK1200DP-PB",
+    "Chipset": "Quadro K1200",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1058 MHz",
+    "Boost Clock": "1124 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "160 mm",
+    "TDP": "45 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/68KhP6/pny-video-card-vcqk1200dppb"
+}

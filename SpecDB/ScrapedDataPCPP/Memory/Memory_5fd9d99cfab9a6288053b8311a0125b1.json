@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 4 16 GB (4 x 4 GB) DDR4-2400 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2400C14Q-16GRK",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DsYWGX/gskill-memory-f42400c14q16grk"
+}

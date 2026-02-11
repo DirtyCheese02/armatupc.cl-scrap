@@ -1,0 +1,20 @@
+{
+    "name": "PC Power & Cooling S47ATX-B 470 W ATX Power Supply",
+    "Manufacturer": "PC Power & Cooling",
+    "Part #": "S47ATX-B",
+    "Type": "ATX",
+    "Wattage": "470 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3@28A, +5V@32A, +12V@26A, -12V@0.8A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/thckcf/pc-power--cooling-power-supply-s47atxb"
+}

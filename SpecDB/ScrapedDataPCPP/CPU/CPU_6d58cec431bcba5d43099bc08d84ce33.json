@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon X2 370K 4.2 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD370KOKA23HL",
+    "Series": "AMD Athlon X2",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Richland",
+    "Socket": "FM2",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "4.2 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MwMFf7/amd-cpu-ad370koka23hl"
+}

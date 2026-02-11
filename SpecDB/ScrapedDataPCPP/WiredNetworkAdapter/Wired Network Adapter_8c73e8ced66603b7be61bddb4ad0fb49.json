@@ -1,0 +1,8 @@
+{
+    "name": "StarTech USB21000S2 Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "USB21000S2",
+    "Interface": "USB Type-A 2.0",
+    "Features": "[Chipset ID: SMSC - LAN7500, Connector Type(s): 1 - RJ-45 Female, 1 - USB A (4 pin) Male, Maximum Data Transfer Rate: 480 Mbps (USB 2.0), Type and Rate: USB 2.0 - 480 Mbit/s, Buffer Size: 20 KB, OS Compatibility: Windows XP(32/64-bit)/ Server 2003(32/64-bit)/ Server 2008 R2/ Vista(32/64-bit)/ 7(32/64-bit)/ 8 (32/64-bit), Mac OS 10.6/ 10.7/ 10.8, Linux, Color: Black, Enclosure Type: Plastic, Power: USB Powered, Powered directly from the USB ports, Jumbo Frame support up to 9 KB, Supports Microsoft NDIS 6.2 Checksum Offload (IPv4, IPv6, TCP, UDP) and Large send Offload, Crossover Detection & Auto-Correction (Auto MDIX), IEEE 802.1Q VLAN Tagging support, Embedded 20KB SRAM for packet buffering, Activity and Gigabit Link LED indicators, Compact, lightweight design for maximum portability.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yk2kcf/startech-wired-network-card-usb21000s2"
+}

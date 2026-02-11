@@ -1,0 +1,16 @@
+{
+    "name": "V-Color Prism Pro 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "V-Color",
+    "Part #": "TL8G36818D-E6PRKWK",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3p6p99/v-color-prism-pro-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-tl8g36818d-e6prkwk"
+}

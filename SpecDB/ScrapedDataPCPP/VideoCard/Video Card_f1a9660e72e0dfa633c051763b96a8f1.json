@@ -1,0 +1,23 @@
+{
+    "name": "PNY VERTO OC GeForce RTX 4060 Ti 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG4060T8DFXPB1-O",
+    "Chipset": "GeForce RTX 4060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2550 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "245 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g9fxFT/pny-verto-oc-geforce-rtx-4060-ti-8-gb-video-card-vcg4060t8dfxpb1-o"
+}

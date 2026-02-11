@@ -1,0 +1,22 @@
+{
+    "name": "AMD 100-506157 Radeon PRO W6800 32 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-506157",
+    "Chipset": "Radeon PRO W6800",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2075 MHz",
+    "Boost Clock": "2320 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue / Gray",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "MiniDisplayPort 1.4 Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BZgFf7/amd-100-506157-radeon-pro-w6800-32-gb-video-card-100-506157"
+}

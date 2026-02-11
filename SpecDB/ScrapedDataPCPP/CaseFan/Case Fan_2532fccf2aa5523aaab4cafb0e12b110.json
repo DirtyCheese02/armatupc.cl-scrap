@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake Pure 40.99 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F019-PL12RE-A",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "40.99 CFM",
+    "Noise Level": "19.5 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.61 mmH₂O",
+    "Features": "[Started Voltage: 9.0 V, Rated Voltage: 12 V, Rated Current: 0.14 A, Power Input: 1.68 W, Max. Air Pressure: 0.61 mm-H2O, Bearing Type: Sleeve]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YTdqqs/thermaltake-case-fan-clf019pl12rea"
+}

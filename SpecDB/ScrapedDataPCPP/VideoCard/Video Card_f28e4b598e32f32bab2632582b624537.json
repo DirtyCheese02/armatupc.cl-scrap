@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte AORUS XTREME WATERFORCE GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N4090AORUSX W-24GD",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "238 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "360 mm Radiator",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pZ6p99/gigabyte-aorus-xtreme-waterforce-geforce-rtx-4090-24-gb-video-card-gv-n4090aorusx-w-24gd"
+}

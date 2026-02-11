@@ -1,0 +1,16 @@
+{
+    "name": "Lexar Ares RGB 2nd Gen 48 GB (2 x 24 GB) DDR5-6800 CL34 Memory",
+    "Manufacturer": "Lexar",
+    "Part #": "LD5U24G68C34SR-RGD",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.35 V",
+    "Timing": "34-46-46-108",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LjHp99/lexar-ares-rgb-2nd-gen-48-gb-2-x-24-gb-ddr5-6800-cl34-memory-ld5u24g68c34sr-rgd"
+}

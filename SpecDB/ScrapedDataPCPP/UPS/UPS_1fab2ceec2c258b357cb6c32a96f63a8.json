@@ -1,0 +1,17 @@
+{
+    "name": "APC SUA3000R2IX38 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA3000R2IX38",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "11.30 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t2RFf7/apc-ups-sua3000r2ix38"
+}

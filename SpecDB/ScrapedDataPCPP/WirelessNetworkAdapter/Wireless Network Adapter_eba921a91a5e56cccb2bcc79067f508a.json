@@ -1,0 +1,12 @@
+{
+    "name": "TRENDnet TEW-646UBH 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-646UBH",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP, WPA/WPA2-RADIUS, WPA /WPA2-PSK",
+    "Antenna": "1 x 2dBi omni-directional detachable antenna (Reverse SMA)",
+    "Operating Range": "Coverage of up to 100 meters indoor (330 feet) and 200 meters outdoor (660 feet)",
+    "Features": "[WPS Button: Enables WPS connection, Antenna Connector: SMA, Quality of Service: 802.11e, WMM, Supports Ad-Hoc (Client-Client) and Infrastructure (AP-Client) Mode, Maximum reliability, throughput, and connectivity with automatic data rate switching, Wi-Fi Multimedia (WMM) Quality of Service (QoS) data prioritization, Universal Plug and Play (UPnP) supported, Easy user setup and intuitive diagnostic utility.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cYvRsY/trendnet-wireless-network-card-tew646ubh"
+}

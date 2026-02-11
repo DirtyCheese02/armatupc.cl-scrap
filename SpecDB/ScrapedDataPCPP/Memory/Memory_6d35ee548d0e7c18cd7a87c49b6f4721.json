@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX6400S2ULK2/4G 4 GB (2 x 2 GB) DDR2-800 SODIMM CL4 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX6400S2ULK2/4G",
+    "Speed": "DDR2-800",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "2 x 2GB",
+    "Color": "Blue / White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "4",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gKtCmG/kingston-memory-khx6400s2ulk24g"
+}

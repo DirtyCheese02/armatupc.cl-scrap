@@ -1,0 +1,20 @@
+{
+    "name": "Sliger CX3151x 3U Rackmount Case",
+    "Manufacturer": "Sliger",
+    "Part #": "CX3151x",
+    "Type": "Rackmount 3U",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Flex ATX, Micro ATX, Mini DTX, Mini ITX, SSI CEB]",
+    "Maximum Video Card Length": "[349 mm, 13.74\"]",
+    "Drive Bays": "[3 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "[1 x Full-Height, 3 x Full-Height via Riser]",
+    "Fan Support": "Front: 2 x 120 mm",
+    "Radiator Support": "Front: 240 / 120 mm",
+    "Dimensions": "[381 mm x 431.8 mm x 132.6 mm, 15\" x 17\" x 5.22\"]",
+    "Volume": "[21.815 L, 0.77 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TgNscf/sliger-cx3151x-rackmount-3u-case-cx3151x"
+}

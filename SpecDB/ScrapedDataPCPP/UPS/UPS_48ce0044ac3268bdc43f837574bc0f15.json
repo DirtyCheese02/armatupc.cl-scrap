@@ -1,0 +1,16 @@
+{
+    "name": "APC SURTD3000XLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTD3000XLI",
+    "Capacity (W)": "2100 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "3U",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Receptacles": "[3 x IEC 320-C19, 8 x IEC 320-C13, 2]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DgL7YJ/apc-ups-surtd3000xli"
+}

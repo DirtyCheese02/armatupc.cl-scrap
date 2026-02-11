@@ -1,0 +1,16 @@
+# Environment files
+.env
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Python cache/build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local runtime outputs
+ScrapDB/RunLogs/
+ScrapDB/Outputs/

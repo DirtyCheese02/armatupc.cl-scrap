@@ -1,0 +1,23 @@
+{
+    "name": "Asus ProArt GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "proart-rtx5080-16g",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Brown",
+    "Frame Sync": "G-Sync",
+    "Length": "304 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "2",
+    "HDMI 2.1b Outputs": "1",
+    "USB Type-C Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bVZWGX/asus-proart-geforce-rtx-5080-16-gb-video-card-proart-rtx5080-16g"
+}

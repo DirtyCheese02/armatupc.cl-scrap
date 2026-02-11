@@ -1,0 +1,21 @@
+{
+    "name": "Asus ENGTX470/2DI/1280MD5/V2 GeForce GTX 470 1.25 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ENGTX470/2DI/1280MD5/V2",
+    "Chipset": "GeForce GTX 470",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "607 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "254 mm",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3DH323/asus-video-card-engtx4702di1280md5v2"
+}

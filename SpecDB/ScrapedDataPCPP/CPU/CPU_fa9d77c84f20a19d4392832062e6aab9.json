@@ -1,0 +1,23 @@
+{
+    "name": "AMD A10-6800K 4.1 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD680KWOHLBOX",
+    "Series": "AMD A10",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Richland",
+    "Socket": "FM2",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "4.1 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "100 W",
+    "Integrated Graphics": "Radeon HD 8670D",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YjmLrH/amd-cpu-ad680kwohlbox"
+}

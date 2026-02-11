@@ -1,0 +1,22 @@
+{
+    "name": "Cougar COUGAR-SX850 850 W 80+ Silver Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Cougar",
+    "Part #": "COUGAR-SX850",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "850 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@22A, +12V2@22A, +12V3@24A, +12V4@24A, -12V@0.6A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sJrG3C/cougar-power-supply-cougarsx850"
+}

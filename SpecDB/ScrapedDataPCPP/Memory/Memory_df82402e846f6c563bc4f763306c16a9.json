@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 64 GB (4 x 16 GB) DDR4-3600 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C14Q-64GTRG",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Gold",
+    "First Word Latency": "7.778 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.45 V",
+    "Timing": "14-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3Zn8TW/gskill-trident-z-royal-64-gb-4-x-16-gb-ddr4-3600-cl14-memory-f4-3600c14q-64gtrg"
+}

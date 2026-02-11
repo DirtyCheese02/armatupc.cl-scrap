@@ -1,0 +1,22 @@
+{
+    "name": "PNY VCQK2200-PB Quadro K2200 4 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQK2200-PB",
+    "Chipset": "Quadro K2200",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1046 MHz",
+    "Effective Memory Clock": "5012 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "202 mm",
+    "TDP": "35 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XwMFf7/pny-video-card-vcqk2200pb"
+}

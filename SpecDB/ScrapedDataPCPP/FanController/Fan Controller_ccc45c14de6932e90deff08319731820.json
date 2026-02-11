@@ -1,0 +1,11 @@
+{
+    "name": "Lamptron FC-CF525-BK Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Part #": "FC-CF525-BK",
+    "Channels": "5",
+    "Channel Wattage": "60 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[Power Input : +12VDC (via standard 4-pin Molex), Power Output : Up to 60W per channel x 5 channels, Control Range : 0 - 12VDC, Fan Header : Molex Standard 3-pin x 5, Front Panel Color : Black, 60W x 5 channels - The Most Powerful Fan Controller right now!! Knob based control, The CF525 provides a whooping 60W each through its 5 independent channels for a total of 300W for power hungry cooling devices. To put it in perspective, it can control 10 of the infamous Delta AFB1212GHE-CF00fans (29.4W for each) at full speed at the same time (2 per channel). You will probably need just one CF525 for your entire system's cooling requirement, but make sure you put a good quality 700W power supply alongside with this fan controller, and you will need a PCI-Express 8-pin header from the power supply to power the CF525]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bzmLrH/lamptron-fan-controller-fccf525bk"
+}

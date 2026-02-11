@@ -1,0 +1,23 @@
+{
+    "name": "be quiet! Pure Power L8 500 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "be quiet!",
+    "Model": "Pure Power L8",
+    "Part #": "BN623",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "500 W",
+    "Length": "150 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@24A<br/>+5V@15A<br/>+12V1@28A<br/>+12V2@\t20A<br/>-12V@0.30A<br/>+5Vsb@\t3.00A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7sR48d/be-quiet-pure-power-l8-500-w-80-bronze-certified-atx-power-supply-bn623"
+}

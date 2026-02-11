@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N150PCx 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N150PCx",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "64/128 bits WEP, WPA (TKIP with IEEE802.1x), WPA2 (AES with IEEE802.1x)",
+    "Antenna": "1 x external 2 dBi Antenna with 100cm cable",
+    "Features": "[Chipset: Ralink RT3060, 2 dBi SMA detachable antenna with 100cm extnesion cord., Multiple BSSID Support.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B2JwrH/rosewill-wireless-network-card-rnxn150pcx"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Corsair LL120 63 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "LL120",
+    "Part #": "CO-9050091-WW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "63 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4P448d/corsair-ll120-rgb-63-cfm-120-mm-fan-co-9050091-ww"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Micron MT16KTF1G64AZ-1G6E1 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Micron",
+    "Part #": "MT16KTF1G64AZ-1G6E1",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$5.781",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yJRzK8/micron-8gb-1-x-8gb-ddr3-1600-memory-mt16ktf1g64az-1g6e1"
+}

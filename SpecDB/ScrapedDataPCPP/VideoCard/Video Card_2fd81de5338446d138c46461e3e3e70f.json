@@ -1,0 +1,23 @@
+{
+    "name": "Asus KO GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "KO-RTX3060TI-8G-GAMING",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1695 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "275 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dYQcCJ/asus-geforce-rtx-3060-ti-8-gb-ko-video-card-ko-rtx3060ti-8g-gaming"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Delta Electronics AFB1212GHE-CF00 240.96 CFM 120 mm Fan",
+    "Manufacturer": "Delta Electronics",
+    "Part #": "AFB1212GHE-CF00",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "5200 RPM",
+    "Airflow": "240.96 CFM",
+    "Noise Level": "62 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[The AFB1212GHE Revision C Grand High Speed is our newest king of 120mm fans. This DC fan motor provides over 240 cubic feet of air out of a traditional design that has been highly refined and tuned by Delta's fan motor team. Comparisons with our other high end Delta parts show it has modest power requirements for its ability to move so much air out of the standard 120x38 millimeter form factor. However, as noted in its lower decibel rating, it will also lack the high pitched whine that accompanies directional fin fans. The AFB parts can be undervolted slightly more, but apparently cannot be overvolted as much. For power users adjusting the voltages on these parts, it will be a welcome change. It also has an amazing near 4:1 airflow to noise ratio., This fan comes with standard 4 pin Molex power and RPM sensor TAC output through its 3 Pin connector.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dnPfrH/delta-electronics-afb1212ghe-cf00-24096-cfm-120-mm-fan-afb1212ghe-cf00"
+}

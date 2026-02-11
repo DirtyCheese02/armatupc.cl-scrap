@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A9 PWM chromax.black.swap 46.44 CFM 92 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A9 PWM chromax.black.swap",
+    "Part #": "[NF-A9 PWM chromax.Black.swap, NF-A9 PWM CH.BK.S, NF-A9-PWM-CH-BK-S]",
+    "Size": "92 mm",
+    "Color": "Black / Multicolor",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 2000 RPM",
+    "Airflow": "46.44 CFM",
+    "Noise Level": "22.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.28 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LmLwrH/noctua-a9-pwm-chromaxblackswap-4644-cfm-92-mm-fan-nf-a9-pwm-chromaxblackswap"
+}

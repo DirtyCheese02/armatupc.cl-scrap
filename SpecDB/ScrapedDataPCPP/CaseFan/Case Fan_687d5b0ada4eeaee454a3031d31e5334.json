@@ -1,0 +1,19 @@
+{
+    "name": "Enermax Twister Storm 154.53 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTS12A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 - 3500 RPM",
+    "Airflow": "72.46 - 154.53 CFM",
+    "Noise Level": "23 - 38 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "66.98 mmH₂O",
+    "Features": "[3500 max rpm industrial grade performance, Shift Speed Control offers 3 speed modes for various applications, Storm-flow blades generate +30% airflow and enhance airflow momentum, Patented Twister Bearing for long lifespan and low operation noise, Detachable blades for easy cleaning, Isolator-mounts for shockproof and easy installation]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vMp323/enermax-case-fan-ucts12a"
+}

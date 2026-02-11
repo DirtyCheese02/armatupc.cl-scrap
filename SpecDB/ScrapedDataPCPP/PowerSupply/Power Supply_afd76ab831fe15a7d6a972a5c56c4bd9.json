@@ -1,0 +1,22 @@
+{
+    "name": "Cooler Master GX 750 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Cooler Master",
+    "Part #": "RS750-ACAAE3-US",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "750 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@25A, +5V@25A, +12V@60A, -12V@0.5A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sCh9TW/cooler-master-power-supply-rs750acaae3us"
+}

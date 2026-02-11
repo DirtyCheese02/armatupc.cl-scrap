@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Challenger OC Arc B580 12 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[B580 CL 12GO, 90-GA5LZZ-00UANF]",
+    "Chipset": "Arc B580",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2670 MHz",
+    "Boost Clock": "2740 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "249 mm",
+    "TDP": "190 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bYcBD3/asrock-challenger-oc-arc-b580-12-gb-video-card-b580-cl-12go"
+}

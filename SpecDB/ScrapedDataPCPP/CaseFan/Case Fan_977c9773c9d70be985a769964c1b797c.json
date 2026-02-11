@@ -1,0 +1,18 @@
+{
+    "name": "ID-COOLING NO-12015-XT ARGB SNOW 54.6 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "NO-12015-XT ARGB SNOW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "54.6 CFM",
+    "Noise Level": "13.8 - 31.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2CH7YJ/id-cooling-no-12015-xt-argb-snow-546-cfm-120-mm-fan-no-12015-xt-argb-snow"
+}

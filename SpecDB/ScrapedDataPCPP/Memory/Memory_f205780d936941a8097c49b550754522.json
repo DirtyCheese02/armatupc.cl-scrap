@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Dominator Platinum RGB 32 GB (2 x 16 GB) DDR5-6400 CL38 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT32GX5M2X6400C38",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$18.343",
+    "Color": "Black",
+    "First Word Latency": "11.875 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hbZ9TW/corsair-dominator-platinum-rgb-32-gb-2-x-16-gb-ddr5-6400-cl38-memory-cmt32gx5m2x6400c38"
+}

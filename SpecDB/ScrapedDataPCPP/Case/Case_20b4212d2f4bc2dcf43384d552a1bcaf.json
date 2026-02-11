@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake ArmorPlus ATX Full Tower Case",
+    "Manufacturer": "Thermaltake",
+    "Part #": "VH6000BWS",
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Acrylic",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX]",
+    "Drive Bays": "[7 x External 5.25\", 1 x External 3.5\", 7 x Internal 3.5\"]",
+    "Expansion Slots": "10 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm, 230 mm]",
+    "Radiator Support": "[120 mm, 140 mm]",
+    "Dimensions": "[624 mm x 243 mm x 599 mm, 24.567\" x 9.567\" x 23.583\"]",
+    "Volume": "[90.828 L, 3.208 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8sNp99/thermaltake-case-vh6000bws"
+}

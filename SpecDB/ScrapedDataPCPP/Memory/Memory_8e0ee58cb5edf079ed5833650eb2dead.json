@@ -1,0 +1,15 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (2 x 8 GB) DDR4-3200 CL14 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX4M2B3200C14",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "Timing": "14-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2Pbkcf/corsair-dominator-platinum-16gb-2-x-8gb-ddr4-3200-memory-cmd16gx4m2b3200c14"
+}

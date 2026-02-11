@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master CF120 ARGB 47.65 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "CF120 ARGB",
+    "Part #": "R4-S2S-12AA-GP",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "47.65 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "0.89 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DHh2FT/cooler-master-cf120-argb-4765-cfm-120-mm-fan-r4-s2s-12aa-gp"
+}

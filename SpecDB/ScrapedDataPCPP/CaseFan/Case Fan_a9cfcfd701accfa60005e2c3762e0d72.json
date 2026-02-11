@@ -1,0 +1,17 @@
+{
+    "name": "Thermaltake Riing Plus 117.96 CFM 200 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F070-PL20SW-A",
+    "Size": "200 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1000 RPM",
+    "Airflow": "117.96 CFM",
+    "Noise Level": "29.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DG22FT/thermaltake-cl-f070-pl20sw-a-11796-cfm-200-mm-fan-cl-f070-pl20sw-a"
+}

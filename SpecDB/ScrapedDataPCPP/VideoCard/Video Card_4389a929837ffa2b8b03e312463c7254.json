@@ -1,0 +1,23 @@
+{
+    "name": "EVGA XC GAMING GeForce RTX 2080 8 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "08G-P4-2182-KR",
+    "Chipset": "GeForce RTX 2080",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1515 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Clear",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "270 mm",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8cPKHx/evga-geforce-rtx-2080-8gb-xc-gaming-video-card-08g-p4-2182-kr"
+}

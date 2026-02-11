@@ -1,0 +1,17 @@
+{
+    "name": "APC BE400-CP UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE400-CP",
+    "Capacity (W)": "240 W",
+    "Capacity (VA)": "400 VA",
+    "Backup/Run Time (Full Load)": "1.90 Minutes",
+    "Backup/Run Time (Half Load)": "12.90 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Desktop",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CkTrxr/apc-ups-be400cp"
+}

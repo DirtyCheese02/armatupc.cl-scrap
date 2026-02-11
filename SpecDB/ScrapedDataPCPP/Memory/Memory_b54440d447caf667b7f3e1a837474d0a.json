@@ -1,0 +1,17 @@
+{
+    "name": "Corsair WS 64 GB (4 x 16 GB) Registered DDR5-6400 CL32 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMA64GX5M4B6400C32",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 16GB",
+    "Price / GB": "$12.500",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.35 V",
+    "Timing": "32-40-40-104",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GyzXsY/corsair-ws-64-gb-4-x-16-gb-registered-ddr5-6400-cl32-memory-cma64gx5m4b6400c32"
+}

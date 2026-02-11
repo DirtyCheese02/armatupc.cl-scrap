@@ -1,0 +1,22 @@
+{
+    "name": "Gainward Phoenix GS GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NE6306TT19P2-1041X",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "294 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PcTZxr/gainward-phoenix-gs-geforce-rtx-3060-ti-8-gb-video-card-ne6306tt19p2-1041x"
+}

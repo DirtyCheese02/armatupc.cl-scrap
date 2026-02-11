@@ -1,0 +1,18 @@
+{
+    "name": "Jonsbo TB01 ATX Test Bench Case",
+    "Manufacturer": "Jonsbo",
+    "Part #": "TB01 Black",
+    "Type": "ATX Test Bench",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 2 Type-C",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB]",
+    "Drive Bays": "[3 x External 5.25\", 4 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Dimensions": "[447 mm x 350 mm x 323 mm, 17.598\" x 13.78\" x 12.717\"]",
+    "Volume": "[50.533 L, 1.785 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qcMMnQ/jonsbo-tb01-atx-test-bench-case-tb01-black"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Elite 8 GB (1 x 8 GB) DDR5-4800 CL40 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TED58G4800C4001",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PKsV3C/teamgroup-elite-8-gb-1-x-8-gb-ddr5-4800-cl40-memory-ted58g4800c4001"
+}

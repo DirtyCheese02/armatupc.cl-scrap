@@ -1,0 +1,23 @@
+{
+    "name": "AMD A6-3500 2.1 GHz Triple-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD3500OJGXBOX",
+    "Series": "AMD A6",
+    "Microarchitecture": "Lynx",
+    "Core Family": "Llano",
+    "Socket": "FM1",
+    "Core Count": "3",
+    "Thread Count": "3",
+    "Performance Core Clock": "2.1 GHz",
+    "L2 Cache": "3 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 6530D",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/v7Lypg/amd-cpu-ad3500ojgxbox"
+}

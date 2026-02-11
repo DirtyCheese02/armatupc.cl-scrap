@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Redline 64 GB (2 x 32 GB) DDR5-4800 SODIMM CL40 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRA5S480FFFD32GX2",
+    "Speed": "DDR5-4800",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xq26Mp/mushkin-redline-64-gb-2-x-32-gb-ddr5-4800-sodimm-cl40-memory-mra5s480fffd32gx2"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Fractal Design Prisma AL 50.63 CFM 120 mm Fan",
+    "Manufacturer": "Fractal Design",
+    "Part #": "FD-FAN-PRI-AL12",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "50.63 CFM",
+    "Noise Level": "19.5 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.27 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mwTPxr/fractal-design-prisma-al-12-5063-cfm-120-mm-fan-fd-fan-pri-al12"
+}

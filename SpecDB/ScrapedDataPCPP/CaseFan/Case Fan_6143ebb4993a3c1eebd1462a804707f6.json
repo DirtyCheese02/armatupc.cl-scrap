@@ -1,0 +1,18 @@
+{
+    "name": "Noctua P12 PWM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "P12 PWM",
+    "Part #": "NF-P12 PWM",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1300 RPM",
+    "Noise Level": "12.6 - 19.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "SSO",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z7mLrH/noctua-case-fan-nfp12pwm"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Palit GameRock OC GeForce RTX 3070 LHR 8 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE63070H19P2-1040G",
+    "Chipset": "GeForce RTX 3070 LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "304 mm",
+    "TDP": "270 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8tvqqs/palit-geforce-rtx-3070-lhr-8-gb-gamerock-oc-video-card-ne63070h19p2-1040g"
+}

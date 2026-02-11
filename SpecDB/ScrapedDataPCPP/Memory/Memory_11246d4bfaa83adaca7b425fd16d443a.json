@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 Neo RGB 48 GB (2 x 24 GB) DDR5-6000 CL26 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J2636H24GX2-TZ5NRW",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Price / GB": "$13.125",
+    "Color": "White / Black",
+    "First Word Latency": "8.667 ns",
+    "CAS Latency": "26",
+    "Voltage": "1.45 V",
+    "Timing": "26-36-36-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T62j4D/gskill-trident-z5-neo-rgb-48-gb-2-x-24-gb-ddr5-6000-cl26-memory-f5-6000j2636h24gx2-tz5nrw"
+}

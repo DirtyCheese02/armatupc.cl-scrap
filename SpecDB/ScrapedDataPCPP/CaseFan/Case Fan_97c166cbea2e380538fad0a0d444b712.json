@@ -1,0 +1,18 @@
+{
+    "name": "BGears b-ARGB Vortex 101 CFM 120 mm Fan",
+    "Manufacturer": "BGears",
+    "Part #": "b-ARGB Vortex 120mm",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1800 RPM",
+    "Airflow": "101 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.9 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KNGhP6/bgears-b-argb-vortex-101-cfm-120-mm-fan-b-argb-vortex-120mm"
+}

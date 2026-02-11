@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ares 8 GB (2 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1600C9D-8GAB",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$7.375",
+    "Color": "Black / Blue",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NTLypg/gskill-memory-f31600c9d8gab"
+}

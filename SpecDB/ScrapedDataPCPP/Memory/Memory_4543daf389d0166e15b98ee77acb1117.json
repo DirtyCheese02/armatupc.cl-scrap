@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill ECO 4 GB (2 x 2 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-12800CL9D-4GBECO",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M2ckcf/gskill-memory-f312800cl9d4gbeco"
+}

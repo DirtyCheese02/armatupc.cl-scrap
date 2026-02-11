@@ -1,0 +1,18 @@
+{
+    "name": "Xilence XPF80.R 18.61 CFM 80 mm Fan",
+    "Manufacturer": "Xilence",
+    "Model": "XPF80.R",
+    "Part #": "[XF037, XPF80.R]",
+    "Size": "80 mm",
+    "Color": "Red / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "18.61 CFM",
+    "Noise Level": "17.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gg6NnQ/xilence-xpf80r-1861-cfm-80-mm-fan-xf037"
+}

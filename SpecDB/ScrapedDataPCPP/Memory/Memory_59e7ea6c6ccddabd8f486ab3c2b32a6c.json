@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Orion RGB AMD Edition 16 GB (2 x 8 GB) DDR4-4400 CL19 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAOSG416GB4400C19ADC",
+    "Speed": "DDR4-4400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Gray",
+    "First Word Latency": "8.636 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.45 V",
+    "Timing": "19-24-24-44",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fmcG3C/geil-orion-rgb-amd-edition-16-gb-2-x-8-gb-ddr4-4400-cl19-memory-gaosg416gb4400c19adc"
+}

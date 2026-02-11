@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance Performance 16 GB (2 x 8 GB) DDR4-2400 SODIMM CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSX16GX4M2A2400C16",
+    "Speed": "DDR4-2400",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$8.499",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GjZ2FT/corsair-memory-cmsx16gx4m2a2400c16"
+}

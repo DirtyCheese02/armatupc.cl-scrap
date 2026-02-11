@@ -1,0 +1,17 @@
+{
+    "name": "Crucial Ballistix MAX 16 GB (2 x 8 GB) DDR4-5100 CL19 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLM2K8G51C19U4B",
+    "Speed": "DDR4-5100",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$62.188",
+    "Color": "Black",
+    "First Word Latency": "7.451 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.5 V",
+    "Timing": "19-26-26-48",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DLZzK8/crucial-ballistix-max-16-gb-2-x-8-gb-ddr4-5100-cl19-memory-blm2k8g51c19u4b"
+}

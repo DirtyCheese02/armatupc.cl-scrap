@@ -1,0 +1,22 @@
+{
+    "name": "Cooler Master Silent Pro Hybrid 1050 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Cooler Master",
+    "Part #": "RS-A50-SPHA-D3",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1050 W",
+    "Length": "177 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@22A, +5V@25A, +12V@82A, -12V@0.3A, +5VSB@3A, +7V@1.8A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nQ4gXL/cooler-master-power-supply-rsa50sphad3"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "MSI GAMING GeForce RTX 3050 6GB 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 3050 GAMING 6G, GeForce RTX 3050 GAMING 6G]",
+    "Chipset": "GeForce RTX 3050 6GB",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1040 MHz",
+    "Boost Clock": "1470 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "205 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j6V2FT/msi-gaming-geforce-rtx-3050-6gb-6-gb-video-card-rtx-3050-gaming-6g"
+}

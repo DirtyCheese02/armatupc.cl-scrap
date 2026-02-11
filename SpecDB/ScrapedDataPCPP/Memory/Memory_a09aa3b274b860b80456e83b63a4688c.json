@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal Elite 32 GB (2 x 16 GB) DDR4-3600 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C14D-32GTEGA",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Gold",
+    "First Word Latency": "7.778 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.45 V",
+    "Timing": "14-14-14-34",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZFXJ7P/gskill-trident-z-royal-elite-32-gb-2-x-16-gb-ddr4-3600-cl14-memory-f4-3600c14d-32gtega"
+}

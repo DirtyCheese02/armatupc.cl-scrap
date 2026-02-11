@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 8 GB (2 x 4 GB) DDR4-3733 CL17 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD8GX4M2B3733C17",
+    "Speed": "DDR4-3733",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "9.108 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "Timing": "17-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2GL7YJ/corsair-memory-cmd8gx4m2b3733c17"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-4350 4.2 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD4350FRW4KHK",
+    "Series": "AMD FX",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Vishera",
+    "Socket": "AM3+",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "4.2 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NyDwrH/amd-cpu-fd4350frw4khk"
+}

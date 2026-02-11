@@ -1,0 +1,15 @@
+{
+    "name": "OCZ Platinum 6 GB (3 x 2 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZ3P1600C9ELV6GK",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 2GB",
+    "Color": "Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6rjG3C/ocz-memory-ocz3p1600c9elv6gk"
+}

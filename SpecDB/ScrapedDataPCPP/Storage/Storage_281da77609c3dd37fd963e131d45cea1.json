@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M5M 64 GB mSATA Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-64M5M",
+    "Capacity": "64 GB",
+    "Type": "SSD",
+    "Cache": "128 MB",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s4H323/plextor-internal-hard-drive-px64m5m"
+}

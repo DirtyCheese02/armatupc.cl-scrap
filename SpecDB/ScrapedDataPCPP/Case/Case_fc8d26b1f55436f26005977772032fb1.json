@@ -1,0 +1,20 @@
+{
+    "name": "NZXT Gamma Classic ATX Mid Tower Case",
+    "Manufacturer": "NZXT",
+    "Part #": "GAMA-001BK",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[254 mm, 10\"]",
+    "Drive Bays": "[4 x External 5.25\", 7 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm]",
+    "Dimensions": "[508 mm x 189 mm x 449 mm, 20\" x 7.441\" x 17.677\"]",
+    "Volume": "[43.109 L, 1.522 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fng323/nzxt-case-gama001bk"
+}

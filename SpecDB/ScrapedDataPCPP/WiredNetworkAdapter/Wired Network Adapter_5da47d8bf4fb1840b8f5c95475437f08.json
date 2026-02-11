@@ -1,0 +1,8 @@
+{
+    "name": "Syba SY-ADA24027 100 Mb/s Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SY-ADA24027",
+    "Interface": "USB Type-A 2.0",
+    "Features": "[ASIX AX88772B Chipset, Integrates On-chip USB 2.0 Transceiver and SIE Compliant to USB Specfication 1.1 and 2.0, Supports USB Full and High Speed Modes with Bus-Power (5V), Supports Auto Detach Power Saving, Detach from USB Host When Ethernet Cable is Unplugged, Integrates 10/100Mbps Fast Ethernet MAC/PHY, Supports Twisted Pair Crossover Detection and Auto-correction (HP Auto-MDIX), Supports Full Duplex Operation with IEEE 802.3x Flow Control and Half Duplex Operation with Back-pressure Flow Control, Supports 2 VLAN ID Filtering, PHY Loop-back Diagnostic Capability, Supports Suspend Mode and External Wake-up Pin, Supports Protocol Offloads (ARP & NS) for Windows 7, Supports Dynamic Power Management, Supports Very Low Power Wake-on-LAN (WOL) Mode When the System Enters Suspend Mode and Waits for Network Event to Wake It Up, Single 25MHz Clock Input, Software Requirement: Windows 7, Vista, Windows XP, Windows 2000, MS Server 2003, MS Server 2008, Mac OS up to 10.1, Linux, Android 4.0 or Higher]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/27tCmG/syba-wired-network-card-syada24027"
+}

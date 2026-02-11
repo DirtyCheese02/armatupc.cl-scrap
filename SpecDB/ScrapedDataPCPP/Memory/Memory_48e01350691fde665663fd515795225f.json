@@ -1,0 +1,16 @@
+{
+    "name": "GeIL GS44GB2133C15SC 4 GB (1 x 4 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GS44GB2133C15SC",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g38j4D/geil-4gb-1-x-4gb-ddr4-2133-memory-gs44gb2133c15sc"
+}

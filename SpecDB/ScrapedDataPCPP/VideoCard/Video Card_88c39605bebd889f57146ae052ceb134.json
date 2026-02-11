@@ -1,0 +1,23 @@
+{
+    "name": "Asus EAH6950 DCII/2DI4S/2GD5 Radeon HD 6950 2 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "EAH6950 DCII/2DI4S/2GD5",
+    "Chipset": "Radeon HD 6950",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1250 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "297 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort Outputs": "4",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XmTmP6/asus-video-card-eah6950dcii2di4s2gd5"
+}

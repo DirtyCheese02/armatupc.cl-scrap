@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D X3 OC GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N50803-16D7X-17605211",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2295 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TWDnTW/inno3d-x3-oc-geforce-rtx-5080-16-gb-video-card-n50803-16d7x-17605211"
+}

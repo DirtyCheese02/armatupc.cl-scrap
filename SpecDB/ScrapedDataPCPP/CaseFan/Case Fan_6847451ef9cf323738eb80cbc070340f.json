@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-B14 82.5 CFM 140 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "[TL-B14, TL-B14-D3]",
+    "Size": "140 mm",
+    "Color": "Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "82.5 CFM",
+    "Noise Level": "27.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.35 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pBzXsY/thermalright-tl-b14-825-cfm-140-mm-fan-tl-b14"
+}

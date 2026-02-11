@@ -1,0 +1,15 @@
+{
+    "name": "Wintec AMPO 4 GB (2 x 2 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "3AMD31333-4G2K-NHR",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vQH323/wintec-memory-3amd313334g2knhr"
+}

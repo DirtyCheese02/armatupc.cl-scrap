@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Polaris RGB 32 GB (2 x 16 GB) DDR5-5200 CL34 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GOSR532GB5200C34ADC",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "13.077 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.25 V",
+    "Timing": "34-38-38-78",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PdcG3C/geil-polaris-rgb-32-gb-2-x-16-gb-ddr5-5200-cl34-memory-gosr532gb5200c34adc"
+}

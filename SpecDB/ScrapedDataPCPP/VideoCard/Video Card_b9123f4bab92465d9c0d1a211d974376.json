@@ -1,0 +1,23 @@
+{
+    "name": "NVIDIA 900-1G500-2500-000 Titan V 12 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "900-1G500-2500-000",
+    "Chipset": "Titan V",
+    "Memory": "12 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1200 MHz",
+    "Boost Clock": "1455 MHz",
+    "Effective Memory Clock": "1700 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "Frame Sync": "G-Sync",
+    "Length": "267 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YLsmP6/nvidia-titan-v-12gb-video-card-900-1g500-2500-000"
+}

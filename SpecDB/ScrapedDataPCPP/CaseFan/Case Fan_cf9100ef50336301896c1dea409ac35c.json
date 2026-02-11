@@ -1,0 +1,20 @@
+{
+    "name": "Thermaltake Blue-Eye 97.5 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "AF0026",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1300 - 2500 RPM",
+    "Airflow": "97.5 CFM",
+    "Noise Level": "24.6 - 38.79 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "4.65 mmH₂O",
+    "Bearing Type": "1 Ball, 1 Sleeve",
+    "Features": "[Fan Speed Control: Speed Control Knob, Max. Air Pressure: 4.65 mmH2O, MTBF: 50,000 hrs @ 25°C, Rated Voltage: 12 V, Started Voltage: <= 9 V, Rated Current: 0.30 A, Power Input: 3.60 W, Weight: 114.4 g]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QrNp99/thermaltake-case-fan-af0026"
+}

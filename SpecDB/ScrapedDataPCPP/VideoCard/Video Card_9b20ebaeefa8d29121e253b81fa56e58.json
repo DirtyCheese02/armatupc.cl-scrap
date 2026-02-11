@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D X3 OC GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N40703-126XX-185252L",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2505 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "297 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6ZZXsY/inno3d-x3-oc-geforce-rtx-4070-12-gb-video-card-n40703-126xx-185252l"
+}

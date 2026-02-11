@@ -1,0 +1,23 @@
+{
+    "name": "Asus DUAL OC GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RTX3060TI-O8G, 90YV0G12-M0NA00]",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1740 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "269 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6P2bt6/asus-geforce-rtx-3060-ti-8-gb-dual-oc-video-card-dual-rtx3060ti-o8g"
+}

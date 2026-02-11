@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Pure Wings 2 33.15 CFM 92 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL038",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1900 RPM",
+    "Airflow": "33.15 CFM",
+    "Noise Level": "19.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.65 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TqYWGX/be-quiet-pure-wings-2-92-pwm-331-cfm-92mm-fan-bl038"
+}

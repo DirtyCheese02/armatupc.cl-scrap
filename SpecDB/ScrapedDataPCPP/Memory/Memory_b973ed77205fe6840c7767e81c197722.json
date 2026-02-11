@@ -1,0 +1,15 @@
+{
+    "name": "Panram Hercules 8 GB (2 x 4 GB) DDR3-2133 CL10 Memory",
+    "Manufacturer": "Panram",
+    "Part #": "PUD32133C104G2HSK",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9.376 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3bhj4D/panram-memory-pud32133c104g2hsk"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Broadway Com Corp OKIA-BLACK-600 600 W ATX Power Supply",
+    "Manufacturer": "Broadway Com Corp",
+    "Part #": "OKIA-BLACK-600",
+    "Type": "ATX",
+    "Wattage": "600 W",
+    "Length": "160 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "Output": "+3.3V@18A, +5V@28A, +12V1@13A, +12V2@16A, -12V@0.1A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vw2kcf/broadway-com-corp-power-supply-okiablack600"
+}

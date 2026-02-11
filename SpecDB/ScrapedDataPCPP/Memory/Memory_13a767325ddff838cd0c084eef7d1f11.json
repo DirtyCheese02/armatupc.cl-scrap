@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident X 32 GB (4 x 8 GB) DDR3-1600 CL7 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1600C7Q-32GTX",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GL3RsY/gskill-memory-f31600c7q32gtx"
+}

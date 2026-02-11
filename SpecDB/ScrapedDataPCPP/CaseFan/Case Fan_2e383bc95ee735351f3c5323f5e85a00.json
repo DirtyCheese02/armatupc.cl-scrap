@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker Multiframe 31.78 CFM 80 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "NB-Multiframe M8-P",
+    "Size": "80 mm",
+    "Color": "Translucent Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "31.78 CFM",
+    "Noise Level": "17 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BPw323/noiseblocker-nb-multiframe-m8-p-3178-cfm-80-mm-fan-nb-multiframe-m8-p"
+}

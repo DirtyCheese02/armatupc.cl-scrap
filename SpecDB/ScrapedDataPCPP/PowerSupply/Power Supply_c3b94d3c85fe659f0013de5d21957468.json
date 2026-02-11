@@ -1,0 +1,21 @@
+{
+    "name": "Kingwin ABT-850MM 850 W ATX Power Supply",
+    "Manufacturer": "Kingwin",
+    "Part #": "ABT-850MM",
+    "Type": "ATX",
+    "Wattage": "850 W",
+    "Length": "165 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@24A, +5V@30A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@33A, +12V5@33A, +12V6@20A, -12V@0.5A, +5VSB@5.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HHMFf7/kingwin-power-supply-abt850mm"
+}

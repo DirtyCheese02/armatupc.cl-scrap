@@ -1,0 +1,23 @@
+{
+    "name": "AMD A4-3300 2.5 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD3300OJZ22GX",
+    "Series": "AMD A4",
+    "Microarchitecture": "Lynx",
+    "Core Family": "Llano",
+    "Socket": "FM1",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.5 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 6410D",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2r9KHx/amd-a4-3300-25-ghz-dual-core-oemtray-processor-ad3300ojz22gx"
+}

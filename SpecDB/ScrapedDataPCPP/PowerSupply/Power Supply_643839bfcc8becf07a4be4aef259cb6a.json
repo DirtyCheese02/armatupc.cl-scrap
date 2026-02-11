@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 450 B3 450 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "450 B3",
+    "Part #": "[220-B3-0450-V1, 220-B3-0450-V2, 220-B3-0450-V3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "450 W",
+    "Length": "150 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@20A, +5V@20A, +12V@37.4A, +5Vsb@3A, -12V@0.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XxvZxr/evga-450-b3-450-w-80-bronze-certified-fully-modular-atx-power-supply-220-b3-0450-v1"
+}

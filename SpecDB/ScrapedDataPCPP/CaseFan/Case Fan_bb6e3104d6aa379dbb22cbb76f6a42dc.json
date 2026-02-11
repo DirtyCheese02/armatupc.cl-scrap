@@ -1,0 +1,21 @@
+{
+    "name": "Phanteks F140HP II 68.1 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F140HP II",
+    "Part #": "PH-F140HP_BK 2",
+    "Size": "140 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "68.1 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.62 mmH₂O",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "Features": "[The new redeveloped blades in PH-F140HP are angled lower to achieve higher air pressure.  The redesigned MVB blades generate better performance and better airflow.  It improves the balance of airflow and air pressure when using with as a cooler fan or case fan., Upgrading CPU coolers fans will be a breeze, by detaching the extension adapter users can install PH-F140HP to CPU coolers without worry., The PH-F140HP has a larger base size with a magnetic brushless DC motor to avoid the effects of resonance and for rotational stability. To create better structural strength and reduce the vibration occurrence, Phanteks redesigned the back frame of the PH-F140HP., With the noise reduction challenges in mind, we modified the component for lower actuator noise, PCBA for lower electromagnetic noise, brushless motor structure for lower operating noise and frame rib for lower wind and vibration noise.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fHhj4D/phanteks-case-fan-phf140hpbk2"
+}

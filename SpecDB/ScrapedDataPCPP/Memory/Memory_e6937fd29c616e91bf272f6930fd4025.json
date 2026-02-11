@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 16 GB (2 x 8 GB) DDR4-4000 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4000C14D-16GTRS",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Silver",
+    "First Word Latency": "7 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.55 V",
+    "Timing": "14-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JM3gXL/gskill-trident-z-royal-16-gb-2-x-8-gb-ddr4-4000-cl14-memory-f4-4000c14d-16gtrs"
+}

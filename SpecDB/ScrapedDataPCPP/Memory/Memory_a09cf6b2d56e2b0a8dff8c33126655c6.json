@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z 16 GB (4 x 4 GB) DDR4-3600 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C17Q-16GTZ",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xYgPxr/gskill-memory-f43600c17q16gtz"
+}

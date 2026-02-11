@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG LANCER RGB 32 GB (2 x 16 GB) DDR5-5200 CL38 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX5U5200C3816G-DCLARWH",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "14.615 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.25 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C9zhP6/adata-xpg-lancer-rgb-32-gb-2-x-16-gb-ddr5-5200-cl38-memory-ax5u5200c3816g-dclarwh"
+}

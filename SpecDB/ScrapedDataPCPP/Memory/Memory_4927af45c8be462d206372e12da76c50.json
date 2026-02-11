@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-2133 CL13 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK16GX4M2A2133C13",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$8.812",
+    "Color": "Black / Yellow",
+    "First Word Latency": "12.189 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.2 V",
+    "Timing": "13-15-15-28",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PL2rxr/corsair-memory-cmk16gx4m2a2133c13"
+}

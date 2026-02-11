@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte GV-NX96T512H GeForce 9600 GT 512 MB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-NX96T512H",
+    "Chipset": "GeForce 9600 GT",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "650 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "Frame Sync": "None",
+    "TDP": "95 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DVI-I Dual Link Outputs": "2",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nC648d/gigabyte-video-card-gvnx96t512h"
+}

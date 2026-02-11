@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SU6000RT3UHVXL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU6000RT3UHVXL",
+    "Capacity (W)": "4200 W",
+    "Capacity (VA)": "6000 VA",
+    "Rack Height": "6U",
+    "Backup/Run Time (Full Load)": "12 Minutes",
+    "Backup/Run Time (Half Load)": "30 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "[240 V AC, 208 V AC, 230 V AC, 220 V AC]",
+    "Receptacles": "Hardwired",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LvVBD3/tripp-lite-ups-su6000rt3uhvxl"
+}

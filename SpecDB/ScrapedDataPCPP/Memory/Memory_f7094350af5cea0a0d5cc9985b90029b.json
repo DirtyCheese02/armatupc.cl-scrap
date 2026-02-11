@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Redline 8 GB (2 x 4 GB) DDR4-2400 CL13 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "997190F",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Red / White",
+    "First Word Latency": "10.833 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nRBrxr/mushkin-memory-997190f"
+}

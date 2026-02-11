@@ -1,0 +1,15 @@
+{
+    "name": "Patriot Viper SODIMM 8 GB (1 x 8 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PV38G160LC9S",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r9bp99/patriot-memory-pv38g160lc9s"
+}

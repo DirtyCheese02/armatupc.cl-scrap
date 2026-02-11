@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-7200 CL34 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH32GX5M2X7200C34",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$15.625",
+    "Color": "Black",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.45 V",
+    "Timing": "34-44-44-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fKytt6/corsair-vengeance-rgb-32-gb-2-x-16-gb-ddr5-7200-cl34-memory-cmh32gx5m2x7200c34"
+}

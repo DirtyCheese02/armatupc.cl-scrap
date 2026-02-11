@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Red Devil Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 6700XT 12GBD6-3DHE/OC",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Boost Clock": "2622 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "320 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2kJgXL/powercolor-radeon-rx-6700-xt-12-gb-red-devil-video-card-axrx-6700xt-12gbd6-3dheoc"
+}

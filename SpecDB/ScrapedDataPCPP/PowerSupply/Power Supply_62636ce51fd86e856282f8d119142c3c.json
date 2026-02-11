@@ -1,0 +1,21 @@
+{
+    "name": "Enermax ERV920EWT 920 W 80+ Silver Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Enermax",
+    "Part #": "ERV920EWT",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "920 W",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@24A, +5V@24A, +12V1@35A, +12V2@35A, +12V3@35A, +12V4@35A, -12V@0.5A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gxMFf7/enermax-power-supply-erv920ewt"
+}

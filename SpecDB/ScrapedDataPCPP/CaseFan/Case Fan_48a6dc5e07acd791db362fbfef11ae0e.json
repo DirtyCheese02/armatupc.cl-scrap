@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone FM 36.87 CFM 80 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-FM84",
+    "Size": "80 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 - 3500 RPM",
+    "Airflow": "15 - 36.87 CFM",
+    "Noise Level": "18.1 - 34.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rGdxFT/silverstone-fm84-369-cfm-80mm-fan-sst-fm84"
+}

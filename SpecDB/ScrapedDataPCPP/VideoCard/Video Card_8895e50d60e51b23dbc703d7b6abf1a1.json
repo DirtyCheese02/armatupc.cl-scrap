@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D Twin X2 OC GeForce GTX 1630 4 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N16302-04D6X-1177VA25",
+    "Chipset": "GeForce GTX 1630",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1740 MHz",
+    "Boost Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "196 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort 1.4 Outputs": "2",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pCRYcf/inno3d-geforce-gtx-1630-4-gb-twin-x2-oc-video-card-n16302-04d6x-1177va25"
+}

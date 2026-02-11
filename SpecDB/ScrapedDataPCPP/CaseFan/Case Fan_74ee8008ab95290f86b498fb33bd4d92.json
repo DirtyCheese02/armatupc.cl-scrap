@@ -1,0 +1,20 @@
+{
+    "name": "Cooler Master Blade Master 40.79 CFM 80 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "R4-BM8S-30PK-R0",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 3000 RPM",
+    "Airflow": "10.9 - 40.79 CFM",
+    "Noise Level": "13 - 28 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.23 mmH₂O",
+    "Bearing Type": "Long Life Sleeve",
+    "Features": "[Well-balanced cooling performance with fan airflow, air pressure, and noise., Wide PWM fan speed range between 800 - 3000 R.P.M., Anti-vibration rubber pads around the edges to decrease noise., Distinguished blade shape for airflow improvement., Recommended for Hyper 101, and other 80mm CPU coolers]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nPZQzy/cooler-master-blade-master-4079-cfm-80-mm-fan-r4-bm8s-30pk-r0"
+}

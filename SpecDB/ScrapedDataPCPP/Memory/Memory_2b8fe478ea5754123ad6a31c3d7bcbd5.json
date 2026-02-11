@@ -1,0 +1,17 @@
+{
+    "name": "Klevv BOLT X 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KD48GU880-36A180U",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$7.031",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QGbTwP/klevv-bolt-x-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-kd48gu880-36a180u"
+}

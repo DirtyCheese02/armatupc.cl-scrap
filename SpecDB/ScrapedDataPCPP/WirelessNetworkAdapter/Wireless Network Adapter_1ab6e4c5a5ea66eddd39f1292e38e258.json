@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N150HG 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N150HG",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP, complies with WPA/WPA2 standard (TKIP/AES)",
+    "Antenna": "4dBi Detachable Omni-directional Antenna x 1",
+    "Features": "[150Mbps wireless transmission rate, Provides two methods of operation: Infrastructure and Ad-Hoc, WPS (Wi-Fi Protected Setup) for worry free wireless security, Supports 64/128-bit WEP, complies with 128 bit WPA standard(TKIP/AES), supports MIC, IV Expansion, Shared Key Authentication, IEEE 802.1X, Compatible with 802.11n, 11g and 11b equipments, Supports Roaming technology, guaranteeing efficient wireless connections, PSP X-Link connection are supported to give you a joyful online gaming experience, Supports WMM and WMM Power Save, allows a high priority for interruption sensitive data such as audio and video, Supports Windows 2000/XP/Vista/7 OS, The IEEE 802.11n Draft prohibits using High Throughput with WEP or TKIP as the unicast cipher. If you use these encryption methods (e.g. WEP, WPA-TKIP), your data rate will drop to 54 Mbps. Rosewill recommend setting your router’s wireless encryption as WPA-AES or WPA2-AES or update the latest firmware, in order to keep your wireless transfer rate at N speed.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s9kD4D/rosewill-wireless-network-card-rnxn150hg"
+}

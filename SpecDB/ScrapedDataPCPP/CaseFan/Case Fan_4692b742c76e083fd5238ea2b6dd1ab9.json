@@ -1,0 +1,19 @@
+{
+    "name": "Corsair iCUE QL140 50.2 CFM 140 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "iCUE QL140",
+    "Part #": "CO-9050099-WW",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "550 - 1250 RPM",
+    "Airflow": "50.2 CFM",
+    "Noise Level": "26 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "1.4 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Zg3mP6/corsair-icue-ql140-rgb-502-cfm-140-mm-fan-co-9050099-ww"
+}

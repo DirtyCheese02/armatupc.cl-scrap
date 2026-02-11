@@ -1,0 +1,21 @@
+{
+    "name": "Kingwin Lazer 1000 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Kingwin",
+    "Part #": "LZ-1000",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "1000 W",
+    "Length": "180 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "3",
+    "PCIe 6-pin Connectors": "3",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "8",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3PBv6h/kingwin-power-supply-lz1000"
+}

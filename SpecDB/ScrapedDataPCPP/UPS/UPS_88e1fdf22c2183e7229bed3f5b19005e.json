@@ -1,0 +1,23 @@
+{
+    "name": "CyberPower PR3000LCDRT2UTAA UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR3000LCDRT2UTAA",
+    "Capacity (W)": "2250 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "8 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-11, RJ-45]",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[1 x NEMA L5-30R, 8 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j6X2FT/cyberpower-ups-pr3000lcdrt2utaa"
+}

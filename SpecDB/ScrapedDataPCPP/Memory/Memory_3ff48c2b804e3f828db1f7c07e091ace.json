@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill F2-6400CL6D-8GBSQ 8 GB (2 x 4 GB) DDR2-800 SODIMM CL6 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F2-6400CL6D-8GBSQ",
+    "Speed": "DDR2-800",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "2 x 4GB",
+    "Color": "Green",
+    "First Word Latency": "15 ns",
+    "CAS Latency": "6",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w8tCmG/gskill-memory-f26400cl6d8gbsq"
+}

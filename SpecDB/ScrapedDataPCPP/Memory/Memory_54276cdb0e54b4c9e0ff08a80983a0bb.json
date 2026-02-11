@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 48 GB (2 x 24 GB) DDR5-8200 CL40 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESG548GB8200C40ADC",
+    "Speed": "DDR5-8200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "9.756 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.4 V",
+    "Timing": "40-52-52-112",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tQwmP6/geil-evo-v-rgb-48-gb-2-x-24-gb-ddr5-8200-cl40-memory-gesg548gb8200c40adc"
+}

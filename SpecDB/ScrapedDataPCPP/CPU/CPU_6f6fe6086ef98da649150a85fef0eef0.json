@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i3-4360T 3.2 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "CM8064601481958",
+    "Series": "Intel Core i3",
+    "Microarchitecture": "Haswell Refresh",
+    "Core Family": "Haswell Refresh",
+    "Socket": "LGA1150",
+    "Core Count": "2",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "4 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "Intel HD Graphics 4600",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HqYXsY/intel-cpu-cm8064601481958"
+}

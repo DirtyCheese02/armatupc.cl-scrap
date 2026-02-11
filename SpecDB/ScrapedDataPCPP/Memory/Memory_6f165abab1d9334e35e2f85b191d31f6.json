@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident X 8 GB (2 x 4 GB) DDR3-3200 CL13 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-3200C13D-8GTXDG",
+    "Speed": "DDR3-3200",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "8.125 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3j8Zxr/gskill-memory-f33200c13d8gtxdg"
+}

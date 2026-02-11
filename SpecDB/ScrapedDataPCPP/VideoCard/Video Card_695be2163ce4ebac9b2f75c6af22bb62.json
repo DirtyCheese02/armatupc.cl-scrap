@@ -1,0 +1,22 @@
+{
+    "name": "ECS NGT440-1GQR-F2 GeForce GT 440 1 GB Video Card",
+    "Manufacturer": "ECS",
+    "Part #": "NGT440-1GQR-F2",
+    "Chipset": "GeForce GT 440",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MVV48d/ecs-video-card-ngt4401gqrf2"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Flare X5 128 GB (2 x 64 GB) DDR5-6000 CL36 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J3644D64GX2-FX5",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 64GB",
+    "Price / GB": "$11.375",
+    "Color": "Black",
+    "First Word Latency": "12 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.25 V",
+    "Timing": "36-44-44-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TwCCmG/gskill-flare-x5-128-gb-2-x-64-gb-ddr5-6000-cl36-memory-f5-6000j3644d64gx2-fx5"
+}

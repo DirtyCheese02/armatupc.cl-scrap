@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 64 GB (2 x 32 GB) DDR5-6400 CL34 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF3D564G6400HC34BDC01",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10.625 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.35 V",
+    "Timing": "34-44-44-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LhRwrH/teamgroup-t-force-delta-rgb-64-gb-2-x-32-gb-ddr5-6400-cl34-memory-ff3d564g6400hc34bdc01"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire 100380SR Radeon R9 Fury X 4 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100380SR",
+    "Chipset": "Radeon R9 Fury X",
+    "Memory": "4 GB",
+    "Memory Type": "HBM",
+    "Core Clock": "1050 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "FreeSync",
+    "Length": "195 mm",
+    "TDP": "275 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "120 mm Radiator",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vb8H99/sapphire-video-card-100380sr"
+}

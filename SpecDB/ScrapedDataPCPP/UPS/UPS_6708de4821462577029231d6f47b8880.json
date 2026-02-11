@@ -1,0 +1,15 @@
+{
+    "name": "APC BE350 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE350",
+    "Capacity (W)": "225 W",
+    "Capacity (VA)": "350 VA",
+    "Backup/Run Time (Full Load)": "2.90 Minutes",
+    "Backup/Run Time (Half Load)": "10.60 Minutes",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DFdFf7/apc-ups-be350"
+}

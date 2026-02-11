@@ -1,0 +1,21 @@
+{
+    "name": "PNY VCNRTX2000ADA-PB RTX 2000 Ada Generation 16 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTX2000ADA-PB",
+    "Chipset": "RTX 2000 Ada Generation",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1620 MHz",
+    "Boost Clock": "2130 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RBfxFT/pny-vcnrtx2000ada-pb-rtx-2000-ada-generation-16-gb-video-card-vcnrtx2000ada-pb"
+}

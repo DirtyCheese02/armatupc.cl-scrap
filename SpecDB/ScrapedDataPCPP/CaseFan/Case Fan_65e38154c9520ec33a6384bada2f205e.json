@@ -1,0 +1,18 @@
+{
+    "name": "Iceberg Thermal IceGALE Xtra 37 CFM 80 mm Fan",
+    "Manufacturer": "Iceberg Thermal",
+    "Part #": "ICEGALE08D-A0A",
+    "Size": "80 mm",
+    "Color": "Teal / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 3000 RPM",
+    "Airflow": "37 CFM",
+    "Noise Level": "0 - 29 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.91 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WJRYcf/iceberg-thermal-icegale-xtra-37-cfm-80-mm-fan-icegale08d-a0a"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Gigabyte AORUS RGB 32 GB (2 x 16 GB) DDR5-6000 CL40 Memory",
+    "Manufacturer": "Gigabyte",
+    "Part #": "ARS32G60D5R",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.35 V",
+    "Timing": "40-40-40-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wY4Ycf/gigabyte-aorus-rgb-32-gb-2-x-16-gb-ddr5-6000-cl40-memory-ars32g60d5r"
+}

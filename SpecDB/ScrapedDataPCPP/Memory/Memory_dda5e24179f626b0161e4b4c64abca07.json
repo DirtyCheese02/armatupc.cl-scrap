@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum RGB 128 GB (8 x 16 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT128GX4M8C3000C15",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yFfFf7/corsair-dominator-platinum-rgb-128-gb-8-x-16-gb-ddr4-3000-memory-cmt128gx4m8c3000c15"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Diamond A4870PE5512 Radeon HD 4870 512 MB Video Card",
+    "Manufacturer": "Diamond",
+    "Part #": "A4870PE5512",
+    "Chipset": "Radeon HD 4870",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "750 MHz",
+    "Effective Memory Clock": "900 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c3TmP6/diamond-video-card-a4870pe5512"
+}

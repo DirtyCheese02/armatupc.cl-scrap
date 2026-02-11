@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Hera RGB 48 GB (2 x 24 GB) DDR5-8200 CL40 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "[BL.9BWWR.600, HERA-48GB-8200-1R8-V6]",
+    "Speed": "DDR5-8200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Silver",
+    "First Word Latency": "9.756 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.4 V",
+    "Timing": "40-50-50-126",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YHxTwP/acer-predator-hera-rgb-48-gb-2-x-24-gb-ddr5-8200-cl40-memory-bl9bwwr600"
+}

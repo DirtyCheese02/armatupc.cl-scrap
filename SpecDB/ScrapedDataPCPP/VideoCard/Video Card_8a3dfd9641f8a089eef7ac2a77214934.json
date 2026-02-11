@@ -1,0 +1,22 @@
+{
+    "name": "Asus Turbo GeForce RTX 2080 Ti 11 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[TURBO-RTX2080TI-11G, 90YV0C40-M0NM00, 90YV0C40-M0NA00]",
+    "Chipset": "GeForce RTX 2080 Ti",
+    "Memory": "11 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1350 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "269 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vtqhP6/asus-geforce-rtx-2080-ti-11gb-turbo-video-card-turbo-rtx2080ti-11g"
+}

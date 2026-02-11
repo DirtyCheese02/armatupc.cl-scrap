@@ -1,0 +1,13 @@
+{
+    "name": "Seagate SuperSpeed HDD 1 TB 2.5\" 5400 RPM Hybrid Internal Hard Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "STBD1000400",
+    "Capacity": "1 TB",
+    "Type": "Hybrid",
+    "Cache": "64 MB",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "Hybrid SSD Cache": "8000 MB",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vhCwrH/seagate-internal-hard-drive-stbd1000400"
+}

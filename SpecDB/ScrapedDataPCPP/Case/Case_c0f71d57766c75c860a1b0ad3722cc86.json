@@ -1,0 +1,21 @@
+{
+    "name": "Silverstone RM51 5U Rackmount Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-RM51",
+    "Type": "Rackmount 5U",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB]",
+    "Maximum Video Card Length": "[455 mm, 17.913\"]",
+    "Drive Bays": "2 x Internal 3.5\"",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[Front: 3 x 120 mm / 2 x 180 mm, Rear: 1 x 120 mm / 1 x 140 mm + 2 x 80 mm]",
+    "Included Fans": "Front: 2 x 180 mm",
+    "Radiator Support": "[Front: 360 / 240 / 120 mm, Rear: 120 mm]",
+    "Dimensions": "[530 mm x 440 mm x 220 mm, 20.866\" x 17.323\" x 8.661\"]",
+    "Volume": "[51.304 L, 1.812 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H9pD4D/silverstone-rm51-5u-rackmount-case-sst-rm51"
+}

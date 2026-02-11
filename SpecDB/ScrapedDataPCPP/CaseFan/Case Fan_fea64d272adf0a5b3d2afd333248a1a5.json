@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Light Wings LX 51.5 CFM 120 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL120",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1600 RPM",
+    "Airflow": "51.5 CFM",
+    "Noise Level": "25.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.34 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MhRwrH/be-quiet-light-wings-lx-515-cfm-120-mm-fan-bl120"
+}

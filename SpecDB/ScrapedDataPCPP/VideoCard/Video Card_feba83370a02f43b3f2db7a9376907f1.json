@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Fighter Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "[AXRX 6700XT 12GBD6-3DH, 6700XT 12GBD6-3DH]",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Boost Clock": "2581 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "228 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c3RYcf/powercolor-fighter-radeon-rx-6700-xt-12-gb-video-card-axrx-6700xt-12gbd6-3dh"
+}

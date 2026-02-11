@@ -1,0 +1,19 @@
+{
+    "name": "Gigabyte AORUS 140 ARGB 60.64 CFM 140 mm Fan",
+    "Manufacturer": "Gigabyte",
+    "Model": "AORUS 140 ARGB",
+    "Part #": "GP-AR140RFAN",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1700 RPM",
+    "Airflow": "30.3 - 60.64 CFM",
+    "Noise Level": "8.9 - 35.8 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.18 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8JddnQ/gigabyte-aorus-140-argb-6064-cfm-140-mm-fan-gp-ar140rfan"
+}

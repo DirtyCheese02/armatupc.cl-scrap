@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FHP 171 CFM 140 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FHP-141",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 2000 RPM",
+    "Airflow": "42.8 - 171 CFM",
+    "Noise Level": "43.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[High efficiency system thermal solution, High air pressure and less noise with giant-bladed design, Long-life dual ball bearing motor, Adjustable dual mode operation-\"Power\" mode (500~2000RPM) and \"quiet\" mode (500~1200RPM)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4XDwrH/silverstone-fhp-141-171-cfm-140-mm-fan-fhp-141"
+}

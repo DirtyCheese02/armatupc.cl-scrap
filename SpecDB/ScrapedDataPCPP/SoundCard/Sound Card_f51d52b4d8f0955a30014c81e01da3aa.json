@@ -1,0 +1,12 @@
+{
+    "name": "Creative Labs 70SB135A00002 24-bit 96 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Part #": "70SB135A00002",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "102 dB",
+    "Sample Rate": "96 kHz",
+    "Chipset": "Sound Core3D",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hZ6BD3/creative-labs-sound-card-70sb135a00002"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "MSI N560GTX-M2D1GD5 GeForce GTX 560 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N560GTX-M2D1GD5",
+    "Chipset": "GeForce GTX 560",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "4000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bDR48d/msi-video-card-n560gtxm2d1gd5"
+}

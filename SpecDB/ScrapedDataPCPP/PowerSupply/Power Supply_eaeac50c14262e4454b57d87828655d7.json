@@ -1,0 +1,20 @@
+{
+    "name": "In Win IP-P300BN7-2 300 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "In Win",
+    "Part #": "IP-P300BN7-2",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "300 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vHMFf7/inwin-power-supply-ipp300bn72"
+}

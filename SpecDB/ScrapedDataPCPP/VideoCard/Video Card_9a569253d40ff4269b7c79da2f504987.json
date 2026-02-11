@@ -1,0 +1,22 @@
+{
+    "name": "MSI SUPRIM GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 3080 SUPRIM 12G LHR, RTX 3080 SUPRIM 12G LHR]",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1830 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "336 mm",
+    "TDP": "390 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QJ2WGX/msi-geforce-rtx-3080-12gb-lhr-12-gb-suprim-video-card-geforce-rtx-3080-suprim-12g-lhr"
+}

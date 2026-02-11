@@ -1,0 +1,21 @@
+{
+    "name": "Asus GT640-DCSL-2GD3 GeForce GT 640 2 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "GT640-DCSL-2GD3",
+    "Chipset": "GeForce GT 640",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "901 MHz",
+    "Effective Memory Clock": "1782 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bZNp99/asus-video-card-gt640dcsl2gd3"
+}

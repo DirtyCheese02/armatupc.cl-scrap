@@ -1,0 +1,18 @@
+{
+    "name": "Rosewill RFX-80BL 41.8 CFM 80 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFX-80BL",
+    "Size": "80 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1700 - 3000 RPM",
+    "Airflow": "23.38 - 41.8 CFM",
+    "Noise Level": "19.25 - 29 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mVkD4D/rosewill-case-fan-rfx80bl"
+}

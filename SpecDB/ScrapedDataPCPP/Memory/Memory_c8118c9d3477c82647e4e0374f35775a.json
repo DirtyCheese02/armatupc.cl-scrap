@@ -1,0 +1,16 @@
+{
+    "name": "Avexir Core 8 GB (2 x 4 GB) DDR3-2666 CL12 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD3U26661204G-2CIR",
+    "Speed": "DDR3-2666",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9.002 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "Timing": "12-14-14-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XxgzK8/avexir-core-8gb-2-x-4gb-ddr3-2666-memory-avd3u26661204g-2cir"
+}

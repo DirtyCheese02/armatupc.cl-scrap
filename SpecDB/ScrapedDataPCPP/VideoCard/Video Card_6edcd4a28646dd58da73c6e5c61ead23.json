@@ -1,0 +1,22 @@
+{
+    "name": "MSI CYCLONE GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N460GTX CYCLONE 1GD5/OC",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "725 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "200 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k2CwrH/msi-video-card-n460gtxcyclone1gd5oc"
+}

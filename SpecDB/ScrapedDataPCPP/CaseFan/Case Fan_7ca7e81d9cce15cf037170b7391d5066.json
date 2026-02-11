@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-C-S 66.17 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Thermalright",
+    "Part #": "[TL-C12B-S X3, TL-C12B-S ARGB 3P]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "66.17 CFM",
+    "Noise Level": "25.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.53 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FP88TW/thermalright-tl-c-s-6617-cfm-120-mm-fans-3-pack-tl-c12b-s-x3"
+}

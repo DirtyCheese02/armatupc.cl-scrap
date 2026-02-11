@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Create Classic 32 GB (2 x 16 GB) DDR5-5200 SODIMM CL42 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "CTCCD532G5200HC42DC-S01",
+    "Speed": "DDR5-5200",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "Timing": "42-42-42-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BVcgXL/teamgroup-t-create-classic-32-gb-2-x-16-gb-ddr5-5200-sodimm-cl42-memory-ctccd532g5200hc42dc-s01"
+}

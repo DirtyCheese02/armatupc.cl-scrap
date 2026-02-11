@@ -1,0 +1,22 @@
+{
+    "name": "Zalman ZM660-XT 660 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Zalman",
+    "Part #": "ZM660-XT",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "660 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@30A, +5V@30A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A, -12V@0.8A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zLTmP6/zalman-zm660-xt-660-w-80-bronze-certified-fully-modular-atx-power-supply-zm660-xt"
+}

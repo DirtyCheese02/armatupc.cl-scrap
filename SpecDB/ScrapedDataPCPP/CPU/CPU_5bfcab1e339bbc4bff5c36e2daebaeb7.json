@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X6 1045T 2.7 GHz 6-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDT45TWFGRBOX",
+    "Series": "AMD Phenom II X6",
+    "Microarchitecture": "K10",
+    "Core Family": "Thuban",
+    "Socket": "AM3",
+    "Core Count": "6",
+    "Thread Count": "6",
+    "Performance Core Clock": "2.7 GHz",
+    "L2 Cache": "3 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VHH323/amd-cpu-hdt45twfgrbox"
+}

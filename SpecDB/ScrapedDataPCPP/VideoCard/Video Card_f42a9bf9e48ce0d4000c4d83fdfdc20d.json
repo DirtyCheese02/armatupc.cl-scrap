@@ -1,0 +1,22 @@
+{
+    "name": "Asus TUF GAMING GeForce RTX 5060 Ti 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[tuf-rtx5060ti-8g-gaming, 90YV0MR1-M0NA00]",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2602 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "302 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4Gjv6h/asus-tuf-gaming-geforce-rtx-5060-ti-8-gb-video-card-tuf-rtx5060ti-8g-gaming"
+}

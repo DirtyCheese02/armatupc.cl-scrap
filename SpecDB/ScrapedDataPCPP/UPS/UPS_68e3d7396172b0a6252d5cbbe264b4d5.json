@@ -1,0 +1,16 @@
+{
+    "name": "APC BR500CI-AS UPS",
+    "Manufacturer": "APC",
+    "Part #": "BR500CI-AS",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "10 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "3 x IEC 60320 C13",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LxYWGX/apc-ups-br500cias"
+}

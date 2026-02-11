@@ -1,0 +1,23 @@
+{
+    "name": "GALAX (1-click OC) GeForce GTX 1660 6 GB Video Card",
+    "Manufacturer": "GALAX",
+    "Part #": "60SRH7DSY91C",
+    "Chipset": "GeForce GTX 1660",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1815 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "228 mm",
+    "TDP": "120 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9dKcCJ/galax-geforce-gtx-1660-6-gb-1-click-oc-video-card-60srh7dsy91c"
+}

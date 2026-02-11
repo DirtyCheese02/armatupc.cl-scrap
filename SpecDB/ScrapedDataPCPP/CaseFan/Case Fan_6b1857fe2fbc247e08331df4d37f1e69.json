@@ -1,0 +1,21 @@
+{
+    "name": "Corsair LL140 51.5 CFM 140 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "LL140",
+    "Part #": "CO-9050073-WW",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1300 RPM",
+    "Airflow": "51.5 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "1.52 mmH₂O",
+    "Bearing Type": "Hydraulic Bearing",
+    "Features": "[Dual RGB Lighting Loop: 16 Independent RGB LEDs in every fan, split between two separate light loops, allow for nearly endless customization, Expansion Kit: This product is intended as an expansion of the LL140 RGB LED 2 fan kit with Lighting Node PRO. The RGB functionality of this product requires a RGB Lighting hub and Lighting Node PRO., Complete PWM Control: Dynamically control fan speed from 600 RPM to 1,300 RPM to minimize noise or maximize airflow, Created for Quiet: 140mm Fan blade engineered for low-noise operation without sacrificing performance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xYp323/corsair-ll140-rgb-led-515-cfm-140-mm-fan-co-9050073-ww"
+}

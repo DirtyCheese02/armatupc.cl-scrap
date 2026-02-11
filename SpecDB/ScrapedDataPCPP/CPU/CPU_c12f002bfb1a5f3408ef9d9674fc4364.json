@@ -1,0 +1,23 @@
+{
+    "name": "AMD A8-5500 3.2 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD5500OKHJBOX",
+    "Series": "AMD A8",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Trinity",
+    "Socket": "FM2",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 7560D",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wYkD4D/amd-cpu-ad5500okhjbox"
+}

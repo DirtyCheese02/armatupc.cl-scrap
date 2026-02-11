@@ -1,0 +1,15 @@
+{
+    "name": "PNY Optima 4 GB (1 x 4 GB) DDR3-1066 SODIMM CL7 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MN4096SD3-1066",
+    "Speed": "DDR3-1066",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Green",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/js3RsY/pny-memory-mn4096sd31066"
+}

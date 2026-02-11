@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Beast 64 GB (2 x 32 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF426C16BBK2/64",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TVvdnQ/kingston-fury-beast-64-gb-2-x-32-gb-ddr4-2666-cl16-memory-kf426c16bbk264"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Kingston KVR16S11/2 2 GB (1 x 2 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR16S11/2",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HqtCmG/kingston-memory-kvr16s112"
+}

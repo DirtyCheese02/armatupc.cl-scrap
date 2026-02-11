@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Redline 32 GB (2 x 16 GB) DDR4-2933 SODIMM CL21 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRA4S293MMMF16GX2",
+    "Speed": "DDR4-2933",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "First Word Latency": "14.32 ns",
+    "CAS Latency": "21",
+    "Voltage": "1.2 V",
+    "Timing": "21-21-21-47",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vXD7YJ/mushkin-redline-32-gb-2-x-16-gb-ddr4-2933-cl21-memory-mra4s293mmmf16gx2"
+}

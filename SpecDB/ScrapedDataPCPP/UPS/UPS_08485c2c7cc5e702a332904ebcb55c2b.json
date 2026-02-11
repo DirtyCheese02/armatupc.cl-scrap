@@ -1,0 +1,20 @@
+{
+    "name": "APC SURT1000RMXLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURT1000RMXLI",
+    "Capacity (W)": "700 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "10.20 Minutes",
+    "Backup/Run Time (Half Load)": "24.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[6 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BnnG3C/apc-ups-surt1000rmxli"
+}

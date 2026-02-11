@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte MINI ITX OC GeForce GTX 1060 3GB 3 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N1060IXOC-3GD",
+    "Chipset": "GeForce GTX 1060 3GB",
+    "Memory": "3 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1556 MHz",
+    "Effective Memory Clock": "8008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "Frame Sync": "G-Sync",
+    "Length": "169 mm",
+    "TDP": "120 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P8Crxr/gigabyte-geforce-gtx-1060-3gb-3gb-mini-itx-oc-video-card-gv-n1060ixoc-3gd"
+}

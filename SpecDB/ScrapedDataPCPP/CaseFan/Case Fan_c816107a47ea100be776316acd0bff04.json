@@ -1,0 +1,14 @@
+{
+    "name": "SilentiumPC Fluctus ARGB 120 mm Fan",
+    "Manufacturer": "SilentiumPC",
+    "Part #": "SPC317",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NgXMnQ/silentiumpc-fluctus-argb-120-mm-fan-spc317"
+}

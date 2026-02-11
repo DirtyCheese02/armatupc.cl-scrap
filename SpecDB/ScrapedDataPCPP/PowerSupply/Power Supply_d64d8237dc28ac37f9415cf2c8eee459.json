@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 1000 G1 1000 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 1000 G1",
+    "Part #": "[120-G1-1000-VR, 120-G1-1000-V2, 120-G1-1000-V3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1000 W",
+    "Length": "199 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@25A, +5V@25A, +12V@83.3A, +5Vsb@3A, -12V@0.8A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gBsKHx/evga-supernova-1000-g1-1000-w-80-gold-certified-fully-modular-atx-power-supply-120-g1-1000-vr"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Noctua B9-1600 37.84 CFM 92 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "B9-1600",
+    "Part #": "NF-B9-1600",
+    "Size": "92 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 1600 RPM",
+    "Airflow": "24.19 - 37.84 CFM",
+    "Noise Level": "7.9 - 17.6 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "SSO",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yFR48d/noctua-nf-b9-1600-3784-cfm-92-mm-fan-nf-b9-1600"
+}

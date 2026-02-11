@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-4800 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK16GX4M2K4800C18",
+    "Speed": "DDR4-4800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "7.5 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.5 V",
+    "Timing": "18-24-24-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6n7p99/corsair-vengeance-lpx-16-gb-2-x-8-gb-ddr4-4800-cl18-memory-cmk16gx4m2k4800c18"
+}

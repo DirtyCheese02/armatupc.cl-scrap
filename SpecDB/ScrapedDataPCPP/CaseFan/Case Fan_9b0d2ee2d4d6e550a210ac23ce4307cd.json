@@ -1,0 +1,20 @@
+{
+    "name": "ID-COOLING XF-12025-SD 74.5 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Model": "XF-12025-SD",
+    "Part #": "XF-12025-SD-K (EOL)",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1800 RPM",
+    "Airflow": "74.5 CFM",
+    "Noise Level": "18 - 35.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.15 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HgcgXL/id-cooling-xf-12025-sd-745-cfm-120-mm-fan-xf-12025-sd-k-eol"
+}

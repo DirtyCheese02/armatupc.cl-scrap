@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Duo E8500 3.16 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "AT80570PJ0876M",
+    "Series": "Intel Core 2 Duo",
+    "Microarchitecture": "Wolfdale",
+    "Core Family": "Wolfdale",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.16 GHz",
+    "L2 Cache": "6 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QkZQzy/intel-cpu-at80570pj0876m"
+}

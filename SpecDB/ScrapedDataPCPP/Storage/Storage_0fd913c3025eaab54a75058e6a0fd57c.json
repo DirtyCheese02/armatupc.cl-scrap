@@ -1,0 +1,12 @@
+{
+    "name": "MSI SPATIUM M461 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "MSI",
+    "Part #": "[SPATIUM M461 2TB, SM461N2TB, spatiumm461pcie4.0nvmem.22tb, S78-440Q550-P83]",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.150",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9vfxFT/msi-spatium-m461-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-spatium-m461-2tb"
+}

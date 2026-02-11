@@ -1,0 +1,15 @@
+{
+    "name": "OCZ Vertex 450 Series 128 128 GB 2.5\" Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Model": "Vertex 450 Series 128",
+    "Part #": "VTX450-25SAT3-128G",
+    "Capacity": "128 GB",
+    "Price / GB": "$1.953",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Indilinx Barefoot 3",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mZh9TW/ocz-internal-hard-drive-vtx45025sat3128g"
+}

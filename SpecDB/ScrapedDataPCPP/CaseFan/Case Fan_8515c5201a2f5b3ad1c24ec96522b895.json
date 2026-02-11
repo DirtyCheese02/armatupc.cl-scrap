@@ -1,0 +1,19 @@
+{
+    "name": "Valkyrie V12 75 CFM 120 mm Fan",
+    "Manufacturer": "Valkyrie",
+    "Model": "V12",
+    "Part #": "VK-FANV12FB",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1850 RPM",
+    "Airflow": "75 CFM",
+    "Noise Level": "34 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.23 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s69wrH/valkyrie-v12-75-cfm-120-mm-fan-vk-fanv12fb"
+}

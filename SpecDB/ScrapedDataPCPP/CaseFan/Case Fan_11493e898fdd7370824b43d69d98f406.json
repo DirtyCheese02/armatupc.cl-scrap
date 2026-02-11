@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek XLF 61 CFM 120 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XLF-F1255",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1500 RPM",
+    "Airflow": "61 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "Yes",
+    "LED": "White",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Higher airflow, static pressure and torque., Reduce noise and power consumption., 4 pcs White LEDs and transparent colorific blade and frame, Low noise level., Optimized blade design to create cooling performance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/36JwrH/xigmatek-case-fan-xlff1255"
+}

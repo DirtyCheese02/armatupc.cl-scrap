@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Elite 32 GB (2 x 16 GB) DDR5-6000 CL48 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TED532G6000C48DC01",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "16 ns",
+    "CAS Latency": "48",
+    "Voltage": "1.1 V",
+    "Timing": "48-48-48-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kp9wrH/teamgroup-elite-32-gb-2-x-16-gb-ddr5-6000-cl48-memory-ted532g6000c48dc01"
+}

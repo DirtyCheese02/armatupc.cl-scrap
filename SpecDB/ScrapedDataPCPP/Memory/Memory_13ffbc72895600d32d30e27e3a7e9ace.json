@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB Pro SL 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH16GX4M2Z3200C16",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$9.687",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M8FKHx/corsair-vengeance-rgb-pro-sl-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-cmh16gx4m2z3200c16"
+}

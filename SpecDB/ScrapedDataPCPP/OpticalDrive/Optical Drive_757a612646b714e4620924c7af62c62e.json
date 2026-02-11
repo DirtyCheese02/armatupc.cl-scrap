@@ -1,0 +1,18 @@
+{
+    "name": "Buslink DBW-1647 DVD/CD Writer",
+    "Manufacturer": "Buslink",
+    "Part #": "DBW-1647",
+    "Form Factor": "5.25\"",
+    "Interface": "PATA 100",
+    "Buffer Cache": "2 MB",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "16X",
+    "DVD+RW Speed": "4X",
+    "DVD+R Dual-Layer Speed": "4X",
+    "DVD-R Speed": "16X",
+    "DVD-RW Speed": "4X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "32X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cCYXsY/buslink-optical-drive-dbw1647"
+}

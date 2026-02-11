@@ -1,0 +1,23 @@
+{
+    "name": "Asus STRIX GAMING Advanced GeForce RTX 2080 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[ROG-STRIX-RTX2080-A8G-GAMING, ROG-STRIX-RTX2080-A8G-GAM]",
+    "Chipset": "GeForce RTX 2080",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1515 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "VirtualLink Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B2Nv6h/asus-geforce-rtx-2080-11gb-rog-strix-gaming-advanced-video-card-rog-strix-rtx2080-a8g-gaming"
+}

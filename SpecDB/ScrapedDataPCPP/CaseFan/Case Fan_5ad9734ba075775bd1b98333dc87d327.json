@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li UNI FAN AL140 V2 81.3 CFM 140 mm Fan",
+    "Manufacturer": "Lian Li",
+    "Model": "UNI FAN AL140 V2",
+    "Part #": "AL140V2-1W",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 1600 RPM",
+    "Airflow": "81.3 CFM",
+    "Noise Level": "26.8 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.8 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nk6NnQ/lian-li-uni-fan-al140-v2-813-cfm-140-mm-fan-al140v2-1w"
+}

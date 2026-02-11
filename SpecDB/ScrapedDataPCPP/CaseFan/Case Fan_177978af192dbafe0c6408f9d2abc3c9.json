@@ -1,0 +1,18 @@
+{
+    "name": "Noctua NF-A14x25 G2 PWM 91.6 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Part #": "NF-A14x25 G2 PWM",
+    "Size": "140 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1250 - 1500 RPM",
+    "Airflow": "74.8 - 91.6 CFM",
+    "Noise Level": "19.7 - 24.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.56 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WgRwrH/noctua-nf-a14x25-g2-pwm-916-cfm-140-mm-fan-nf-a14x25-g2-pwm"
+}

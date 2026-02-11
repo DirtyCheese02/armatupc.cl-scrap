@@ -1,0 +1,15 @@
+{
+    "name": "Tripp Lite AVRX750U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "AVRX750U",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "230 V AC",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GKZ2FT/tripp-lite-ups-avrx750u"
+}

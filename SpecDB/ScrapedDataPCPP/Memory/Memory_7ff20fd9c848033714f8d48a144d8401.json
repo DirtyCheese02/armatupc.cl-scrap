@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 96 GB (2 x 48 GB) DDR5-6800 CL36 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESW596GB6800C36BDC",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Color": "White",
+    "First Word Latency": "10.588 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-44-44-86",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZFCZxr/geil-evo-v-rgb-96-gb-2-x-48-gb-ddr5-6800-cl36-memory-gesw596gb6800c36bdc"
+}

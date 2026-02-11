@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 1000 GT 1000 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 1000 GT",
+    "Part #": "[220-GT-1000-X1, 220-GT-1000-X2]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1000 W",
+    "Length": "150 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zQNxFT/evga-supernova-1000-gt-1000-w-80-gold-certified-fully-modular-atx-power-supply-220-gt-1000-x1"
+}

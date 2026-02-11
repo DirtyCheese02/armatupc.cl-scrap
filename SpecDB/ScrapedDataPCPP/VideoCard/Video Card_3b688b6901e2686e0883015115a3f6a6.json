@@ -1,0 +1,19 @@
+{
+    "name": "BFG BFGE94512GTE GeForce 9400 GT 512 MB Video Card",
+    "Manufacturer": "BFG",
+    "Part #": "BFGE94512GTE",
+    "Chipset": "GeForce 9400 GT",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Interface": "PCIe x16",
+    "Color": "Blue / White",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HJfmP6/bfg-video-card-bfge94512gte"
+}

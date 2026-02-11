@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RWCR-1612 63.1 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RWCR-1612",
+    "Size": "120 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "63.1 CFM",
+    "Noise Level": "6.9 - 26.2 dB",
+    "PWM": "Yes",
+    "LED": "Red",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Hydraulic",
+    "Features": "[PWM-FUNCTION, PWM (Pulse Width Modulation). The 4-Pin connector let the mainboard to control the fan speed from 500 - 1500RPM., Advanced Hydraulic bearing technology, Circular LED illumination]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/n2cMnQ/rosewill-rwcr-1612-631-cfm-120mm-fan-rwcr-1612"
+}

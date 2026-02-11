@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Dragon RAM 16 GB (4 x 4 GB) DDR4-3466 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GWW416GB3466C16QC",
+    "Speed": "DDR4-3466",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "White / Gold",
+    "First Word Latency": "9.233 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gPX2FT/geil-memory-gww416gb3466c16qc"
+}

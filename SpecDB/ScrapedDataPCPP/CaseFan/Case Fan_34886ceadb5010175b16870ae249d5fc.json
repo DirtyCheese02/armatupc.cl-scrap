@@ -1,0 +1,17 @@
+{
+    "name": "Logisys CF80GB 80 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "CF80GB",
+    "Size": "80 mm",
+    "Color": "Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1300 RPM",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydro",
+    "Features": "[Rated Voltage: 12VDC, Rated Current: 0.12+/-10%A, Power Input: 1.44W, High quality UV material, green appearance with blue LED, special visual effect, Low speed RPM to ensure silent operation.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/87Qypg/logisys-case-fan-cf80gb"
+}

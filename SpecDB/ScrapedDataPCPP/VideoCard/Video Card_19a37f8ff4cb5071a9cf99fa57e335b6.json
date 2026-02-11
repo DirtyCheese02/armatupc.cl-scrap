@@ -1,0 +1,22 @@
+{
+    "name": "Intel 23P6PC00BA Arc Pro A50 6 GB Video Card",
+    "Manufacturer": "Intel",
+    "Part #": "23P6PC00BA",
+    "Chipset": "Arc Pro A50",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2000 MHz",
+    "Boost Clock": "2350 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 2.0 Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gg7scf/intel-23p6pc00ba-arc-pro-a50-6-gb-video-card-23p6pc00ba"
+}

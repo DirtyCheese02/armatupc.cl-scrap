@@ -1,0 +1,11 @@
+{
+    "name": "Intel 750 800 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDMW800G4X1",
+    "Capacity": "800 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GDx9TW/intel-internal-hard-drive-ssdpedmw800g4x1"
+}

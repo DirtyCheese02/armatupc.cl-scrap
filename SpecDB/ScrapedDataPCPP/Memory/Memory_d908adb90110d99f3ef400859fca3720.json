@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6200 CL36 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH32GX5M2E6200C36",
+    "Speed": "DDR5-6200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$13.750",
+    "Color": "Black",
+    "First Word Latency": "11.613 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.4 V",
+    "Timing": "36-46-46-100",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kFGhP6/corsair-vengeance-rgb-32-gb-2-x-16-gb-ddr5-6200-cl36-memory-cmh32gx5m2e6200c36"
+}

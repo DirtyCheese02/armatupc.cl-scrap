@@ -1,0 +1,21 @@
+{
+    "name": "APC SUA750XLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA750XLI",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "750 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "16.90 Minutes",
+    "Backup/Run Time (Half Load)": "51.80 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[8 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hHNypg/apc-ups-sua750xli"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Kingston SSDNow mS200 240 GB mSATA Solid State Drive",
+    "Manufacturer": "Kingston",
+    "Part #": "SMS200S3/240G",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q4R48d/kingston-internal-hard-drive-sms200s3240g"
+}

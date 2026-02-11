@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Hermes RGB 32 GB (2 x 16 GB) DDR5-7200 CL34 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "[BL.9BWWR.407, HERMES-32GB-7200-1R8-V3]",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-45-45-115",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fG4Zxr/acer-predator-hermes-rgb-32-gb-2-x-16-gb-ddr5-7200-cl34-memory-bl9bwwr407"
+}

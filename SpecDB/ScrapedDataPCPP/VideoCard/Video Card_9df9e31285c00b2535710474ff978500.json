@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-40501-10L GeForce GTS 450 1 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-40501-10L",
+    "Chipset": "GeForce GTS 450",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "3608 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "106 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JB3RsY/zotac-video-card-zt4050110l"
+}

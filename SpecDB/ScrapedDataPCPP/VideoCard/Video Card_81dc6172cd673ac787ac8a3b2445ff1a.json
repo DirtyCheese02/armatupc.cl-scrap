@@ -1,0 +1,21 @@
+{
+    "name": "Galaxy 60XGH6HS3HML GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "Galaxy",
+    "Part #": "60XGH6HS3HML",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "3696 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/byMFf7/galaxy-video-card-60xgh6hs3hml"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Asus DUAL Radeon RX 6400 4 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RX6400-4G, 90YV0H90-M0NA00]",
+    "Chipset": "Radeon RX 6400",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1923 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "201 mm",
+    "TDP": "53 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cPTp99/asus-radeon-rx-6400-4-gb-dual-video-card-dual-rx6400-4g"
+}

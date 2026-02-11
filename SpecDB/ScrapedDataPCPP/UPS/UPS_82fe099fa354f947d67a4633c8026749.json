@@ -1,0 +1,18 @@
+{
+    "name": "CyberPower BRG1500AVRLCD2 UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "BRG1500AVRLCD2",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Communication": "USB, Serial",
+    "Data line protection": "Ethernet",
+    "Outlets": "12 (6 surge, 6 surge + battery backup)",
+    "Output": "120 VAC ± 5%",
+    "Plug type & cord": "NEMA 5-15P, 6ft. cord",
+    "Runtime (half/full)": "12 minutes / 2 minutes",
+    "SNMP/HTTP Remote management": "Yes, with optional RMCARD205, RCCARD100 or RWCCARD100",
+    "Topology": "Line Interactive",
+    "USB Charge Ports": "2 (1 USB-A 2.4A, 1 USB-C 18W PD)",
+    "Waveform": "Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2pP8TW/cyberpower-brg1500avrlcd2-ups-brg1500avrlcd2"
+}

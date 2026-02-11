@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite OMNIVS800 UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNIVS800",
+    "Capacity (W)": "475 W",
+    "Capacity (VA)": "800 VA",
+    "Alarm": "[On Battery, Utility Power Failure]",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "11.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA 5-15R, 1 x NEMA 5-15R]",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nWX2FT/tripp-lite-ups-omnivs800"
+}

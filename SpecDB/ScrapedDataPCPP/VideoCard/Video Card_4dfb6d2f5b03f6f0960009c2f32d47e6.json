@@ -1,0 +1,20 @@
+{
+    "name": "XFX HD-485X-ZDFC Radeon HD 4850 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-485X-ZDFC",
+    "Chipset": "Radeon HD 4850",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "625 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "110 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ccK7YJ/xfx-video-card-hd485xzdfc"
+}

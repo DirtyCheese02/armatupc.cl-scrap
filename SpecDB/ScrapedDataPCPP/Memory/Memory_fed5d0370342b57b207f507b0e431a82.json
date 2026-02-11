@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LED 64 GB (4 x 16 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMU64GX4M4C3000C15B",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z3wqqs/corsair-vengeance-led-64gb-4-x-16gb-ddr4-3000-memory-cmu64gx4m4c3000c15b"
+}

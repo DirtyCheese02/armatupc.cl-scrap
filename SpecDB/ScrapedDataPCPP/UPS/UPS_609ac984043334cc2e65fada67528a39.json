@@ -1,0 +1,20 @@
+{
+    "name": "APC SU1000RMI2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SU1000RMI2U",
+    "Capacity (W)": "670 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Backup/Run Time (Full Load)": "9.10 Minutes",
+    "Backup/Run Time (Half Load)": "31.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "[2 x IEC 320-C13, 4]",
+    "Serial Port": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bZ8H99/apc-ups-su1000rmi2u"
+}

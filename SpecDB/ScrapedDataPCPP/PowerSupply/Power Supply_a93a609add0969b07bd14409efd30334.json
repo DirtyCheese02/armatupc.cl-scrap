@@ -1,0 +1,22 @@
+{
+    "name": "CoolMax ZPG-500B 500 W 80+ Gold Certified ATX Power Supply",
+    "Manufacturer": "CoolMax",
+    "Part #": "ZPG-500B",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "500 W",
+    "Length": "165 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@20A, +5V@20A, +12V1@41A, -12V@0.5A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XPtCmG/coolmax-500w-80-gold-certified-atx-power-supply-zpg-500b"
+}

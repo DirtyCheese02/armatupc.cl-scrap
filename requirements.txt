@@ -1,0 +1,9 @@
+ollama
+requests
+supabase
+flask
+python-dotenv
+beautifulsoup4
+lxml
+pydoll-python
+Pillow

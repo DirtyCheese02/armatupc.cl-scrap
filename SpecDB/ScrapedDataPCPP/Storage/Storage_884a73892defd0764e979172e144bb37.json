@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M6M 512 GB mSATA Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-512M6M",
+    "Capacity": "512 GB",
+    "Price / GB": "$1.031",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9188",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ghsKHx/plextor-internal-hard-drive-px512m6m"
+}

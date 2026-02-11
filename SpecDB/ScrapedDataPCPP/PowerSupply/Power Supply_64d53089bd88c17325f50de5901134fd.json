@@ -1,0 +1,19 @@
+{
+    "name": "Antec VP-P 450 W ATX Power Supply",
+    "Manufacturer": "Antec",
+    "Part #": "VP450P",
+    "Type": "ATX",
+    "Wattage": "450 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dQCrxr/antec-450w-atx-power-supply-vp450p"
+}

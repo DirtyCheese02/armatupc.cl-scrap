@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 64 GB (4 x 16 GB) DDR4-2800 SODIMM CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2800C18Q-64GRS",
+    "Speed": "DDR4-2800",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "12.857 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vLPzK8/gskill-memory-f42800c18q64grs"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li UNI FAN SL V2 120 Reverse 65.4 CFM 120 mm Fan",
+    "Manufacturer": "Lian Li",
+    "Model": "UNI FAN SL V2 120 Reverse",
+    "Part #": "[RSL120V2-1B, UF-RSL120V2-1B, G99.12RSLV21B.00, 12RSLV2-1B]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "250 - 2000 RPM",
+    "Airflow": "65.4 CFM",
+    "Noise Level": "32 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.19 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CvvD4D/lian-li-uni-fan-sl-v2-120-reverse-654-cfm-120-mm-fan-rsl120v2-1b"
+}

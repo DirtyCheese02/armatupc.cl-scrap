@@ -1,0 +1,19 @@
+{
+    "name": "APC BK650EI UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK650EI",
+    "Capacity (W)": "400 W",
+    "Capacity (VA)": "650 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "11.40 Minutes",
+    "Backup/Run Time (Half Load)": "2.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Receptacles": "[2 x IEC 320-C13, 1 x IEC 320-C13, 3 x IEC 320-C13]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Stepped Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zRGj4D/apc-ups-bk650ei"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Wintec AMPX 8 GB (2 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "3AXH1600C9WS8GK",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pB2kcf/wintec-memory-3axh1600c9ws8gk"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "BitFenix Spectre Pro 56.22 CFM 120 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-SRGB-12025C-RP",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "56.22 CFM",
+    "Noise Level": "18.9 dB",
+    "PWM": "No",
+    "LED": "RGB",
+    "Connector": "3-pin + 4-pin 12V RGB",
+    "Controller": "12V RGB",
+    "Static Pressure": "1.24 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r6XnTW/bitfenix-spectre-pro-rgb-120-5622-cfm-120-mm-fan-bff-srgb-12025c-rp"
+}

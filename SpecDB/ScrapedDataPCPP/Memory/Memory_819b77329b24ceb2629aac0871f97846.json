@@ -1,0 +1,16 @@
+{
+    "name": "Kingston KVR16E11S8/4 4 GB (1 x 4 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR16E11S8/4",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Price / GB": "$7.173",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PcW9TW/kingston-memory-kvr16e11s84"
+}

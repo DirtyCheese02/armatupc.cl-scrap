@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 3X OC GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 5080 16G VENTUS 3X OC, G5080-16V3C, 912-V531-264, RTX 5080 16G VENTUS 3X OC, V531-095R]",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2655 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "303 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xYTFf7/msi-ventus-3x-oc-geforce-rtx-5080-16-gb-video-card-geforce-rtx-5080-16g-ventus-3x-oc"
+}

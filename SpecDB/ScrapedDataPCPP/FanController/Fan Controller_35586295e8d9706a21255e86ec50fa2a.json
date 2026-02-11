@@ -1,0 +1,11 @@
+{
+    "name": "Lamptron FC-FANATIC-B Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Part #": "FC-FANATIC-B",
+    "Channels": "5",
+    "Channel Wattage": "60 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[black, CNC milled solid aluminium panel of up to 3/4\", 5 independant channels with 60W output per each channel, A total of 300W output control capability across all channels, Red LED indicates high RPM setting, Blue LED indicates low RPM setting, Off setting for all connected fans, 5 x 3-pin connector to fan, 1 x 4-pin molex connector to power supply, Non-direct light technology LED voltage indicator avoids light interfere, Fits any standard 5.25\" drive bay (5-7/8\" x 1-5/8\")]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2YphP6/lamptron-fan-controller-fcfanaticb"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI AERO ITX 2GD4 OC GeForce GT 1030 DDR4 2 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GT 1030 AERO ITX 2GD4 OC, GEFORCE GT 1030 AERO ITX 2GD4 OC, V809-2824R]",
+    "Chipset": "GeForce GT 1030 DDR4",
+    "Memory": "2 GB",
+    "Memory Type": "DDR4",
+    "Core Clock": "1189 MHz",
+    "Boost Clock": "1430 MHz",
+    "Effective Memory Clock": "2100 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / White",
+    "Frame Sync": "None",
+    "Length": "147 mm",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Single Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WnZFf7/msi-geforce-gt-1030-2-gb-aero-itx-2gd4-oc-video-card-gt-1030-aero-itx-2gd4-oc"
+}

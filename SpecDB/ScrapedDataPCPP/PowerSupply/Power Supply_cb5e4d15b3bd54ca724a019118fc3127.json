@@ -1,0 +1,23 @@
+{
+    "name": "Corsair HX750i 750 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "HX750i",
+    "Part #": "[CP-9020072, CP-9020072-UK, CP-9020072-NA, CP-9020072-EU, CP-9020072-AU]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "750 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@25A, +5V@25A, +12V@62.5A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BJFPxr/corsair-hx750i-750-w-80-platinum-certified-fully-modular-atx-power-supply-cp-9020072"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SMART700HG UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART700HG",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "700 VA",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "18 Minutes",
+    "Backup/Run Time (Half Load)": "42 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sbjWGX/tripp-lite-ups-smart700hg"
+}

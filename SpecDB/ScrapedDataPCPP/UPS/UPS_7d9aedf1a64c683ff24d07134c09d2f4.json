@@ -1,0 +1,16 @@
+{
+    "name": "Tripp Lite OMNI1500LCDT UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNI1500LCDT",
+    "Capacity (W)": "810 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Half Load)": "7.50 Minutes",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "5 x NEMA 5-15R",
+    "Switching Time": "2 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TXH48d/tripp-lite-ups-omni1500lcdt"
+}

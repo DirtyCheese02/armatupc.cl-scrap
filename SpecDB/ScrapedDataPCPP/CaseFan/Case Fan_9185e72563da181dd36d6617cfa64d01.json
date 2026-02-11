@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master MasterFan MFL RGB 32.5 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "R4-C1DS-12FC-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "32.5 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "No",
+    "LED": "Multicolor",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.77 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rX2bt6/cooler-master-masterfan-mf120l-rgb-325-cfm-fan-r4-c1ds-12fc-r1"
+}

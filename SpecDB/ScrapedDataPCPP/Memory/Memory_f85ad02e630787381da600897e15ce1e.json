@@ -1,0 +1,15 @@
+{
+    "name": "AMD RG2133 Gamer 16 GB (4 x 4 GB) DDR3-2133 CL10 Memory",
+    "Manufacturer": "AMD",
+    "Part #": "AG316G2130U1Q",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Price / GB": "$10.756",
+    "First Word Latency": "9.376 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lrdqqs/amd-memory-ag316g2130u1q"
+}

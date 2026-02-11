@@ -1,0 +1,16 @@
+{
+    "name": "GeIL SUPER LUCE RGB SYNC 8 GB (2 x 4 GB) DDR4-2400 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLS48GB2400C16DC",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H8RFf7/geil-super-luce-rgb-sync-8gb-2-x-4gb-ddr4-2400-memory-gls48gb2400c16dc"
+}

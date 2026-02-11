@@ -1,0 +1,22 @@
+{
+    "name": "Yeston LP GeForce RTX 3050 6GB 6 GB Video Card",
+    "Manufacturer": "Yeston",
+    "Part #": "RTX3050-6GD6 LP",
+    "Chipset": "GeForce RTX 3050 6GB",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1040 MHz",
+    "Boost Clock": "1470 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Pink",
+    "Frame Sync": "G-Sync",
+    "Length": "160 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7PxTwP/yeston-lp-geforce-rtx-3050-6gb-6-gb-video-card-rtx3050-6gd6-lp"
+}

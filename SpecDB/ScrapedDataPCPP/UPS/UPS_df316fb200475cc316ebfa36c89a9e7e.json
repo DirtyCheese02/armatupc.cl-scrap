@@ -1,0 +1,18 @@
+{
+    "name": "APC BN600G UPS",
+    "Manufacturer": "APC",
+    "Part #": "BN600G",
+    "Capacity (W)": "360 W",
+    "Capacity (VA)": "600 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "13.40 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Battery Life": "5 Year",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "115 V AC",
+    "Receptacles": "4",
+    "Switching Time": "10 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HLDzK8/apc-ups-bn600g"
+}

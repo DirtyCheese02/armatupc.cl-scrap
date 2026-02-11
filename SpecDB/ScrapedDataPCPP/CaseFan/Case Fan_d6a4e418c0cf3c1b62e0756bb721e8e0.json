@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone AP 44.2 CFM 140 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "[SST-AP142-ARGB, AP142-ARGB]",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "13.62 - 44.2 CFM",
+    "Noise Level": "19.25 - 23.54 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4Fx2FT/silverstone-sst-ap142-argb-442-cfm-140-mm-fan-sst-ap142-argb"
+}

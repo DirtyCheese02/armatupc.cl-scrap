@@ -1,0 +1,15 @@
+{
+    "name": "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-2400 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK32GX4M2A2400C16",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mwcMnQ/corsair-memory-cmk32gx4m2a2400c16"
+}

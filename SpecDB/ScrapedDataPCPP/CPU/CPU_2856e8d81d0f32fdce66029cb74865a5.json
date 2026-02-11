@@ -1,0 +1,23 @@
+{
+    "name": "Intel Pentium G3450 3.4 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "CM8064601483714",
+    "Series": "Intel Pentium",
+    "Microarchitecture": "Haswell Refresh",
+    "Core Family": "Haswell Refresh",
+    "Socket": "LGA1150",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.4 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "3 MB",
+    "TDP": "53 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MKH48d/intel-cpu-cm8064601483714"
+}

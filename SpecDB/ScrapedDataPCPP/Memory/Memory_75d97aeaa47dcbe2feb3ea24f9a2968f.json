@@ -1,0 +1,14 @@
+{
+    "name": "Crucial Ballistix Smart Tracer 2 GB (1 x 2 GB) DDR3-1600 CL8 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLT2G3D1608DT2TXRG",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qVNp99/crucial-memory-blt2g3d1608dt2txrg"
+}

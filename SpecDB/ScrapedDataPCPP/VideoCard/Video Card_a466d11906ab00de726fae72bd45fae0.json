@@ -1,0 +1,22 @@
+{
+    "name": "AMD FirePro V7900 SDI FirePro V7900 SDI 2 GB Video Card",
+    "Manufacturer": "AMD",
+    "Model": "FirePro V7900 SDI",
+    "Part #": "100-505846",
+    "Chipset": "FirePro V7900 SDI",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "725 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "279 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DQ7CmG/amd-video-card-100505846"
+}

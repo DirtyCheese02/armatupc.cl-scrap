@@ -1,0 +1,17 @@
+{
+    "name": "Enermax Cluster Adv 86.69 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCCLA12P",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 1800 RPM",
+    "Airflow": "53.02 - 86.69 CFM",
+    "PWM": "Yes",
+    "LED": "White",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Features": "[PWM speed control to keep your system cool and silent all the time, Smart APS (Adjustable Peak Speed) control providing 3 peak rpm options, Twister Bearing technology for long lifetime and low noise, Batwing Blade design and Carved Halo Frame for extra 20%~30% airflow, Detachable fan blades for easy cleaning, Isolator-mounts for shockproof and easy installation, White lightning LED can be on or off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h7mLrH/enermax-cluster-adv-8669-cfm-120-mm-fan-uccla12p"
+}

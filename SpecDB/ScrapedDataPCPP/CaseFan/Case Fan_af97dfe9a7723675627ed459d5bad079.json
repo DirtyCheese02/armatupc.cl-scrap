@@ -1,0 +1,18 @@
+{
+    "name": "Silverstone AP 140.13 CFM 180 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-AP183",
+    "Size": "180 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1500 RPM",
+    "Airflow": "24.49 - 140.13 CFM",
+    "Noise Level": "18 - 37 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.17 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6BsmP6/silverstone-silverstone-ap-series-sst-ap183-180mm-case-fan-14013-cfm-180-mm-fan-sst-ap183"
+}

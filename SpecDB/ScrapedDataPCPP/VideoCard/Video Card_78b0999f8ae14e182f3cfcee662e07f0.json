@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte EAGLE GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N3080EAGLE-12GD",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1710 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "320 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7LKKHx/gigabyte-geforce-rtx-3080-12gb-lhr-12-gb-eagle-video-card-gv-n3080eagle-12gd"
+}

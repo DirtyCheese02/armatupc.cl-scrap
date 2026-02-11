@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Titanium 64 GB (2 x 32 GB) DDR5-6600 CL32 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMP64GX5M2X6600C32",
+    "Speed": "DDR5-6600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "9.697 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2pV2FT/corsair-dominator-titanium-64-gb-2-x-32-gb-ddr5-6600-cl32-memory-cmp64gx5m2x6600c32"
+}

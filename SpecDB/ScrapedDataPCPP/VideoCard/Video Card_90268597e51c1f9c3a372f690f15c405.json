@@ -1,0 +1,23 @@
+{
+    "name": "ATI FirePro W8100 FirePro W8100 8 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro W8100",
+    "Part #": "100-505738",
+    "Chipset": "FirePro W8100",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "824 MHz",
+    "Effective Memory Clock": "5500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "279 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cmV48d/ati-video-card-100505738"
+}

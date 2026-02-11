@@ -1,0 +1,15 @@
+{
+    "name": "VisionTek 900616 4 GB (1 x 4 GB) DDR2-800 SODIMM CL6 Memory",
+    "Manufacturer": "VisionTek",
+    "Part #": "900616",
+    "Speed": "DDR2-800",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 4GB",
+    "Color": "Blue",
+    "First Word Latency": "15 ns",
+    "CAS Latency": "6",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PdK7YJ/visiontek-memory-900616"
+}

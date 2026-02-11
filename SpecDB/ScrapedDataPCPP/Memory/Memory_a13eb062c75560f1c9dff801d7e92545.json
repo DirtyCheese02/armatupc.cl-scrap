@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill F3-1600C11S-8GSQ 8 GB (1 x 8 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1600C11S-8GSQ",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yMh9TW/gskill-memory-f31600c11s8gsq"
+}

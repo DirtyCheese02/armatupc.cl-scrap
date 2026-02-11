@@ -1,0 +1,13 @@
+{
+    "name": "Plextor M6e 128 GB M.2-2280 PCIe 3.0 X2 NVME Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-G128M6e",
+    "Capacity": "128 GB",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X2",
+    "NVME": "Yes",
+    "SSD Controller": "Marvell 9183",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xXCwrH/plextor-internal-hard-drive-pxg128m6e"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M3 Pro 512 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-512M3P",
+    "Capacity": "512 GB",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9174",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gHH323/plextor-internal-hard-drive-px512m3p"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "NZXT Zero 2 ATX Full Tower Case",
+    "Manufacturer": "NZXT",
+    "Part #": "CS-NT-ZERO-2",
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Drive Bays": "[5 x External 5.25\", 2 x External 3.5\", 6 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[80 mm, 120 mm]",
+    "Radiator Support": "[120 mm, 240 mm]",
+    "Dimensions": "[535 mm x 210 mm x 531 mm, 21.063\" x 8.268\" x 20.906\"]",
+    "Volume": "[59.658 L, 2.107 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ps3RsY/nzxt-case-csntzero2"
+}

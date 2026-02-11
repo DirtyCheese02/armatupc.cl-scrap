@@ -1,0 +1,16 @@
+{
+    "name": "Kingston Impact 32 GB (2 x 16 GB) DDR4-2400 SODIMM CL14 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX424S14IBK2/32",
+    "Speed": "DDR4-2400",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "Timing": "14-14-14-30",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mzfmP6/kingston-impact-32gb-2-x-16gb-ddr4-2400-memory-hx424s14ibk232"
+}

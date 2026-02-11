@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Beast 64 GB (8 x 8 GB) DDR3-2133 CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX321C11T3FK8/64",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "8 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10.314 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zCmxFT/kingston-memory-hx321c11t3fk864"
+}

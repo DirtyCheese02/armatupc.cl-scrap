@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Vertex 30 GB 2.5\" Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZSSD2-1VTX30GXXX",
+    "Capacity": "30 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Indilinx Barefoot 1",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MGTmP6/ocz-internal-hard-drive-oczssd21vtx30gxxx"
+}

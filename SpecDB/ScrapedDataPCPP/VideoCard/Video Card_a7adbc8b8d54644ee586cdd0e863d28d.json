@@ -1,0 +1,22 @@
+{
+    "name": "Biostar VA7906AMF4 Radeon RX 7900 XTX 24 GB Video Card",
+    "Manufacturer": "Biostar",
+    "Part #": "VA7906AMF4",
+    "Chipset": "Radeon RX 7900 XTX",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1855 MHz",
+    "Boost Clock": "2499 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "320 mm",
+    "TDP": "355 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q8dG3C/biostar-va7906amf4-radeon-rx-7900-xtx-24-gb-video-card-va7906amf4"
+}

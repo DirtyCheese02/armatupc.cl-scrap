@@ -1,0 +1,20 @@
+{
+    "name": "Silverstone Air Penetrator 35.36 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "AP121-WL",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "35.36 CFM",
+    "Noise Level": "22.4 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.71 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Industry leading air channeling fan., Wide fan blades for reducing air resistance., Standard 120mm frame for maximum compatibility with CPU coolers., Integrated air channeling grille double as fan guard to reduce overall size., Low power consumption., The Fluid Dynamic Bearing (FDB) for high reliability., Rated Voltage: 12V DC, Start Voltage: 5V DC, Rated Current: Max 0.33A (Actual) 0.09A, Rated Power: Max 3.96W (Actual)1.56W, ffective Airflow Range: 1 Meter, Static Pressure: 1.71mmH2O, Air Speed: 2.5m/s (measured at fan exit), Noice Reduction: Includes two speed reduction cables, Life Time: 50000 hours]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/twdqqs/silverstone-case-fan-ap121wl"
+}

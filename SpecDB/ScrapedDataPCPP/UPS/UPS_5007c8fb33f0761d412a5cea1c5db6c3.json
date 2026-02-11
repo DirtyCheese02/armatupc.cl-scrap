@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite OMNI1000ISO UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNI1000ISO",
+    "Capacity (W)": "700 W",
+    "Capacity (VA)": "1000 VA",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zzM323/tripp-lite-ups-omni1000iso"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Crucial Ballistix 8 GB (4 x 2 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLS4KIT2G3D1609DS1S00",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 2GB",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mnfp99/crucial-memory-bls4kit2g3d1609ds1s00"
+}

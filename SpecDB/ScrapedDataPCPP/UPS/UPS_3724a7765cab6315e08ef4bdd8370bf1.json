@@ -1,0 +1,19 @@
+{
+    "name": "CyberPower OR1500PFCRT2U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "OR1500PFCRT2U",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "21 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-11, RG-6]",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fwVBD3/cyberpower-ups-or1500pfcrt2u"
+}

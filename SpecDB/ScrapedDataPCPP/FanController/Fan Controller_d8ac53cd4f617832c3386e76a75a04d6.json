@@ -1,0 +1,12 @@
+{
+    "name": "NZXT Sentry 2 Fan Controller",
+    "Manufacturer": "NZXT",
+    "Model": "Sentry 2",
+    "Part #": "[Sentry-2, SEN2-001]",
+    "Channels": "5",
+    "Channel Wattage": "10 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "5.25\"",
+    "Features": "[Touch screen interface, Five fan control through an intuitive interface, Ultra fast selection and response time, Display temperatures in both F and C, Light switch turns off the meter when sleeping, Automatic and manual modes of control, Full compatibility with all types of fans using voltage control, With a maximum of 10 Watts per channel, the Sentry 2 will support almost all high end fans, Tuned accuracy with only a tolerance of one degree, Sound alarm to alert when the temperature is over, Stored settings, the Sentry keeps your settings even after power off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9f6BD3/nzxt-fan-controller-sentry2"
+}

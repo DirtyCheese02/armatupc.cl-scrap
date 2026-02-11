@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M8Pe 1 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-1TM8PeY",
+    "Capacity": "1 TB",
+    "Type": "SSD",
+    "Cache": "1024 MB",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Marvell 88SS1093",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BTYWGX/plextor-m8pe-1tb-pci-e-solid-state-drive-px-1tm8pey"
+}

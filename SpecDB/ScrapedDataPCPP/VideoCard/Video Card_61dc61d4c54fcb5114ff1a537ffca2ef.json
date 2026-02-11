@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Red Devil OC Radeon RX 6800 XT 16 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 6800XT 16GBD6-3DHE/OC",
+    "Chipset": "Radeon RX 6800 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1825 MHz",
+    "Boost Clock": "2340 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "320 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9KJmP6/powercolor-radeon-rx-6800-xt-16-gb-red-devil-oc-video-card-axrx-6800xt-16gbd6-3dheoc"
+}

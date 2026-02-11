@@ -1,0 +1,23 @@
+{
+    "name": "MSI LIGHTNING X GeForce GTX 580 3 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N580GTX Lightning Xtreme Edition",
+    "Chipset": "GeForce GTX 580",
+    "Memory": "3 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "832 MHz",
+    "Effective Memory Clock": "4200 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[4-way SLI Capable, 3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "304 mm",
+    "TDP": "244 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tdh9TW/msi-video-card-n580gtxlightningxtremeedition"
+}

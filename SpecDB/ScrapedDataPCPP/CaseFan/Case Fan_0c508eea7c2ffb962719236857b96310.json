@@ -1,0 +1,18 @@
+{
+    "name": "Gelid Solutions LYRA 70 CFM 140 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Part #": "FN-LYRA-01",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "750 - 1600 RPM",
+    "Airflow": "70 CFM",
+    "Noise Level": "35 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.8 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZrxxFT/gelid-solutions-lyra-70-cfm-140-mm-fan-fn-lyra-01"
+}

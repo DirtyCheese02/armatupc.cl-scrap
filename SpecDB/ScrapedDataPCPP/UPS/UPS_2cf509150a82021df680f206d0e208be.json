@@ -1,0 +1,16 @@
+{
+    "name": "APC BK400 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK400",
+    "Capacity (W)": "250 W",
+    "Capacity (VA)": "400 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "10 Hour",
+    "Output Voltage": "115 V AC",
+    "Switching Time": "3 ms",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dwVBD3/apc-ups-bk400"
+}

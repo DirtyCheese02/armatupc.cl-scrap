@@ -1,0 +1,16 @@
+{
+    "name": "Logitech MX BRIO Webcam",
+    "Manufacturer": "Logitech",
+    "Part #": "[960-001550, 960-001559]",
+    "Resolution": "[4k, 1080p]",
+    "Connection": "USB 3.2 Gen 1 Type-C",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, ChromeOS]",
+    "FOV Angle": "90°",
+    "Digital Zoom": "4X",
+    "Sensor Pixels": "8.5 MP",
+    "Privacy Shutter": "Yes",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fPkH99/logitech-mx-brio-webcam-960-001550"
+}

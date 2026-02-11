@@ -1,0 +1,19 @@
+{
+    "name": "ID-COOLING ZF-14025-ARGB 79.5 CFM 140 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "ZF-14025-ARGB",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1600 RPM",
+    "Airflow": "79.5 CFM",
+    "Noise Level": "16.8 - 36.5 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.85 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rgGbt6/id-cooling-zf-14025-argb-795-cfm-140-mm-fan-zf-14025-argb"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Tripp Lite OMNISMART350HG UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNISMART350HG",
+    "Capacity (W)": "225 W",
+    "Capacity (VA)": "330 VA",
+    "Alarm": "On Battery",
+    "Backup/Run Time (Full Load)": "18 Minutes",
+    "Backup/Run Time (Half Load)": "46 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FBPzK8/tripp-lite-ups-omnismart350hg"
+}

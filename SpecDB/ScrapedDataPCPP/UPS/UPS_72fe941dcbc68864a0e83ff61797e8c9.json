@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite SMART2200RMXL2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART2200RMXL2U",
+    "Capacity (W)": "1920 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "[120 V AC, 110 V AC]",
+    "Protection Type": "[Over Voltage, Under Voltage]",
+    "Receptacles": "[4 x NEMA 5-15R, 4 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7ccMnQ/tripp-lite-ups-smart2200rmxl2u"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK32GX5M2E6000Z36W",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "12 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-44-44-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xDkqqs/corsair-vengeance-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-cmk32gx5m2e6000z36w"
+}

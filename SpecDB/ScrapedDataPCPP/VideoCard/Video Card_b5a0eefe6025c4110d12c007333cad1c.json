@@ -1,0 +1,21 @@
+{
+    "name": "Asus DUAL Radeon RX 9060 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "DUAL-RX9060-8G",
+    "Chipset": "Radeon RX 9060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1700 MHz",
+    "Boost Clock": "3000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "202 mm",
+    "TDP": "132 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d4G2FT/asus-dual-radeon-rx-9060-8-gb-video-card-dual-rx9060-8g"
+}

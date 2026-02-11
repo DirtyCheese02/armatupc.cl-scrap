@@ -1,0 +1,15 @@
+{
+    "name": "Kingston XMP 10th Anniversary 16 GB (4 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX16LC9X3K4/16X",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Gray / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mTGkcf/kingston-memory-khx16lc9x3k416x"
+}

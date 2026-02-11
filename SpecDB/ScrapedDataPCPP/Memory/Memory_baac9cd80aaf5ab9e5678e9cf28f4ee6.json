@@ -1,0 +1,15 @@
+{
+    "name": "GeIL DRAGON 8 GB (1 x 8 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GD38GB1333C9SC",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TFckcf/geil-memory-gd38gb1333c9sc"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Enermax D.F. Storm 155.08 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCDFS12P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 - 3500 RPM",
+    "Airflow": "72.47 - 155.08 CFM",
+    "Noise Level": "23 - 38 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2Lc48d/enermax-ucdfs12p-1551-cfm-120mm-fan-ucdfs12p"
+}

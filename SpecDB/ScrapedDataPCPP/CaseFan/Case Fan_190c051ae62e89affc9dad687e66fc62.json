@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone Shark Force 120 CFM 140 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-SF140B-ARGB",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 120 CFM",
+    "Noise Level": "0 - 38.3 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "4 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vTwmP6/silverstone-shark-force-120-cfm-140-mm-fan-sst-sf140b-argb"
+}

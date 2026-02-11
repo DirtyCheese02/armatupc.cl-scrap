@@ -1,0 +1,23 @@
+{
+    "name": "NVIDIA Founders Edition GeForce RTX 2080 Ti 11 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "900-1G150-2530-000",
+    "Chipset": "GeForce RTX 2080 Ti",
+    "Memory": "11 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1350 MHz",
+    "Boost Clock": "1635 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "267 mm",
+    "TDP": "260 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3G66Mp/nvidia-geforce-rtx-2080-ti-11-gb-founders-edition-video-card-900-1g150-2530-000"
+}

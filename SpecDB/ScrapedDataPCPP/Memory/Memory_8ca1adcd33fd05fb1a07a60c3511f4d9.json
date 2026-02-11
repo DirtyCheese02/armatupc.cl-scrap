@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-4700 CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMW16GX4M2K4700C19",
+    "Speed": "DDR4-4700",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "8.085 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.5 V",
+    "Timing": "19-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G8smP6/corsair-vengeance-rgb-pro-16gb-2-x-8gb-ddr4-4700-memory-cmw16gx4m2k4700c19"
+}

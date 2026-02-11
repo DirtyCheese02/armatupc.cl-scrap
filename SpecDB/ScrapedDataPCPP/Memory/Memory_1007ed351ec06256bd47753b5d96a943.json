@@ -1,0 +1,16 @@
+{
+    "name": "GeIL ORION V AMD 32 GB (2 x 16 GB) DDR5-5200 CL42 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAVR532GB5200C42DC",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "Timing": "42-42-42-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ptCZxr/geil-orion-v-amd-32-gb-2-x-16-gb-ddr5-5200-cl42-memory-gavr532gb5200c42dc"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte WINDFORCE OC SFF GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N5080WF3OC-16GD",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "304 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8dXMnQ/gigabyte-windforce-oc-sff-geforce-rtx-5080-16-gb-video-card-gv-n5080wf3oc-16gd"
+}

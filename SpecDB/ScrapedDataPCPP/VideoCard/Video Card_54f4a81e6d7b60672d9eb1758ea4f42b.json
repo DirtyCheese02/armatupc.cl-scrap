@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte D6 Radeon RX 5500 XT 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R55XTD6-8GD",
+    "Chipset": "Radeon RX 5500 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1607 MHz",
+    "Boost Clock": "1845 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "225 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/42XYcf/gigabyte-d6-radeon-rx-5500-xt-8-gb-video-card-gv-r55xtd6-8gd"
+}

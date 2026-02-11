@@ -1,0 +1,22 @@
+{
+    "name": "Asus EAH6870 DC/2DI2S/1GD5 Radeon HD 6870 1 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "EAH6870 DC/2DI2S/1GD5",
+    "Chipset": "Radeon HD 6870",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "915 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "276 mm",
+    "TDP": "151 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CMtCmG/asus-video-card-eah6870dc2di2s1gd5"
+}

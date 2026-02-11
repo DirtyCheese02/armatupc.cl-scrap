@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Create Classic 64 GB (2 x 32 GB) DDR4-3200 SODIMM CL22 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TTCCD464G3200HC22DC-S01",
+    "Speed": "DDR4-3200",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Silver / Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "Timing": "22-22-22-52",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/df7scf/teamgroup-t-create-classic-64-gb-2-x-32-gb-ddr4-3200-sodimm-cl22-memory-ttccd464g3200hc22dc-s01"
+}

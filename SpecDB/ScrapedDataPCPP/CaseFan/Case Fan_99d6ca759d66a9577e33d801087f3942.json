@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master MasterFan SF120P 43 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "MasterFan SF120P",
+    "Part #": "MFY-P2DN-24NPA-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 2000 RPM",
+    "Airflow": "43 CFM",
+    "Noise Level": "8 - 30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zGm323/cooler-master-masterfan-sf120p-argb-43-cfm-120-mm-fan-mfy-p2dn-24npa-r1"
+}

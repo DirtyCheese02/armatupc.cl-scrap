@@ -1,0 +1,22 @@
+{
+    "name": "VisionTek 900845 Radeon R9 380X 4 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900845",
+    "Chipset": "Radeon R9 380X",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "TDP": "190 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 6-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HVcMnQ/visiontek-video-card-900845"
+}

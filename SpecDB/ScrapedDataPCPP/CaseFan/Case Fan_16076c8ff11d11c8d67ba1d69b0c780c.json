@@ -1,0 +1,19 @@
+{
+    "name": "Deepcool FL12R 55 CFM 120 mm Fan",
+    "Manufacturer": "Deepcool",
+    "Model": "FL12R",
+    "Part #": "R-FL12R-WHAPN1-G",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "500 - 2150 RPM",
+    "Airflow": "55 CFM",
+    "Noise Level": "32 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.82 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FTDnTW/deepcool-fl12r-55-cfm-120-mm-fan-r-fl12r-whapn1-g"
+}

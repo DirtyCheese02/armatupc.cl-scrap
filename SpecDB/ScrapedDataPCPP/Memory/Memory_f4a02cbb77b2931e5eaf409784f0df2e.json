@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance 16 GB (4 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMZ16GX3M4X1600C9G",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/skNp99/corsair-memory-cmz16gx3m4x1600c9g"
+}

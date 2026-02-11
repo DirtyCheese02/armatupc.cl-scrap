@@ -1,0 +1,23 @@
+{
+    "name": "Gateway FHX2303LAbd 23.0\" 1920 x 1080 60 Hz Monitor",
+    "Manufacturer": "Gateway",
+    "Model": "FHX2303LAbd",
+    "Part #": "UM.VW3AA.A01",
+    "Screen Size": "23\"",
+    "Resolution": "1920 x 1080",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "5 ms",
+    "Panel Type": "TN",
+    "Aspect Ratio": "16:9",
+    "Brightness": "200 cd/m²",
+    "Pixel Pitch": "0.265 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "No",
+    "Viewing Angle": "110° H x 70° V",
+    "Display Colors": "16700000",
+    "Contrast Ratio": "100,000,000:1 (600:1)",
+    "Inputs": "[1 x DVI, 1 x VGA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m86BD3/gateway-monitor-umvw3aaa01"
+}

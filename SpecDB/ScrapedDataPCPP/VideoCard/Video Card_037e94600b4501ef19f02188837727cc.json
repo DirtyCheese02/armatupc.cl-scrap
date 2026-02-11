@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQGV100-PB Quadro GV100 32 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQGV100-PB",
+    "Chipset": "Quadro GV100",
+    "Memory": "32 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1200 MHz",
+    "Boost Clock": "1447 MHz",
+    "Effective Memory Clock": "1700 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D7GxFT/pny-quadro-gv100-32gb-video-card-vcqgv100-pb"
+}

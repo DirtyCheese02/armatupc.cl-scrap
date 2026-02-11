@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SU032GBSFU320F22AF 32 GB (2 x 16 GB) DDR4-3200 SODIMM CL22 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SU032GBSFU320F22AF, SU032GBSFU320X22BH]",
+    "Speed": "DDR4-3200",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fwvD4D/silicon-power-su032gbsfu320f22af-32-gb-2-x-16-gb-ddr4-3200-sodimm-cl22-memory-su032gbsfu320f22af"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Ripjaws S5 64 GB (2 x 32 GB) DDR5-6800 CL34 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6800J3445G32GX2-RS5K",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$14.687",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-45-45-108",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jjn9TW/gskill-ripjaws-s5-64-gb-2-x-32-gb-ddr5-6800-cl34-memory-f5-6800j3445g32gx2-rs5k"
+}

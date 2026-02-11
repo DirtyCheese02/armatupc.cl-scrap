@@ -1,0 +1,22 @@
+{
+    "name": "Galaxy 56NKH3HS4GNK GeForce GTX 560 Ti 448 1.25 GB Video Card",
+    "Manufacturer": "Galaxy",
+    "Part #": "56NKH3HS4GNK",
+    "Chipset": "GeForce GTX 560 Ti 448",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "732 MHz",
+    "Effective Memory Clock": "3800 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "228 mm",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XRdqqs/galaxy-video-card-56nkh3hs4gnk"
+}

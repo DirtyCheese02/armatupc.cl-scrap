@@ -1,0 +1,17 @@
+{
+    "name": "APC DLT1500I UPS",
+    "Manufacturer": "APC",
+    "Part #": "DLT1500I",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1500 VA",
+    "Alarm": "[Low Battery, Overload, Fault]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Tower/Rack Mountable",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "[220 V AC, 230 V AC, 240 V AC]",
+    "Protection Type": "[Surge, Overload, Spike, Lightning]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R9Wrxr/apc-ups-dlt1500i"
+}

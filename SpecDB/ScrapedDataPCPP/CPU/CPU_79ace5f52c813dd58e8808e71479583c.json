@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon 200GE 3.2 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "YD200GC6M2OFB",
+    "Series": "AMD Athlon",
+    "Microarchitecture": "Zen",
+    "Core Family": "Raven Ridge",
+    "Socket": "AM4",
+    "Core Count": "2",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "4 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "Radeon Vega 3",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "14 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yxm323/amd-athlon-200ge-32ghz-dual-core-oemtray-processor-yd200gc6m2ofb"
+}

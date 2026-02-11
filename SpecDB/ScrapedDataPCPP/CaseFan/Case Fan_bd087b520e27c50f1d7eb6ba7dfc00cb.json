@@ -1,0 +1,19 @@
+{
+    "name": "Noctua S12A PWM chromax.black.swap 63.27 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "S12A PWM chromax.black.swap",
+    "Part #": "[NF-S12A PWM chromax.black.swap, NF-S12A PWM CH.BK.S, NF-S12A PWM CHROMAX]",
+    "Size": "120 mm",
+    "Color": "Multicolor",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1200 RPM",
+    "Airflow": "63.27 CFM",
+    "Noise Level": "17.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.19 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CKFXsY/noctua-nf-s12a-pwm-chromaxblackswap-633-cfm-120mm-fan-nf-s12a-pwm-chromaxblackswap"
+}

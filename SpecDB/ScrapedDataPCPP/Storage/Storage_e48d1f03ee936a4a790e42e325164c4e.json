@@ -1,0 +1,13 @@
+{
+    "name": "Western Digital WD_Black SN850X 8 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Western Digital",
+    "Part #": "[WDS800T2X0E, WDS800T2X0E-00CDD0, WDBB9G0080BNC-WRSN]",
+    "Capacity": "8 TB",
+    "Price / GB": "$0.134",
+    "Type": "SSD",
+    "Cache": "2048 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mzJp99/western-digital-wd_black-sn850x-8-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds800t2x0e"
+}

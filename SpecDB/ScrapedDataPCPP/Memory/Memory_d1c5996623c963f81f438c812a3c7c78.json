@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force T1 16 GB (2 x 8 GB) DDR4-2666 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TTD416G2666C18HDC01",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VKCD4D/team-t-force-t1-16-gb-2-x-8-gb-ddr4-2666-memory-ttd416g2666c18hdc01"
+}

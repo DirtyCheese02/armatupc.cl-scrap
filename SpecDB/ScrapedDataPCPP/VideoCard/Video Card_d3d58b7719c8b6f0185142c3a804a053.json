@@ -1,0 +1,21 @@
+{
+    "name": "MSI SUPRIM SOC GeForce RTX 5090 32 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 5090 32G SUPRIM SOC, G5090-32SPS, RTX 5090 32G SUPRIM SOC, 912-V530-012, V530-026R]",
+    "Chipset": "GeForce RTX 5090",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2010 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "359 mm",
+    "TDP": "575 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bjy8TW/msi-suprim-soc-geforce-rtx-5090-32-gb-video-card-geforce-rtx-5090-32g-suprim-soc"
+}

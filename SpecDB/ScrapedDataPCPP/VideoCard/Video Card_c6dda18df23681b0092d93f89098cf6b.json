@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte EAGLE OC ICE GeForce RTX 5060 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N5060EAGLEOC ICE-8GD",
+    "Chipset": "GeForce RTX 5060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2280 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "208 mm",
+    "TDP": "145 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qVBFf7/gigabyte-eagle-oc-ice-geforce-rtx-5060-8-gb-video-card-gv-n5060eagleoc-ice-8gd"
+}

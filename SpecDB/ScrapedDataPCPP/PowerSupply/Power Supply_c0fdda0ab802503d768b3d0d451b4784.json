@@ -1,0 +1,23 @@
+{
+    "name": "SeaSonic M12II 850 EVO 850 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Model": "M12II 850 EVO",
+    "Part #": "[SSR-850GM2, SSR-850AM2]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "850 W",
+    "Length": "170 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "5",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2PDJ7P/seasonic-m12ii-evo-850-w-80-bronze-certified-fully-modular-atx-power-supply-ssr-850gm2"
+}

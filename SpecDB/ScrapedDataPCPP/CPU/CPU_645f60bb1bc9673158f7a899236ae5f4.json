@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-8100 2.8 GHz 8-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD8100WMW8KGU",
+    "Series": "AMD FX",
+    "Microarchitecture": "Bulldozer",
+    "Core Family": "Zambezi",
+    "Socket": "AM3+",
+    "Core Count": "8",
+    "Thread Count": "8",
+    "Performance Core Clock": "2.8 GHz",
+    "L2 Cache": "8 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JdR48d/amd-cpu-fd8100wmw8kgu"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Antec Prizm 5+C 45.03 CFM 120 mm Fans 5-Pack",
+    "Manufacturer": "Antec",
+    "Model": "Prizm 5+C",
+    "Part #": "[Prizm 120 ARGB 5+C, 0-761345-77512-0]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "5-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "45.03 CFM",
+    "Noise Level": "32.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "Static Pressure": "2.56 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BCx2FT/antec-prizm-120-argb-5c-4503-cfm-120-mm-fans-5-pack-prizm-120-argb-5c"
+}

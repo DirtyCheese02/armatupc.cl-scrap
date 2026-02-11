@@ -1,0 +1,23 @@
+{
+    "name": "ATI FirePro V8800 FirePro V8800 2 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro V8800",
+    "Part #": "100-505603",
+    "Chipset": "FirePro V8800",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "825 MHz",
+    "Effective Memory Clock": "4600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "208 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7ZyFf7/ati-video-card-100505603"
+}

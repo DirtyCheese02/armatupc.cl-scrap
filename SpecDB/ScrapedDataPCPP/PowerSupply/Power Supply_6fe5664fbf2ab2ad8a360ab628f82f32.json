@@ -1,0 +1,23 @@
+{
+    "name": "Silverstone SFX 800 W 80+ Titanium Certified Fully Modular SFX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Part #": "[SST-SX800-LTI, SX800-LTI]",
+    "Type": "SFX",
+    "Efficiency Rating": "80+ Titanium",
+    "Wattage": "800 W",
+    "Length": "130 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@16A, +5V@15A, +12V1@66A, +5VSB@2.5A, -12V@0.3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jbZ2FT/silverstone-sfx-800-w-80-titanium-certified-fully-modular-sfx-power-supply-sst-sx800-lti"
+}

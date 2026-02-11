@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Pro 32 GB (4 x 8 GB) DDR3-2133 CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMY32GX3M4A2133C11",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10.314 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "Timing": "11-11-11-27",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9MjG3C/corsair-memory-cmy32gx3m4a2133c11"
+}

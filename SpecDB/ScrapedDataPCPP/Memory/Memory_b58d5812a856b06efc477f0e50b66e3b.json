@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-6600 CL34 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF4D532G6600HC34DC01",
+    "Speed": "DDR5-6600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10.303 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x4zhP6/teamgroup-t-force-delta-rgb-32-gb-2-x-16-gb-ddr5-6600-cl34-memory-ff4d532g6600hc34dc01"
+}

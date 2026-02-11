@@ -1,0 +1,19 @@
+{
+    "name": "Thermalright TL-H120-15B-S 56.36 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Model": "TL-H120-15B-S",
+    "Part #": "TL-H12015B-S",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1900 RPM",
+    "Airflow": "56.36 CFM",
+    "Noise Level": "28.4 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.58 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2pBFf7/thermalright-tl-h120-15b-s-5636-cfm-120-mm-fan-tl-h12015b-s"
+}

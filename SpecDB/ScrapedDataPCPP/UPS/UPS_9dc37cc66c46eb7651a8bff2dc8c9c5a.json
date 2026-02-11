@@ -1,0 +1,13 @@
+{
+    "name": "APC BG500 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BG500",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fhqbt6/apc-ups-bg500"
+}

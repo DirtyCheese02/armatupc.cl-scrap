@@ -1,0 +1,19 @@
+{
+    "name": "Razer Kunai Chroma 81 CFM 140 mm Fan",
+    "Manufacturer": "Razer",
+    "Model": "Kunai Chroma",
+    "Part #": "RC21-01800200-R3M1",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "34.48 - 81 CFM",
+    "Noise Level": "15 - 30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.31 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LDKKHx/razer-kunai-chroma-81-cfm-140-mm-fan-rc21-01800200-r3m1"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "NZXT Aer RGB 71.6 CFM 140 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "RF-AR140-B1",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "23.9 - 71.6 CFM",
+    "Noise Level": "22 - 33 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DJyxFT/nzxt-aer-rgb140-716-cfm-140-mm-fan-rf-ar140-b1"
+}

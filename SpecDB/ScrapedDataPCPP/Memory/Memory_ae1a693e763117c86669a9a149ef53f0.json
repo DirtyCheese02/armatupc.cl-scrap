@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 8 GB (2 x 4 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK8GX4M2B4000C19",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-23-23-45",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LQDzK8/corsair-memory-cmk8gx4m2b4000c19"
+}

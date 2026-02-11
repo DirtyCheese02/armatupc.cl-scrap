@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Black Dragon 4 GB (2 x 2 GB) DDR3-1600 CL8 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GB34GB1600C8DC",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.6 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CB3RsY/geil-memory-gb34gb1600c8dc"
+}

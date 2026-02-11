@@ -1,0 +1,23 @@
+{
+    "name": "Palit KalmX GeForce GTX 1650 G5 4 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE5165001BG1-1170H",
+    "Chipset": "GeForce GTX 1650 G5",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1485 MHz",
+    "Boost Clock": "1665 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "178 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D2zFf7/palit-geforce-gtx-1650-4-gb-kalmx-video-card-ne5165001bg1-1170h"
+}

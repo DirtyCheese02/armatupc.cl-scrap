@@ -1,0 +1,19 @@
+{
+    "name": "ID-COOLING DF-12025-RGB-TRIO 56.5 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "DF-12025-RGB-TRIO",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 2000 RPM",
+    "Airflow": "56.5 CFM",
+    "Noise Level": "16 - 31.5 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "1.99 mmH₂O",
+    "Bearing Type": "2Ball",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R37G3C/id-cooling-df-12025-rgb-trio-565-cfm-120-mm-fans-3-pack-df-12025-rgb-trio"
+}

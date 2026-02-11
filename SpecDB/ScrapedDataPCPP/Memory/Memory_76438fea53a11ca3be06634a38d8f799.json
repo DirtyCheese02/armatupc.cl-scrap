@@ -1,0 +1,16 @@
+{
+    "name": "V-Color TE548G68D834SKK 96 GB (2 x 48 GB) DDR5-6800 CL34 Memory",
+    "Manufacturer": "V-Color",
+    "Part #": "TE548G68D834SKK",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-46-46-106",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QB9nTW/v-color-te548g68d834skk-96-gb-2-x-48-gb-ddr5-6800-cl34-memory-te548g68d834skk"
+}

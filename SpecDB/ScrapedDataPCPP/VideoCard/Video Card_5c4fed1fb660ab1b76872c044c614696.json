@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle X450S1024KDL GeForce GTS 450 1 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "X450S1024KDL",
+    "Chipset": "GeForce GTS 450",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "789 MHz",
+    "Effective Memory Clock": "3760 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "106 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ds2kcf/sparkle-video-card-x450s1024kdl"
+}

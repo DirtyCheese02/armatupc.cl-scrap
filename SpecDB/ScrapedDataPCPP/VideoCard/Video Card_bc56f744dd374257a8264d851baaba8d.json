@@ -1,0 +1,22 @@
+{
+    "name": "MSI TWIN FROZR II GeForce GTX 560 Ti 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N560GTX-TI Twin Frozr II/OC",
+    "Chipset": "GeForce GTX 560 Ti",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "880 MHz",
+    "Effective Memory Clock": "4200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yvyFf7/msi-video-card-n560gtxtitwinfrozriioc"
+}

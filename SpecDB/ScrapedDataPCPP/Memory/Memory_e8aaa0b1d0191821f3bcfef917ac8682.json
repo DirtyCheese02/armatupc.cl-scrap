@@ -1,0 +1,16 @@
+{
+    "name": "OLOy Blade RGB 16 GB (2 x 8 GB) DDR5-5600 CL40 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "ND5U0856402BRKDE",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VYVmP6/oloy-blade-rgb-16-gb-2-x-8-gb-ddr5-5600-cl40-memory-nd5u0856402brkde"
+}

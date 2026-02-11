@@ -1,0 +1,17 @@
+{
+    "name": "APC BE550-CP UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE550-CP",
+    "Capacity (W)": "330 W",
+    "Capacity (VA)": "550 VA",
+    "Backup/Run Time (Full Load)": "3.40 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Desktop",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qgL7YJ/apc-ups-be550cp"
+}

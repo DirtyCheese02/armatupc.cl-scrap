@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Shadow Wings 54.4 CFM 92 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL052",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "32.6 - 54.4 CFM",
+    "Noise Level": "16.9 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.98 mmH₂O",
+    "Bearing Type": "Rifle",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xnbp99/be-quiet-case-fan-bl052"
+}

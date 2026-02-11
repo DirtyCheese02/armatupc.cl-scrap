@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D Twin X2 OC GeForce RTX 3070 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N30702-08D6X-1710VA32L",
+    "Chipset": "GeForce RTX 3070",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1740 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "240 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w3BG3C/inno3d-geforce-rtx-3070-8-gb-twin-x2-oc-video-card-n30702-08d6x-1710va32l"
+}

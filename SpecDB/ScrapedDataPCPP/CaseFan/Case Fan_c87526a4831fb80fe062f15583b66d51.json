@@ -1,0 +1,19 @@
+{
+    "name": "Apevia CF14SL-BGN 59.6 CFM 140 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF14SL-BGN",
+    "Size": "140 mm",
+    "Color": "Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "59.6 CFM",
+    "Noise Level": "20.6 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.81 mmH₂O",
+    "Features": "[Apevia 140mm case fan with both 3 pin and 4 pin connectors with led, Eleven UV-reactive blades and black frame, Comes with 140mm black fan grill, Can plug into motherboard or power supply, Material: UV reactive PU plastic, Air Power: 12 VDC, Operation Voltage Range: 9 VDC ~ 13.5 VDC, Start-up Voltage: 9 VDC, Rated Voltage: 12 VDC, Rated Current: 0.23 A, Lock Rotor Current: 0.25  A, Static Air Pressure: 0.81mm-H2O, Life Expectation: 25,000 hours]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2QrG3C/apevia-case-fan-cf14slbgn"
+}

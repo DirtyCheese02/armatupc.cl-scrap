@@ -1,0 +1,23 @@
+{
+    "name": "MSI GAMING Z GeForce RTX 2060 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 2060 GAMING Z 6G, GeForce RTX 2060 GAMING Z 6G, V375-008R, G2060GZ6]",
+    "Chipset": "GeForce RTX 2060",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1830 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "247 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3wBTwP/msi-geforce-rtx-2060-6-gb-gaming-z-video-card-rtx-2060-gaming-z-6g"
+}

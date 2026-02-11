@@ -1,0 +1,18 @@
+{
+    "name": "Corsair iCUE SP RGB ELITE 47.73 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Part #": "CO-9050136-WW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1500 RPM",
+    "Airflow": "47.73 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "USB",
+    "Static Pressure": "1.46 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lh7G3C/corsair-icue-sp-rgb-elite-4773-cfm-120-mm-fan-co-9050136-ww"
+}

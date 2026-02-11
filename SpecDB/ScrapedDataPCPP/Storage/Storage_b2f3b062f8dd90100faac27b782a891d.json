@@ -1,0 +1,14 @@
+{
+    "name": "Crucial M550 128 GB mSATA Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT128M550SSD3",
+    "Capacity": "128 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9189",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sbFPxr/crucial-internal-hard-drive-ct128m550ssd3"
+}

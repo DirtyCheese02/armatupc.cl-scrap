@@ -1,0 +1,21 @@
+{
+    "name": "Cooler Master MasterFrame 500 Mesh ARGB ATX Mid Tower Case",
+    "Manufacturer": "Cooler Master",
+    "Part #": "[MF500M-KHNN-S01, MF 500 Mesh aRGB]",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Tempered Glass",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2x2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini DTX, Mini ITX]",
+    "Maximum Video Card Length": "[390 mm, 15.354\"]",
+    "Drive Bays": "1 x Internal 3.5\"",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[Front: 3 x 120 mm / 2 x 140 mm / 2 x 180 mm / 2 x 200 mm, Rear: 1 x 120 mm, Top: 3 x 120 mm / 2 x 140 mm / 2 x 180 mm / 2 x 200 mm, Bottom: 1 x 120 mm]",
+    "Included Fans": "[Front: 2 x 200 mm (ARGB PWM), Rear: 1 x 120 mm (ARGB PWM)]",
+    "Radiator Support": "[Front: 360 / 280 / 240 / 140 / 120 mm, Rear: 120 mm, Top: 360 / 280 / 240 / 140 / 120 mm]",
+    "Dimensions": "[471 mm x 261 mm x 544 mm, 18.543\" x 10.276\" x 21.417\"]",
+    "Volume": "[66.874 L, 2.362 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RXpD4D/cooler-master-masterframe-500-mesh-argb-atx-mid-tower-case-mf500m-khnn-s01"
+}

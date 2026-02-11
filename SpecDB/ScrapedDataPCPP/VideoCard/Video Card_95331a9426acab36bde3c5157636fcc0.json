@@ -1,0 +1,23 @@
+{
+    "name": "EVGA XC BLACK GAMING GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "12G-P5-3655-KR",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1777 MHz",
+    "Effective Memory Clock": "15000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "202 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NsJgXL/evga-geforce-rtx-3060-12-gb-xc-black-gaming-video-card-12g-p5-3655-kr"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Vulcan 32 GB (2 x 16 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLGD432G2666HC15BDC01",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Gray",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NmX2FT/team-vulcan-32gb-2-x-16gb-ddr4-2666-memory-tlgd432g2666hc15bdc01"
+}

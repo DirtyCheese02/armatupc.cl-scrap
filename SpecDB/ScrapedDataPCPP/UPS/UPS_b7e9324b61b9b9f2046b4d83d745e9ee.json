@@ -1,0 +1,21 @@
+{
+    "name": "APC SMT1500RM2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT1500RM2U",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1440 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "26 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6WX2FT/apc-ups-smt1500rm2u"
+}

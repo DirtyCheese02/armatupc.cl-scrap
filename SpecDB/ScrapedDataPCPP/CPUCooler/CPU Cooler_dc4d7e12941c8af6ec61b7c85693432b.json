@@ -1,0 +1,12 @@
+{
+    "name": "Logisys IC231PWM CPU Cooler",
+    "Manufacturer": "Logisys",
+    "Part #": "IC231PWM",
+    "Fan RPM": "900 - 2400 RPM",
+    "Noise Level": "17.8 - 32.5 dB",
+    "Height": "60 mm",
+    "CPU Socket": "[LGA1150, LGA1151, LGA1155, LGA1156, LGA1200]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jwsKHx/logisys-cpu-cooler-ic231pwm"
+}

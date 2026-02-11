@@ -1,0 +1,23 @@
+{
+    "name": "XFX R7-240A-4NF4 Radeon R7 240 4 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "R7-240A-4NF4",
+    "Chipset": "Radeon R7 240",
+    "Memory": "4 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1300 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "150 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pzw7YJ/xfx-radeon-r7-240-4gb-video-card-r7-240a-4nf4"
+}

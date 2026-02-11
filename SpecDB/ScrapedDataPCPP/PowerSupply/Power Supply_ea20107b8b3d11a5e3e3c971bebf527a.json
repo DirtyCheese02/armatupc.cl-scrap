@@ -1,0 +1,21 @@
+{
+    "name": "Raidmax RX-530SS 530 W Semi-modular ATX Power Supply",
+    "Manufacturer": "Raidmax",
+    "Part #": "RX-530SS",
+    "Type": "ATX",
+    "Wattage": "530 W",
+    "Length": "158 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@28A, +5V@34A, +12V1@20A, +12V2@17A, -12V@0.8A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BtTmP6/raidmax-power-supply-rx530ss"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 3X E1 OC GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 4070 VENTUS 3X E1 12G OC, RTX 4070 VENTUS 3X E1 12G OC, V512-027R]",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2520 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "308 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HdDnTW/msi-ventus-3x-e1-oc-geforce-rtx-4070-12-gb-video-card-geforce-rtx-4070-ventus-3x-e1-12g-oc"
+}

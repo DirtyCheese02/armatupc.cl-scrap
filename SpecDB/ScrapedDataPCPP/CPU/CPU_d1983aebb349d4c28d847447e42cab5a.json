@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i5-4570S 2.9 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BXC80646I54570S",
+    "Series": "Intel Core i5",
+    "Microarchitecture": "Haswell",
+    "Core Family": "Haswell",
+    "Socket": "LGA1150",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.9 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Intel HD Graphics 4600",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/htJkcf/intel-cpu-bxc80646i54570s"
+}

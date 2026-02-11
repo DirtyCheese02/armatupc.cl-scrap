@@ -1,0 +1,18 @@
+{
+    "name": "EK Vardar F2 52 CFM 120 mm Fan",
+    "Manufacturer": "EK",
+    "Part #": "3831109867525",
+    "Size": "120 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1450 RPM",
+    "Airflow": "52 CFM",
+    "Noise Level": "25.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.42 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8WDzK8/ek-case-fan-3831109867525"
+}

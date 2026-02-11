@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone LC20-B HTPC Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "LC20B-M",
+    "Type": "HTPC",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[330 mm, 12.992\"]",
+    "Drive Bays": "[2 x External 5.25\", 1 x External 3.5\", 6 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "80 mm",
+    "Dimensions": "[170 mm x 429 mm x 429 mm, 6.693\" x 16.89\" x 16.89\"]",
+    "Volume": "[31.287 L, 1.105 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8Nh9TW/silverstone-case-lc20bm"
+}

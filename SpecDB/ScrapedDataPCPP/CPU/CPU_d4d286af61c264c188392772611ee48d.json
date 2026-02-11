@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-6100 3.3 GHz 6-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD6100WMGUSBX",
+    "Series": "AMD FX",
+    "Microarchitecture": "Bulldozer",
+    "Core Family": "Zambezi",
+    "Socket": "AM3+",
+    "Core Count": "6",
+    "Thread Count": "6",
+    "Performance Core Clock": "3.3 GHz",
+    "L2 Cache": "6 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PkMFf7/amd-cpu-fd6100wmgusbx"
+}

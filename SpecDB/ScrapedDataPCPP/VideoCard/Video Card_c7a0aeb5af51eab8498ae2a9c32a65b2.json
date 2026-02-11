@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS MASTER Radeon RX 6800 XT 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R68XTAORUS M-16GD",
+    "Chipset": "Radeon RX 6800 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1825 MHz",
+    "Boost Clock": "2310 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "324 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QC2bt6/gigabyte-radeon-rx-6800-xt-16-gb-aorus-master-video-card-gv-r68xtaorus-m-16gd"
+}

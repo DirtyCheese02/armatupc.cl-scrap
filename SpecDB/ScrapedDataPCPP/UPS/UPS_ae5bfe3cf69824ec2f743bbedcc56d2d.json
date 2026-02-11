@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SU2200XLCD UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU2200XLCD",
+    "Capacity (W)": "1800 W",
+    "Capacity (VA)": "2200 VA",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "[127 V AC, 110 V AC, 120 V AC]",
+    "Receptacles": "[1 x NEMA L5-20R, 6 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b4Crxr/tripp-lite-ups-su2200xlcd"
+}

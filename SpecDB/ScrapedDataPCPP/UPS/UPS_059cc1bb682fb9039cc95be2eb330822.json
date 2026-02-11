@@ -1,0 +1,23 @@
+{
+    "name": "CyberPower PR750LCDRTXL2U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR750LCDRTXL2U",
+    "Capacity (W)": "675 W",
+    "Capacity (VA)": "750 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "13 Minutes",
+    "Backup/Run Time (Half Load)": "30 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[EMI / RFI, Surge]",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Pure Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JccMnQ/cyberpower-ups-pr750lcdrtxl2u"
+}

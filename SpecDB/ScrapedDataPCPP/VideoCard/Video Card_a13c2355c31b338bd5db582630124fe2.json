@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 3X OC GeForce RTX 4080 SUPER 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4080 SUPER 16G VENTUS 3X OC, GeForce RTX 4080 SUPER 16G VENTUS 3X OC, G4080S16V3C, V511-221R, 912-V511-221]",
+    "Chipset": "GeForce RTX 4080 SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2210 MHz",
+    "Boost Clock": "2595 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "322 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1a Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gvcgXL/msi-ventus-3x-oc-geforce-rtx-4080-super-16-gb-video-card-rtx-4080-super-16g-ventus-3x-oc"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte EAGLE Radeon RX 6600 XT 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R66XTEAGLE-8GD",
+    "Chipset": "Radeon RX 6600 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1968 MHz",
+    "Boost Clock": "2589 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "282 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hjRYcf/gigabyte-radeon-rx-6600-xt-8-gb-eagle-video-card-gv-r66xteagle-8gd"
+}

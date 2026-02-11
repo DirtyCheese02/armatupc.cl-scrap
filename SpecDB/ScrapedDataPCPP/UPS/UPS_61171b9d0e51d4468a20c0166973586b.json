@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SMART2200CRMXL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART2200CRMXL",
+    "Capacity (W)": "1900 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "4U",
+    "Backup/Run Time (Full Load)": "11 Minutes",
+    "Backup/Run Time (Half Load)": "28 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3.60 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x NEMA 5-15R, 4 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "5.50 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jjcMnQ/tripp-lite-ups-smart2200crmxl"
+}

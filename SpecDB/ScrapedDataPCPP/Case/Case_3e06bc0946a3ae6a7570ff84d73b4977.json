@@ -1,0 +1,21 @@
+{
+    "name": "Silverstone FLP02 ATX Mid Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-FLP02W",
+    "Type": "ATX Mid Tower",
+    "Color": "White",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, SSI CEB]",
+    "Maximum Video Card Length": "[386 mm, 15.197\"]",
+    "Drive Bays": "[3 x External 5.25\", 4 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "[7 x Full-Height, 2 x Full-Height via Riser]",
+    "Fan Support": "[Front: 2 x 120 mm, Rear: 1 x 120 mm / 1 x 140 mm, Top: 3 x 120 mm / 2 x 140 mm / 2 x 160 mm]",
+    "Included Fans": "[Front: 2 x 120 mm (PWM), Rear: 1 x 120 mm (PWM)]",
+    "Radiator Support": "[Rear: 140 / 120 mm, Top: 360 / 280 / 240 / 140 / 120 mm]",
+    "Dimensions": "[472 mm x 232 mm x 494 mm, 18.583\" x 9.134\" x 19.449\"]",
+    "Volume": "[54.095 L, 1.91 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W2fV3C/silverstone-flp02-atx-mid-tower-case-sst-flp02w"
+}

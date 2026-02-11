@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Super Luce 8 GB (2 x 4 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLR48GB3000C15ADC",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G9rcCJ/geil-memory-glr48gb3000c15adc"
+}

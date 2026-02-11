@@ -1,0 +1,23 @@
+{
+    "name": "EVGA XC BLACK GAMING GeForce RTX 2060 12GB 12 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "12G-P4-2261-KR",
+    "Chipset": "GeForce RTX 2060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1470 MHz",
+    "Boost Clock": "1650 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "268 mm",
+    "TDP": "185 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hyzhP6/evga-xc-black-gaming-geforce-rtx-2060-12gb-12-gb-video-card-12g-p4-2261-kr"
+}

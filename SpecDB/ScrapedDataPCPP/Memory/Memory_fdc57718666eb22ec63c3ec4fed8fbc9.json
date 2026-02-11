@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force DELTAα RGB 16 GB (1 x 16 GB) DDR5-5200 CL40 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF7D516G5200HC40C01",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "15.385 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QXgrxr/teamgroup-t-force-delta-rgb-16-gb-1-x-16-gb-ddr5-5200-cl40-memory-ff7d516g5200hc40c01"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX1333C7S3K2/4G 4 GB (2 x 2 GB) DDR3-1333 SODIMM CL7 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1333C7S3K2/4G",
+    "Speed": "DDR3-1333",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "10.503 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MDR48d/kingston-memory-khx1333c7s3k24g"
+}

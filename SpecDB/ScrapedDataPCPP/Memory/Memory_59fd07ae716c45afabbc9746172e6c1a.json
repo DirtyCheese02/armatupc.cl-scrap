@@ -1,0 +1,15 @@
+{
+    "name": "Avexir ROG Impact 32 GB (4 x 8 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD4UZ126661508G-4IP",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nd98TW/avexir-memory-avd4uz126661508g4ip"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Gainward Phoenix GS GeForce RTX 4080 SUPER 16 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "[NED408ST19T2-1032X, 4212, 471056224-4212]",
+    "Chipset": "GeForce RTX 4080 SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2210 MHz",
+    "Boost Clock": "2610 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "329 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D9pQzy/gainward-phoenix-gs-geforce-rtx-4080-super-16-gb-video-card-ned408st19t2-1032x"
+}

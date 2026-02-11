@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Blackline 8 GB (2 x 4 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "997191T",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d27CmG/mushkin-memory-997191t"
+}

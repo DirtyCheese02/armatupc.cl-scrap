@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Talos 64 GB (2 x 32 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "BL.9BWWR.224",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "White / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TJPQzy/acer-predator-talos-64-gb-2-x-32-gb-ddr4-3200-cl16-memory-bl9bwwr224"
+}

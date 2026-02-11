@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL OC GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RTX3060-O12G-WHITE, 90YV0GB9-M0AA00]",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1867 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "200 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NGcgXL/asus-dual-oc-geforce-rtx-3060-12gb-12-gb-video-card-dual-rtx3060-o12g-white"
+}

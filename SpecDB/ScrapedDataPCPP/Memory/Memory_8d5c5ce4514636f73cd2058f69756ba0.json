@@ -1,0 +1,15 @@
+{
+    "name": "GeIL EVO POTENZA 8 GB (2 x 4 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GPR48GB4000C19DC",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XyKhP6/geil-memory-gpr48gb4000c19dc"
+}

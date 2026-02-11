@@ -1,0 +1,23 @@
+{
+    "name": "MSI GAMING X SLIM GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4090 GAMING X SLIM 24G, GeForce RTX 4090 GAMING X SLIM 24G, V510-263R, 912-V510-265]",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Boost Clock": "2610 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "322 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1a Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/n2TZxr/msi-gaming-x-slim-geforce-rtx-4090-24-gb-video-card-rtx-4090-gaming-x-slim-24g"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle X550 Ti DF GeForce GTX 550 Ti 1 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "X550 Ti DF",
+    "Chipset": "GeForce GTX 550 Ti",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1000 MHz",
+    "Effective Memory Clock": "4800 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "116 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cQJwrH/sparkle-video-card-x550tidf"
+}

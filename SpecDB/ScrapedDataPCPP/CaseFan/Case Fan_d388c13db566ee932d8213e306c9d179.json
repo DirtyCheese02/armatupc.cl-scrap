@@ -1,0 +1,18 @@
+{
+    "name": "Lian Li UNI FAN SL V2 77.6 CFM 140 mm Fan",
+    "Manufacturer": "Lian Li",
+    "Part #": "[SL140V2-1B, UF-SL140V2-1B]",
+    "Size": "140 mm",
+    "Color": "Black / Silver",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 1600 RPM",
+    "Airflow": "77.6 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.09 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QD6p99/lian-li-uni-fan-sl-v2-776-cfm-140-mm-fan-sl140v2-1b"
+}

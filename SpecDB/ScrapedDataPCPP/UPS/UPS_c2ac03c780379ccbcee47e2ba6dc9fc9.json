@@ -1,0 +1,20 @@
+{
+    "name": "APC SUA1000RMI1U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA1000RMI1U",
+    "Capacity (W)": "640 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "1U",
+    "Alarm": "[Low Battery, On Battery]",
+    "Backup/Run Time (Full Load)": "5.40 Minutes",
+    "Backup/Run Time (Half Load)": "14.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[4 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8sJkcf/apc-ups-sua1000rmi1u"
+}

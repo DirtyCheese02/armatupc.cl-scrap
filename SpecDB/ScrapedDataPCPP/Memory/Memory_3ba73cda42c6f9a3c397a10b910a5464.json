@@ -1,0 +1,16 @@
+{
+    "name": "Avexir MPower 8 GB (2 x 4 GB) DDR3-2666 CL11 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD3U26661104G-2CM",
+    "Speed": "DDR3-2666",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Yellow / Black",
+    "First Word Latency": "8.252 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "Timing": "11-13-13-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vTMwrH/avexir-mpower-8gb-2-x-4gb-ddr3-2666-memory-avd3u26661104g-2cm"
+}

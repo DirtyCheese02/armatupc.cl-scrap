@@ -1,0 +1,22 @@
+{
+    "name": "TEAMGROUP MP44S 1 TB M.2-2230 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TM5FF3001T0C101",
+    "Capacity": "1 TB",
+    "Price / GB": "$0.161",
+    "Type": "SSD",
+    "Form Factor": "M.2-2230",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dYNYcf/teamgroup-mp44s-1-tb-m2-2230-pcie-40-x4-nvme-solid-state-drive-tm5ff3001t0c101"
+}

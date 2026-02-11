@@ -1,0 +1,23 @@
+{
+    "name": "HIS H777F1G2M Radeon HD 7770 1 GB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "H777F1G2M",
+    "Chipset": "Radeon HD 7770",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1000 MHz",
+    "Effective Memory Clock": "1375 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "80 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NwBv6h/his-video-card-h777f1g2m"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Renegade 32 GB (2 x 16 GB) DDR5-7200 CL38 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF572C38RWK2-32",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver / White",
+    "First Word Latency": "10.556 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.45 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YRP8TW/kingston-fury-renegade-32-gb-2-x-16-gb-ddr5-7200-cl38-memory-kf572c38rwk2-32"
+}

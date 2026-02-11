@@ -1,0 +1,20 @@
+{
+    "name": "Masscool FD08025B1H3/4 52 CFM 80 mm Fan",
+    "Manufacturer": "Masscool",
+    "Part #": "FD08025B1H3/4",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "4000 RPM",
+    "Airflow": "52 CFM",
+    "Noise Level": "42 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "4.9 mmH₂O",
+    "Bearing Type": "Ball",
+    "Features": "[Max. Fan Air Pressure: 4.9 mmH2O, Rated Voltage: 12 V, Rated Current: 0.30 A, Rated Power: 3.6 W, Power Connector: 3-pin motherboard; 4-pin power supply]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8rdqqs/masscool-case-fan-fd08025b1h34"
+}

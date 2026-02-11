@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO Potenza AMD Edition 32 GB (2 x 16 GB) DDR4-2400 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAPB432GB2400C16DC",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K2C48d/geil-evo-potenza-amd-edition-32-gb-2-x-16-gb-ddr4-2400-cl16-memory-gapb432gb2400c16dc"
+}

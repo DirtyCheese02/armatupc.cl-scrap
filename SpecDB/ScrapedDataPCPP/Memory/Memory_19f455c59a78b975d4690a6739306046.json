@@ -1,0 +1,16 @@
+{
+    "name": "V-Color TE524G60S828SKK 48 GB (2 x 24 GB) DDR5-6000 CL28 Memory",
+    "Manufacturer": "V-Color",
+    "Part #": "TE524G60S828SKK",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "White",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.4 V",
+    "Timing": "28-39-39-96",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dgh2FT/v-color-te524g60s828skk-48-gb-2-x-24-gb-ddr5-6000-cl28-memory-te524g60s828skk"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LP 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CML8GX3M1C1600C9R",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Red",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "Timing": "11-11-11-28",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MK4NnQ/corsair-memory-cml8gx3m1c1600c9r"
+}

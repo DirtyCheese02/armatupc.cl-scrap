@@ -1,0 +1,15 @@
+{
+    "name": "Avexir ROG Impact 16 GB (4 x 4 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD4UZ126661504G-4IP",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nxs8TW/avexir-memory-avd4uz126661504g4ip"
+}

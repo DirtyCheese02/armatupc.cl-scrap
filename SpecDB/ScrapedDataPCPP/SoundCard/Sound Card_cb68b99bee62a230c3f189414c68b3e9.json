@@ -1,0 +1,11 @@
+{
+    "name": "HT Omega Claro Halo 24-bit 192 kHz Sound Card",
+    "Manufacturer": "HT Omega",
+    "Part #": "Claro Halo",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Sample Rate": "192 kHz",
+    "Chipset": "C-Media CMI8788",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nrK7YJ/ht-omega-sound-card-clarohalo"
+}

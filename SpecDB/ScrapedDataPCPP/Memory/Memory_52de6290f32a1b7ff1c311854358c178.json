@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (2 x 8 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX4M2E4000C19",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-23-23-45",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4NHRsY/corsair-dominator-platinum-16gb-2-x-8gb-ddr4-4000-memory-cmd16gx4m2e4000c19"
+}

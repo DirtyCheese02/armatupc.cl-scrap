@@ -1,0 +1,21 @@
+{
+    "name": "ATI FirePro W2100 FirePro W2100 2 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro W2100",
+    "Part #": "100-505821",
+    "Chipset": "FirePro W2100",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "630 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "TDP": "26 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2KJwrH/ati-video-card-100505821"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "EK Vardar F4-120ER 77 CFM 120 mm Fan",
+    "Manufacturer": "EK",
+    "Model": "Vardar F4-120ER",
+    "Part #": "3831109867617",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "77 CFM",
+    "Noise Level": "33.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.16 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qYH48d/ek-case-fan-3831109867617"
+}

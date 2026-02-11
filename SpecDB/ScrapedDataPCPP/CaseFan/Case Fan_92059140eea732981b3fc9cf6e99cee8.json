@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RAWB-131456 82 CFM 140 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RAWB-131456",
+    "Size": "140 mm",
+    "Color": "Brown / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1200 RPM",
+    "Airflow": "82 CFM",
+    "Noise Level": "13 - 21.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Teflon Nano Bearing",
+    "Features": "[PWM-FUNCTION, PWM (Pulse Width Modulation). PWM function automatically adjusts fan speeds according to the CPU temperature for efficient cooling and minimized fan noise, Teflon Nano Bearing Technology, TNB runs more smoothly with no friction, making the fan silent, powerful and highly durable (200,000hrs)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/swPzK8/rosewill-case-fan-rawb131456"
+}

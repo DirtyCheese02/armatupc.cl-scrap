@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Create Classic 16 GB (1 x 16 GB) DDR5-6000 CL48 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "CTCCD516G6000HC4801",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "16 ns",
+    "CAS Latency": "48",
+    "Voltage": "1.1 V",
+    "Timing": "48-48-48-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DbFmP6/teamgroup-t-create-classic-16-gb-1-x-16-gb-ddr5-6000-cl48-memory-ctccd516g6000hc4801"
+}

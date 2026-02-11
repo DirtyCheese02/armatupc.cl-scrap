@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 1000 PQ 1000 W 80+ Platinum Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 1000 PQ",
+    "Part #": "[210-PQ-1000-X1, 210-PQ-1000-X2]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "1000 W",
+    "Length": "180 mm",
+    "Modular": "Semi",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "10",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dfF48d/evga-supernova-1000-pq-1000-w-80-platinum-certified-semi-modular-atx-power-supply-210-pq-1000-x1"
+}

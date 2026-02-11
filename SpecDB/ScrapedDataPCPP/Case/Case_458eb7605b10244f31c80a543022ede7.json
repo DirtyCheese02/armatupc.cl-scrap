@@ -1,0 +1,18 @@
+{
+    "name": "Silverstone FT04 ATX Full Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "[FT04B-W, SST-FT04B-W]",
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Acrylic",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB]",
+    "Maximum Video Card Length": "[337 mm, 13.268\"]",
+    "Drive Bays": "[2 x External 5.25\", 7 x Internal 3.5\", 4 x Internal 2.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 180 mm]",
+    "Radiator Support": "[120 mm, 240 mm, 360 mm]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xs9KHx/silverstone-case-ft04bw"
+}

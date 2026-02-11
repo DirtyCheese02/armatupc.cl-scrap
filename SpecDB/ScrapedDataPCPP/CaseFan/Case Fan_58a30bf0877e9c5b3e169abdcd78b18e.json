@@ -1,0 +1,20 @@
+{
+    "name": "Noctua S12B redux-700 33.49 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "S12B redux-700",
+    "Part #": "NF-S12B redux-700",
+    "Size": "120 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 RPM",
+    "Airflow": "33.49 CFM",
+    "Noise Level": "6.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.44 mmH₂O",
+    "Bearing Type": "SSO",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6r9KHx/noctua-case-fan-nfs12bredux700"
+}

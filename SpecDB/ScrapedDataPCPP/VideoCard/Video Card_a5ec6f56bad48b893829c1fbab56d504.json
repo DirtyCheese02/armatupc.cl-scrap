@@ -1,0 +1,22 @@
+{
+    "name": "MSI GAMING TRIO GeForce RTX 5060 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 5060 8G GAMING TRIO, G5060-8GT]",
+    "Chipset": "GeForce RTX 5060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2280 MHz",
+    "Boost Clock": "2512 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "155 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dhm2FT/msi-gaming-trio-geforce-rtx-5060-8-gb-video-card-rtx-5060-8g-gaming-trio"
+}

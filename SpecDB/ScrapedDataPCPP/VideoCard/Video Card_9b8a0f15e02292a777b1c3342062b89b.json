@@ -1,0 +1,22 @@
+{
+    "name": "PNY VCNRTX5000ADA-PB RTX 5000 Ada Generation 32 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTX5000ADA-PB",
+    "Chipset": "RTX 5000 Ada Generation",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1620 MHz",
+    "Boost Clock": "2130 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3C26Mp/pny-vcnrtx5000ada-pb-rtx-5000-ada-generation-32-gb-video-card-vcnrtx5000ada-pb"
+}

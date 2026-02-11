@@ -1,0 +1,15 @@
+{
+    "name": "VisionTek 901512 16 GB (1 x 16 GB) DDR5-4800 CL40 Memory",
+    "Manufacturer": "VisionTek",
+    "Part #": "901512",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "Timing": "40-39-39-78",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WkNxFT/visiontek-901512-16-gb-1-x-16-gb-ddr5-4800-cl40-memory-901512"
+}

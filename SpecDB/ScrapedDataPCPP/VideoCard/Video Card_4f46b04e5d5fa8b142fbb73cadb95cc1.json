@@ -1,0 +1,22 @@
+{
+    "name": "Zotac ZT-40606-20L GeForce GT 430 1 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-40606-20L",
+    "Chipset": "GeForce GT 430",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1333 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "144 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NF2kcf/zotac-video-card-zt4060620l"
+}

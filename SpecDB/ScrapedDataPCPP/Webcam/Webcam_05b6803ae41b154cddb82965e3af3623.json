@@ -1,0 +1,16 @@
+{
+    "name": "Elgato Facecam 4K Webcam",
+    "Manufacturer": "Elgato",
+    "Model": "Facecam 4K",
+    "Part #": "10WAF9901",
+    "Resolution": "[4k, 2k, 1080p, 720p]",
+    "Connection": "USB 3.2 Gen 1 Type-C",
+    "Focus Type": "Fixed",
+    "Operating System": "[Windows, OS X]",
+    "FOV Angle": "90°",
+    "F-Stop": "4.0X",
+    "Focal Length": "21 mm",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8mQwrH/elgato-facecam-4k-webcam-10waf9901"
+}

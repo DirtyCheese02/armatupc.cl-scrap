@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 04G-P4-2690-KR GeForce GTX 690 4 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "04G-P4-2690-KR",
+    "Chipset": "GeForce GTX 690",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "915 MHz",
+    "Effective Memory Clock": "6008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "279 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KYxfrH/evga-video-card-04gp42690kr"
+}

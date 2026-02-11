@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Savage 4 GB (1 x 4 GB) DDR4-2133 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX421C13SB/4",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "Color": "Black / White",
+    "First Word Latency": "12.189 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L8M323/kingston-memory-hx421c13sb4"
+}

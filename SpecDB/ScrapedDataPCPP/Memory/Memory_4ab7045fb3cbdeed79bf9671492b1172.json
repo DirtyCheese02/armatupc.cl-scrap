@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP008GXLYU18ANDA 8 GB (2 x 4 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP008GXLYU18ANDA",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Red",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jdCrxr/silicon-power-memory-sp008gxlyu18anda"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D iChill Black GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "[C4090-246XX-18330005, C4090B-246XX-18330005]",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Boost Clock": "2580 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "280 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "240 mm Radiator",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P8TZxr/inno3d-ichill-black-geforce-rtx-4090-24-gb-video-card-c4090-246xx-18330005"
+}

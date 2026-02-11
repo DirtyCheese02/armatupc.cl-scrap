@@ -1,0 +1,8 @@
+{
+    "name": "Intel PWLA8490MTBLK Gigabit Ethernet PCI-X Network Adapter",
+    "Manufacturer": "Intel",
+    "Part #": "PWLA8490MTBLK",
+    "Interface": "PCI-X",
+    "Features": "[Support for most NOSs, Intel SingleDriver technology, Backward Compatibility with previous generations of Intel PRO/1000 Network Adapters, Supports 64- or 32-bit PCI-X 1.0 or PCI 2.2 buses, Remote Management Support (WfM, RIS, SNMP/DMI), IEEE 802.3ab Compatibility, Intel 82545 Gigabit Controller, Full-height and low-profile, screw-on brackets included with each adapter, Interrupt Moderation, Advanced Cable Diagnostics, Large Send Off-load/TCP Segmentation Off-load, Expanded Advanced Server Features]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vj6BD3/intel-wired-network-card-pwla8490mtblk"
+}

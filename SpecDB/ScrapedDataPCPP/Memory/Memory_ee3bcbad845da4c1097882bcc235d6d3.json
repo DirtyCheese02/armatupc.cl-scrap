@@ -1,0 +1,14 @@
+{
+    "name": "PNY MN16384KD3-1600-X9 16 GB (2 x 8 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MN16384KD3-1600-X9",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FrZQzy/pny-memory-mn16384kd31600x9"
+}

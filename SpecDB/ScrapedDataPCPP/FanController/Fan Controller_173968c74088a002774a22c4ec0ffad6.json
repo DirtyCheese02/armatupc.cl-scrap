@@ -1,0 +1,12 @@
+{
+    "name": "Lamptron FC6 Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Model": "FC6",
+    "Part #": "FC-FC6-B",
+    "Channels": "4",
+    "Channel Wattage": "10 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[LCD display with 7 changeable colors in Blue, Green, Red, Yellow, Cyan, Purple, and White, Top line displays cooling fan RPM; bBottom line displays either temperature (Celsius or Fahrenheit), or fan voltage, Alarm is triggered when temperature is over 70 degree C, or if the fan fails to work when voltage is over 6.5V, Industrial minimalism design with simple operation, Solid Aluminum in black or silver front bezel finish, 4 channels stepless fan speed control with up to 10W per channel output, Standard molex 4-pin connector to power supply, Standard 3-pin connection to cooling fans]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L67wrH/lamptron-fan-controller-fcfc6b"
+}

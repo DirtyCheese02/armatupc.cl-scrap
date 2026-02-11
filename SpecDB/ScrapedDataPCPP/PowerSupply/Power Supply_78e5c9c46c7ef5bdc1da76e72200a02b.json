@@ -1,0 +1,21 @@
+{
+    "name": "Silverstone Strider Platinum 750 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Part #": "[ST75F-PT, SST-ST75F-PT, PS-ST75F-PT]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "750 W",
+    "Length": "140 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LBjWGX/silverstone-power-supply-st75fpt"
+}

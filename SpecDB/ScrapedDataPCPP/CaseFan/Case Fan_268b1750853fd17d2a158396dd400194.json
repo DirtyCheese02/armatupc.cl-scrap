@@ -1,0 +1,18 @@
+{
+    "name": "Lian Li Uni Fan SL-Infinity 71.6 CFM 140 mm Fan",
+    "Manufacturer": "Lian Li",
+    "Part #": "[UF-RS-SLIN140-1W, 14RSLIN1W]",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "200 - 1600 RPM",
+    "Airflow": "71.6 CFM",
+    "Noise Level": "28.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.95 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cv7scf/lian-li-uni-fan-sl-infinity-716-cfm-140-mm-fan-uf-rs-slin140-1w"
+}

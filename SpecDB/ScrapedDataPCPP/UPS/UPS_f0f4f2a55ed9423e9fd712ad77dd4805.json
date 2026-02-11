@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite SMART2500XLHG UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART2500XLHG",
+    "Capacity (W)": "1920 W",
+    "Capacity (VA)": "2200 VA",
+    "Backup/Run Time (Full Load)": "4.40 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x IEC 60320 C13, 4 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cd648d/tripp-lite-ups-smart2500xlhg"
+}

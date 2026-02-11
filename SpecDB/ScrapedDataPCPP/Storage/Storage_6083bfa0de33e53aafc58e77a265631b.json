@@ -1,0 +1,13 @@
+{
+    "name": "Seagate ST500LM021 500 GB 2.5\" 7200 RPM Internal Hard Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "ST500LM021",
+    "Capacity": "500 GB",
+    "Price / GB": "$0.080",
+    "Type": "7200 RPM",
+    "Cache": "32 MB",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H7ckcf/seagate-internal-hard-drive-st500lm021"
+}

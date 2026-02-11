@@ -1,0 +1,13 @@
+{
+    "name": "SilenX EFZ-92HA2 54 CFM Fluid Dynamic Bearing CPU Cooler",
+    "Manufacturer": "SilenX",
+    "Part #": "EFZ-92HA2",
+    "Fan RPM": "2400 RPM",
+    "Noise Level": "8 - 24 dB",
+    "Height": "56 mm",
+    "Bearing": "Fluid Dynamic",
+    "CPU Socket": "[AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA775, LGA1150, LGA1151, LGA1155, LGA1156, LGA1200]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sKjG3C/silenx-cpu-cooler-efz92ha2"
+}

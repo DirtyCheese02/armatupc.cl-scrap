@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire 100310SR Radeon HD 6990 4 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100310SR",
+    "Chipset": "Radeon HD 6990",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "830 MHz",
+    "Effective Memory Clock": "1250 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "375 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "4",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CLmLrH/sapphire-video-card-100310sr"
+}

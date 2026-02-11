@@ -1,0 +1,18 @@
+{
+    "name": "APC SMC1500I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMC1500I",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "28 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VKZ2FT/apc-ups-smc1500i"
+}

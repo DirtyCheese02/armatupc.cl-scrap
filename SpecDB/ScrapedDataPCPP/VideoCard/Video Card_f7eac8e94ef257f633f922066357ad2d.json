@@ -1,0 +1,22 @@
+{
+    "name": "NVIDIA Founders Edition GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "900-1G144-2545-000",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2620 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "304 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/87WmP6/nvidia-founders-edition-geforce-rtx-5080-16-gb-video-card-900-1g144-2545-000"
+}

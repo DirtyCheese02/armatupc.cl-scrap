@@ -1,0 +1,12 @@
+{
+    "name": "Intel BXXTS100H CPU Cooler",
+    "Manufacturer": "Intel",
+    "Part #": "BXXTS100H",
+    "Fan RPM": "800 - 1800 RPM",
+    "Noise Level": "20 - 35 dB",
+    "Height": "130 mm",
+    "CPU Socket": "[LGA1150, LGA1151, LGA1155, LGA1156, LGA1200]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BWqdnQ/intel-cpu-cooler-bxxts100h"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Klevv Neo 16 GB (2 x 8 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KM3N8GX2C-1866-09-10-09-27-0",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Silver",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q6hj4D/klevv-memory-km3n8gx2c1866091009270"
+}

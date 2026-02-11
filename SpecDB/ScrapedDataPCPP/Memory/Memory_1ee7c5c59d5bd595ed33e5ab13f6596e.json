@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 16 GB (4 x 4 GB) DDR4-3400 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3400C16Q-16GRKD",
+    "Speed": "DDR4-3400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "9.412 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GHNypg/gskill-memory-f43400c16q16grkd"
+}

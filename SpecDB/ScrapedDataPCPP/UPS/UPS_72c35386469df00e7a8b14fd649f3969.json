@@ -1,0 +1,23 @@
+{
+    "name": "APC SUA1500RM2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA1500RM2U",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1440 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "7.40 Minutes",
+    "Backup/Run Time (Half Load)": "26.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WTH48d/apc-ups-sua1500rm2u"
+}

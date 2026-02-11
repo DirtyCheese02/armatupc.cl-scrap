@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC F14 77.3 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F14",
+    "Part #": "AFACO-140P0-GBA01",
+    "Size": "140 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "550 - 1350 RPM",
+    "Airflow": "77.3 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Versatile Applicable, Silent Operation, Quick and Easy Setup]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hhbp99/arctic-arctic-f14-pwm-773-cfm-140-mm-fan-afaco-140p0-gba01"
+}

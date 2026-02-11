@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-3820 3.6 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80619I73820",
+    "Series": "Intel Core i7",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge-E",
+    "Socket": "LGA2011",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "3.6 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "10 MB",
+    "TDP": "130 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6xzv6h/intel-cpu-bx80619i73820"
+}

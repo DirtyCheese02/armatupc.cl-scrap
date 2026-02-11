@@ -1,0 +1,21 @@
+{
+    "name": "APC SMT750R2-NMC UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT750R2-NMC",
+    "Capacity (W)": "500 W",
+    "Capacity (VA)": "750 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "16 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dnH48d/apc-ups-smt750r2nmc"
+}

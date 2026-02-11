@@ -1,0 +1,14 @@
+{
+    "name": "OCZ R4 1.2 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "ZD4RM84-HH-1.2T",
+    "Capacity": "1.2 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2582",
+    "SSD NAND Flash Type": "MLC",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t2PfrH/ocz-internal-hard-drive-zd4rm84hh12t"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Antec Earthwatts Green 430 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Antec",
+    "Part #": "[EA-430D Green, EA 430D]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "430 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@20A, +5V@20A, +12V1@17A, +12V2@16A, -12V@0.8A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2nvRsY/antec-power-supply-ea430dgreen"
+}

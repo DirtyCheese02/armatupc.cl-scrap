@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D Compact GeForce RTX 4060 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N40601-08D6-173050N",
+    "Chipset": "GeForce RTX 4060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1830 MHz",
+    "Boost Clock": "2460 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "155 mm",
+    "TDP": "115 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NJyH99/inno3d-compact-geforce-rtx-4060-8-gb-video-card-n40601-08d6-173050n"
+}

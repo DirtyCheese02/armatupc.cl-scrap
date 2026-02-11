@@ -1,0 +1,16 @@
+{
+    "name": "Silicon Power XPOWER Storm RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP064GXLWU60AFDL",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-38-38-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CkFmP6/silicon-power-xpower-storm-rgb-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-sp064gxlwu60afdl"
+}

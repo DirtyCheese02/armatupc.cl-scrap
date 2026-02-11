@@ -1,0 +1,8 @@
+{
+    "name": "Edimax EU-4306 Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "Edimax",
+    "Part #": "EU-4306",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Features": "[Supported OS: Windows XP/Vista/7/8, Mac OS 10.6/10.7/10.8, Linux kernel 3.x/2.6.x, Compliant with USB 3.0, 2.0 & 1.1 specifications, Supports USB Super/High/Full Speed, Supports all USB 3.0 power saving models, Supports Wake-on-LAN function, Supports IEEE 802.3az (Energy Efficient Ethernet), Supports IEEE 802.1x flow control and 802.1Q VLAN, Supports jumbo frames up to 4000 bytes, Supports Window 2000/XP/Vista/7/8 and Mac OS X 10.x.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3x4gXL/edimax-wired-network-card-eu4306"
+}

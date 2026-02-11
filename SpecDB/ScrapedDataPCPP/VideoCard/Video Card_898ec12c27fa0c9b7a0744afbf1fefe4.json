@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte EAGLE OC GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N306TXEAGLE OC-8GD",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1665 MHz",
+    "Boost Clock": "1680 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "282 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Cr7scf/gigabyte-eagle-oc-geforce-rtx-3060-ti-8-gb-video-card-gv-n306txeagle-oc-8gd"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "NVIDIA VCQK4000-PB Quadro K4000 3 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "VCQK4000-PB",
+    "Chipset": "Quadro K4000",
+    "Memory": "3 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "5616 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "80 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8btWGX/nvidia-video-card-vcqk4000pb"
+}

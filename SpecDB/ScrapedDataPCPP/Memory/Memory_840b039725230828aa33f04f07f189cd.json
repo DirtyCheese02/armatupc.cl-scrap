@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill PIS 4 GB (2 x 2 GB) DDR3-2000 CL6 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-16000CL6D-4GBPIS",
+    "Speed": "DDR3-2000",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "6 ns",
+    "CAS Latency": "6",
+    "Voltage": "1.65 V",
+    "Timing": "6-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KYFPxr/gskill-pis-series-4-gb-2-x-2-gb-ddr3-2000-cl6-memory-f3-16000cl6d-4gbpis"
+}

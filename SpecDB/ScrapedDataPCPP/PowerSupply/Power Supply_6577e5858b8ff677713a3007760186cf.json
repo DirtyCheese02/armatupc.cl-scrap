@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 700 B1 700 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "700 B1",
+    "Part #": "[100-B1-0700-K1, 100-B1-0700-K2, 100-B1-0700-K3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "700 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@24A, +5V@20A, +12V@56A, +5VSB@3A, -12V@0.3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9htWGX/evga-700-b1-700-w-80-bronze-certified-atx-power-supply-100-b1-0700-k1"
+}

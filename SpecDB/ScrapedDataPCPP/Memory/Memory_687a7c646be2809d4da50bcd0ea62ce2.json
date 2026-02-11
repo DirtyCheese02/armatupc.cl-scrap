@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws V 128 GB (4 x 32 GB) DDR4-2666 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2666C18Q-128GVK",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mdFKHx/gskill-ripjaws-v-128-gb-4-x-32-gb-ddr4-2666-memory-f4-2666c18q-128gvk"
+}

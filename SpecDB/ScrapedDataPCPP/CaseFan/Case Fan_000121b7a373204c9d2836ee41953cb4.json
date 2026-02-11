@@ -1,0 +1,19 @@
+{
+    "name": "Antec NOVA 120 95.32 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Model": "NOVA 120",
+    "Part #": "[Nova 120 White, 0-761345-40052-7]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 3200 RPM",
+    "Airflow": "44 - 95.32 CFM",
+    "Noise Level": "21.5 - 38.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "6.56 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XWXMnQ/antec-nova-120-9532-cfm-120-mm-fan-nova-120-white"
+}

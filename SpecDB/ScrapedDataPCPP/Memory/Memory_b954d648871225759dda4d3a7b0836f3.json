@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan Z 8 GB (1 x 8 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLZGD48G3200HC16F01",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Gray",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yLRYcf/team-t-force-vulcan-z-8-gb-1-x-8-gb-ddr4-3200-cl16-memory-tlzgd48g3200hc16f01"
+}

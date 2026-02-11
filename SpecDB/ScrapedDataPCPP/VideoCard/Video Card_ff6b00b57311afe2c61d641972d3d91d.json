@@ -1,0 +1,22 @@
+{
+    "name": "EVGA XC BLACK GAMING GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "08G-P5-3551-KR",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1777 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "202 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hJZ9TW/evga-geforce-rtx-3050-8gb-8-gb-xc-black-gaming-video-card-08g-p5-3551-kr"
+}

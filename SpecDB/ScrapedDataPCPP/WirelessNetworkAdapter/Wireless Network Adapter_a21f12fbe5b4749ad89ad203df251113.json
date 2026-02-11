@@ -1,0 +1,11 @@
+{
+    "name": "Edimax EW-7612PIn 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Edimax",
+    "Part #": "EW-7612PIn",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128 bit WEP Encryption and WPA-PSK<br/>WPA2-PSK and WPS security",
+    "Antenna": "2 x External 3dBi  antenna",
+    "Features": "[Supports up to 300 Mbps 802.11n Wireless data rate – the latest wireless standard. Permitting users to have the farthest range with the widest coverage. (Up to 12 times the speed and 5 times the coverage of 802.11b.), Supports WMM (Wi-Fi Multimedia) Standard so that you can let different types of data to have higher priority. It allows better streaming of real-time data such as Video, Music, Skype…etc ., The included 16-language EZmax setup wizard and friendly UI will walk you through configuring EW-7612PIn to your wireless network., Provides Green functions to reduce electrical power wasted during idle time.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tGrG3C/edimax-wireless-network-card-ew7612pin"
+}

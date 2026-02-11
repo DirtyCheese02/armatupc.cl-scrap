@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline 32 GB (2 x 16 GB) DDR5-5200 CL40 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRF5U520FFFH16GX2",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "15.385 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZXgFf7/mushkin-redline-32-gb-2-x-16-gb-ddr5-5200-cl40-memory-mrf5u520fffh16gx2"
+}

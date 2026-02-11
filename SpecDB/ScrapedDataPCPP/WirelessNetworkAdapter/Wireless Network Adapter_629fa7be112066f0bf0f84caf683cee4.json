@@ -1,0 +1,12 @@
+{
+    "name": "Encore ENEWI-1XN42 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Encore",
+    "Part #": "ENEWI-1XN42",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128-Bit WEP, WPA, WPA2",
+    "Antenna": "External Antenna",
+    "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+    "Features": "[Automatically Prioritize Wireless Traffic to Reduce Time Lags during Online Gaming, Video Streaming, and VoIP, GreenWLAN — optimum energy efficiency with smart power management, Ideal for Surfing the Web, Sharing Files, Streaming Video, and Playing Online Games, Support IEEE 802.11i (WPA, WPA2), open, shared key and pair-wise key authentication services, Support wireless data encryption with 64/128-bit WEP standard for security, Support IEEE 802.11e QoS Enhancement (WMM, WMM-SA client mode), Cisco Compatible extensions (CCX) for WLAN devices]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kFvRsY/encore-wireless-network-card-enewi1xn42"
+}

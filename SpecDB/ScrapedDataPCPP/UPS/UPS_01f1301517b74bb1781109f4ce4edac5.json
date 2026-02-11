@@ -1,0 +1,17 @@
+{
+    "name": "IBM 53951KX UPS",
+    "Manufacturer": "IBM",
+    "Part #": "53951KX",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "253 V AC",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dBPzK8/ibm-ups-53951kx"
+}

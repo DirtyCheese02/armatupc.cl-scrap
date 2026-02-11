@@ -1,0 +1,23 @@
+{
+    "name": "MSI N640-4GD3 GeForce GT 640 4 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N640-4GD3",
+    "Chipset": "GeForce GT 640",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "902 MHz",
+    "Effective Memory Clock": "1782 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "153 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wdyFf7/msi-video-card-n6404gd3"
+}

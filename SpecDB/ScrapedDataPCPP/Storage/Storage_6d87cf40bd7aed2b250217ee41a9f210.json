@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Vertex 4 512 GB 2.5\" Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "VTX4-25SAT3-512G",
+    "Capacity": "512 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Indilinx Everest 2",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rKjG3C/ocz-internal-hard-drive-vtx425sat3512g"
+}

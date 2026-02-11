@@ -1,0 +1,21 @@
+{
+    "name": "Corsair VS650 650 W ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "VS650",
+    "Part #": "[CP-9020051-WW, CMPSU-VS650]",
+    "Type": "ATX",
+    "Wattage": "650 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FxDwrH/corsair-vs650-650-w-atx-power-supply-cp-9020051-ww"
+}

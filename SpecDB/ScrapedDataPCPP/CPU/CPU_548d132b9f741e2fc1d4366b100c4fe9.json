@@ -1,0 +1,23 @@
+{
+    "name": "AMD A10-6700 3.7 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD6700OKA44HL",
+    "Series": "AMD A10",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Richland",
+    "Socket": "FM2",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.7 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 8670D",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h9xfrH/amd-cpu-ad6700oka44hl"
+}

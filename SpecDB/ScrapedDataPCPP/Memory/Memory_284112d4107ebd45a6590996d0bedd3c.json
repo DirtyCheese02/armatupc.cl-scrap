@@ -1,0 +1,16 @@
+{
+    "name": "Corsair VS1GB533D2 1 GB (1 x 1 GB) DDR2-533 CL4 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "VS1GB533D2",
+    "Speed": "DDR2-533",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "1 x 1GB",
+    "Color": "Green",
+    "First Word Latency": "15.009 ns",
+    "CAS Latency": "4",
+    "Voltage": "1.8 V",
+    "Timing": "4-4-4-12",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FWsKHx/corsair-memory-vs1gb533d2"
+}

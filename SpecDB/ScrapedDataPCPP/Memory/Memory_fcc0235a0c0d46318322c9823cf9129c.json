@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal DW100 RGB 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "B5DW100326432FR2G-CW002",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3QPv6h/biwin-black-opal-dw100-rgb-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-b5dw100326432fr2g-cw002"
+}

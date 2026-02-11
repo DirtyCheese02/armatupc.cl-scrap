@@ -1,0 +1,19 @@
+{
+    "name": "Logisys CCF80UVGN 31.73 CFM 80 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "CCF80UVGN",
+    "Size": "80 mm",
+    "Color": "Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2700 RPM",
+    "Airflow": "31.73 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "No",
+    "LED": "Purple",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "Dual inverter for two lamps, High brightness, High reliability, Long lifetime, Low power consumption",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fYkD4D/logisys-case-fan-ccf80uvgn"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "VisionTek Data Fusion 2-way 960 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "VisionTek",
+    "Model": "Data Fusion 2-way",
+    "Part #": "900602",
+    "Capacity": "960 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x2",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mG7wrH/visiontek-internal-hard-drive-900602"
+}

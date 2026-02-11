@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 16 GB (1 x 16 GB) DDR5-4800 CL38 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FLRD516G48000HC38F01",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "15.833 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.1 V",
+    "Timing": "38-38-38-70",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XPGhP6/teamgroup-t-force-vulcan-16-gb-1-x-16-gb-ddr5-4800-cl38-memory-flrd516g48000hc38f01"
+}

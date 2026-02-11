@@ -1,0 +1,20 @@
+{
+    "name": "PNY VCNVS810DVI-PB NVS 810 4 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNVS810DVI-PB",
+    "Chipset": "NVS 810",
+    "Memory": "4 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "1020 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "68 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "8",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WnL7YJ/pny-nvs-810-4gb-video-card-vcnvs810dvi-pb"
+}

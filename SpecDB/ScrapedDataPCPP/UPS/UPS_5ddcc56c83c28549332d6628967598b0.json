@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite AVR700UXRM UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "AVR700UXRM",
+    "Capacity (W)": "350 W",
+    "Capacity (VA)": "700 VA",
+    "Alarm": "[Power Failure, Overload]",
+    "Backup/Run Time (Half Load)": "11.80 Minutes",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Wall/Desktop/Floor Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[115 V AC, 120 V AC]",
+    "Maximum Battery Recharge Time": "15.80 Hour",
+    "Output Voltage": "115 V AC",
+    "Protection Type": "[Brownout, Over Voltage, Black Out, Surge, EMI / RFI]",
+    "Receptacles": "8 x NEMA 5-15R",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/36X2FT/tripp-lite-ups-avr700uxrm"
+}

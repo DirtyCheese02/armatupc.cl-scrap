@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite OMNIX350HG UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNIX350HG",
+    "Capacity (W)": "225 W",
+    "Capacity (VA)": "350 VA",
+    "Backup/Run Time (Full Load)": "15.50 Minutes",
+    "Backup/Run Time (Half Load)": "37 Minutes",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "7.20 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "6",
+    "Switching Time": "5 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4KZ2FT/tripp-lite-ups-omnix350hg"
+}

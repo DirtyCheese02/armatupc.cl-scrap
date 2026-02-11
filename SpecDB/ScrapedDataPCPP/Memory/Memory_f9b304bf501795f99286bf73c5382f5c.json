@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Beast RGB 32 GB (2 x 16 GB) DDR5-4800 CL38 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF548C38BBAK2-32",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "15.833 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HrjBD3/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-4800-cl38-memory-kf548c38bbak2-32"
+}

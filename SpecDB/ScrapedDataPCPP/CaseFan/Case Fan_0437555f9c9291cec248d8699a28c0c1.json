@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC F9 Rev. 2 43 CFM 92 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F9 Rev. 2",
+    "Part #": "[AFACO-090P2-GBA0, F9 PWM Rev. 2, AFACO-090P2-GBA01]",
+    "Size": "92 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "550 - 1800 RPM",
+    "Airflow": "43 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bpH48d/arctic-case-fan-afaco090p2gba0"
+}

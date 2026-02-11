@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-MiniN2(RWLD-11002) 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-MiniN2(RWLD-11002)",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "WEP 64/128, WPA, WPA2, IEEE 802.1x",
+    "Antenna": "PIFA Antenna 2x2",
+    "Features": "[Thumb size form factor design enable USB usage without interference, Comply with IEEE 802.11b/g/n standards., High transfer data rate –Maximum data rate 54Mbps in 802.11g and 300Mbps in 802.11n., 64/128-bit WEP, WPA, WPA2 and IEEE802.1x functions for high level of security., Support the most popular operating system: Windows XP/Vista/7; Linux Kernel 2.6.x; Mac OS 10.4/10.5/10.6, Supports USB 2.0/1.1 interface., Supports hardware WPS (WiFi Protected Setup) button connection., Supports 802.11e (QoS); 802.11h (TPC) and 802.11k (Radio Resource Measurement), Supports MIMO power saving mechanism, The IEEE 802.11n Draft prohibits using High Throughput with WEP or TKIP as the unicast cipher. If you use these encryption methods (e.g. WEP, WPA-TKIP), your data rate will drop to 54 Mbps. Rosewill recommend setting your router’s wireless encryption as WPA-AES or WPA2-AES or update the latest firmware, in order to keep your wireless transfer rate at N speed.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zqjG3C/rosewill-wireless-network-card-rnxminin2rwld11002"
+}

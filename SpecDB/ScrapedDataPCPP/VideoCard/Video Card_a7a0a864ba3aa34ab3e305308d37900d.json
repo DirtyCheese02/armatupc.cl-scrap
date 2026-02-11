@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte D6 Rev 2.0 GeForce RTX 2060 6 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "[GV-N2060D6-6GD REV2, GV-N2060D6-6GD REV2.0]",
+    "Chipset": "GeForce RTX 2060",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1680 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "226 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wdkWGX/gigabyte-d6-rev-20-geforce-rtx-2060-6-gb-video-card-gv-n2060d6-6gd-rev2"
+}

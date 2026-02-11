@@ -1,0 +1,21 @@
+{
+    "name": "APC SU2200R3X167 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SU2200R3X167",
+    "Capacity (W)": "1980 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "3U",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "6.80 Minutes",
+    "Backup/Run Time (Half Load)": "24.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LgL7YJ/apc-ups-su2200r3x167"
+}

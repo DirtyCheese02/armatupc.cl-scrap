@@ -1,0 +1,16 @@
+{
+    "name": "HP 647909-B21 8 GB (1 x 8 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "HP",
+    "Part #": "647909-B21",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$6.058",
+    "Color": "Black / Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jhR48d/hp-memory-647909b21"
+}

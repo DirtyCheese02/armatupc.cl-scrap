@@ -1,0 +1,17 @@
+{
+    "name": "Silicon Power XPOWER Zenith RGB Gaming 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SP064GXLWU60AFDF, SU064GXLWU60AFDFEC, SU064GXLWU60AFDFAB]",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$11.718",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-38-38-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PxNYcf/silicon-power-xpower-zenith-rgb-gaming-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-sp064gxlwu60afdf"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI AERO ITX GeForce RTX 2060 SUPER 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 2060 SUPER AERO ITX, GeForce RTX 2060 SUPER AERO ITX]",
+    "Chipset": "GeForce RTX 2060 SUPER",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1470 MHz",
+    "Boost Clock": "1650 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / White",
+    "Frame Sync": "G-Sync",
+    "Length": "174 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kWZzK8/msi-geforce-rtx-2060-super-8-gb-aero-itx-video-card-rtx-2060-super-aero-itx"
+}

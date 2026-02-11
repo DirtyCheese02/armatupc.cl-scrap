@@ -1,0 +1,22 @@
+{
+    "name": "Biostar VA6756TML9 Radeon RX 6750 XT 12 GB Video Card",
+    "Manufacturer": "Biostar",
+    "Part #": "VA6756TML9",
+    "Chipset": "Radeon RX 6750 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2150 MHz",
+    "Boost Clock": "2150 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "214 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KRt9TW/biostar-radeon-rx-6750-xt-12-gb-video-card-va6756tml9"
+}

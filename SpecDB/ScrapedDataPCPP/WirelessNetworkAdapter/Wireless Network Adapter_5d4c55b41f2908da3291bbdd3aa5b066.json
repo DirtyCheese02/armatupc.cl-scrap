@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill AC1200UBE 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "AC1200UBE",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Security": "WEP 64/128-bit, WPA, WPA2, 802.1x<br/>Hardware & Software WPS Configuration",
+    "Antenna": "2 internal PIFA antennas (2T2R) (2.4G/5G 2dBi)",
+    "Features": "[Chipset: Realtek RTL8812AU, IEEE 802.11a/b/g/n/ac compatible., Extreme High transfer data rate 11ac up to 867Mbps, 11n up to 300Mbps, Support WMM wireless QoS feature., Support 64/128-bit WEP, WPA, WPA2 with IEEE 802.1x functions for high level of security., Support the most popular operating system: Windows XP/Vista/7/8, Linux, MAC OS, Support WPS (Wi-Fi Protected Setup) hardware button for easy connection., Support USB 3.0/2.0 interface. (11ac mode use USB 3.0 is required ), Portable dongle type design., *Note: Please download and install the latest drivers on our Rosewill.com for best performance and it also addresses a few bugs., http://www.rosewill.com/products/2487/ProductDetail_Download.htm.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Zs9KHx/rosewill-wireless-network-card-ac1200ube"
+}

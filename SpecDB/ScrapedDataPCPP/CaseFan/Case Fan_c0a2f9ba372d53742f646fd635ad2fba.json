@@ -1,0 +1,20 @@
+{
+    "name": "Xigmatek eXTREME SILENT 36 CFM 80 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XSF-F8252",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "36 CFM",
+    "Noise Level": "24 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "4.05 mmH₂O",
+    "Bearing Type": "Sleeve",
+    "Features": "[Higher airflow, static pressure and torque, Reduction for noise and power consumption, Additional output functions available, Optimized blade design for better performance, Lowest noise level, Air Pressure: 4.06 mmH2O [MAX.], Life Expectance: 30,000 hrs]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vpCwrH/xigmatek-xsf-f8252-36-cfm-80-mm-fan-xsf-f8252"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KVR18E13/8KF 8 GB (1 x 8 GB) DDR3-1866 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR18E13/8KF",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Green",
+    "First Word Latency": "13.934 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qgYXsY/kingston-memory-kvr18e138kf"
+}

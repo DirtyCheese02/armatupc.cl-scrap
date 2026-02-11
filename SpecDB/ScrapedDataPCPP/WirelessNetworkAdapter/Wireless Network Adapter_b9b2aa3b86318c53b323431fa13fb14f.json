@@ -1,0 +1,12 @@
+{
+    "name": "IOGEAR GWU627W6 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "IOGEAR",
+    "Part #": "GWU627W6",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "WEP, TKIP, AES, WPA and WPS2, WPS",
+    "Antenna": "On board chip antenna",
+    "Operating Range": "100 - 400m, depending on surrounding environment",
+    "Features": "[Management: Windows-based Utility, Add high-speed 802.11n Internet access to any Ethernet enabled device such as a Blu-ray player, DVR, HDTV, game console or media PC., Push-button Wi-Fi Protected Setup (WPS) simplifies secure and easy wireless configuration., Convenient LED status indicators., Plug and Play - No special drivers required., Compact and stylish design.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sTQypg/iogear-wireless-network-card-gwu627w6"
+}

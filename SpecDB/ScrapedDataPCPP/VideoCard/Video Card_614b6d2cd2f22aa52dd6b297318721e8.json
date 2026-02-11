@@ -1,0 +1,23 @@
+{
+    "name": "XFX R9-PROD-8VRW Radeon Pro Duo 8 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "R9-PROD-8VRW",
+    "Chipset": "Radeon Pro Duo",
+    "Memory": "8 GB",
+    "Memory Type": "HBM",
+    "Core Clock": "1000 MHz",
+    "Effective Memory Clock": "500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "Length": "281 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "120 mm Radiator",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Wxs8TW/xfx-video-card-r9prod8vrw"
+}

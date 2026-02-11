@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill F4-4000C18Q-32GTZ 32 GB (4 x 8 GB) DDR4-4000 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4000C18Q-32GTZ",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Price / GB": "$9.344",
+    "Color": "Gray / Red",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/msddnQ/gskill-f4-4000c18q-32gtz-32-gb-4-x-8-gb-ddr4-4000-cl18-memory-f4-4000c18q-32gtz"
+}

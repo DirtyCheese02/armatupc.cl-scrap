@@ -1,0 +1,15 @@
+{
+    "name": "Crucial M500 240 GB mSATA Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT240M500SSD3",
+    "Capacity": "240 GB",
+    "Price / GB": "$0.866",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4gkD4D/crucial-internal-hard-drive-ct240m500ssd3"
+}

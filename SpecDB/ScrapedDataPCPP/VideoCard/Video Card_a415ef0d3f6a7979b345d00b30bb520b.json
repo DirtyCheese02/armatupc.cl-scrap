@@ -1,0 +1,23 @@
+{
+    "name": "Gainward NE6306T019P2-190AB GeForce RTX 3060 Ti LHR 8 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NE6306T019P2-190AB",
+    "Chipset": "GeForce RTX 3060 Ti LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1665 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "247 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CZhFf7/gainward-geforce-rtx-3060-ti-lhr-8-gb-video-card-ne6306t019p2-190ab"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Avexir MSI Z77 MPOWER Optimized (Yellow LED) 32GB 32 GB (4 x 8 GB) DDR3-1600 CL10 Memory",
+    "Manufacturer": "Avexir",
+    "Model": "MSI Z77 MPOWER Optimized (Yellow LED) 32GB",
+    "Part #": "AVD3U16001008G-4CM",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RCGkcf/avexir-memory-avd3u16001008g4cm"
+}

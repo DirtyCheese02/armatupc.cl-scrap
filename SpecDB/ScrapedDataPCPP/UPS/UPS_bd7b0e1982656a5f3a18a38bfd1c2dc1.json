@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite SMARTINT3000VS UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMARTINT3000VS",
+    "Capacity (W)": "2250 W",
+    "Capacity (VA)": "3000 VA",
+    "Alarm": "Utility Power Failure",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[8 x IEC 320-C13, 1 x IEC 320-C19]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nsJkcf/tripp-lite-ups-smartint3000vs"
+}

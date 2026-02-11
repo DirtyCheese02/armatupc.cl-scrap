@@ -1,0 +1,19 @@
+{
+    "name": "APC SMX2200HV UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMX2200HV",
+    "Capacity (W)": "1980 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "4U",
+    "Alarm": "[Low Battery, Configurable Delay, On Battery]",
+    "Backup/Run Time (Full Load)": "10 Minutes",
+    "Backup/Run Time (Half Load)": "25 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "220 V AC",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RWX2FT/apc-ups-smx2200hv"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance 32 GB (4 x 8 GB) DDR4-4000 SODIMM CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSX32GX4M4X4000C19",
+    "Speed": "DDR4-4000",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-23-23-45",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y8QG3C/corsair-vengeance-32gb-4-x-8gb-ddr4-4000-memory-cmsx32gx4m4x4000c19"
+}

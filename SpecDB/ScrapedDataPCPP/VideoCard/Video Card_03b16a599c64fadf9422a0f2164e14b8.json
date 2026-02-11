@@ -1,0 +1,22 @@
+{
+    "name": "Acer Predator BiFrost OC Arc A770 16 GB Video Card",
+    "Manufacturer": "Acer",
+    "Part #": "[Predator BiFrost Intel Arc A770 OC, DP.BKCWW.P02, APBF-IA770-16G-OC]",
+    "Chipset": "Arc A770",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2200 MHz",
+    "Boost Clock": "2400 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VvH7YJ/acer-predator-bifrost-oc-arc-a770-16-gb-video-card-predator-bifrost-intel-arc-a770-oc"
+}

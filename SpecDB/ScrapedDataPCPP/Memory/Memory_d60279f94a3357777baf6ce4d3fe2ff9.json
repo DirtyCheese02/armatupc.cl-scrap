@@ -1,0 +1,16 @@
+{
+    "name": "Silicon Power SP008GBLTU160N02 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP008GBLTU160N02",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$4.835",
+    "Color": "Black / Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2LkwrH/silicon-power-memory-sp008gbltu160n02"
+}

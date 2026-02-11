@@ -1,0 +1,14 @@
+{
+    "name": "Intel 320 40 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSA2CT040G3K5",
+    "Capacity": "40 GB",
+    "Price / GB": "$2.475",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21BA0",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7CR48d/intel-internal-hard-drive-ssdsa2ct040g3k5"
+}

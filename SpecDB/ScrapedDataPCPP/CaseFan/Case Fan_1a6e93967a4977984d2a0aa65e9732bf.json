@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master MasterFan MF140 Halo² 59.51 CFM 140 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "MasterFan MF140 Halo²",
+    "Part #": "MFL-B4DN-16NP2-R2",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "59.51 CFM",
+    "Noise Level": "27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.53 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BQZXsY/cooler-master-masterfan-mf140-halo2-5951-cfm-140-mm-fan-mfl-b4dn-16np2-r2"
+}

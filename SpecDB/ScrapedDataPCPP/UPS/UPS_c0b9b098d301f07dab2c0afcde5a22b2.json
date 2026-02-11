@@ -1,0 +1,19 @@
+{
+    "name": "IBM 53952KX UPS",
+    "Manufacturer": "IBM",
+    "Part #": "53952KX",
+    "Capacity (W)": "1920 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "253 V AC",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Jhqbt6/ibm-ups-53952kx"
+}

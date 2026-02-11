@@ -1,0 +1,17 @@
+{
+    "name": "GAMDIAS AEOLUS M2 56 CFM 120 mm Fans 4-Pack",
+    "Manufacturer": "GAMDIAS",
+    "Part #": "AEOLUS M2 1204R",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "4-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1500 RPM",
+    "Airflow": "56 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "1.95 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bDM48d/gamdias-aeolus-m2-1204r-56-cfm-120-mm-fans-4-pack-aeolus-m2-1204r"
+}

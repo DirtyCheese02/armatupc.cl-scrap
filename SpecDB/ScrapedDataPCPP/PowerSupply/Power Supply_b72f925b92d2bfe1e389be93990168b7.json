@@ -1,0 +1,21 @@
+{
+    "name": "Corsair CS750M 750 W 80+ Gold Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Part #": "[CS750M, CP-9020078-UK, CP-9020078-AU, CP-9020078-NA, CP-9020078-EU]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "750 W",
+    "Length": "139 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "7",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jXTmP6/corsair-cs750m-750-w-80-gold-certified-semi-modular-atx-power-supply-cs750m"
+}

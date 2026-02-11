@@ -1,0 +1,15 @@
+{
+    "name": "Wintec Value 4 GB (1 x 4 GB) DDR2-800 CL6 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "3VT8005U9-4GR",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "1 x 4GB",
+    "Color": "Green",
+    "First Word Latency": "15 ns",
+    "CAS Latency": "6",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FWh9TW/wintec-memory-3vt8005u94gr"
+}

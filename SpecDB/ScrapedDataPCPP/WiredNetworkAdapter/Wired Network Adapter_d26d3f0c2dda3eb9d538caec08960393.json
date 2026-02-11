@@ -1,0 +1,8 @@
+{
+    "name": "StarTech USB31000SPTB Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "USB31000SPTB",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Features": "[Chipset ID: ASIX - AX88179, VIA - VL811, USB Pass-Through: Yes, Connector Type(s): 1 - RJ-45 Female, 1 - USB 3.0 A (9 pin; SuperSpeed) Female, 1 - USB 3.0 A (9 pin; SuperSpeed) Male, Full Duplex Support: Yes, Max Distance: 100 m / 330 ft, Maximum Data Transfer Rate: 5 Gbps (USB 3.0), 2 Gbps (Ethernet - Full-Duplex), OS Compatibility: Windows 8 (32/64bit), 7 (32/64), Vista(32/64), XP(32/64), Windows Server 2008 R2, 2003(32/64), Mac OS 10.6 - 10.8, Linux Kernel 2.6.14 - 3.5.0, Cable Length: 6.1 in [155 mm], Color: Black, Enclosure Type: Plastic, Power Adapter Included: USB-Powered, Crossover Detection & Auto-Correction (Auto MDIX), IEEE 802.1Q VLAN Tagging support, Jumbo Frame support, Supports Checksum Offload (IPv4, IPv6, TCP, UDP) and Large Send Offload, Compact, lightweight design for maximum portability.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xXjG3C/startech-wired-network-card-usb31000sptb"
+}

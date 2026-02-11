@@ -1,0 +1,22 @@
+{
+    "name": "In Win Commander II 1200 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "In Win",
+    "Part #": "[IRP-COM1200 II, Commander 1200W]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "1200 W",
+    "Length": "165 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@24A, +5V@30A, +12V1@40A, +12V2@40A, +12V3@40A, +12V4@40A, -12V@0.5A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tYDwrH/inwin-power-supply-irpcom1200ii"
+}

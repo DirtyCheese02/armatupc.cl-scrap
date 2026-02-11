@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws 32 GB (4 x 8 GB) DDR4-4000 SODIMM CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4000C18Q-32GRS",
+    "Speed": "DDR4-4000",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/94448d/gskill-32gb-4-x-8gb-ddr4-4000-memory-f4-4000c18q-32grs"
+}

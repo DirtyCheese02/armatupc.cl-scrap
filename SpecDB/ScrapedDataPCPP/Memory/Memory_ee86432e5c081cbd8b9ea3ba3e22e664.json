@@ -1,0 +1,14 @@
+{
+    "name": "Kingston Server Premier 64 GB (1 x 64 GB) Registered DDR4-2666 CL19 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM26RD4/64HCR",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 64GB",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KGZ9TW/kingston-server-premier-64-gb-1-x-64-gb-registered-ddr4-2666-cl19-memory-ksm26rd464hcr"
+}

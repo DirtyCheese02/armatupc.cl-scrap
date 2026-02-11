@@ -1,0 +1,13 @@
+{
+    "name": "APC BE350C UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE350C",
+    "Capacity (W)": "200 W",
+    "Capacity (VA)": "350 VA",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wZ8H99/apc-ups-be350c"
+}

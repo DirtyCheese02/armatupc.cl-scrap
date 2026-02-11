@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Pallas II 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "[BL.9BWWR.432, VESTA2-32GB-6000-1R8-V1]",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-38-38-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VZyH99/acer-predator-pallas-ii-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-bl9bwwr432"
+}

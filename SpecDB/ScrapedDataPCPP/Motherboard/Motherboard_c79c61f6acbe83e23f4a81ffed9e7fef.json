@@ -1,0 +1,23 @@
+{
+    "name": "Asus AT5NM10-I Mini ITX Atom D510 Motherboard",
+    "Manufacturer": "Asus",
+    "Part #": "AT5NM10-I",
+    "Socket / CPU": "Integrated Atom D510",
+    "Form Factor": "Mini ITX",
+    "Chipset": "Intel NM10",
+    "Memory Max": "4 GB",
+    "Memory Type": "DDR2",
+    "Memory Slots": "2",
+    "Memory Speed": "[DDR2-667, DDR2-800]",
+    "Color": "Black / Blue",
+    "PCI Slots": "1",
+    "SATA 3.0 Gb/s Ports": "2",
+    "Onboard Ethernet": "1 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "2",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "No",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MMW9TW/asus-motherboard-at5nm10i"
+}

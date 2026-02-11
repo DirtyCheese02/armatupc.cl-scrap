@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Light Wings 71.7 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL103",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "71.7 CFM",
+    "Noise Level": "31 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "2.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cL26Mp/be-quiet-light-wings-717-cfm-140-mm-fans-3-pack-bl103"
+}

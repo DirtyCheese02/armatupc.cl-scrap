@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Super Luce 16 GB (2 x 8 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLWW416GB2666C15DC",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gTCrxr/geil-memory-glww416gb2666c15dc"
+}

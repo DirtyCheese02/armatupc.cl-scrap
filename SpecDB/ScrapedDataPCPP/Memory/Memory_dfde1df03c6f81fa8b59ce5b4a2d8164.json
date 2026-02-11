@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP008GLSTU160N02 8 GB (1 x 8 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP008GLSTU160N02",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C38bt6/silicon-power-8-gb-1-x-8-gb-ddr3-1600-cl11-memory-sp008glstu160n02"
+}

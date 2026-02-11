@@ -1,0 +1,17 @@
+{
+    "name": "ID-COOLING ZF 55.2 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "ZF-12025-PINK",
+    "Size": "120 mm",
+    "Color": "Pink / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 2000 RPM",
+    "Noise Level": "16.3 - 33.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.13 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HtZzK8/id-cooling-zf-12025-pink-552-cfm-120-mm-fan-zf-12025-pink"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte EAGLE OC GeForce RTX 3080 10GB 10 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GVN3080EAGLEOC10GD",
+    "Chipset": "GeForce RTX 3080 10GB",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1755 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "320 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R3xbt6/gigabyte-eagle-oc-geforce-rtx-3080-10gb-10-gb-video-card-gvn3080eagleoc10gd"
+}

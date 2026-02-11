@@ -1,0 +1,16 @@
+{
+    "name": "Neo Forza NMUD480E82-3200DB21 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Neo Forza",
+    "Part #": "NMUD480E82-3200DB21",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WtVG3C/neo-forza-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-nmud480e82-3200db21"
+}

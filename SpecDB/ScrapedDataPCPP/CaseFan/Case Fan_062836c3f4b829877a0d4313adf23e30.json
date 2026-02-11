@@ -1,0 +1,19 @@
+{
+    "name": "upHere U3KC1 64.6 CFM 120 mm Fan",
+    "Manufacturer": "upHere",
+    "Model": "U3KC1",
+    "Part #": "[U3KC1 US, U3KC1]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1650 RPM",
+    "Airflow": "64.6 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.55 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GzgZxr/uphere-u3kc1-646-cfm-120-mm-fan-u3kc1-us"
+}

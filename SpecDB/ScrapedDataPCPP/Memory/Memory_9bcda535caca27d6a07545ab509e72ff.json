@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z RGB 64 GB (2 x 32 GB) DDR4-4400 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4400C19D-64GTZR",
+    "Speed": "DDR4-4400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "First Word Latency": "8.636 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.5 V",
+    "Timing": "19-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bPwypg/gskill-trident-z-rgb-64-gb-2-x-32-gb-ddr4-4400-cl19-memory-f4-4400c19d-64gtzr"
+}

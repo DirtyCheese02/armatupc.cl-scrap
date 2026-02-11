@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire 21253-00 Radeon Pro Duo 8 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "21253-00",
+    "Chipset": "Radeon Pro Duo",
+    "Memory": "8 GB",
+    "Memory Type": "HBM",
+    "Core Clock": "1000 MHz",
+    "Effective Memory Clock": "500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "Length": "267 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "120 mm Radiator",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yJM323/sapphire-video-card-2125300"
+}

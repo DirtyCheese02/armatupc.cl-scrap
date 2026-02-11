@@ -1,0 +1,21 @@
+{
+    "name": "ASRock Low Profile Arc A310 4 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[A310 LP 4G, 90-G4NZZ-00UANF]",
+    "Chipset": "Arc A310",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "169 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort 2.0 Outputs": "1",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FLfxFT/asrock-low-profile-arc-a310-4-gb-video-card-a310-lp-4g"
+}

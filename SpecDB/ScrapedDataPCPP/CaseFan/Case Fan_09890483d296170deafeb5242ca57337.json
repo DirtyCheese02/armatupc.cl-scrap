@@ -1,0 +1,16 @@
+{
+    "name": "EK Vardar X3M 120ER 67 CFM 120 mm Fan",
+    "Manufacturer": "EK",
+    "Model": "Vardar X3M 120ER",
+    "Part #": "3830046996442",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.75 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KD9tt6/ek-vardar-x3m-120er-67-cfm-120-mm-fan-3830046996442"
+}

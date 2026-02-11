@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Performance 16 GB (2 x 8 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSX16GX3M2B1600C9",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9rzv6h/corsair-memory-cmsx16gx3m2b1600c9"
+}

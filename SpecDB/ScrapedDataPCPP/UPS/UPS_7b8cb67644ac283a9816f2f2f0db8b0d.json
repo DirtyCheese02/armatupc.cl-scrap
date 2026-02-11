@@ -1,0 +1,22 @@
+{
+    "name": "CyberPower OR2200LCDRT2U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "OR2200LCDRT2U",
+    "Capacity (W)": "1320 W",
+    "Capacity (VA)": "2000 VA",
+    "Alarm": "[Low Battery, On Battery, Overload, Battery Missing, Fault]",
+    "Backup/Run Time (Full Load)": "4.80 Minutes",
+    "Backup/Run Time (Half Load)": "13.20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-11, RJ-45]",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[EMI / RFI, Overload, Surge]",
+    "Receptacles": "8 x NEMA 5-20R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hf8H99/cyberpower-ups-or2200lcdrt2u"
+}

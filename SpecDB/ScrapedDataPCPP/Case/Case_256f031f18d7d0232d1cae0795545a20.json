@@ -1,0 +1,20 @@
+{
+    "name": "NZXT Beta Evo ATX Mid Tower Case",
+    "Manufacturer": "NZXT",
+    "Part #": "CS-NT-BETA-EVO",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[266 mm, 10.472\"]",
+    "Drive Bays": "[4 x External 5.25\", 5 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm]",
+    "Dimensions": "[521 mm x 205 mm x 458 mm, 20.512\" x 8.071\" x 18.031\"]",
+    "Volume": "[48.917 L, 1.727 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q2ckcf/nzxt-case-csntbetaevo"
+}

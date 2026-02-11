@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek Crystal 60.46 CFM 140 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "CLF-F1452",
+    "Size": "140 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "60.46 CFM",
+    "Noise Level": "16 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Performing max. Air flow and mini. amount of noise, Less power consumption., Optimal static pressure and torque., Reduce noise and power consumption., Quad LEDs and transparent frame and blades, Reliable and outstanding performance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VJckcf/xigmatek-case-fan-clff1452"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "PNY Anarchy X 32 GB (4 x 8 GB) DDR3-2400 CL11 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MD32GK4D3240011AXB",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "9.167 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8mgPxr/pny-memory-md32gk4d3240011axb"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Kingston KVR16LSE11/8 8 GB (1 x 8 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR16LSE11/8",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$5.875",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NdphP6/kingston-memory-kvr16lse118"
+}

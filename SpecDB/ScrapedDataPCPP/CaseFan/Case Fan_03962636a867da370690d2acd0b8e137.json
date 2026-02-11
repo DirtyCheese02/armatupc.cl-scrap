@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F140 RGB DUO 84.75 CFM 140 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F140 RGB DUO",
+    "Part #": "RF-D14SF-W1",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "84.75 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "2.72 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bd8bt6/nzxt-f140-rgb-duo-8475-cfm-140-mm-fan-rf-d14sf-w1"
+}

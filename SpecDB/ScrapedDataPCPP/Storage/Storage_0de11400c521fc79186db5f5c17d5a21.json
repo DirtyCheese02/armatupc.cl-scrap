@@ -1,0 +1,13 @@
+{
+    "name": "PLDS M5M 256 GB mSATA Solid State Drive",
+    "Manufacturer": "PLDS",
+    "Part #": "PX256M5M",
+    "Capacity": "256 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/F93RsY/plds-internal-hard-drive-px256m5m"
+}

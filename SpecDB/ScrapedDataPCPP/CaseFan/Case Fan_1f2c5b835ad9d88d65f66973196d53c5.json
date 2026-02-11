@@ -1,0 +1,19 @@
+{
+    "name": "Antec P12R 61.46 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Model": "P12R",
+    "Part #": "0-761345-40042-8",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "600 - 1500 RPM",
+    "Airflow": "55.31 - 61.46 CFM",
+    "Noise Level": "14.2 - 29.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.07 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YqTZxr/antec-p12r-6146-cfm-120-mm-fan-0-761345-40042-8"
+}

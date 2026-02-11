@@ -1,0 +1,18 @@
+{
+    "name": "Tripp Lite SUINT2200RTXL2UA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SUINT2200RTXL2UA",
+    "Capacity (W)": "1600 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "[240 V AC, 220 V AC, 230 V AC]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vLDzK8/tripp-lite-ups-suint2200rtxl2ua"
+}

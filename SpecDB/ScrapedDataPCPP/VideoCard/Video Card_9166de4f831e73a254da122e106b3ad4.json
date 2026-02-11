@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte EAGLE Radeon RX 6650 XT 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R665XTEAGLE-8GD",
+    "Chipset": "Radeon RX 6650 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2055 MHz",
+    "Boost Clock": "2635 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "282 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fr8bt6/gigabyte-radeon-rx-6650-xt-8-gb-eagle-video-card-gv-r665xteagle-8gd"
+}

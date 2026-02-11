@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N250UBE 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N250UBE",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP (802.1X), WPA(TKIP, AES, and 802.1X), WPA2(TKIP, AES, and 802.1X)",
+    "Antenna": "2 x external detachable 5 dBi Antenna",
+    "Features": "[Chipset: Realtek RTL8192CU, Comply with IEEE 802.11b, 802.11g and 802.11n standard for 2.4GHz Wireless LAN, Support advanced 2 x 2 MIMO Technology with up to 300Mbps data transfer rate, Support 64/128-bit WEP,WPA and WPA2 wireless security modes, Windows 7-32/64 bit, Vista 32/64 bit, XP, 2000, MAC OSX 10.4 ~ 10.8, Linux supportive, Supports Sony PSP X-link for online gaming, Supports roaming between access points when configured in Infrastructure mode, Easily connect and secure your wireless network with WPS button (Wi-Fi Protected Setup)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cJckcf/rosewill-wireless-network-card-rnxn250ube"
+}

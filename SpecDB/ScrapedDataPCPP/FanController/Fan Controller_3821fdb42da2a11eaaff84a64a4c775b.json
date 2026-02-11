@@ -1,0 +1,12 @@
+{
+    "name": "Lamptron FC Touch Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Model": "FC Touch",
+    "Part #": "FC-FCT-B",
+    "Channels": "6",
+    "Channel Wattage": "30 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[CNC milled front panel, Clean and streamlined interface, Streamlined touch functionality to control your fans, Choose between RPM or Voltages and Celsius or Fahrenheit for readout, Set the channel in either Automatic or Manual control to control the fans]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fJsKHx/lamptron-fan-controller-fcfctb"
+}

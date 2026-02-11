@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK32GX4M2B3200C16",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6rrcCJ/corsair-memory-cmk32gx4m2b3200c16"
+}

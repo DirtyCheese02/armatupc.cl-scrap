@@ -1,0 +1,15 @@
+{
+    "name": "GeIL GPR432GB2800C16QC 32 GB (4 x 8 GB) DDR4-2800 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GPR432GB2800C16QC",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6xFXsY/geil-memory-gpr432gb2800c16qc"
+}

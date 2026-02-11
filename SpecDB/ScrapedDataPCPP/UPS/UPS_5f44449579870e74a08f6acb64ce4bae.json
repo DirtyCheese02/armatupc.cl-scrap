@@ -1,0 +1,15 @@
+{
+    "name": "APC BR1500GI UPS",
+    "Manufacturer": "APC",
+    "Part #": "BR1500GI",
+    "Capacity (W)": "865 W",
+    "Capacity (VA)": "1500 VA",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "230 V AC",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N7hj4D/apc-ups-br1500gi"
+}

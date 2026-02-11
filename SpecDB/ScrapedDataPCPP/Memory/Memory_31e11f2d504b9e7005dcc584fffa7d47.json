@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident X 32 GB (4 x 8 GB) DDR3-2933 CL12 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-2933C12Q-32GTXDG",
+    "Speed": "DDR3-2933",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Red / Black",
+    "First Word Latency": "8.183 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7hNYcf/gskill-trident-x-32-gb-4-x-8-gb-ddr3-2933-cl12-memory-f3-2933c12q-32gtxdg"
+}

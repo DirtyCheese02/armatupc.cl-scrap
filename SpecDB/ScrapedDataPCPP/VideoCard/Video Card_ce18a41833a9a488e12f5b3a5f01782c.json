@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF GAMING OC GeForce RTX 5060 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[tuf-rtx5060-o8g-gaming, 90YV0N00-M0NA00, 90YV0N00-M0AA00]",
+    "Chipset": "GeForce RTX 5060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2280 MHz",
+    "Boost Clock": "2677 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "302 mm",
+    "TDP": "145 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/brcBD3/asus-tuf-gaming-oc-geforce-rtx-5060-8-gb-video-card-tuf-rtx5060-o8g-gaming"
+}

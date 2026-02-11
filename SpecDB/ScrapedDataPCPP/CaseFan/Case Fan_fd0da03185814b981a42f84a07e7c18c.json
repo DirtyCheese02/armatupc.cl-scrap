@@ -1,0 +1,18 @@
+{
+    "name": "Cougar VORTEX FCB 36.72 CFM 120 mm Fan",
+    "Manufacturer": "Cougar",
+    "Model": "VORTEX FCB",
+    "Part #": "CF-V12FB-RGB",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "36.72 CFM",
+    "Noise Level": "24.3 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KXPgXL/cougar-vortex-rgb-fcb-120-3672-cfm-fan-cf-v12fb-rgb"
+}

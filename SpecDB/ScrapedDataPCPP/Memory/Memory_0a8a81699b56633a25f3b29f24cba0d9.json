@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F3-1600C9D-8GSL 8 GB (2 x 4 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1600C9D-8GSL",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$3.062",
+    "Color": "Green",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JyjG3C/gskill-memory-f31600c9d8gsl"
+}

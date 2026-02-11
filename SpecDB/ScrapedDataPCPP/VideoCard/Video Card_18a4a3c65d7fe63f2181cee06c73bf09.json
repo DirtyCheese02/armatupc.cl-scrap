@@ -1,0 +1,22 @@
+{
+    "name": "GALAX (1-click OC) GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "GALAX",
+    "Part #": "58NZN6MDBBOC",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "303 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D4qNnQ/galax-1-click-oc-geforce-rtx-5080-16-gb-video-card-58nzn6mdbboc"
+}

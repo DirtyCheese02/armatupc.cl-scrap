@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Mac Memory 16 GB (2 x 8 GB) DDR3-1866 SODIMM CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSA16GX3M2C1866C11",
+    "Speed": "DDR3-1866",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Green",
+    "First Word Latency": "11.79 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "Timing": "11-11-11-32",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bCdFf7/corsair-16gb-2-x-8gb-ddr3-1866-memory-cmsa16gx3m2c1866c11"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Xtreem 8 GB (2 x 4 GB) DDR4-3866 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TXGD48G3866HC18ADC01",
+    "Speed": "DDR4-3866",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "9.312 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-20-20-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T3x9TW/team-t-force-xtreem-8gb-2-x-4gb-ddr4-3866-memory-txgd48g3866hc18adc01"
+}

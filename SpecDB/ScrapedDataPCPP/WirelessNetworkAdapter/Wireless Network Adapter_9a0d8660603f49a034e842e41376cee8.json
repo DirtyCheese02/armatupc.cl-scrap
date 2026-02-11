@@ -1,0 +1,10 @@
+{
+    "name": "Syba SY-PEX23063 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SY-PEX23063",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Antenna": "2 x WiFi Antenna",
+    "Features": "[Compliant with Bluetooth 2.1 + EDR and 3.0 + HS specification by on chip software stack, Support for WLAN + Bluetooth coexistence for optimized performance, IEEE 802.11b/g/n compliance, Up to 150 Mbps transmit date rate and up to 150 Mbps receving data rate, Support for BT Class 1 operation for better Bluetooth range, Support Full-speed Bluetooth operation with Piconet and Scatternet, Shared Bluetooth and Wi-Fi signal receiving path to eliminate the need for extranal, Compliant with IEEE 802.11i 64/128 bit WEP encryption, WAP, WPA-PSK and TKIP, and WPA2 ( with AES-CCM support), CCM support)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WwVBD3/syba-sy-pex23063-none-wi-fi-adapter-sy-pex23063"
+}

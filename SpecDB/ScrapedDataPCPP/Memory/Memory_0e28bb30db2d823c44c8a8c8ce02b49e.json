@@ -1,0 +1,16 @@
+{
+    "name": "Corsair XMS2 2 GB (2 x 1 GB) DDR2-800 CL4 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "TWIN2X2048-6400",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "2 x 1GB",
+    "Color": "Black / Purple",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "4",
+    "Voltage": "1.9 V",
+    "Timing": "4-4-4-12",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3g7wrH/corsair-memory-twin2x20486400"
+}

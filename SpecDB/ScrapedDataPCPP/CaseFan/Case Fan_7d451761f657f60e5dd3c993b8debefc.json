@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master SAF-B83-E1 29.07 CFM 80 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "SAF-B83-E1",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2500 RPM",
+    "Airflow": "29.07 CFM",
+    "Noise Level": "26 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Ball",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/637wrH/cooler-master-saf-b83-e1-2907-cfm-80-mm-fan-saf-b83-e1"
+}

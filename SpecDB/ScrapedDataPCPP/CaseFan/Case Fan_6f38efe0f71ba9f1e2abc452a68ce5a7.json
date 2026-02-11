@@ -1,0 +1,18 @@
+{
+    "name": "ARCTIC P14 Pro A-RGB 110 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P14 Pro A-RGB",
+    "Part #": "ACFAN00318A",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 2500 RPM",
+    "Airflow": "110 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "5.2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ptrp99/arctic-p14-pro-a-rgb-110-cfm-140-mm-fan-acfan00318a"
+}

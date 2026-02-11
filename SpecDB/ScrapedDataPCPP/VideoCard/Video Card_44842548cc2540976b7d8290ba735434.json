@@ -1,0 +1,22 @@
+{
+    "name": "Acer Predator BiFrost OC Radeon RX 9070 XT 16 GB Video Card",
+    "Manufacturer": "Acer",
+    "Part #": "[DP.Z4FWW.P01, PB-RX9070XT-SOC]",
+    "Chipset": "Radeon RX 9070 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2400 MHz",
+    "Boost Clock": "3100 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "297 mm",
+    "TDP": "340 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WqPv6h/acer-predator-bifrost-oc-radeon-rx-9070-xt-16-gb-video-card-dpz4fwwp01"
+}

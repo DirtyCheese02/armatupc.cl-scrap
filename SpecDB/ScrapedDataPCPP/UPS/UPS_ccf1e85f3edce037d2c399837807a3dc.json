@@ -1,0 +1,21 @@
+{
+    "name": "APC BR1500I UPS",
+    "Manufacturer": "APC",
+    "Part #": "BR1500I",
+    "Capacity (W)": "865 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Backup/Run Time (Full Load)": "3.70 Minutes",
+    "Backup/Run Time (Half Load)": "12.70 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[2 x IEC 320-C13, 6 x IEC 320-C13]",
+    "USB": "Yes",
+    "Waveform Type": "Stepped Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2LDzK8/apc-ups-br1500i"
+}

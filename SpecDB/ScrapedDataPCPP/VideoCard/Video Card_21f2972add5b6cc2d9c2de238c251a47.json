@@ -1,0 +1,20 @@
+{
+    "name": "Asus ENGTX460/2DI/768MD5 GeForce GTX 460 768 MB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ENGTX460/2DI/768MD5",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "0.75 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b8Bv6h/asus-video-card-engtx4602di768md5"
+}

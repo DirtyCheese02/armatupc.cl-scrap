@@ -1,0 +1,20 @@
+{
+    "name": "StarTech ATX2POW500HS 500 W ATX Power Supply",
+    "Manufacturer": "StarTech",
+    "Part #": "ATX2POW500HS",
+    "Type": "ATX",
+    "Wattage": "500 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xqzv6h/startech-power-supply-atx2pow500hs"
+}

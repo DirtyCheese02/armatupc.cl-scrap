@@ -1,0 +1,16 @@
+{
+    "name": "OLOy Blade 16 GB (2 x 8 GB) DDR4-4000 CL18 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "ND4U0840180BRQDE",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.4 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qhGbt6/oloy-blade-16-gb-2-x-8-gb-ddr4-4000-cl18-memory-nd4u0840180brqde"
+}

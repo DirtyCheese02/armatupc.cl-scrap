@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle SPI300GLS-B204 300 W SFX Power Supply",
+    "Manufacturer": "Sparkle",
+    "Part #": "SPI300GLS-B204",
+    "Type": "SFX",
+    "Wattage": "300 W",
+    "Length": "101 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@20A, +5V@18A, +12V1@8A, +12V2@16A, -12V@0.5A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NNCwrH/sparkle-spi300gls-b204-300-w-sfx-power-supply-spi300gls-b204"
+}

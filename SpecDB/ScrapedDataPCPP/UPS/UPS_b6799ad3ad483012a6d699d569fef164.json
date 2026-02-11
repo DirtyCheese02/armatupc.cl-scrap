@@ -1,0 +1,17 @@
+{
+    "name": "APC SMC1000I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMC1000I",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "1000 VA",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RPs8TW/apc-ups-smc1000i"
+}

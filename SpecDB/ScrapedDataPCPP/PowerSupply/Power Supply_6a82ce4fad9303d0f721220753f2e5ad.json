@@ -1,0 +1,22 @@
+{
+    "name": "LEPA B850-MA 850 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "LEPA",
+    "Part #": "B850-MA",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "850 W",
+    "Length": "159 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@28A, +5V@30A, +12V1@20A, +12V2@20A, +12V3@30A, +12V4@30A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Qp7wrH/lepa-power-supply-b850ma"
+}

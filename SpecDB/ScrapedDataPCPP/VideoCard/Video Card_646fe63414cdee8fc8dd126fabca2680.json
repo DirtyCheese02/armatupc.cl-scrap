@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte MINI ITX GeForce GTX 1660 SUPER 6 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N166SIX-6GD",
+    "Chipset": "GeForce GTX 1660 SUPER",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1785 MHz",
+    "Effective Memory Clock": "6000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "170 mm",
+    "TDP": "125 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fTK2FT/gigabyte-mini-itx-geforce-gtx-1660-super-6-gb-video-card-gv-n166six-6gd"
+}

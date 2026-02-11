@@ -1,0 +1,22 @@
+{
+    "name": "SilentiumPC Vero M2 600 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "SilentiumPC",
+    "Part #": "SPC166",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "600 W",
+    "Length": "160 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "7",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x6xbt6/silentiumpc-vero-m2-600-w-80-bronze-certified-atx-power-supply-spc166"
+}

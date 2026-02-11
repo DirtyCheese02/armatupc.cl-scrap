@@ -1,0 +1,19 @@
+{
+    "name": "StarTech FAN8X25TX3L 26.6 CFM 80 mm Fan",
+    "Manufacturer": "StarTech",
+    "Part #": "FAN8X25TX3L",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "26.6 CFM",
+    "Noise Level": "27 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Ball",
+    "Features": "Ball Bearing in the cooling fan provides increased airflow, reliability and longer life",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HXDwrH/startech-fan8x25tx3l-266-cfm-80-mm-fan-fan8x25tx3l"
+}

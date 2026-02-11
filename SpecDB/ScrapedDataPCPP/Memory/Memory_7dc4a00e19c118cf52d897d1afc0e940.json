@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-5600 CL28 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5600J2834F16GX2-TZ5RK",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.35 V",
+    "Timing": "28-34-34-89",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BMt9TW/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-5600-cl28-memory-f5-5600j2834f16gx2-tz5rk"
+}

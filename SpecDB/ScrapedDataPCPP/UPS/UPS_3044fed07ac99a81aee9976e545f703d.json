@@ -1,0 +1,19 @@
+{
+    "name": "APC SMT1500R2X122 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT1500R2X122",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "26 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NHNypg/apc-ups-smt1500r2x122"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte OC Low Profile GeForce GTX 1630 4 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N1630OC-4GL",
+    "Chipset": "GeForce GTX 1630",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1740 MHz",
+    "Boost Clock": "1800 MHz",
+    "Effective Memory Clock": "6000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "167 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vmXJ7P/gigabyte-oc-low-profile-geforce-gtx-1630-4-gb-video-card-gv-n1630oc-4gl"
+}

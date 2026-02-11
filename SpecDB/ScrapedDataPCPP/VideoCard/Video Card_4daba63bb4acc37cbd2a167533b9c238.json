@@ -1,0 +1,20 @@
+{
+    "name": "XFX PVT86SYHLG GeForce 8400 GS 512 MB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "PVT86SYHLG",
+    "Chipset": "GeForce 8400 GS",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "567 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dXQypg/xfx-video-card-pvt86syhlg"
+}

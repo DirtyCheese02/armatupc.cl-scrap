@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II X3 455 3.3 GHz Triple-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "ADX455WFGMBOX",
+    "Series": "AMD Athlon II X3",
+    "Microarchitecture": "K10",
+    "Core Family": "Rana",
+    "Socket": "AM3",
+    "Core Count": "3",
+    "Thread Count": "3",
+    "Performance Core Clock": "3.3 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PB3RsY/amd-cpu-adx455wfgmbox"
+}

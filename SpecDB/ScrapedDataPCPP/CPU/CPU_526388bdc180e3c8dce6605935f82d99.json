@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i5-2500K 3.3 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80623I52500K",
+    "Series": "Intel Core i5",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.3 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "Intel HD Graphics 3000",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4WqdnQ/intel-cpu-bx80623i52500k"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SMART750RMXL2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART750RMXL2U",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "750 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "8.50 Minutes",
+    "Backup/Run Time (Half Load)": "21 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GBPzK8/tripp-lite-ups-smart750rmxl2u"
+}

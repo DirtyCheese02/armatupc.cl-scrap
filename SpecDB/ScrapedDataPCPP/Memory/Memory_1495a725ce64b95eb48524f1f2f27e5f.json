@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F4-3200C15Q2-128GTZ 128 GB (8 x 16 GB) DDR4-3200 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C15Q2-128GTZ",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Gray / Red",
+    "First Word Latency": "9.375 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6WgFf7/gskill-f4-3200c15q2-128gtz-128-gb-8-x-16-gb-ddr4-3200-cl15-memory-f4-3200c15q2-128gtz"
+}

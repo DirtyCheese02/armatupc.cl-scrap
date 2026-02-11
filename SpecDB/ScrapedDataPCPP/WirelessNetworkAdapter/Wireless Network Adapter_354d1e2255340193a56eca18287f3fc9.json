@@ -1,0 +1,11 @@
+{
+    "name": "Syba CL-ADA23032 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "CL-ADA23032",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "Supports 64/128-bit WEP, WPA, WPA2 Encryption, WPS",
+    "Antenna": "Internal Antenna",
+    "Features": "[Ralink Chipset, Supports USB V2.0, V1.1, and MIMO 1T1R, Transfer Rate up to 150Mbps in 1T1R Mode in IEEE 802.11n, Supports WPS Function for Secure and Automate Wi-Fi Network Connection]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wxphP6/syba-wireless-network-card-clada23032"
+}

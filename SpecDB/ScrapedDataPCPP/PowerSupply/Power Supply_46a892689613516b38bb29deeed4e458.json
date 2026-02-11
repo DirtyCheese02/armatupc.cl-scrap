@@ -1,0 +1,22 @@
+{
+    "name": "Thermaltake Smart 850 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Thermaltake",
+    "Part #": "[SP-850M, SP-850MPCBUS]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "850 W",
+    "Length": "160 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@25A, +5V@25A, +12V@70A, -12V@0.8A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7bJwrH/thermaltake-smart-850-w-80-bronze-certified-semi-modular-atx-power-supply-sp-850m"
+}

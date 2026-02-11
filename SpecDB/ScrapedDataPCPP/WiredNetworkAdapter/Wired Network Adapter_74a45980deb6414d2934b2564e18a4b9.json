@@ -1,0 +1,8 @@
+{
+    "name": "Syba SY-ADA24040 Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SY-ADA24040",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Features": "[Integrated 10/100/1000M transceiver, Supports USB 3.0, 2.0, and 1.1, Supports CDC-ECM, Supports LPM (Link Power Management), Supports: - pair swap, - polarity, - skew correction, Crossover Detection; Auto-Correction, Supports Wake-On-LAN and RealWOW, Supports powerw down/link down power saving, Supports hardware CRC (Cyclic Redundancy Check) function, Supports Full Duplex flow control (IEEE 802.3x), Fully compliant with IEEE 802.3 and IEEE 802.3u, Supports IEEE 802.1P Layer 2 Priority Encoding, Supports IEEE 802.1Q VLAN tagging, Supports IEEE 802.3az-2010 (EEE), Supports 16-set 128-byte Wake-Up Frame pattern exact matching, Supports link change wake up, Supports Microsoft WPD (Wake PAckage Detection), Supports Protocol Offload (ARP; NS), Supports L1 with 3ms BESL (USB2.0), Dynamic LTM messaging (USB3.0), Supports U1/U2(USB3.0), Supports selective suspend]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mXL7YJ/syba-sy-ada24040-network-adapter-sy-ada24040"
+}

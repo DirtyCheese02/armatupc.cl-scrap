@@ -1,0 +1,23 @@
+{
+    "name": "Palit GameRock GeForce RTX 3090 Ti 24 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NED309T019SB-1022G",
+    "Chipset": "GeForce RTX 3090 Ti",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1560 MHz",
+    "Boost Clock": "1860 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "314 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b43gXL/palit-geforce-rtx-3090-ti-24-gb-gamerock-video-card-ned309t019sb-1022g"
+}

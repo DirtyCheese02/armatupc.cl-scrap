@@ -1,0 +1,22 @@
+{
+    "name": "Asus TUF GAMING OC GeForce RTX 4060 Ti 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[TUF-RTX4060TI-O8G-GAMING, 90YV0J50-M0NA00]",
+    "Chipset": "GeForce RTX 4060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2655 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "165 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bdbRsY/asus-tuf-gaming-oc-geforce-rtx-4060-ti-8-gb-video-card-tuf-rtx4060ti-o8g-gaming"
+}

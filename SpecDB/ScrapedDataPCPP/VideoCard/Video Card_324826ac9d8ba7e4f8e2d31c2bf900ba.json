@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Phantom Gaming D OC Radeon RX 6750 XT 12 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX6750XT PGD 12GO, 90-GA3NZZ-00UANF]",
+    "Chipset": "Radeon RX 6750 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2150 MHz",
+    "Boost Clock": "2623 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "305 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LnVmP6/asrock-radeon-rx-6750-xt-12-gb-phantom-gaming-d-oc-video-card-rx6750xt-pgd-12go"
+}

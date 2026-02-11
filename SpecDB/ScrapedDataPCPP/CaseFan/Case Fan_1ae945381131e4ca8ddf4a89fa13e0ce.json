@@ -1,0 +1,19 @@
+{
+    "name": "EK Vardar EVO 120ER 77 CFM 120 mm Fans 2-Pack",
+    "Manufacturer": "EK",
+    "Model": "Vardar EVO 120ER",
+    "Part #": "TR-3830046995452-2P",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2200 RPM",
+    "Airflow": "77 CFM",
+    "Noise Level": "33.5 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "3.16 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PvtQzy/ek-vardar-evo-120er-rgb-77-cfm-120-mm-fans-2-pack-tr-3830046995452-2p"
+}

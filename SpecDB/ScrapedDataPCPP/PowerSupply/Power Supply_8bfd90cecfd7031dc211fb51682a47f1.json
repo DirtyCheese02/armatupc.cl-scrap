@@ -1,0 +1,23 @@
+{
+    "name": "Raidmax Vortex 600 W 80+ Gold Certified ATX Power Supply",
+    "Manufacturer": "Raidmax",
+    "Part #": "RX-600AE-V",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "600 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "2",
+    "Output": "+3.3V@20A, +5V@20A, +12V@50A, -12V@0.3A, 5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cDjNnQ/raidmax-vortex-600-w-80-gold-certified-atx-power-supply-rx-600ae-v"
+}

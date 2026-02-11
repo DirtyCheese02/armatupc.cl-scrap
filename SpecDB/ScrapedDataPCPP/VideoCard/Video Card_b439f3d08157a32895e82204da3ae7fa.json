@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL V2 Radeon RX 6600 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RX6600-8G-V2, 90YV0GP2-M0AA00]",
+    "Chipset": "Radeon RX 6600",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1626 MHz",
+    "Boost Clock": "2491 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "243 mm",
+    "TDP": "132 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Hsn9TW/asus-dual-v2-radeon-rx-6600-8-gb-video-card-dual-rx6600-8g-v2"
+}

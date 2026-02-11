@@ -1,0 +1,12 @@
+{
+    "name": "Intel DC P3600 1.6 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDME016T401",
+    "Capacity": "1.6 TB",
+    "Price / GB": "$0.624",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6V38TW/intel-dc-p3600-16tb-pci-e-solid-state-drive-ssdpedme016t401"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z 8 GB (2 x 4 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3000C15D-8GTZB",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cdmxFT/gskill-memory-f43000c15d8gtzb"
+}

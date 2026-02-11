@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X2 560 Black 3.3 GHz Dual-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDZ560WFGMBOX",
+    "Series": "AMD Phenom II X2",
+    "Microarchitecture": "K10",
+    "Core Family": "Callisto",
+    "Socket": "AM3",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.3 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "80 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y6zv6h/amd-cpu-hdz560wfgmbox"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Super Luce 32 GB (2 x 16 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GALWR432GB2133C15DC",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "White / Red",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KdbwrH/geil-super-luce-32gb-2-x-16gb-ddr4-2133-memory-galwr432gb2133c15dc"
+}

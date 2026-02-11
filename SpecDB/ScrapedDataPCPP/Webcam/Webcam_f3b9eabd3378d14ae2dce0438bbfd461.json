@@ -1,0 +1,15 @@
+{
+    "name": "aoni A31 Webcam",
+    "Manufacturer": "aoni",
+    "Part #": "A31",
+    "Resolution": "[1080p, 720p, 480p]",
+    "Connection": "USB 2.0 Type-A",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X, Linux, ChromeOS, Android]",
+    "FOV Angle": "84°",
+    "Sensor Pixels": "2 MP",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gxqBD3/aoni-a31-webcam-a31"
+}

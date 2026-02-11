@@ -1,0 +1,19 @@
+{
+    "name": "Akasa Apache Black 89.55 CFM 140 mm Fan",
+    "Manufacturer": "Akasa",
+    "Part #": "AK-FN062",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1300 RPM",
+    "Airflow": "89.55 CFM",
+    "Noise Level": "12.5 - 22.19 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.76 mmH₂O",
+    "Bearing Type": "Hydro Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wbBv6h/akasa-case-fan-akfn062"
+}

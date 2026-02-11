@@ -1,0 +1,23 @@
+{
+    "name": "PNY XLR8 Gaming REVEL EPIC-X RGB GeForce RTX 3070 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG30708TFXPPB",
+    "Chipset": "GeForce RTX 3070",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1725 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "294 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B3LwrH/pny-geforce-rtx-3070-8-gb-xlr8-gaming-revel-epic-x-rgb-video-card-vcg30708tfxppb"
+}

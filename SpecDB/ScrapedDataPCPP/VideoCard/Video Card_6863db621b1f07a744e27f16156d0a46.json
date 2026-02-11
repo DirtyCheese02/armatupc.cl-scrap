@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Phantom Gaming X Radeon VII 16 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[PG X R VII 16G, 90-GA1100-00UANW, RVEGA2-GAMING-X-16GB, Radeon VII 16G, Phantom Gaming X Radeon VII 16G]",
+    "Chipset": "Radeon VII",
+    "Memory": "16 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1400 MHz",
+    "Boost Clock": "1750 MHz",
+    "Effective Memory Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "280 mm",
+    "TDP": "295 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JL3H99/asrock-radeon-vii-16-gb-phantom-gaming-x-video-card-pg-x-r-vii-16g"
+}

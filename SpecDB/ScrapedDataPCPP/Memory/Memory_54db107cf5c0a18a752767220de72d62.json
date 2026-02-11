@@ -1,0 +1,17 @@
+{
+    "name": "Silicon Power XPOWER Storm RGB 64 GB (2 x 32 GB) DDR5-6000 CL38 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SP064GXLWU60BFDL, SU064GXLWU60BFDLSN, SU064GXLWU60BFDLBH]",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$10.937",
+    "Color": "Gold",
+    "First Word Latency": "12.667 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-38-38-78",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dGLp99/silicon-power-xpower-storm-rgb-64-gb-2-x-32-gb-ddr5-6000-cl38-memory-sp064gxlwu60bfdl"
+}

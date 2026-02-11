@@ -1,0 +1,23 @@
+{
+    "name": "Asus Turbo GeForce RTX 2080 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[TURBO-RTX2080-8G, 90YV0C31-M0NM00]",
+    "Chipset": "GeForce RTX 2080",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1515 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "268 mm",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "VirtualLink Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WNF48d/asus-geforce-rtx-2080-8gb-turbo-video-card-turbo-rtx2080-8g"
+}

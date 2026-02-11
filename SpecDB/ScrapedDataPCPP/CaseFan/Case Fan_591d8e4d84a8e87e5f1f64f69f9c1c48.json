@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone Air Slimmer 140 ARGB 82 CFM 140 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Model": "Air Slimmer 140 ARGB",
+    "Part #": "SST-AS140B-ARGB",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1 - 1700 RPM",
+    "Airflow": "1 - 82 CFM",
+    "Noise Level": "1 - 33 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RBDnTW/silverstone-air-slimmer-140-argb-82-cfm-140-mm-fan-sst-as140b-argb"
+}

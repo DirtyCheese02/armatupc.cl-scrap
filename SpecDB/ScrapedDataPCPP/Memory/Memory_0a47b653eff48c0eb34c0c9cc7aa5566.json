@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Orion RGB AMD Edition 64 GB (2 x 32 GB) DDR4-3200 CL18 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAOSG464GB3200C18BDC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Gray",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rcKKHx/geil-orion-rgb-amd-edition-64-gb-2-x-32-gb-ddr4-3200-cl18-memory-gaosg464gb3200c18bdc"
+}

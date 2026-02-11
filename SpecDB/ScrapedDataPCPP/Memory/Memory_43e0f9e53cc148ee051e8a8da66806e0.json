@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO Potenza AMD Edition 16 GB (2 x 8 GB) DDR4-3600 CL14 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAPB416GB3600C14ADC",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "7.778 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "Timing": "14-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kWRYcf/geil-evo-potenza-amd-edition-16-gb-2-x-8-gb-ddr4-3600-cl14-memory-gapb416gb3600c14adc"
+}

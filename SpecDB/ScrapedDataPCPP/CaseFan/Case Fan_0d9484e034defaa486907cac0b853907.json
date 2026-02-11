@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FN 32.6 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "[FN123, SST-FN123, SST-FN123-USA]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "32.6 CFM",
+    "Noise Level": "23.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Long life sleeve",
+    "Features": "[Slim 15mm thick design for superb compatibility with smaller case designs, Optimized fan blades for balanced air pressure and airflow, Air-inlet with optimized aerodynamic reduces noisy air turbulence]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/smGj4D/silverstone-fn-326-cfm-120-mm-fan-fn123"
+}

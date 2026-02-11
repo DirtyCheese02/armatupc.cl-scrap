@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan Z 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLZRD432G3600HC18JDC",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Red / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dWH8TW/team-t-force-vulcan-z-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-tlzrd432g3600hc18jdc"
+}

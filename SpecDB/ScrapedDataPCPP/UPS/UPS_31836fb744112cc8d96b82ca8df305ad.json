@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite OMNIVS500U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNIVS500U",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PM8H99/tripp-lite-ups-omnivs500u"
+}

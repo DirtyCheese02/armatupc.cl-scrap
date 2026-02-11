@@ -1,0 +1,22 @@
+{
+    "name": "ATI FirePro 2460 FirePro 2460 512 MB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro 2460",
+    "Part #": "100-505611",
+    "Chipset": "FirePro 2460",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "600 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jr4gXL/ati-video-card-100505611"
+}

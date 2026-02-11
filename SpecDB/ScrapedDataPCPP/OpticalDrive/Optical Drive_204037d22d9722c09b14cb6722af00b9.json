@@ -1,0 +1,20 @@
+{
+    "name": "Sony AD-7690H-01 DVD/CD Writer",
+    "Manufacturer": "Sony",
+    "Part #": "AD-7690H-01",
+    "Form Factor": "5.25\" Slim Slot Load",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "2 MB",
+    "DVD-ROM Speed": "8X",
+    "CD-ROM Speed": "24X",
+    "DVD+R Speed": "8X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "6X",
+    "DVD-R Speed": "8X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "6X",
+    "DVD-RAM Speed": "5X",
+    "CD-R Speed": "24X",
+    "CD-RW Speed": "24X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GpPfrH/sony-optical-drive-ad7690h01"
+}

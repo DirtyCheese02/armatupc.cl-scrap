@@ -1,0 +1,19 @@
+{
+    "name": "Asus EN9800GT/HTDP/512MD3 GeForce 9800 GT 512 MB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "EN9800GT/HTDP/512MD3",
+    "Chipset": "GeForce 9800 GT",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "229 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gLTmP6/asus-video-card-en9800gthtdp512md3"
+}

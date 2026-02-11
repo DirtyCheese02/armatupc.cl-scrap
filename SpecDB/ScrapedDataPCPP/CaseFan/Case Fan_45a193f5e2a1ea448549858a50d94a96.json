@@ -1,0 +1,18 @@
+{
+    "name": "ARCTIC P9 PWM PST CO 38.83 CFM 92 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P9 PWM PST CO",
+    "Part #": "ACFAN00299A",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 3000 RPM",
+    "Airflow": "38.83 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.12 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z7sMnQ/arctic-p9-pwm-pst-co-3883-cfm-92-mm-fan-acfan00299a"
+}

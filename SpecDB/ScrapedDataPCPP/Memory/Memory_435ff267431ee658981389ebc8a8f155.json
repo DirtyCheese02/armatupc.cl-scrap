@@ -1,0 +1,17 @@
+{
+    "name": "Kingston ValueRAM 16 GB (1 x 16 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR21E15D8/16",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$5.156",
+    "Color": "Green",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-33",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mntWGX/kingston-memory-kvr21e15d816"
+}

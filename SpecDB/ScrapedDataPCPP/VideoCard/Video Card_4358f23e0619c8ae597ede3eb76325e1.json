@@ -1,0 +1,23 @@
+{
+    "name": "PNY RTX A-Series RTX A6000 48 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "[VCNRTXA6000-PB, VCNRTXA6000-BLK]",
+    "Chipset": "RTX A6000",
+    "Memory": "48 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1455 MHz",
+    "Boost Clock": "1860 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x EPS 8-pin",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HWt9TW/pny-rtx-a-series-rtx-a6000-48-gb-video-card-vcnrtxa6000-pb"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ATI FirePro 2450 Multi-View FirePro 2450 512 MB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro 2450 Multi-View",
+    "Part #": "100-505531",
+    "Chipset": "FirePro 2450",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "600 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "32 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GVzv6h/ati-video-card-100505531"
+}

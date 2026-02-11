@@ -1,0 +1,15 @@
+{
+    "name": "AMD Radeon R3 Value 4 GB (1 x 4 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "AMD",
+    "Part #": "R334G1339U1",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NtV48d/amd-memory-r334g1339u1"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Athena Power AP-MTFX30 300 W TFX Power Supply",
+    "Manufacturer": "Athena Power",
+    "Part #": "AP-MTFX30",
+    "Type": "TFX",
+    "Wattage": "300 W",
+    "Length": "175 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@13A, +5V@13A, +12V1@9A, +12V2@9A, -12V@0.8A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zRPfrH/athena-power-ap-mtfx30-300-w-tfx-power-supply-ap-mtfx30"
+}

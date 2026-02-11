@@ -1,0 +1,21 @@
+{
+    "name": "Asus BC-12D2HT Blu-Ray/DVD/CD Writer",
+    "Manufacturer": "Asus",
+    "Part #": "[BC-12D2HT, 90DD01K0-B20000, 90DD0230-B20010, BC-12D2HT/BLK/G/AS]",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "BD-R Speed": "12X",
+    "BD-R Dual-Layer Speed": "8X",
+    "BD-RE Speed": "8X",
+    "BD-RE Dual-Layer Speed": "6X",
+    "DVD+R Speed": "16X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "8X",
+    "DVD-R Speed": "6X",
+    "DVD-RW Speed": "12X",
+    "DVD-R Dual-Layer Speed": "8X",
+    "DVD-RAM Speed": "5X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "24X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6d3RsY/asus-optical-drive-bc12d2ht"
+}

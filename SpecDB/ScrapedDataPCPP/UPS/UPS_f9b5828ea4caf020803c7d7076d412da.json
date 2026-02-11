@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SMART1000RM2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART1000RM2U",
+    "Capacity (W)": "800 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "5.30 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qYrcCJ/tripp-lite-ups-smart1000rm2u"
+}

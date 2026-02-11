@@ -1,0 +1,18 @@
+{
+    "name": "MSI MPG F120 ARGB-2B 50.79 CFM 120 mm Fans 2-Pack",
+    "Manufacturer": "MSI",
+    "Part #": "MPG F120 ARGB-2B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1200 RPM",
+    "Airflow": "50.79 CFM",
+    "Noise Level": "25.7 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.05 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LbzXsY/msi-mpg-f120-argb-2b-5079-cfm-120-mm-fans-2-pack-mpg-f120-argb-2b"
+}

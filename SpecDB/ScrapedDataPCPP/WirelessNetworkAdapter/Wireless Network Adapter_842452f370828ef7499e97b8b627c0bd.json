@@ -1,0 +1,11 @@
+{
+    "name": "TRENDnet TEW-726EC 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-726EC",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128-bit WEP, WPA / WPA2-PSK, WPA/WPA2-RADIUS",
+    "Antenna": "2 x External Antenna",
+    "Features": "[Wi-Fi compliant with IEEE 802.11n standard (dual band 802.11n 2.4 GHz or 5 GHz connection), Backwards compatible with IEEE 802.11g, IEEE 802.11b, and IEEE 802.11a networks, Detachable antennas, Low profile bracket included, LED activity indicator, Interface PCI Express, Multiple Input Multiple Output (MIMO) antenna technology, Wi-Fi Multimedia (WMM) Quality of Service (QoS) data prioritization, Supports Infrastructure mode via Access Point and ad-hoc network via peer to peer communication, Maximum reliability, throughput, and connectivity with Automatic Data Rate Switching, Supports advanced wireless encryption up to WPA2-RADIUS, Compatible with Windows 8 (32/64-bit), 7 (32/64-bit), Vista (32/64-bit), and XP (32/64-bit) operating systems, Easy user setup & diagnostic utilities, Coverage of up to 100 meters indoor (330 feet) and 300 meters outdoor (980 feet).]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DcJwrH/trendnet-wireless-network-card-tew726ec"
+}

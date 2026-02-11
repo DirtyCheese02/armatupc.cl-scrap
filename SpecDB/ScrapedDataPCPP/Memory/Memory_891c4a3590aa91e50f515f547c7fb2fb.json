@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Orion AMD Edition 32 GB (2 x 16 GB) DDR4-4266 CL18 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAOR432GB4266C18ADC",
+    "Speed": "DDR4-4266",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "8.439 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.45 V",
+    "Timing": "18-24-24-44",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZzcG3C/geil-orion-amd-edition-32-gb-2-x-16-gb-ddr4-4266-cl18-memory-gaor432gb4266c18adc"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Asus Noctua OC GeForce RTX 3070 LHR 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[RTX3070-O8G-NOCTUA, 90YV0FQQ-M0NA00]",
+    "Chipset": "GeForce RTX 3070 LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1845 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Brown / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "310 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "5",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H7ytt6/asus-geforce-rtx-3070-lhr-8-gb-noctua-oc-video-card-rtx3070-o8g-noctua"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Montech RX120 59 CFM 120 mm Fan",
+    "Manufacturer": "Montech",
+    "Model": "RX120",
+    "Part #": "[RX120 PWM Black, RX120-PWM-B]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "800 - 1600 RPM",
+    "Airflow": "59 CFM",
+    "Noise Level": "27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.8 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6Fqrxr/montech-rx120-59-cfm-120-mm-fan-rx120-pwm-black"
+}

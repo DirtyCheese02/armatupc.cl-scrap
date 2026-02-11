@@ -1,0 +1,19 @@
+{
+    "name": "Fractal Design Venturi HF-14 118.2 CFM 140 mm Fan",
+    "Manufacturer": "Fractal Design",
+    "Model": "Venturi HF-14",
+    "Part #": "[FD-FAN-VENT-HF14-BK, FAN-VENT-HF14-BK]",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "118.2 CFM",
+    "Noise Level": "26.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wzM323/fractal-design-case-fan-fdfanventhf14bk"
+}

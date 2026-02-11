@@ -1,0 +1,61 @@
+﻿name: ScrapDB Daily
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * *"
+
+concurrency:
+  group: scrapdb-daily
+  cancel-in-progress: false
+
+jobs:
+  run-scrapers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Setup Chrome
+        id: setup-chrome
+        uses: browser-actions/setup-chrome@v2
+
+      - name: Install xvfb
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+
+      - name: Run daily ScrapDB pipeline
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SCRAP_HEADLESS: "0"
+          SCRAP_USE_XVFB: "1"
+          SCRAPER_RETRY_ON_EMPTY: "1"
+          CHROME_BINARY_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
+          SCRAPER_TIMEOUT_MINUTES: "90"
+          MATCH_TIMEOUT_MINUTES: "60"
+        run: python ScrapDB/run_all_scrapers.py
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrapdb-logs-${{ github.run_id }}
+          if-no-files-found: warn
+          retention-days: 14
+          path: |
+            ScrapDB/RunLogs/**
+            ScrapDB/unmatched_log.txt

@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 512-P3-N940-LR GeForce 9400 GT 512 MB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "512-P3-N940-LR",
+    "Chipset": "GeForce 9400 GT",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "550 MHz",
+    "Effective Memory Clock": "1008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "S-Video Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CQW9TW/evga-video-card-512p3n940lr"
+}

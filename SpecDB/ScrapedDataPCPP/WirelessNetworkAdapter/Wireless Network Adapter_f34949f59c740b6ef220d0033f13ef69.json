@@ -1,0 +1,12 @@
+{
+    "name": "Encore ENEWI-2XN42 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Encore",
+    "Part #": "ENEWI-2XN42",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128-bits WEP Encryption, WPA-PSK, WPA2-PSK, WPA, WPA2",
+    "Antenna": "Two 2dBi or 5dBi dipole antenna with R-SMA connector",
+    "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+    "Features": "[GreenWLAN — optimum energy efficiency with smart power management, Cover Greater Area with Multiple-Input-Multiple-Output Technology, Support 2x2 Multiple Input Multiple Output (MIMO) technology for extended reception, robustness and exceptional throughput, Support IEEE 802.11e QoS Enhancement (WMM, WMM-SA client mode), Cisco Compatible eXtensions (CCX) for WLAN devices]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wWFPxr/encore-wireless-network-card-enewi2xn42"
+}

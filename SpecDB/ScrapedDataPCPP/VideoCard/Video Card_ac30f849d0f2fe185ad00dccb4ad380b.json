@@ -1,0 +1,22 @@
+{
+    "name": "Gainward Ghost GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NED4070019K9-1047B",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2475 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "269 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dPV2FT/gainward-ghost-geforce-rtx-4070-12-gb-video-card-ned4070019k9-1047b"
+}

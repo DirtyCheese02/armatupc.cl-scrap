@@ -1,0 +1,15 @@
+{
+    "name": "Apacer Commando 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "Apacer",
+    "Part #": "EK.16GAV.KEAK2",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kD648d/apacer-commando-16gb-2-x-8gb-ddr4-2666-memory-ek16gavkeak2"
+}

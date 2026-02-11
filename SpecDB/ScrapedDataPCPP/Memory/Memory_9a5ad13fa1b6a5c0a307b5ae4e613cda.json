@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 16 GB (2 x 8 GB) DDR4-4800 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4800C18D-16GTRS",
+    "Speed": "DDR4-4800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Silver",
+    "First Word Latency": "7.5 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.5 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zrZFf7/gskill-trident-z-royal-16-gb-2-x-8-gb-ddr4-4800-memory-f4-4800c18d-16gtrs"
+}

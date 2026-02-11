@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RAWP-141411 82 CFM 140 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RAWP-141411",
+    "Size": "140 mm",
+    "Color": "Brown / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1200 RPM",
+    "Airflow": "60.23 - 82 CFM",
+    "Noise Level": "14.5 - 21.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Teflon Nano Bearing",
+    "Features": "[Noise Cancellation Adapter (NCA)., The NCA permit user to switch between 1200RPM and 900RPM in order to reduce the noise level., Teflon Nano-Bearing Technology, TNB runs more smoothly with no friction, making the fan silent, powerful and highly durable (200,000hrs)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q7hj4D/rosewill-case-fan-rawp141411"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "EVGA 400-HY-FX13-KR 113.5 CFM 140 mm Fan",
+    "Manufacturer": "EVGA",
+    "Part #": "400-HY-FX13-KR",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2200 RPM",
+    "Airflow": "113.5 CFM",
+    "Noise Level": "16 - 39.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.2 mmH₂O",
+    "Bearing Type": "Teflon Nano-Steel",
+    "Features": "[High Static Pressure: The FX Series fans offer up to 2-3 times greater static pressure, compared to other competitors. This pressure is essential for cooling radiators and CPU heatsinks., Quietest High Performance / High Pressure Fan In Its Class: The FX's unique curved housing reduces turbulence caused by airflow reflected off surfaces, resulting in better airflow, static pressure and reduced noise., Designed for Chassis and Radiator: The FX fans were designed to excell at both high airflow and high static pressure. These fans perform equally well to the task, regardless of being installed in a chassis or on a radiator., Teflon Nano-Steel Bearings allow for quiet and long-lasting performance., PWM 4-Pin connector allows you to control the fan via PWM signal, ensuring that the fans spin exactly the way you want!, Tapered EVGA Fan Blade improves airflow and creates a unique look while spinning.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jJbwrH/evga-400-hy-fx13-kr-1135-cfm-140mm-fan-400-hy-fx13-kr"
+}

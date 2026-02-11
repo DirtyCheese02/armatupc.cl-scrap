@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RFBF-131411 48.7 CFM 140 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFBF-131411",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "48.7 CFM",
+    "Noise Level": "23 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[140mm, 11 blades, 1200RPM ± 10%0RPM / 48.7CFM, FBD bearing, Black 2 pack]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Wvzv6h/rosewill-case-fan-rfbf131411"
+}

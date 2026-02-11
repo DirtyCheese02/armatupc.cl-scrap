@@ -1,0 +1,21 @@
+{
+    "name": "Raidmax XT 300 W ATX Power Supply",
+    "Manufacturer": "Raidmax",
+    "Part #": "RX-300XT",
+    "Type": "ATX",
+    "Wattage": "300 W",
+    "Length": "146 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "2",
+    "Output": "+3.3V@14A, +5V@15A, +12V1@21A, -12V@0.5A ,5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gPs8TW/raidmax-power-supply-rx300xt"
+}

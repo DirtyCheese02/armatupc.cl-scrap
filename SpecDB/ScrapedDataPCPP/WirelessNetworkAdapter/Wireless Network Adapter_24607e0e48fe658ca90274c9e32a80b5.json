@@ -1,0 +1,11 @@
+{
+    "name": "TRENDnet TEW-623PI 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-623PI",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "64/128-bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK",
+    "Antenna": "3 x 2dBi detachable antennas (Reverse SMA connector)",
+    "Features": "[Wi-Fi compliant with the wireless IEEE 802.11n standard, 3 detachable high gain antennas maximize wireless n performance with Multiple Input Multiple Output (MIMO) technology, Intuitive user setup and diagnostics utilities, Maximum reliability, throughput and connectivity with automatic data rate switching and dynamic data rate Scaling, Wi-Fi Multimedia (WMM) Quality of Service (QoS) supported]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P3Lypg/trendnet-wireless-network-card-tew623pi"
+}

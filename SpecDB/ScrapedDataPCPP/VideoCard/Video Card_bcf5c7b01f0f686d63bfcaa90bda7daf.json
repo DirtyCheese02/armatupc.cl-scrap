@@ -1,0 +1,23 @@
+{
+    "name": "MSI SHADOW 3X OC GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX-5070-12G-SHADOW-3X-OC, GEFORCE RTX-5070-12G-SHADOW-3X-OC, G5070-12S3C]",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2160 MHz",
+    "Boost Clock": "2557 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "303 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fxHp99/msi-shadow-3x-oc-geforce-rtx-5070-12-gb-video-card-rtx-5070-12g-shadow-3x-oc"
+}

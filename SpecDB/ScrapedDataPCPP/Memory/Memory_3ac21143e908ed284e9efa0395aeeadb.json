@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws 32 GB (2 x 16 GB) DDR4-2666 SODIMM CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2666C18D-32GRS",
+    "Speed": "DDR4-2666",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$6.562",
+    "Color": "Black",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2htWGX/gskill-memory-f42666c18d32grs"
+}

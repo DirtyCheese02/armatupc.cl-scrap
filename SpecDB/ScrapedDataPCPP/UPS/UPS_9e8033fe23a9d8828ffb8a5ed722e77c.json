@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite SMART500RT1UTAA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART500RT1UTAA",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Rack Height": "1U",
+    "Alarm": "[Power Failure, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "3.20 Minutes",
+    "Backup/Run Time (Half Load)": "14.60 Minutes",
+    "Dataline Protection": "[RJ-11, RJ-45]",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "120 V AC",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Brownout, Surge, Transient, Line Noise, EMI / RFI]",
+    "Receptacles": "7 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "[Sine Wave, Pulse-width Modulated Sine Wave]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pf8H99/tripp-lite-ups-smart500rt1utaa"
+}

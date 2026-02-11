@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL OC Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RX6700XT-O12G, 90YV0G83-M0NA00]",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Boost Clock": "2622 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "295 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Yxt9TW/asus-dual-oc-radeon-rx-6700-xt-12-gb-video-card-dual-rx6700xt-o12g"
+}

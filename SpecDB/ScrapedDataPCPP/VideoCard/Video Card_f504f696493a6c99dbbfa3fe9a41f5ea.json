@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GAMING OC Radeon RX 6900 XT 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R69XTGAMINGOC16GD",
+    "Chipset": "Radeon RX 6900 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1825 MHz",
+    "Boost Clock": "2285 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "286 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YfvdnQ/gigabyte-radeon-rx-6900-xt-16-gb-gaming-oc-video-card-gv-r69xtgamingoc16gd"
+}

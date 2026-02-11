@@ -1,0 +1,22 @@
+{
+    "name": "Rosewill Libertas 800 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Rosewill",
+    "Part #": "LIB800",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "800 W",
+    "Length": "165 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@24A, +5V@30A, +12V@60A, -12V@0.5A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nhphP6/rosewill-power-supply-lib800"
+}

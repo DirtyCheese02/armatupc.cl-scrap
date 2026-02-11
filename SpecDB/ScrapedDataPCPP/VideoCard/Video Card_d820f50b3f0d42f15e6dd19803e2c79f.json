@@ -1,0 +1,21 @@
+{
+    "name": "PowerColor ITX 2DH Radeon RX 5600 XT 6 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 5600XT ITX 6GBD6-2DH",
+    "Chipset": "Radeon RX 5600 XT",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1247 MHz",
+    "Boost Clock": "1620 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "175 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hcPgXL/powercolor-itx-2dh-radeon-rx-5600-xt-6-gb-video-card-axrx-5600xt-itx-6gbd6-2dh"
+}

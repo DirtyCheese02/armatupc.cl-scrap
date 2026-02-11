@@ -1,0 +1,9 @@
+{
+    "name": "Vantec UGT-S100 48 kHz Sound Card",
+    "Manufacturer": "Vantec",
+    "Part #": "UGT-S100",
+    "Channels": "7.1",
+    "Sample Rate": "48 kHz",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pp6BD3/vantec-sound-card-ugts100"
+}

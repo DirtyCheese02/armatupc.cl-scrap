@@ -1,0 +1,18 @@
+{
+    "name": "Rosewill RNBL-131409R 55.4 CFM 140 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNBL-131409R",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "55.4 CFM",
+    "Noise Level": "21 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[140mm, 9 blades, 1200RPM ± 10%0RPM / 55.4CFM, FDB bearing, Black frame with red LED]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/td4gXL/rosewill-case-fan-rnbl131409r"
+}

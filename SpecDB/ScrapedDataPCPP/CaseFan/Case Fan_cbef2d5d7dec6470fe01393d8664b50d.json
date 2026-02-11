@@ -1,0 +1,19 @@
+{
+    "name": "ID-COOLING XF-120 68.2 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Model": "XF-120",
+    "Part #": "XF-120-ARGB-W",
+    "Size": "120 mm",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "68.2 CFM",
+    "Noise Level": "13.8 - 30.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.87 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4WTZxr/id-cooling-xf-120-682-cfm-120-mm-fan-xf-120-argb-w"
+}

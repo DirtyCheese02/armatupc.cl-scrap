@@ -1,0 +1,16 @@
+{
+    "name": "OLOy WarHawk RGB 32 GB (4 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "MD4U083618BEQA",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NxVG3C/oloy-warhawk-rgb-32-gb-4-x-8-gb-ddr4-3600-memory-md4u083618beqa"
+}

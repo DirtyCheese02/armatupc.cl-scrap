@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Vulcan 8 GB (1 x 8 GB) DDR4-2400 CL14 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLRED48G2400HC1401",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "Timing": "14-16-16-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VzJkcf/team-vulcan-8gb-1-x-8gb-ddr4-2400-memory-tlred48g2400hc1401"
+}

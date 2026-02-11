@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire NITRO+ SE Radeon RX 5700 XT 8 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "[11293-05-40G, 100416NT+SESR]",
+    "Chipset": "Radeon RX 5700 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1840 MHz",
+    "Boost Clock": "2035 MHz",
+    "Effective Memory Clock": "14400 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "306 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/484BD3/sapphire-radeon-rx-5700-xt-8-gb-nitro-se-video-card-11293-05-40g"
+}

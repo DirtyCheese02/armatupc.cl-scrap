@@ -1,0 +1,19 @@
+{
+    "name": "Gelid Solutions Silent 58 CFM 120 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Part #": "FN-PX12-15",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "750 - 1500 RPM",
+    "Airflow": "58 CFM",
+    "Noise Level": "12 - 25.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Hydro Dynamic Bearing",
+    "Features": "[Pulse Width Modulation  (PWM), Silent Operation w/ Rubber Fan Mounts, Optimized Fan Blades, High Airflow & High Static Pressure, Long Lifetime (50'000 h MTTF at 40°C), Safety Approvals: CE, RoHS Compliant]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4zQypg/gelid-solutions-fn-px12-15-58-cfm-120-mm-fan-fn-px12-15"
+}

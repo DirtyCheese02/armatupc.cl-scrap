@@ -1,0 +1,11 @@
+{
+    "name": "Edimax EW-7722In 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "Edimax",
+    "Part #": "EW-7722In",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "WEP 64/128, WPA, WPA2, WPS, Cisco CCX Support",
+    "Antenna": "2 x 3dBi detachable dipole antenna",
+    "Features": "[Built-in WPS (Wi-Fi Protected Setup) button, Increases wireless coverage for 5 times further, Includes multi-language EZmax setup wizard]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qFQypg/edimax-wireless-network-card-ew7722in"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "CyberPower PR2200LCDSL UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR2200LCDSL",
+    "Capacity (W)": "1980 W",
+    "Capacity (VA)": "2070 VA",
+    "Alarm": "[Low Battery, On Battery, Overload, Battery Missing, Fault]",
+    "Backup/Run Time (Full Load)": "3.30 Minutes",
+    "Backup/Run Time (Half Load)": "10.20 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA 5-20R, 1 x NEMA L5-20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nd648d/cyberpower-ups-pr2200lcdsl"
+}

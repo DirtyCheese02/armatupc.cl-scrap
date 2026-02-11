@@ -1,0 +1,17 @@
+{
+    "name": "Lian Li Uni Fan SL-Infinity 61.3 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Lian Li",
+    "Part #": "[UF-SLIN120-3W, 12SLIN3W, G99.12SLIN3W.00]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 61.3 CFM",
+    "Noise Level": "0 - 29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "USB",
+    "Static Pressure": "2.66 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6kQcCJ/lian-li-uni-fan-sl-infinity-613-cfm-120-mm-fans-3-pack-uf-slin120-3w"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Geometric Future Squama 2503R 57.67 CFM 120 mm Fan",
+    "Manufacturer": "Geometric Future",
+    "Model": "Squama 2503R",
+    "Part #": "GEO-S2503RW-1",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "1500 RPM",
+    "Airflow": "57.67 CFM",
+    "Noise Level": "29.87 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.73 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4LWJ7P/geometric-future-squama-2503r-5767-cfm-120-mm-fan-geo-s2503rw-1"
+}

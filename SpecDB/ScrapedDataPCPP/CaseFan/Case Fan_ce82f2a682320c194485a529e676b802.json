@@ -1,0 +1,19 @@
+{
+    "name": "Delta Electronics FFB0912SH-F00 90.02 CFM 92 mm Fan",
+    "Manufacturer": "Delta Electronics",
+    "Part #": "FFB0912SH-F00",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "4100 RPM",
+    "Airflow": "90.02 CFM",
+    "Noise Level": "50 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[Delta's 92x25mm FFB0912SH uses the same great directional fin design, but in a 25mm form factor. This DC fan puts out just over 90 cubic feet of air every minute at 50 dB-A, this is the highest CFM 92x25mm fans readily available, and should be easily controlled by any modern motherboard or fan controller with it's power requirements. The FFB features the directional fin design that force air to flow exactly where it's needed and achieve minimum noise under high airflow and air pressure., This fan comes with standard 3 pin power and RPM TAC output through its 3 Pin connector.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/v6Gkcf/delta-electronics-ffb0912sh-f00-9002-cfm-92-mm-fan-ffb0912sh-f00"
+}

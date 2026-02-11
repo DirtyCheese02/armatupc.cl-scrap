@@ -1,0 +1,19 @@
+{
+    "name": "OBSBOT Tiny SE Webcam",
+    "Manufacturer": "OBSBOT",
+    "Model": "Tiny SE",
+    "Part #": "TINY SE",
+    "Resolution": "[1080p, 720p, 480p]",
+    "Connection": "USB 3.2 Gen 1 Type-C",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X]",
+    "FOV Angle": "78°",
+    "F-Stop": "1.8X",
+    "Focal Length": "26 mm",
+    "Digital Zoom": "4X",
+    "Sensor Pixels": "2 MP",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gfG2FT/obsbot-tiny-se-webcam-tiny-se"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC P12 Slim PWM PST 41.1 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P12 Slim PWM PST",
+    "Part #": "ACFAN00187A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 2100 RPM",
+    "Airflow": "41.1 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.45 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YCbTwP/arctic-p12-slim-pwm-pst-411-cfm-120-mm-fan-acfan00187a"
+}

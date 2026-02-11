@@ -1,0 +1,20 @@
+{
+    "name": "APC BK350 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK350",
+    "Capacity (W)": "210 W",
+    "Capacity (VA)": "350 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "6.60 Minutes",
+    "Backup/Run Time (Half Load)": "23.70 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Step Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bD8H99/apc-ups-bk350"
+}

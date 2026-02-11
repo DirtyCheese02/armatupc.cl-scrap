@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RNBF-131209 59.8 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNBF-131209",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "59.8 CFM",
+    "Noise Level": "37 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Long life sleeve",
+    "Features": "[120mm, 9 blades, 2000RPM ± 10%0RPM / 59.8CFM, Long life sleeve, Black]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TxDwrH/rosewill-case-fan-rnbf131209"
+}

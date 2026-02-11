@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Z-Drive R4 CM88 1.6 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "ZD4CM88-FH-1.6T",
+    "Capacity": "1.6 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2282",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VnW9TW/ocz-internal-hard-drive-zd4cm88fh16t"
+}

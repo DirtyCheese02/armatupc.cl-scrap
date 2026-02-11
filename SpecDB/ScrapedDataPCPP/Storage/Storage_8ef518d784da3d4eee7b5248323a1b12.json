@@ -1,0 +1,13 @@
+{
+    "name": "OCZ RevoDrive 350 240 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "RVD350-FHPX28-240G",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2282",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xs6BD3/ocz-internal-hard-drive-rvd350fhpx28240g"
+}

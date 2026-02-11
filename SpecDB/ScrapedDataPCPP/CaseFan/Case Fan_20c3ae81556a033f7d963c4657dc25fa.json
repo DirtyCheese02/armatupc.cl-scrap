@@ -1,0 +1,17 @@
+{
+    "name": "Nexus DF1209SL-3PWM 43.5 CFM 92 mm Fan",
+    "Manufacturer": "Nexus",
+    "Part #": "DF1209SL-3PWM",
+    "Size": "92 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2500 RPM",
+    "Airflow": "43.5 CFM",
+    "Noise Level": "15.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HYkD4D/nexus-df1209sl-3pwm-435-cfm-92-mm-fan-df1209sl-3pwm"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gainward Phoenix GS GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NE75080S19T2-GB2031X",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2700 MHz",
+    "Effective Memory Clock": "15000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "332 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G3bypg/gainward-phoenix-gs-geforce-rtx-5080-16-gb-video-card-ne75080s19t2-gb2031x"
+}

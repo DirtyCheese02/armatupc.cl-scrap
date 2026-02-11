@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D AX Gaming X3W GeForce RTX 4080 16 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "835168000025",
+    "Chipset": "GeForce RTX 4080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2205 MHz",
+    "Boost Clock": "2505 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Blue",
+    "Frame Sync": "G-Sync",
+    "Length": "337 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7mDQzy/inno3d-ax-gaming-x3w-geforce-rtx-4080-16-gb-video-card-835168000025"
+}

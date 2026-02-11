@@ -1,0 +1,19 @@
+{
+    "name": "Akasa Apache Black 57.53 CFM 120 mm Fan",
+    "Manufacturer": "Akasa",
+    "Part #": "AK-FN058",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1300 RPM",
+    "Airflow": "57.53 CFM",
+    "Noise Level": "6.9 - 16.05 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.64 mmH₂O",
+    "Bearing Type": "Hydro Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DvphP6/akasa-case-fan-akfn058"
+}

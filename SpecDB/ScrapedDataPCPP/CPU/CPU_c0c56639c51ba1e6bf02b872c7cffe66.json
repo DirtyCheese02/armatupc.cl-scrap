@@ -1,0 +1,23 @@
+{
+    "name": "Intel Pentium E5200 2.5 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "EU80571PG0602M",
+    "Series": "Intel Pentium",
+    "Microarchitecture": "Wolfdale",
+    "Core Family": "Wolfdale",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.5 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hQQypg/intel-cpu-eu80571pg0602m"
+}

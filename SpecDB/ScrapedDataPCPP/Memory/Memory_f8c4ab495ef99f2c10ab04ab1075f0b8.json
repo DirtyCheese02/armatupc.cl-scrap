@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Renegade 64 GB (2 x 32 GB) DDR5-6000 CL32 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF560C32RSK2-64",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Silver / Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DQWJ7P/kingston-fury-renegade-64-gb-2-x-32-gb-ddr5-6000-cl32-memory-kf560c32rsk2-64"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN822N 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN822N",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK",
+    "Antenna": "Dual 3dBi Omni Directional",
+    "Features": "[Button: QSS Push Button/Software, Work Mode: Ad-Hoc / Infrastructure mode, Special Function: WMM, PSP X-LINK, 11N speed allows for the best HD video streaming and internet calling experience., Easy one-touch wireless security encryption with the Quick Security Setup button.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tTGkcf/tp-link-wireless-network-card-tlwn822n"
+}

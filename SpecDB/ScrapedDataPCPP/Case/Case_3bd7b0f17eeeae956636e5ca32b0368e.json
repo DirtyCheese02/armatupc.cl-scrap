@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FLP01 HTPC Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-FLP01W",
+    "Type": "HTPC",
+    "Color": "White",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, SSI CEB]",
+    "Maximum Video Card Length": "[309 mm, 12.165\"]",
+    "Drive Bays": "[1 x External 5.25\", 1 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[80 mm, 120 mm]",
+    "Dimensions": "[362 mm x 440 mm x 170 mm, 14.252\" x 17.323\" x 6.693\"]",
+    "Volume": "[27.078 L, 0.956 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r3Hp99/silverstone-flp01-htpc-case-sst-flp01w"
+}

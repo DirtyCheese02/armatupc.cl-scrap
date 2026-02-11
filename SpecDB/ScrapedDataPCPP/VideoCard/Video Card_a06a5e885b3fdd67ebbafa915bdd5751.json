@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 02G-P3-3738-KR GeForce GT 730 2 GB PCIe x8 Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "02G-P3-3738-KR",
+    "Chipset": "GeForce GT 730",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "902 MHz",
+    "Effective Memory Clock": "5010 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "145 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kBL48d/evga-geforce-gt-730-2gb-video-card-02g-p3-3738-kr"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Renegade 32 GB (2 x 16 GB) DDR4-2666 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF426C13RB1K2/32",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.752 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/92stt6/kingston-fury-renegade-32-gb-2-x-16-gb-ddr4-2666-cl13-memory-kf426c13rb1k232"
+}

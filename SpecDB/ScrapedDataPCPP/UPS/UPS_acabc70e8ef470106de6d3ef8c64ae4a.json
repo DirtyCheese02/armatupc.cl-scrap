@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite SM3000NAFTA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SM3000NAFTA",
+    "Capacity (W)": "2400 W",
+    "Capacity (VA)": "3000 VA",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x NEMA 5-15R, 4 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xZ8H99/tripp-lite-ups-sm3000nafta"
+}

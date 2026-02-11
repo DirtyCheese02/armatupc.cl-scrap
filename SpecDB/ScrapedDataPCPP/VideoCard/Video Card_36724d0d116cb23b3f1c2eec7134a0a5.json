@@ -1,0 +1,22 @@
+{
+    "name": "Zotac AMP Extreme Holo GeForce RTX 3080 Ti 12 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-A30810B-10P",
+    "Chipset": "GeForce RTX 3080 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1785 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "356 mm",
+    "TDP": "400 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xQYmP6/zotac-geforce-rtx-3080-ti-12-gb-amp-extreme-holo-video-card-zt-a30810b-10p"
+}

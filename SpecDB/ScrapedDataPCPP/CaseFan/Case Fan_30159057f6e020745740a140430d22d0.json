@@ -1,0 +1,17 @@
+{
+    "name": "Thermalright TL-RS12 ARGB 65.25 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-RS12 ARGB",
+    "Size": "120 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1500 RPM",
+    "Airflow": "21.76 - 65.25 CFM",
+    "Noise Level": "15 - 23 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/v46p99/thermalright-tl-rs12-argb-6525-cfm-120-mm-fan-tl-rs12-argb"
+}

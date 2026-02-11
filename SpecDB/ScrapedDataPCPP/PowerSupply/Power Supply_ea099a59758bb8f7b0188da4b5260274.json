@@ -1,0 +1,22 @@
+{
+    "name": "NZXT HALE82 750 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "NZXT",
+    "Part #": "[HALE82-750-M, HALE82 750W]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "750 W",
+    "Length": "160 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@23A, +5V@25A, +12V@53A, -12V@0.5A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jG8Zxr/nzxt-hale82-750-w-80-bronze-certified-semi-modular-atx-power-supply-hale82-750-m"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle SXX5701280D5NM GeForce GTX 570 1.25 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "SXX5701280D5NM",
+    "Chipset": "GeForce GTX 570",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "732 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Purple",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "266 mm",
+    "TDP": "219 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P73RsY/sparkle-video-card-sxx5701280d5nm"
+}

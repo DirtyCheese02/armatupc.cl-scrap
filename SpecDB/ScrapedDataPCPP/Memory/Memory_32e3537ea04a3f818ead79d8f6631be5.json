@@ -1,0 +1,16 @@
+{
+    "name": "Klevv FIT V 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KD5AGU880-64A320L",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-38-38-78",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xwFCmG/klevv-fit-v-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-kd5agu880-64a320l"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SMX1500SLT UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMX1500SLT",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "8 x IEC 309-C13",
+    "Serial Port": "Yes",
+    "Switching Time": "8 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ybjWGX/tripp-lite-ups-smx1500slt"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CyberPower EC650LCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "EC650LCD",
+    "Capacity (W)": "390 W",
+    "Capacity (VA)": "650 VA",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xwVBD3/cyberpower-ups-ec650lcd"
+}

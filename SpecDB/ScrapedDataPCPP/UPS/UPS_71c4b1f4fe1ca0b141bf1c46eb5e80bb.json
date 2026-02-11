@@ -1,0 +1,15 @@
+{
+    "name": "APC SRT10KRMXLT UPS",
+    "Manufacturer": "APC",
+    "Part #": "SRT10KRMXLT",
+    "Capacity (W)": "10000 W",
+    "Capacity (VA)": "10000 VA",
+    "Rack Height": "6U",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Form Factor": "Rack-mountable",
+    "Input Voltage": "208 V AC",
+    "Maximum Battery Recharge Time": "1.50 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[1 x Hard Wire 3-wire (2PH + G), 4 x NEMA L6-20R, 2 x NEMA L6-30R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DRGj4D/apc-ups-srt10krmxlt"
+}

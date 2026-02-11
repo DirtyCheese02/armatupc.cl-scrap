@@ -1,0 +1,12 @@
+{
+    "name": "Gelid Solutions SpeedTouch6 Fan Controller",
+    "Manufacturer": "Gelid Solutions",
+    "Model": "SpeedTouch6",
+    "Part #": "FC-LC-01 SpeedTouch6",
+    "Channels": "6",
+    "Channel Wattage": "30 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[Auto Control Range: 6.5V (25C or below) to 12V (50C or above), Brightness (Levels): 3, Control Modes: Automatic / Manual, Display Color: Blue, Fan Cable Lenght (mm): 600, Fan Channels: 6, Fan Connector: 4 Pin (supports 3 Pin & 4 Pin Fan), Manual Control Range (V): 5 to 12, Material: Aluminum Alloy, Max. Wattage/ Fan Channel: 30W / Channel, Power Interface: 4 Pin Molex, Screen Size (mm): 4.45\" (W) x 1.02\" (H), Temperature Range (C): 0 - 100, Temperature Sensors: 6, Touch Screen Sensor: Capacitive, Warranty (years): 2]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kWV48d/gelid-solutions-fan-controller-fclc01speedtouch6"
+}

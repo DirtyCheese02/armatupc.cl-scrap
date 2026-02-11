@@ -1,0 +1,15 @@
+{
+    "name": "Kingston ValueRAM 4 GB (2 x 2 GB) DDR2-667 SODIMM CL5 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR667D2K2SO/4GR",
+    "Speed": "DDR2-667",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "2 x 2GB",
+    "Color": "Green",
+    "First Word Latency": "14.993 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gw4gXL/kingston-memory-kvr667d2k2so4gr"
+}

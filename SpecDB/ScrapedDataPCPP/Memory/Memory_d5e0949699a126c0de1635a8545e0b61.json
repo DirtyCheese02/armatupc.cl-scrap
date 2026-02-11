@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F4-4200C19Q2-64GTZSW 64 GB (8 x 8 GB) DDR4-4200 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4200C19Q2-64GTZSW",
+    "Speed": "DDR4-4200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 8GB",
+    "Color": "Gray / White",
+    "First Word Latency": "9.048 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "Timing": "19-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bMzhP6/gskill-f4-4200c19q2-64gtzsw-64-gb-8-x-8-gb-ddr4-4200-cl19-memory-f4-4200c19q2-64gtzsw"
+}

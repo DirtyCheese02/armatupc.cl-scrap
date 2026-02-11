@@ -1,0 +1,14 @@
+{
+    "name": "MSI SPATIUM M580 FROZR 2 TB M.2-2280 PCIe 5.0 X4 NVME Solid State Drive",
+    "Manufacturer": "MSI",
+    "Part #": "[SM580PN2TBF, SPATIUM M580 PCIe 5.0 NVMe M.2 2TB FROZR]",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.165",
+    "Type": "SSD",
+    "Cache": "4096 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 5.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D NAND",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6tgZxr/msi-spatium-m580-frozr-2-tb-m2-2280-pcie-50-x4-nvme-solid-state-drive-sm580pn2tbf"
+}

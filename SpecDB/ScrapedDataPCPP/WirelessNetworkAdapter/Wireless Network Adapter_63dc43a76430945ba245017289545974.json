@@ -1,0 +1,12 @@
+{
+    "name": "Encore ENUWI-1XN42 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Encore",
+    "Part #": "ENUWI-1XN42",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bits WEP Encryption, WPA-PSK, WPA2-PSK, WPA, WPA2",
+    "Antenna": "One 2dBi or 5dBi dipole antenna with R-SMA connector",
+    "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+    "Features": "[Automatically Prioritize Wireless Traffic to Reduce Time Lags during Online Gaming, Video Streaming, and VoIP, GreenWLAN — optimum energy efficiency with smart power management, Support QoS Enhancement (WMM & WMM-PS Client mode), Support frame aggregation, channel management and co-existence, Transmit Opportunity (TXOP) Short Inter-Frame Space (SIFS) bursting for higher multimedia bandwidth, Lightweight for easy storage and mobility]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DYkD4D/encore-wireless-network-card-enuwi1xn42"
+}

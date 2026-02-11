@@ -1,0 +1,21 @@
+{
+    "name": "MSI N460GTX -M2D1GD5/OC GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N460GTX -M2D1GD5/OC",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "725 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CXQypg/msi-video-card-n460gtxm2d1gd5oc"
+}

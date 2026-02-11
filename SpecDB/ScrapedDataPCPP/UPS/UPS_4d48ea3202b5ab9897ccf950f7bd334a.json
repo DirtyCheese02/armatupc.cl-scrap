@@ -1,0 +1,18 @@
+{
+    "name": "APC SU1000XLNET UPS",
+    "Manufacturer": "APC",
+    "Part #": "SU1000XLNET",
+    "Capacity (W)": "670 W",
+    "Capacity (VA)": "1000 VA",
+    "Alarm": "[Low Battery, On Battery]",
+    "Backup/Run Time (Full Load)": "13.50 Minutes",
+    "Backup/Run Time (Half Load)": "43.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3M8H99/apc-ups-su1000xlnet"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Proline 8 GB (1 x 8 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MPL4E213FF8G18",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$10.499",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QXD7YJ/mushkin-proline-8-gb-1-x-8-gb-ddr4-2133-cl15-memory-mpl4e213ff8g18"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Intel Pentium G3440 3.3 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80646G3440",
+    "Series": "Intel Pentium",
+    "Microarchitecture": "Haswell Refresh",
+    "Core Family": "Haswell Refresh",
+    "Socket": "LGA1150",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.3 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "3 MB",
+    "TDP": "53 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mTdqqs/intel-cpu-bx80646g3440"
+}

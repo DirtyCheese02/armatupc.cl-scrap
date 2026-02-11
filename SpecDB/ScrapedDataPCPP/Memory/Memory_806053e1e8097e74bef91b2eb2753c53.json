@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 48 GB (1 x 48 GB) DDR5-6800 CL36 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESG548GB6800C36BSC",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 48GB",
+    "Color": "Black",
+    "First Word Latency": "10.588 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-44-44-86",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WfV2FT/geil-evo-v-rgb-48-gb-1-x-48-gb-ddr5-6800-cl36-memory-gesg548gb6800c36bsc"
+}

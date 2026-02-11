@@ -1,0 +1,23 @@
+{
+    "name": "MSI TWIN FROZR II Radeon HD 5850 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "R5850 Twin Frozr II",
+    "Chipset": "Radeon HD 5850",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "725 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "257 mm",
+    "TDP": "151 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nfBv6h/msi-video-card-r5850twinfrozrii"
+}

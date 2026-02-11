@@ -1,0 +1,19 @@
+{
+    "name": "HP AF451A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF451A",
+    "Capacity (W)": "950 W",
+    "Capacity (VA)": "1400 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Sealed Valve-regulated Lead Acid (VRLA)",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "240 V AC",
+    "Protection Type": "Surge",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jm8H99/hp-ups-af451a"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D iChill Black GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "C3080B-126XX-1810003H",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1755 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "226 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "120 mm Radiator + 1 Fan",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jFytt6/inno3d-geforce-rtx-3080-12gb-lhr-12-gb-ichill-black-video-card-c3080b-126xx-1810003h"
+}

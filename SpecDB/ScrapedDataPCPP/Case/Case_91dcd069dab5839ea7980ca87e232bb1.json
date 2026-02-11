@@ -1,0 +1,20 @@
+{
+    "name": "Silverstone SETA Q1 ATX Mid Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-SEQ1B",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB]",
+    "Maximum Video Card Length": "[394 mm, 15.512\"]",
+    "Drive Bays": "[2 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm, 360 mm]",
+    "Dimensions": "[490.7 mm x 232 mm x 493.5 mm, 19.319\" x 9.134\" x 19.429\"]",
+    "Volume": "[56.181 L, 1.984 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rMjBD3/silverstone-seta-q1-atx-mid-tower-case-sst-seq1b"
+}

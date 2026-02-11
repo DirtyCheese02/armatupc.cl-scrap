@@ -1,0 +1,22 @@
+{
+    "name": "XFX Swift OC Radeon RX 9060 XT 8 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-96TSW8GBA",
+    "Chipset": "Radeon RX 9060 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2220 MHz",
+    "Boost Clock": "3320 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "270 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "2",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4LFCmG/xfx-swift-oc-radeon-rx-9060-xt-8-gb-video-card-rx-96tsw8gba"
+}

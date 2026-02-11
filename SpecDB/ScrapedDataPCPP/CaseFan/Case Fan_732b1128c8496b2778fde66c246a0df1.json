@@ -1,0 +1,18 @@
+{
+    "name": "ID-COOLING TF-9215 46 CFM 92 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "TF-9215",
+    "Size": "92 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2800 RPM",
+    "Airflow": "46 CFM",
+    "Noise Level": "14 - 35.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jM92FT/id-cooling-tf-9215-46-cfm-92-mm-fan-tf-9215"
+}

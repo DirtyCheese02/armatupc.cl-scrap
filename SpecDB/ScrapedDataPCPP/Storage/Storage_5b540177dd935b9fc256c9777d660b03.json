@@ -1,0 +1,13 @@
+{
+    "name": "MSI SPATIUM M480 PLAY 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "MSI",
+    "Part #": "[S78-440L680-P83, SM480N1TBP]",
+    "Capacity": "1 TB",
+    "Type": "SSD",
+    "Cache": "1024 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D NAND",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kdstt6/msi-spatium-m480-play-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-s78-440l680-p83"
+}

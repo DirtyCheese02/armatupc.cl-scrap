@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Flare X 64 GB (8 x 8 GB) DDR4-2933 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2933C16Q2-64GFX",
+    "Speed": "DDR4-2933",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10.91 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fwYLrH/gskill-flare-x-64gb-8-x-8gb-ddr4-2933-memory-f4-2933c16q2-64gfx"
+}

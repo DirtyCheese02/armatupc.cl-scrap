@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker Multiframe 78.28 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "NB-Multiframe M12-P",
+    "Size": "120 mm",
+    "Color": "Translucent Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "78.28 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4C7wrH/noiseblocker-nb-multiframe-m12-p-7828-cfm-120-mm-fan-nb-multiframe-m12-p"
+}

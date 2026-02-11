@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SU12000RT4UHW UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU12000RT4UHW",
+    "Capacity (W)": "8400 W",
+    "Capacity (VA)": "12000 VA",
+    "Rack Height": "4U",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "Hardwired",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q8KhP6/tripp-lite-ups-su12000rt4uhw"
+}

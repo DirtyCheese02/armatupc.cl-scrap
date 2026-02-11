@@ -1,0 +1,18 @@
+{
+    "name": "ARCTIC F8 PWM PST CO 31 CFM 80 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F8 PWM PST CO",
+    "Part #": "ACFAN00206A",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 2000 RPM",
+    "Airflow": "31 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BsqPxr/arctic-f8-pwm-pst-co-31-cfm-80-mm-fan-acfan00206a"
+}

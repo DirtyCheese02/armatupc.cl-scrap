@@ -1,0 +1,20 @@
+{
+    "name": "NZXT FX 96 CFM 120 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "FX-120LB",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 2600 RPM",
+    "Airflow": "35.79 - 96 CFM",
+    "Noise Level": "22 - 36.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "4.8 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Size: 120 x 120 x 25 mm, Current: 0.08 - 0.30 A, Input: 0.96 - 3.6 W, Speed: 1000 - 2600RPM +/- 10%, Air Flow: 35.8 -9 6 CFM, Air Pressure: 0.75 - 4.8 mm-H2O, Noise: 22 - 36.5 dBA, Bearing: Liquid State Bearing, Life: 35,000 hrs]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kDGkcf/nzxt-case-fan-fx120lb"
+}

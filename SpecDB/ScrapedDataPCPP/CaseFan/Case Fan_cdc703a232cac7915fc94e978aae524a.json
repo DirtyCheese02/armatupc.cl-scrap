@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Shadow Wings 50.5 CFM 120 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL026",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "50.5 CFM",
+    "Noise Level": "18.9 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.63 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ghp323/be-quiet-shadow-wings-sw1-pwm-505-cfm-120mm-fan-bl026"
+}

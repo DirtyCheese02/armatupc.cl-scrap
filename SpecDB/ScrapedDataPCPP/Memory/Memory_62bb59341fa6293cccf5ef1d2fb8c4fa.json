@@ -1,0 +1,15 @@
+{
+    "name": "KingBank SharpBlade RGB 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "KingBank",
+    "Part #": "BRSBDDR516G6400X2",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fWRwrH/kingbank-sharpblade-rgb-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-brsbddr516g6400x2"
+}

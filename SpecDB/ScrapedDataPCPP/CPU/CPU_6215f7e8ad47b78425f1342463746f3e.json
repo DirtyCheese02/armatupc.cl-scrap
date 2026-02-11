@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron G465 1.9 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80623G465",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "1.9 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "1.5 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pCTmP6/intel-cpu-bx80623g465"
+}

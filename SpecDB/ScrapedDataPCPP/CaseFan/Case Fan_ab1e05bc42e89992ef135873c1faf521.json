@@ -1,0 +1,18 @@
+{
+    "name": "Xilence XPF140.R 41.37 CFM 140 mm Fan",
+    "Manufacturer": "Xilence",
+    "Model": "XPF140.R",
+    "Part #": "[XF050, XPF140.R]",
+    "Size": "140 mm",
+    "Color": "Red / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 RPM",
+    "Airflow": "41.37 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QJLdnQ/xilence-xpf140r-4137-cfm-140-mm-fan-xf050"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F120Q (2024) 74.26 CFM 120 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F120Q (2024)",
+    "Part #": "RF-Q12SF-W2",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1700 RPM",
+    "Airflow": "74.26 CFM",
+    "Noise Level": "25.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.43 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C2dG3C/nzxt-f120q-2024-7426-cfm-120-mm-fan-rf-q12sf-w2"
+}

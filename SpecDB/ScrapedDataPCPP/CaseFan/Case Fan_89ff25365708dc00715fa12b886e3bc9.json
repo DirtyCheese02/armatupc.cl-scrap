@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F140P (2024) 93.2 CFM 140 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F140P (2024)",
+    "Part #": "RF-P14SF-W2",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1700 RPM",
+    "Airflow": "93.2 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.45 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3cXV3C/nzxt-f140p-2024-932-cfm-140-mm-fan-rf-p14sf-w2"
+}

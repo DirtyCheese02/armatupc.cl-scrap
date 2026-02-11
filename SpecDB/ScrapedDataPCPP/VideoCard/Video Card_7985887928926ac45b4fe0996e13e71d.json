@@ -1,0 +1,23 @@
+{
+    "name": "XFX GT630NCDF2 GeForce GT 630 2 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "GT630NCDF2",
+    "Chipset": "GeForce GT 630",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1300 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2m9KHx/xfx-video-card-gt630ncdf2"
+}

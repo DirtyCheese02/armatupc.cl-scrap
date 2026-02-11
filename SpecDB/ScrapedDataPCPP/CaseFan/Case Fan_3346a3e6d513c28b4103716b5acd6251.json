@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek XAF 90.3 CFM 120 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XAF-F1255",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 1800 RPM",
+    "Airflow": "90.3 CFM",
+    "Noise Level": "26 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Aeronautical Oil System Bearing",
+    "Features": "[Material: P.B.T., Voltage Rating: 12 V, Start Voltage: 9V, Weight: 122 g, 4pcs. white LED., Copper axis with long life sleeve bearing to provide long-term life and stability., Waveform and enhanced lubricant circuits to provide outstanding aerodynamic efficiency., Wave Shaped and small hub dimension generate extra high airflow., Wave Blade technology increases 25% of air flow and drops 10% noise.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DBkD4D/xigmatek-case-fan-xaff1255"
+}

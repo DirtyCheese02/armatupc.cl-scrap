@@ -1,0 +1,21 @@
+{
+    "name": "Corsair MP600 Force Series Gen4 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Corsair",
+    "Part #": "CSSD-F1000GBMP600",
+    "Capacity": "1 TB",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gCJmP6/corsair-mp600-force-series-gen4-1-tb-m2-2280-solid-state-drive-cssd-f1000gbmp600"
+}

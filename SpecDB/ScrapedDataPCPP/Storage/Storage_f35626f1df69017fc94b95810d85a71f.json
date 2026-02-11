@@ -1,0 +1,12 @@
+{
+    "name": "Intel 750 400 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDMW400G401",
+    "Capacity": "400 GB",
+    "Price / GB": "$1.212",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8HNypg/intel-internal-hard-drive-ssdpedmw400g401"
+}

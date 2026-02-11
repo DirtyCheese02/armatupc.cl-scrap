@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek Crystal 32.6 CFM 80 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "CLF-F8255",
+    "Size": "80 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "32.6 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "No",
+    "LED": "Purple",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Performing max. Air flow and mini. amount of noise, Less power consumption., Optimal static pressure and torque., Reduce noise and power consumption., Transparent frame and blades, Longer life bearing design., Reliable and outstanding performance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RQrG3C/xigmatek-case-fan-clff8255"
+}

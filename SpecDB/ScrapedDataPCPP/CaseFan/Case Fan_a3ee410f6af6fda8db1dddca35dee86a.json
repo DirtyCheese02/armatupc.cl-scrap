@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake ISGC 58.3 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "AF0018",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1300 RPM",
+    "Airflow": "58.3 CFM",
+    "Noise Level": "16 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydro Dynamic Bearing",
+    "Features": "[Innovative Silent Fan with Advanced Technology, Unique ISGC Fan Blade, Hydro Dynamic Bearing (HDB)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3L3RsY/thermaltake-af0018-583-cfm-120-mm-fan-af0018"
+}

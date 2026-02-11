@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-860S 2.53 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BV80605003210AD",
+    "Series": "Intel Core i7",
+    "Microarchitecture": "Nehalem",
+    "Core Family": "Lynnfield",
+    "Socket": "LGA1156",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "2.53 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "82 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PZmLrH/intel-cpu-bv80605003210ad"
+}

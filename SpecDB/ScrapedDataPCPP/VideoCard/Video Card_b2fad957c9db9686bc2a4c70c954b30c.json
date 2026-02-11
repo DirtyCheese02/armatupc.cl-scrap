@@ -1,0 +1,23 @@
+{
+    "name": "MSI GeForce RTX 3090 GAMING X TRIO 24G GeForce RTX 3090 24 GB Video Card",
+    "Manufacturer": "MSI",
+    "Model": "GeForce RTX 3090 GAMING X TRIO 24G",
+    "Part #": "[RTX 3090 GAMING X TRIO 24G, GeForce RTX 3090 GAMING X TRIO 24G, V388-011R, 912-V388-011, G3090GXT24]",
+    "Chipset": "GeForce RTX 3090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1395 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "335 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yPpmP6/msi-geforce-rtx-3090-24-gb-gaming-x-trio-video-card-rtx-3090-gaming-x-trio-24g"
+}

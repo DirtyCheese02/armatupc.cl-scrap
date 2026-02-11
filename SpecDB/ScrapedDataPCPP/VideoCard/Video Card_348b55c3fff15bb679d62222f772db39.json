@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GV-R545D2-512D Radeon HD 5450 512 MB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R545D2-512D",
+    "Chipset": "Radeon HD 5450",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "650 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "2",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nBn2FT/gigabyte-video-card-gvr545d2512d"
+}

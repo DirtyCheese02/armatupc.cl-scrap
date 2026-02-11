@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z 32 GB (2 x 16 GB) DDR4-3200 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C15D-32GTZKO",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Orange",
+    "First Word Latency": "9.375 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hvhj4D/gskill-tridentz-series-32gb-2-x-16gb-ddr4-3200-memory-f4-3200c15d-32gtzko"
+}

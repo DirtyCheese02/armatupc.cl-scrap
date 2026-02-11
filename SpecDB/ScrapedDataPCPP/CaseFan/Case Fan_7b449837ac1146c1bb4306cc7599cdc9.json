@@ -1,0 +1,19 @@
+{
+    "name": "Corsair ML140 PRO 55.4 CFM 140 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "ML140 PRO",
+    "Part #": "CO-9050077-WW",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1200 RPM",
+    "Airflow": "55.4 CFM",
+    "Noise Level": "20.4 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "1.27 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RNGxFT/corsair-ml140-pro-rgb-554-cfm-140-mm-fan-co-9050077-ww"
+}

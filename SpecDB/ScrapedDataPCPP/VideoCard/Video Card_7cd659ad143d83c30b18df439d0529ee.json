@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 2X OC GeForce RTX 4070 SUPER 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4070 SUPER 12G VENTUS 2X OC, GeForce RTX 4070 SUPER 12G VENTUS 2X OC, V513-641R, 912-V513-658]",
+    "Chipset": "GeForce RTX 4070 SUPER",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1980 MHz",
+    "Boost Clock": "2520 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "242 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y6dG3C/msi-ventus-2x-oc-geforce-rtx-4070-super-12-gb-video-card-rtx-4070-super-12g-ventus-2x-oc"
+}

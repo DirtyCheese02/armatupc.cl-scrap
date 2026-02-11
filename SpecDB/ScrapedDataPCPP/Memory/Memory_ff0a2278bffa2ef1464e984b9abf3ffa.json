@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Value PLUS 8 GB (1 x 8 GB) DDR3-1600 CL10 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GVP38GB1600C10SC",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9z3RsY/geil-memory-gvp38gb1600c10sc"
+}

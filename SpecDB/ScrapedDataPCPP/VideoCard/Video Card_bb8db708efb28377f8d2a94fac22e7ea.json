@@ -1,0 +1,23 @@
+{
+    "name": "MSI GT 710 1GD3H LP GeForce GT 710 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GT 710 1GD3H LP, V809-1899R, 912-V809-1899]",
+    "Chipset": "GeForce GT 710",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "954 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "146 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rtnG3C/msi-video-card-gt7101gd3hlp"
+}

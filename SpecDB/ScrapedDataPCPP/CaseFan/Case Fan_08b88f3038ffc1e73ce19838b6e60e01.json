@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker NB-ELOOP X ARGB 109.47 CFM 140 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "ITR-B14X-P",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 109.47 CFM",
+    "Noise Level": "0 - 29.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.31 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VWTzK8/noiseblocker-nb-eloop-x-b14-p-argb-10947-cfm-140-mm-fan-itr-b14x-p"
+}

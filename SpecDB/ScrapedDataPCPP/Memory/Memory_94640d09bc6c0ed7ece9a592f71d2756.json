@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Beast 128 GB (2 x 64 GB) DDR5-5600 CL40 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF556C40BBK2-128",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 64GB",
+    "Color": "Black",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j2jv6h/kingston-fury-beast-128-gb-2-x-64-gb-ddr5-5600-cl40-memory-kf556c40bbk2-128"
+}

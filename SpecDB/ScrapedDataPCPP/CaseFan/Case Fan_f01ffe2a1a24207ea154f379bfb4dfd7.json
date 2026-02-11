@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FM 53.6 CFM 92 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FM93",
+    "Size": "92 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 3000 RPM",
+    "Airflow": "21.4 - 53.6 CFM",
+    "Noise Level": "9.3 - 29.2 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Includes expansion slot cover with fan controller, 1200rpm ~ 3000rpm speed range, Unique double curved fan blade design create high air pressure with low noise, Anti-vibration rubber pads included for additional noise dampening]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L4DzK8/silverstone-case-fan-fm93"
+}

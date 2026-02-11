@@ -1,0 +1,23 @@
+{
+    "name": "Jetway JTN68M ATX AM3 Motherboard",
+    "Manufacturer": "Jetway",
+    "Part #": "JTN68M",
+    "Socket / CPU": "AM3",
+    "Form Factor": "ATX",
+    "Chipset": "NVIDIA GeForce 7025",
+    "Memory Max": "16 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "2",
+    "Memory Speed": "DDR3-1333",
+    "PCIe x16 Slots": "1",
+    "PCI Slots": "1",
+    "SATA 3.0 Gb/s Ports": "4",
+    "Onboard Ethernet": "1 x 100 Mb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "2",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "Yes",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tF2kcf/jetway-motherboard-jtn68m"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC F12 CO 74 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F12 CO",
+    "Part #": "AFACO-120PC-GBA01",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1350 RPM",
+    "Airflow": "74 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[Continuous Operation, Constantly Silent, Quick and Easy Setup]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KzQypg/arctic-arctic-f12-pwm-co-74-cfm-120-mm-fan-afaco-120pc-gba01"
+}

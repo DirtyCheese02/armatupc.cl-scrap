@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC P14 Silent 29.8 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P14 Silent",
+    "Part #": "ACFAN00139A",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "950 RPM",
+    "Airflow": "29.8 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.6 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2jw7YJ/arctic-p14-silent-298-cfm-140-mm-fan-acfan00139a"
+}

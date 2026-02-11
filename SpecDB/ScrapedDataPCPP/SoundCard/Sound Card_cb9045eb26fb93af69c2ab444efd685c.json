@@ -1,0 +1,13 @@
+{
+    "name": "Asus Xonar Essence 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Asus",
+    "Model": "Xonar Essence",
+    "Part #": "90-YAA0E0-0UAN00Z",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "124 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "ASUS AV100",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y7V48d/asus-sound-card-90yaa0e00uan00z"
+}

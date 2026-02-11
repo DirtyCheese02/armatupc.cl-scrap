@@ -1,0 +1,19 @@
+{
+    "name": "In Win Neptune AN120 60.1 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "In Win",
+    "Model": "Neptune AN120",
+    "Part #": "IW-FN-AN120-3PK",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 2200 RPM",
+    "Airflow": "23.87 - 60.1 CFM",
+    "Noise Level": "20.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.27 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m3QKHx/in-win-neptune-an120-601-cfm-120-mm-fans-3-pack-iw-fn-an120-3pk"
+}

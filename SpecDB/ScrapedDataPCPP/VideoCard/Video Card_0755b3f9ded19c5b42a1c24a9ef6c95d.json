@@ -1,0 +1,19 @@
+{
+    "name": "PNY VCQFX1800-PCIE-PB Quadro FX 1800 768 MB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQFX1800-PCIE-PB",
+    "Chipset": "Quadro FX 1800",
+    "Memory": "0.75 GB",
+    "Memory Type": "GDDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "TDP": "59 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2hQypg/pny-video-card-vcqfx1800pciepb"
+}

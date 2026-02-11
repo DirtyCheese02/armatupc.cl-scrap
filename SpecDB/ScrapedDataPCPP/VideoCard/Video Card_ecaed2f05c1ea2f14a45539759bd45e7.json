@@ -1,0 +1,20 @@
+{
+    "name": "VisionTek 900253 Radeon HD 4550 512 MB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900253",
+    "Chipset": "Radeon HD 4550",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "600 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "TDP": "25 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ds4gXL/visiontek-video-card-900253"
+}

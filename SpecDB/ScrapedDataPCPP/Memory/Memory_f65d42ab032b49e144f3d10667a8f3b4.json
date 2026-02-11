@@ -1,0 +1,15 @@
+{
+    "name": "PNY Anarchy 8 GB (2 x 4 GB) DDR3-2133 CL10 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MD8GK2D3213310AR-Z",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9.376 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.6 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8ykwrH/pny-memory-md8gk2d3213310arz"
+}

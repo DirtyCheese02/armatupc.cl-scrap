@@ -1,0 +1,17 @@
+{
+    "name": "Corsair WS 256 GB (8 x 32 GB) Registered DDR5-5600 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMA256GX5M8B5600Z40",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "8 x 32GB",
+    "Price / GB": "$10.156",
+    "Color": "Black / Green",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2Bn9TW/corsair-ws-256-gb-8-x-32-gb-registered-ddr5-5600-cl40-memory-cma256gx5m8b5600z40"
+}

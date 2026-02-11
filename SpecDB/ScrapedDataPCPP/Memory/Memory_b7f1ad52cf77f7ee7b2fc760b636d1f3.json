@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 16 GB (1 x 16 GB) DDR5-7600 CL36 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESW516GB7600C36ASC",
+    "Speed": "DDR5-7600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "White",
+    "First Word Latency": "9.474 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-46-46-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CDn9TW/geil-evo-v-rgb-16-gb-1-x-16-gb-ddr5-7600-cl36-memory-gesw516gb7600c36asc"
+}

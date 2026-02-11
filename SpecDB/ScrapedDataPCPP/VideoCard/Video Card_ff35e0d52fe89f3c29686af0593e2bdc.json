@@ -1,0 +1,21 @@
+{
+    "name": "Sapphire 100253HDMI Radeon HD 4650 512 MB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100253HDMI",
+    "Chipset": "Radeon HD 4650",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR2",
+    "Core Clock": "600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "48 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sJ9KHx/sapphire-video-card-100253hdmi"
+}

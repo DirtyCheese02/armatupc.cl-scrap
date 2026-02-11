@@ -1,0 +1,22 @@
+{
+    "name": "Corsair AX760 760 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Part #": "[AX760, CP-9020045-NA, CP-9020045-UK, CP-9020045-AU, CP-9020045-EU]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "760 W",
+    "Length": "160 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@25A, +5V@25A, +12V@63.3A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Yhbp99/corsair-ax760-760-w-80-platinum-certified-fully-modular-atx-power-supply-ax760"
+}

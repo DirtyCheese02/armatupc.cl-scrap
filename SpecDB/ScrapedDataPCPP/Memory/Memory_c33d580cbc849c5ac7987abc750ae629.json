@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SU032GBSFU266B22AB 32 GB (2 x 16 GB) DDR4-2666 SODIMM CL19 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SU032GBSFU266B22AB",
+    "Speed": "DDR4-2666",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G7C48d/silicon-power-32-gb-2-x-16-gb-ddr4-2666-cl19-memory-su032gbsfu266b22ab"
+}

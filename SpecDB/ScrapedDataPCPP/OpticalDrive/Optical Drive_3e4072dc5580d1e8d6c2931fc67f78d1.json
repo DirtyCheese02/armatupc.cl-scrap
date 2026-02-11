@@ -1,0 +1,20 @@
+{
+    "name": "Samsung SH-224BB/RSBS DVD/CD Writer",
+    "Manufacturer": "Samsung",
+    "Part #": "SH-224BB/RSBS",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "1.5 MB",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "24X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "8X",
+    "DVD-R Speed": "24X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "8X",
+    "DVD-RAM Speed": "12X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "24X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y3PfrH/samsung-optical-drive-sh224bbrsbs"
+}

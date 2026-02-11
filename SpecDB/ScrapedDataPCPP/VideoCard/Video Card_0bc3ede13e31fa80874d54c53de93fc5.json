@@ -1,0 +1,23 @@
+{
+    "name": "MSI N640-1GD5/LP GeForce GT 640 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N640-1GD5/LP",
+    "Chipset": "GeForce GT 640",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1045 MHz",
+    "Effective Memory Clock": "5010 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "146 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CMLypg/msi-video-card-n6401gd5lp"
+}

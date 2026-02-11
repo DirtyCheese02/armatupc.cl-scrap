@@ -1,0 +1,20 @@
+{
+    "name": "Noctua A4x10 4.83 CFM 40 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A4x10",
+    "Part #": "[NF-A4x10, NF-A4x10 FLX]",
+    "Size": "40 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "3700 - 4500 RPM",
+    "Airflow": "3.88 - 4.83 CFM",
+    "Noise Level": "12.9 - 17.89 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "SSO2",
+    "Features": "[Flow Acceleration Channels, Reduced Motor Hub Size, AAO Frame, Stepped Inlet Design, Inner Surface Microstructures, Integrated Anti-Vibration Pads, Smooth Commutation Drive 2, Low-Noise Adaptor for full flexibility, 3 to 2-pin Adaptor and Polarity Protection, OmniJoin Adaptor Set]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dqCwrH/noctua-nf-a4x10-483-cfm-40-mm-fan-nf-a4x10"
+}

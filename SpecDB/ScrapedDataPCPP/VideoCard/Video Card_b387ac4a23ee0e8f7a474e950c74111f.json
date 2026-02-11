@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor AXRX 570 8GBD5-DM Radeon RX 570 4 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 570 8GBD5-DM",
+    "Chipset": "Radeon RX 570",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1105 MHz",
+    "Boost Clock": "1244 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "FreeSync",
+    "Length": "255 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9gndnQ/powercolor-radeon-rx-570-4gb-video-card-axrx-570-8gbd5-dm"
+}

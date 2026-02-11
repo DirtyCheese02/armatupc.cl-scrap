@@ -1,0 +1,8 @@
+{
+    "name": "SIIG CN-GP1011-S3 Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "SIIG",
+    "Part #": "CN-GP1011-S3",
+    "Interface": "PCI",
+    "Features": "[Crossover detection and auto-correction, Auto-negotiation intelligently detects and determines 10/100/1000 Mbps and full-/half-duplex, Checksum and Segmentation Task-offload reduce CPU workloads for enhanced system response and network scalability, Supports Flow Control, Layer 2 Priority Queuing, VLAN Tag and Jumbo Frames, LEDs to indicate link and activity status]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/894gXL/siig-wired-network-card-cngp1011s3"
+}

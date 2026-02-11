@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks M25G2-140 D-RGB Reverse 100.07 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "Phanteks",
+    "Model": "M25G2-140 D-RGB Reverse",
+    "Part #": "PH-F140M25R_G2_DWT01 _3P",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "350 - 1800 RPM",
+    "Airflow": "100.07 CFM",
+    "Noise Level": "40.95 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.04 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Jb8Pxr/phanteks-m25g2-140-d-rgb-reverse-10007-cfm-140-mm-fans-3-pack-ph-f140m25r_g2_dwt01-_3p"
+}

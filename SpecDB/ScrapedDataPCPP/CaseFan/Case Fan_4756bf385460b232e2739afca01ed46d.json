@@ -1,0 +1,19 @@
+{
+    "name": "BitFenix Spectre Pro 70.52 CFM 120 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-SPRO-P12025WW-RP",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "70.52 CFM",
+    "Noise Level": "26.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic Bearings (FDB)",
+    "Features": "[Materials: PC & PBT, Operating Voltage: 12VDC, Starting Voltage: 5VDC, Current (A): 0.30A+/-10%, PWM Technology, High Pressure/CFM Design, Dual Ring Construction, Reinforced Fan Blades, Silent Operation and Long Life, *Two Color Versions]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z7K7YJ/bitfenix-case-fan-bffsprop12025wwrp"
+}

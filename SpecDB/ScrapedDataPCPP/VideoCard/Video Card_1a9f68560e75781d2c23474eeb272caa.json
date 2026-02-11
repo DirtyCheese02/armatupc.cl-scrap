@@ -1,0 +1,22 @@
+{
+    "name": "Lenovo 4X61F99433 RTX A2000 6GB 6 GB Video Card",
+    "Manufacturer": "Lenovo",
+    "Part #": "4X61F99433",
+    "Chipset": "RTX A2000 6GB",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "562 MHz",
+    "Boost Clock": "1200 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q47G3C/lenovo-rtx-a2000-6gb-6-gb-video-card-4x61f99433"
+}

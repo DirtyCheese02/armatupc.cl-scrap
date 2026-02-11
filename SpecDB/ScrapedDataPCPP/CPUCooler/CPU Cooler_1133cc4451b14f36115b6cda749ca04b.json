@@ -1,0 +1,13 @@
+{
+    "name": "Silverstone SST-HE01 171 CFM Ball Bearing CPU Cooler",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-HE01",
+    "Fan RPM": "500 - 2000 RPM",
+    "Noise Level": "18 - 41 dB",
+    "Height": "161 mm",
+    "Bearing": "Ball",
+    "CPU Socket": "[AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA775, LGA1150, LGA1151, LGA1155, LGA1156, LGA1200, LGA1366, LGA2011, LGA2011-3, LGA2066]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6xw323/silverstone-cpu-cooler-ssthe01"
+}

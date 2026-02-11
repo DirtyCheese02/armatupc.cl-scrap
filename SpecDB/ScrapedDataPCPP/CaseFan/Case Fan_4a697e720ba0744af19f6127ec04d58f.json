@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker ELoop B 58.1 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "ITR-B12-PS",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1500 RPM",
+    "Airflow": "58.1 CFM",
+    "Noise Level": "21.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zvphP6/noiseblocker-case-fan-itrb12ps"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "FSP Group FSP300-60GHS(85) 300 W 80+ Bronze Certified SFX Power Supply",
+    "Manufacturer": "FSP Group",
+    "Part #": "FSP300-60GHS(85)",
+    "Type": "SFX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "300 W",
+    "Length": "100 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "2",
+    "Output": "+3.3V@21A, +5V @20A, +12V1@14A, +12V2 @16A, -12V @0.5A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H8V48d/fsp-group-fsp300-60ghs85-300-w-80-bronze-certified-sfx-power-supply-fsp300-60ghs85"
+}

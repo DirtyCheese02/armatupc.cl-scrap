@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F140 RGB 89.48 CFM 140 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F140 RGB",
+    "Part #": "RF-R14SF-W1",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "24.85 - 89.48 CFM",
+    "Noise Level": "20 - 32.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "3.39 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tjPQzy/nzxt-f140-rgb-8948-cfm-140-mm-fan-rf-r14sf-w1"
+}

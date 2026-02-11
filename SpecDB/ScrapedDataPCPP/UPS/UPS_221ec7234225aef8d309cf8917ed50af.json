@@ -1,0 +1,18 @@
+{
+    "name": "APC SUA1500RMJ2UB UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA1500RMJ2UB",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "7.40 Minutes",
+    "Backup/Run Time (Half Load)": "26.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "100 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LXH48d/apc-ups-sua1500rmj2ub"
+}

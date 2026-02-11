@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline 16 GB (2 x 8 GB) DDR4-3466 CL18 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRA4U346JLLM8GX2",
+    "Speed": "DDR4-3466",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Red",
+    "First Word Latency": "10.387 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZVkWGX/mushkin-redline-16-gb-2-x-8-gb-ddr4-3466-cl18-memory-mra4u346jllm8gx2"
+}

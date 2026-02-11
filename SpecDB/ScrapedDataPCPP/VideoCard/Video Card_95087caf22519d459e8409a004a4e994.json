@@ -1,0 +1,23 @@
+{
+    "name": "Asus Turbo GeForce RTX 3080 10GB 10 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "TURBO-RTX3080-10G",
+    "Chipset": "GeForce RTX 3080 10GB",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1740 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "268 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dgbTwP/asus-geforce-rtx-3080-10-gb-turbo-video-card-turbo-rtx3080-10g"
+}

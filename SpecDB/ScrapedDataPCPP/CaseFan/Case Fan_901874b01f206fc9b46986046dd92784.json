@@ -1,0 +1,19 @@
+{
+    "name": "Corsair iCUE AR120 Digital RGB 59 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "iCUE AR120 Digital RGB",
+    "Part #": "CO-9050168-WW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1850 RPM",
+    "Airflow": "10.7 - 59 CFM",
+    "Noise Level": "10 - 27.3 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "2.8 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DqBzK8/corsair-icue-ar120-digital-rgb-59-cfm-120-mm-fan-co-9050168-ww"
+}

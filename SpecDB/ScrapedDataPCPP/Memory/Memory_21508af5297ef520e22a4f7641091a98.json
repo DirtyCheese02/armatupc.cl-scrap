@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z RGB 64 GB (2 x 32 GB) DDR4-2666 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2666C19D-64GTZR",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "Timing": "19-19-19-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tfXJ7P/gskill-trident-z-rgb-64-gb-2-x-32-gb-ddr4-2666-cl19-memory-f4-2666c19d-64gtzr"
+}

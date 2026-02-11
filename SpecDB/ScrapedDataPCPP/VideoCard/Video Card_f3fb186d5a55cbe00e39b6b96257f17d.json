@@ -1,0 +1,21 @@
+{
+    "name": "Sapphire 100291DP Radeon HD 5450 512 MB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100291DP",
+    "Chipset": "Radeon HD 5450",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "650 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jjxfrH/sapphire-video-card-100291dp"
+}

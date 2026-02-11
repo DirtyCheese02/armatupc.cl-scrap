@@ -1,0 +1,17 @@
+{
+    "name": "SilentiumPC Mistral 140 61 CFM 140 mm Fan",
+    "Manufacturer": "SilentiumPC",
+    "Model": "Mistral 140",
+    "Part #": "SPC046",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "61 CFM",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9nK2FT/silentiumpc-mistral-140-61-cfm-140-mm-fan-spc046"
+}

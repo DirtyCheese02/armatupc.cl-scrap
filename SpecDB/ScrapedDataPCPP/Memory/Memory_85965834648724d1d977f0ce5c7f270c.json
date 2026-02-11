@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance 64 GB (4 x 16 GB) DDR5-5600 CL36 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK64GX5M4B5600Z36",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "12.857 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.25 V",
+    "Timing": "36-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qcCZxr/corsair-vengeance-64-gb-4-x-16-gb-ddr5-5600-cl36-memory-cmk64gx5m4b5600z36"
+}

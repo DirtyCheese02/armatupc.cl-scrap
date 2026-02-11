@@ -1,0 +1,16 @@
+{
+    "name": "OLOy Blade RGB 32 GB (2 x 16 GB) DDR5-6200 CL32 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "ND5U1662320BRSDE",
+    "Speed": "DDR5-6200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Platinum",
+    "First Word Latency": "10.323 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.35 V",
+    "Timing": "32-38-38-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nqQcCJ/oloy-blade-rgb-32-gb-2-x-16-gb-ddr5-6200-cl32-memory-nd5u1662320brsde"
+}

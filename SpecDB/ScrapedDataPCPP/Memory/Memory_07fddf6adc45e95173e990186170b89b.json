@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Ripjaws V 128 GB (4 x 32 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C18Q-128GVK",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "Price / GB": "$5.234",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KyZzK8/gskill-ripjaws-v-128-gb-4-x-32-gb-ddr4-3600-memory-f4-3600c18q-128gvk"
+}

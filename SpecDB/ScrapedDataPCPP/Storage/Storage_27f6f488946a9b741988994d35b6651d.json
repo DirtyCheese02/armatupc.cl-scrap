@@ -1,0 +1,13 @@
+{
+    "name": "Intel 310 40 GB mSATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDMAEMC040G2C1",
+    "Capacity": "40 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21BA0",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g9mLrH/intel-internal-hard-drive-ssdmaemc040g2c1"
+}

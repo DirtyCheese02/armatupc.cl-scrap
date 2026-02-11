@@ -1,0 +1,8 @@
+{
+    "name": "StarTech ST1000SPEXD2 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "ST1000SPEXD2",
+    "Interface": "PCIe x1",
+    "Features": "[Chipset ID: Realtek RTL8111C, Maximum Data Transfer Rate: 1000 Mbps (uni-directional), 2000 Mbps (bi-directional), OS Compatibility: Windows 98SE/ ME/ 2000/ XP (32/64-bit)/ Server 2003 (32/64-bit)/ Vista (32/64-bit)/ Server 2008 R2/ 7 (32/64-bit), WinCE 4.2/ 5.0 Linux Kernel 2.4.x and later Mac OS 10.4 (Intel-based) SCO OpenServer 5.0.7/ 6, and Novell, Jumbo Frame support, Supports Microsoft NDIS5 Checksum Offload (IP, TCP, UDP) and Large send Offload, Supports Wake-on-LAN and Remote Wake-up Support, Pair Swap/Polarity/Skew Correction, Crossover Detection & Auto-Correction (Auto MDIX)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dmXfrH/startech-wired-network-card-st1000spexd2"
+}

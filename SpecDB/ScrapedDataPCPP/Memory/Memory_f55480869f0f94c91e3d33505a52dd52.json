@@ -1,0 +1,15 @@
+{
+    "name": "Patriot Signature 8 GB (2 x 4 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PSD38G1600SK",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kzV48d/patriot-memory-psd38g1600sk"
+}

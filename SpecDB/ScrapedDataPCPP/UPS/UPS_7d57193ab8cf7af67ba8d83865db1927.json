@@ -1,0 +1,20 @@
+{
+    "name": "APC BK300C UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK300C",
+    "Capacity (W)": "180 W",
+    "Capacity (VA)": "300 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "6.20 Minutes",
+    "Backup/Run Time (Half Load)": "21.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "2 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "8 ms",
+    "Waveform Type": "Stepped Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MKZ2FT/apc-ups-bk300c"
+}

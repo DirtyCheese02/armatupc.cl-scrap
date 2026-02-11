@@ -1,0 +1,16 @@
+{
+    "name": "Thermaltake TOUGHRAM XG RGB 32 GB (2 x 16 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "Thermaltake",
+    "Part #": "RG06D416GX2-4000C19B",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "White / Silver",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-23-23-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mf3gXL/thermaltake-toughram-xg-rgb-32-gb-2-x-16-gb-ddr4-4000-cl19-memory-rg06d416gx2-4000c19b"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "APC SUA500PDRI-S UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA500PDRI-S",
+    "Capacity (W)": "325 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "[Low Battery, On Battery, Overload]",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Output Voltage": "240 V AC",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2GfmP6/apc-ups-sua500pdris"
+}

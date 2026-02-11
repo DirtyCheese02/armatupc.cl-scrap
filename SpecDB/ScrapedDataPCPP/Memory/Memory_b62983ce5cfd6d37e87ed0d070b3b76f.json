@@ -1,0 +1,14 @@
+{
+    "name": "Kingston Predator 8 GB (2 x 4 GB) DDR3-2400 CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX24C11T2K2/8X",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "First Word Latency": "9.167 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fTK7YJ/kingston-memory-khx24c11t2k28x"
+}

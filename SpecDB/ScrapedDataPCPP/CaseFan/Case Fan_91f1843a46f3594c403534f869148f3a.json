@@ -1,0 +1,18 @@
+{
+    "name": "Fractal Design Prisma AL 63.33 CFM 140 mm Fan",
+    "Manufacturer": "Fractal Design",
+    "Part #": "FD-FAN-PRI-AL14",
+    "Size": "140 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "63.33 CFM",
+    "Noise Level": "19.4 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.07 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xpqhP6/fractal-design-prisma-al-14-6333-cfm-140-mm-fan-fd-fan-pri-al14"
+}

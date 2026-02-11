@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 8 GB (2 x 4 GB) DDR4-4133 CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK8GX4M2B4133C19",
+    "Speed": "DDR4-4133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "9.194 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "Timing": "19-25-25-45",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fK38TW/corsair-memory-cmk8gx4m2b4133c19"
+}

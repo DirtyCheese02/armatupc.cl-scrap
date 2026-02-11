@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum RGB 32 GB (4 x 8 GB) DDR4-3200 CL14 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT32GX4M4C3200C14",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "Timing": "14-14-14-34",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p2XnTW/corsair-dominator-platinum-rgb-32-gb-4-x-8-gb-ddr4-3200-memory-cmt32gx4m4c3200c14"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "APC SUA3000RMXLI3U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA3000RMXLI3U",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "5.40 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[8 x IEC 320-C19, 3 x IEC 320-C13, 1]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sGfmP6/apc-ups-sua3000rmxli3u"
+}

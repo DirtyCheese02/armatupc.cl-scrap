@@ -1,0 +1,13 @@
+{
+    "name": "Seagate ST500LT032 500 GB 2.5\" 5400 RPM Internal Hard Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "ST500LT032",
+    "Capacity": "500 GB",
+    "Price / GB": "$0.100",
+    "Type": "5400 RPM",
+    "Cache": "16 MB",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gnckcf/seagate-internal-hard-drive-st500lt032"
+}

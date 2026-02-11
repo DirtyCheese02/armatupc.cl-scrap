@@ -1,0 +1,23 @@
+{
+    "name": "EVGA FTW3 ULTRA GAMING GeForce RTX 3090 Ti 24 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "24G-P5-4985-KR",
+    "Chipset": "GeForce RTX 3090 Ti",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1560 MHz",
+    "Boost Clock": "1920 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HdPQzy/evga-geforce-rtx-3090-ti-24-gb-ftw3-ultra-gaming-video-card-24g-p5-4985-kr"
+}

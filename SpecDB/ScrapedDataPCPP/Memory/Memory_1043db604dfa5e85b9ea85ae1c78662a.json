@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance Pro 8 GB (2 x 4 GB) DDR3-2133 CL8 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMY8GX3M2A2133C8R",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$17.270",
+    "Color": "Black / Red",
+    "First Word Latency": "7.501 ns",
+    "CAS Latency": "8",
+    "Voltage": "1.65 V",
+    "Timing": "8-10-10-27",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JCfp99/corsair-memory-cmy8gx3m2a2133c8r"
+}

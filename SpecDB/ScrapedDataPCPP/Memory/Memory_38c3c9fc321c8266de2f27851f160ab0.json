@@ -1,0 +1,15 @@
+{
+    "name": "Kingston ValueRAM 32 GB (1 x 32 GB) DDR4-3200 CL22 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR32N22D8/32",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "Price / GB": "$6.406",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bCsnTW/kingston-valueram-32-gb-1-x-32-gb-ddr4-3200-cl22-memory-kvr32n22d832"
+}

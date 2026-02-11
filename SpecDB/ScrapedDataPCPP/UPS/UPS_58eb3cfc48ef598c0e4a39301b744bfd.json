@@ -1,0 +1,22 @@
+{
+    "name": "APC SURTA1000XL UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTA1000XL",
+    "Capacity (W)": "800 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[Low Battery, Overload]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RS-232, DB-9]",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Surge, Spike, Lightning, Overload]",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jVYWGX/apc-ups-surta1000xl"
+}

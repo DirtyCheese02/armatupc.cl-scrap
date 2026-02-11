@@ -1,0 +1,22 @@
+{
+    "name": "Zotac GAMING Trinity GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-A30820D-10PLHR",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1710 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "318 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hHLFf7/zotac-geforce-rtx-3080-12gb-lhr-12-gb-gaming-trinity-video-card-zt-a30820d-10plhr"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "APC SUA2200XLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA2200XLI",
+    "Capacity (W)": "1980 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "5U",
+    "Backup/Run Time (Full Load)": "9.30 Minutes",
+    "Backup/Run Time (Half Load)": "26.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[8 x IEC 320-C13, 2 x IEC Jumper, 1 x IEC 320-C19]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wsJkcf/apc-ups-sua2200xli"
+}

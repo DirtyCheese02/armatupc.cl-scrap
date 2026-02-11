@@ -1,0 +1,16 @@
+{
+    "name": "Kingston HyperX 8 GB (2 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1600C9D3K2/8GX",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$15.565",
+    "Color": "Blue / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LNh9TW/kingston-memory-khx1600c9d3k28gx"
+}

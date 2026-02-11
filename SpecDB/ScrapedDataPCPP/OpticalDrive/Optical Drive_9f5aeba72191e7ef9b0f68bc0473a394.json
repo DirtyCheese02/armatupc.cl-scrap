@@ -1,0 +1,17 @@
+{
+    "name": "MSI DH-24AS U88 DVD/CD Writer",
+    "Manufacturer": "MSI",
+    "Part #": "DH-24AS U88",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "2 MB",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "24X",
+    "DVD+RW Speed": "8X",
+    "DVD-R Speed": "24X",
+    "DVD-RW Speed": "8X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "32X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/V7Qypg/msi-optical-drive-dh24asu88"
+}

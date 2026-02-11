@@ -1,0 +1,23 @@
+{
+    "name": "AMD FirePro W9100 FirePro W9100 16 GB Video Card",
+    "Manufacturer": "AMD",
+    "Model": "FirePro W9100",
+    "Part #": "100-505725",
+    "Chipset": "FirePro W9100",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "930 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "275 mm",
+    "TDP": "275 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bCJkcf/amd-video-card-100505725"
+}

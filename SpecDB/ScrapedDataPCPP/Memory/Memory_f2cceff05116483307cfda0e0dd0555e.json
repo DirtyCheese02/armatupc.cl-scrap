@@ -1,0 +1,14 @@
+{
+    "name": "G.Skill F3-1333C9D-16GSL 16 GB (2 x 8 GB) DDR3-1333 SODIMM CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1333C9D-16GSL",
+    "Speed": "DDR3-1333",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p2h9TW/gskill-memory-f31333c9d16gsl"
+}

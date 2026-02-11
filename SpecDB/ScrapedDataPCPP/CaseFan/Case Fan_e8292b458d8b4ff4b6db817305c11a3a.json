@@ -1,0 +1,18 @@
+{
+    "name": "Xilence XPF120.ARGB 68.2 CFM 120 mm Fan",
+    "Manufacturer": "Xilence",
+    "Model": "XPF120.ARGB",
+    "Part #": "[XF063, XPF120.ARGB]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "68.2 CFM",
+    "Noise Level": "18 - 32.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7xzXsY/xilence-xpf120argb-682-cfm-120-mm-fan-xf063"
+}

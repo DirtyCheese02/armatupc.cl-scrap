@@ -1,0 +1,22 @@
+{
+    "name": "SONNET Technologies S-RX6800XT-16G Radeon RX 6800 XT 16 GB Video Card",
+    "Manufacturer": "SONNET Technologies",
+    "Part #": "S-RX6800XT-16G",
+    "Chipset": "Radeon RX 6800 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1825 MHz",
+    "Boost Clock": "2250 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "297 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VDRYcf/sonnet-technologies-radeon-rx-6800-xt-16-gb-video-card-s-rx6800xt-16g"
+}

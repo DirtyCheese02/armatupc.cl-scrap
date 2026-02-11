@@ -1,0 +1,14 @@
+{
+    "name": "OCZ Colossus 1 TB 3.5\" Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZSSD2-1CLS1T",
+    "Capacity": "1 TB",
+    "Type": "SSD",
+    "Cache": "128 MB",
+    "Form Factor": "3.5\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Indilinx Barefoot 1",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4RtCmG/ocz-internal-hard-drive-oczssd21cls1t"
+}

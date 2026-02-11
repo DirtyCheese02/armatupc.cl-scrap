@@ -1,0 +1,16 @@
+{
+    "name": "Crucial M500 480 GB mSATA Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Model": "M500",
+    "Part #": "CT480M500SSD3",
+    "Capacity": "480 GB",
+    "Price / GB": "$1.016",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4qDwrH/crucial-internal-hard-drive-ct480m500ssd3"
+}

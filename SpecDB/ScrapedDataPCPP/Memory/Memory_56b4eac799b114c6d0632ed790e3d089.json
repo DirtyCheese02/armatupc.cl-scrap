@@ -1,0 +1,15 @@
+{
+    "name": "Wintec HMT325U7EFR8A-PB 2 GB (1 x 2 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "HMT325U7EFR8A-PB",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JH98TW/wintec-memory-hmt325u7efr8apb"
+}

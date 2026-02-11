@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-M12R 42.6 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-M12R",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "1500 RPM",
+    "Airflow": "42.6 CFM",
+    "Noise Level": "23.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.31 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nfFCmG/thermalright-tl-m12r-426-cfm-120-mm-fan-tl-m12r"
+}

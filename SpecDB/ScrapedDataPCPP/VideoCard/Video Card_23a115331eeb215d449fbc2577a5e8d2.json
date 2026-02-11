@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 02G-P3-1559-KR GeForce GTX 550 Ti 2 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "02G-P3-1559-KR",
+    "Chipset": "GeForce GTX 550 Ti",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "4008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "116 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/byn2FT/evga-video-card-02gp31559kr"
+}

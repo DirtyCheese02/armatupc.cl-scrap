@@ -1,0 +1,21 @@
+{
+    "name": "APC SURTA1500XL UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTA1500XL",
+    "Capacity (W)": "1050 W",
+    "Capacity (VA)": "1500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "8.60 Minutes",
+    "Backup/Run Time (Half Load)": "22.20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZTH48d/apc-ups-surta1500xl"
+}

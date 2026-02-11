@@ -1,0 +1,8 @@
+{
+    "name": "Rosewill RNG-407-Dual 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNG-407-Dual",
+    "Interface": "PCIe x1",
+    "Features": "[Designed to Meet PCI Express Specification Revision 1.1, compatible with x4, x8, x16, Single-lane (or x1) PCI Express Throughput Supports Rate of 2.5Gbps, Fully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, 10/100/1000M Data Auto-negotiation, 9K bytes Jumbo Frame Support, LEDs Indicate the Status of Data Transmission, Support Wake On Lan (WOL) Power Management, Full Duplex Mode Doubles the Network Connections Speed., OS support: Windows 8 (32/64 bit), Windows 7 (32/64 bit), Vista (32/64 bit), Windows XP (32/64 bit), Mac OS X 10.5, 10.6, 10.7, 10.8, Linux 2.6.x and higher kernel OS]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/myGkcf/rosewill-wired-network-card-rng407dual"
+}

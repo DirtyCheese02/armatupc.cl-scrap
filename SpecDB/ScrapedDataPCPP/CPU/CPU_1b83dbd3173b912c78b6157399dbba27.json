@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i5-750S 2.4 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80605I5750S",
+    "Series": "Intel Core i5",
+    "Microarchitecture": "Nehalem",
+    "Core Family": "Lynnfield",
+    "Socket": "LGA1156",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.4 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "82 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sDvRsY/intel-cpu-bx80605i5750s"
+}

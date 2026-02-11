@@ -1,0 +1,19 @@
+{
+    "name": "APC BF500 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BF500",
+    "Capacity (W)": "325 W",
+    "Capacity (VA)": "500 VA",
+    "Backup/Run Time (Full Load)": "6.40 Minutes",
+    "Backup/Run Time (Half Load)": "7.90 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "12 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yTH48d/apc-ups-bf500"
+}

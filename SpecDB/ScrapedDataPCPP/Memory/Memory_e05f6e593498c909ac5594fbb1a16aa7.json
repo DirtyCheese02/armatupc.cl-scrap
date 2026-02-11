@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance 48 GB (2 x 24 GB) DDR5-7000 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK48GX5M2B7000C40",
+    "Speed": "DDR5-7000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Price / GB": "$13.333",
+    "Color": "Black",
+    "First Word Latency": "11.429 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.4 V",
+    "Timing": "40-52-52-114",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kL26Mp/corsair-vengeance-48-gb-2-x-24-gb-ddr5-7000-cl40-memory-cmk48gx5m2b7000c40"
+}

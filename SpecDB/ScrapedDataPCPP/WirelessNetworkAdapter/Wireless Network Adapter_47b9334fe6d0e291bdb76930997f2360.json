@@ -1,0 +1,11 @@
+{
+    "name": "Edimax EW-7128Gn 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "Edimax",
+    "Part #": "EW-7128Gn",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "WEP 64/128, WPA, WPA2, WPS, Cisco CCX Support",
+    "Antenna": "1 x External detachable dipole antenna w/ RP-SMA connector & 94 cm cable",
+    "Features": "[Increases wireless coverage 3 times further, Detachable antenna with long length cable provides convenience to locate the antenna., Supports Wi-Fi Protected Setup (WPS)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Krdqqs/edimax-wireless-network-card-ew7128gn"
+}

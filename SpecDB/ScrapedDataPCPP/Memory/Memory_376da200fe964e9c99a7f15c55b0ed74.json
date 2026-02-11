@@ -1,0 +1,16 @@
+{
+    "name": "OLOy Blade RGB 32 GB (2 x 16 GB) DDR4-3600 CL14 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "ND4U1636144BRADE",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver",
+    "First Word Latency": "7.778 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.45 V",
+    "Timing": "14-14-14-34",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/36ddnQ/oloy-blade-rgb-32-gb-2-x-16-gb-ddr4-3600-cl14-memory-nd4u1636144brade"
+}

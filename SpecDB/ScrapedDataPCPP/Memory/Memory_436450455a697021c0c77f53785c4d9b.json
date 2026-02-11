@@ -1,0 +1,16 @@
+{
+    "name": "Crucial Ballistix Elite 8 GB (1 x 8 GB) DDR4-4000 CL18 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLE8G4D40BEEAK",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dd6qqs/crucial-ballistix-elite-8-gb-1-x-8-gb-ddr4-4000-memory-ble8g4d40beeak"
+}

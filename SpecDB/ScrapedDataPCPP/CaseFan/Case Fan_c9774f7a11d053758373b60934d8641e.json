@@ -1,0 +1,18 @@
+{
+    "name": "KOLINK UMBRA VOID PRO 57.2 CFM 120 mm Fan",
+    "Manufacturer": "KOLINK",
+    "Part #": "UMBRA VOID PRO 120MM",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1800 RPM",
+    "Airflow": "57.2 CFM",
+    "Noise Level": "19.4 - 30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.1 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m2CZxr/kolink-umbra-void-pro-572-cfm-120-mm-fan-umbra-void-pro-120mm"
+}

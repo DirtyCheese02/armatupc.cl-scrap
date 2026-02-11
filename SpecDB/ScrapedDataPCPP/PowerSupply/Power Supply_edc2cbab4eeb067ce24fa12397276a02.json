@@ -1,0 +1,21 @@
+{
+    "name": "Thermaltake TR2 600 W ATX Power Supply",
+    "Manufacturer": "Thermaltake",
+    "Part #": "TR-600",
+    "Type": "ATX",
+    "Wattage": "600 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@22A, +5V@18A, +12V1@23A, +12V2@20A, -12V@0.3A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wTK7YJ/thermaltake-power-supply-tr600"
+}

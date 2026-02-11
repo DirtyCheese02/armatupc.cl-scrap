@@ -1,0 +1,19 @@
+{
+    "name": "DARKROCK F140 61.5 CFM 140 mm Fan",
+    "Manufacturer": "DARKROCK",
+    "Model": "F140",
+    "Part #": "DR-FAN-F140-BK",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1800 RPM",
+    "Airflow": "61.5 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.16 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZbxTwP/darkrock-f140-615-cfm-140-mm-fan-dr-fan-f140-bk"
+}

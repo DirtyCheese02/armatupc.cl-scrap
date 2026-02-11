@@ -1,0 +1,19 @@
+{
+    "name": "StarTech FANBOX 72.94 CFM 120 mm Fan",
+    "Manufacturer": "StarTech",
+    "Part #": "FANBOX12",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "72.94 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Ball",
+    "Features": "[Dual Ball Bearings in the cooling fan provides increased airflow, reliability and longer life, High efficiency fan-blade design is capable of moving 72.94 CFM]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vPZQzy/startech-fanbox12-7294-cfm-120-mm-fan-fanbox12"
+}

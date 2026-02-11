@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 32 GB (4 x 8 GB) DDR4-2800 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK32GX4M4A2800C16",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lf7CmG/corsair-memory-cmk32gx4m4a2800c16"
+}

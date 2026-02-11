@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake CT140 EX Reverse ARGB Sync 94.95 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "Thermaltake",
+    "Model": "CT140 EX Reverse ARGB Sync",
+    "Part #": "CL-F193-PL14SW-A",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "94.95 CFM",
+    "Noise Level": "32.8 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.54 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J36NnQ/thermaltake-ct140-ex-reverse-argb-sync-9495-cfm-140-mm-fans-3-pack-cl-f193-pl14sw-a"
+}

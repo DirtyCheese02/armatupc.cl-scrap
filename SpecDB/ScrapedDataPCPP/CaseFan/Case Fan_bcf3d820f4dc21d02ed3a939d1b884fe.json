@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A15 PWM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A15 PWM",
+    "Part #": "NF-A15 PWM",
+    "Size": "140 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1200 RPM",
+    "Noise Level": "13.8 - 19.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "SSO2-Bearing (Self-stabilising oil-presure bearing)",
+    "Features": "[Succeeding the award-winning NF-P14, Round 140mm frame with 150mm width, Flow Acceleration Channels, AAO Frame, Stepped Inlet Design, Inner Surface Microstructures, Integrated Anti-Vibration Pads, SSO2 Bearing, Metal bearing shell, Custom designed PWM IC with SCD, Low-Noise Adaptor, Extensive cabling options, Ultra-Low Power Consumption]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/znPfrH/noctua-case-fan-nfa15pwm"
+}

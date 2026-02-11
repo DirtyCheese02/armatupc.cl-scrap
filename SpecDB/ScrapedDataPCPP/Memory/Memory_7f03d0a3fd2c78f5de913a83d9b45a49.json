@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Proline 32 GB (1 x 32 GB) DDR4-2933 SODIMM CL21 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MPL4T293MF32G28",
+    "Speed": "DDR4-2933",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "First Word Latency": "14.32 ns",
+    "CAS Latency": "21",
+    "Voltage": "1.2 V",
+    "Timing": "21-21-21-47",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pfQcCJ/mushkin-proline-32-gb-1-x-32-gb-ddr4-2933-cl21-memory-mpl4t293mf32g28"
+}

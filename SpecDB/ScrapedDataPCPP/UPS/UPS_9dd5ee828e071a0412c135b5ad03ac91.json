@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite OMNIVSINT1000 UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNIVSINT1000",
+    "Capacity (W)": "500 W",
+    "Capacity (VA)": "1000 VA",
+    "Alarm": "Utility Power Failure",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "18 Minutes",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "6 x IEC 320-C13",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MBPzK8/tripp-lite-ups-omnivsint1000"
+}

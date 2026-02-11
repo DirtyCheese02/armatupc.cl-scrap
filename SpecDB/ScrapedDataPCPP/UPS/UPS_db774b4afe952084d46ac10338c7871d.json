@@ -1,0 +1,23 @@
+{
+    "name": "APC SMT1500RMI1U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT1500RMI1U",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "1U",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Protection Type": "[Surge, Spike, Lightning]",
+    "Receptacles": "[4 x IEC 60320 C13, 2 x IEC Jumper]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QJVBD3/apc-ups-smt1500rmi1u"
+}

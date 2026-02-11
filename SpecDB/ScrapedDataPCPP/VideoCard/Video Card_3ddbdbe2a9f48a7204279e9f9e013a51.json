@@ -1,0 +1,23 @@
+{
+    "name": "MSI TWIN FROZR III Radeon HD 6950 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "R6950 Twin Frozr III 1G/OC",
+    "Chipset": "Radeon HD 6950",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Effective Memory Clock": "1300 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "270 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6F2kcf/msi-video-card-r6950twinfrozriii1goc"
+}

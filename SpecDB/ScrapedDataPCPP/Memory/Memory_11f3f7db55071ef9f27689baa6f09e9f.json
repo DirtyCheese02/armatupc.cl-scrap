@@ -1,0 +1,15 @@
+{
+    "name": "Crucial CT2K32G3ELSDQ4186D 64 GB (2 x 32 GB) DDR3-1866 CL11 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CT2K32G3ELSDQ4186D",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 32GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "11.79 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6FfmP6/crucial-memory-ct2k32g3elsdq4186d"
+}

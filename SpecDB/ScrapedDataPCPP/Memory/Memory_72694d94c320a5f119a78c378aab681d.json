@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 32 GB (2 x 16 GB) DDR4-3200 CL18 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX432C18FBK2/32",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PNKcCJ/kingston-hyperx-fury-32-gb-2-x-16-gb-ddr4-3200-memory-hx432c18fbk232"
+}

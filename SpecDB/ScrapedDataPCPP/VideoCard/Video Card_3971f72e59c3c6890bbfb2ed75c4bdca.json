@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF GAMING OC Radeon RX 7800 XT 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[90YV0JP0-M0AA00, TUF-RX7800XT-O16G-WHITE-GAMING, 90YV0JP0-M0NA00]",
+    "Chipset": "Radeon RX 7800 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1295 MHz",
+    "Boost Clock": "2565 MHz",
+    "Effective Memory Clock": "19500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "320 mm",
+    "TDP": "263 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q8xxFT/asus-tuf-gaming-oc-radeon-rx-7800-xt-16-gb-video-card-90yv0jp0-m0aa00"
+}

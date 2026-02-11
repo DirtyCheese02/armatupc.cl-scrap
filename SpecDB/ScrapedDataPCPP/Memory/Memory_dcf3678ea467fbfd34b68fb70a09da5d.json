@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KVR18R13D4K3/48 48 GB (3 x 16 GB) Registered DDR3-1866 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR18R13D4K3/48",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 16GB",
+    "Color": "Blue",
+    "First Word Latency": "13.934 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bLW9TW/kingston-memory-kvr18r13d4k348"
+}

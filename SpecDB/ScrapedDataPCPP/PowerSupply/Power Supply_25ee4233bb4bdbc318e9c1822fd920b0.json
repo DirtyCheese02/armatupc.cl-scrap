@@ -1,0 +1,22 @@
+{
+    "name": "be quiet! Power Zone 650 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "be quiet!",
+    "Part #": "BN610",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "650 W",
+    "Length": "175 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@25A<br/>+5V@25A<br/>+12V1@54A<br/>-12V@0.30A<br/>+5Vsb@\t3.00A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qhn2FT/be-quiet-power-supply-bn610"
+}

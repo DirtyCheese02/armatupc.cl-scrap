@@ -1,0 +1,15 @@
+{
+    "name": "Crucial Ballistix Sport 8 GB (2 x 4 GB) DDR3-1600 SODIMM CL9 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLS2K4G3N169ES4",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$4.875",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mkV48d/crucial-memory-bls2k4g3n169es4"
+}

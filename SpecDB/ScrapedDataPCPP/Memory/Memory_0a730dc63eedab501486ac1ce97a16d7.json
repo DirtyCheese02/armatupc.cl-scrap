@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-7200 CL34 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-7200J3445G16GX2-TZ5RK",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$16.250",
+    "Color": "Black",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-45-45-115",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qxXJ7P/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-7200-cl34-memory-f5-7200j3445g16gx2-tz5rk"
+}

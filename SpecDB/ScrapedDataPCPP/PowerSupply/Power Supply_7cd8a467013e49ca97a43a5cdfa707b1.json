@@ -1,0 +1,21 @@
+{
+    "name": "Zalman zm-550-XG 550 W 80+ Gold Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Zalman",
+    "Part #": "zm-550-XG",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "550 W",
+    "Length": "180 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qY3RsY/zalman-zm-550-xg-550-w-80-gold-certified-semi-modular-atx-power-supply-zm-550-xg"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "AMD 100-505989 FirePro W9100 32 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-505989",
+    "Chipset": "FirePro W9100",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "930 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "275 mm",
+    "TDP": "275 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "MiniDisplayPort Outputs": "6",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tgBrxr/amd-firepro-w9100-32gb-video-card-100-505989"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Dark Pro 8 GB (2 x 4 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TDPGD48G3200HC16ADC01",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/V3RzK8/team-t-force-dark-pro-8gb-2-x-4gb-ddr4-3200-memory-tdpgd48g3200hc16adc01"
+}

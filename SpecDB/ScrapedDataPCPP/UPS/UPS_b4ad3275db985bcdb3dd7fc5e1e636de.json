@@ -1,0 +1,17 @@
+{
+    "name": "APC BE650G UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE650G",
+    "Capacity (W)": "390 W",
+    "Capacity (VA)": "650 VA",
+    "Backup/Run Time (Full Load)": "4.20 Minutes",
+    "Backup/Run Time (Half Load)": "15.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mHNypg/apc-ups-be650g"
+}

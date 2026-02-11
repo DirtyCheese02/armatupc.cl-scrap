@@ -1,0 +1,12 @@
+{
+    "name": "APC BE325-GR UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE325-GR",
+    "Capacity (W)": "185 W",
+    "Capacity (VA)": "325 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Hot Swappable": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TRGj4D/apc-ups-be325gr"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KSM26ED8/16ME 16 GB (1 x 16 GB) DDR4-2666 CL19 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM26ED8/16ME",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Green",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bNdxFT/kingston-16-gb-2-x-8-gb-registered-ddr4-2666-memory-ksm26ed816me"
+}

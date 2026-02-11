@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN751ND 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN751ND",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "64/128 bits WEP, WPA/WPA2, WPA-PSK/WPA2-PSK (TKIP/AES)",
+    "Antenna": "1 x 2dBi Detachable Omni Directional Antenna",
+    "Features": "[Wireless Modes: Ad-Hoc / Infrastructure mode, Up to 150Mbps wireless transmission rate, Provides 32-bit PCI interface, Advanced secure connection with WPA/WPA2 encryption, Bundled utility enables easy management]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NmXfrH/tp-link-wireless-network-card-tlwn751nd"
+}

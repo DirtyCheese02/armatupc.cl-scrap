@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F120 RGB Core 78.86 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "NZXT",
+    "Model": "F120 RGB Core",
+    "Part #": "RF-C12TF-W1",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "78.86 CFM",
+    "Noise Level": "33.88 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "USB",
+    "Static Pressure": "2.57 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7vjRsY/nzxt-f120-rgb-core-7886-cfm-120-mm-fans-3-pack-rf-c12tf-w1"
+}

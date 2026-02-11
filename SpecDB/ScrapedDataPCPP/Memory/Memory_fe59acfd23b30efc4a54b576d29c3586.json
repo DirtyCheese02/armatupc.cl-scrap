@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KVR21R15S4K4/32I 32 GB (4 x 8 GB) Registered DDR4-2133 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR21R15S4K4/32I",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Green",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yFgPxr/kingston-memory-kvr21r15s4k432i"
+}

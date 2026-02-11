@@ -1,0 +1,19 @@
+{
+    "name": "EVGA 02G-P3-2617-KR GeForce GT 610 2 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "02G-P3-2617-KR",
+    "Chipset": "GeForce GT 610",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pdkD4D/evga-video-card-02gp32617kr"
+}

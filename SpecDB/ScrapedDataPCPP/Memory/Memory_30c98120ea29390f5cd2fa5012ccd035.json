@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX2133C11D3K4/16GX 16 GB (4 x 4 GB) DDR3-2133 CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX2133C11D3K4/16GX",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "10.314 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q9MFf7/kingston-memory-khx2133c11d3k416gx"
+}

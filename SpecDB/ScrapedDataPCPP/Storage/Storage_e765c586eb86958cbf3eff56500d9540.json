@@ -1,0 +1,13 @@
+{
+    "name": "Intel 320 80 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSA2BW080G301",
+    "Capacity": "80 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21BA0",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c2yFf7/intel-internal-hard-drive-ssdsa2bw080g301"
+}

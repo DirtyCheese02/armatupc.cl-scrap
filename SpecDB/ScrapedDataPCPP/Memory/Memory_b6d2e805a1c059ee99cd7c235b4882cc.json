@@ -1,0 +1,15 @@
+{
+    "name": "PNY Anarchy 8 GB (1 x 8 GB) DDR3-1866 CL10 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MD8GSD3186610AB",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "10.718 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nMcMnQ/pny-memory-md8gsd3186610ab"
+}

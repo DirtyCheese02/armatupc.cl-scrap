@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-61002-10M GeForce GTX 650 2 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-61002-10M",
+    "Chipset": "GeForce GTX 650",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1071 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "Frame Sync": "None",
+    "Length": "153 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/369KHx/zotac-video-card-zt6100210m"
+}

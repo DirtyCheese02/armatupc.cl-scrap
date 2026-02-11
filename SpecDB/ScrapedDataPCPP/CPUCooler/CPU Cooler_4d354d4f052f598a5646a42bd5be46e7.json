@@ -1,0 +1,12 @@
+{
+    "name": "EVGA M020-00-000234 84 CFM CPU Cooler",
+    "Manufacturer": "EVGA",
+    "Part #": "M020-00-000234",
+    "Fan RPM": "750 - 2500 RPM",
+    "Noise Level": "13.2 - 41.5 dB",
+    "Height": "152 mm",
+    "CPU Socket": "[AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA775, LGA1150, LGA1151, LGA1155, LGA1156, LGA1200, LGA1366]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HMW9TW/evga-cpu-cooler-m02000000234"
+}

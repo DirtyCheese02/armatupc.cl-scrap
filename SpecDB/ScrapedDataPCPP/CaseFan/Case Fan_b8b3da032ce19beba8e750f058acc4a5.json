@@ -1,0 +1,19 @@
+{
+    "name": "Aerocool V12 29.7 CFM 120 mm Fan",
+    "Manufacturer": "Aerocool",
+    "Part #": "V12 BlackLine Edition",
+    "Size": "120 mm",
+    "Color": "Translucent Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "29.7 CFM",
+    "Noise Level": "17.3 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Combination of Small fan hub and Large fan blades pumps out the maximum air flow and mininum amout of noise, anti-vibration screws to minimize the fan vibration]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tc8Zxr/aerocool-case-fan-v12blacklineedition"
+}

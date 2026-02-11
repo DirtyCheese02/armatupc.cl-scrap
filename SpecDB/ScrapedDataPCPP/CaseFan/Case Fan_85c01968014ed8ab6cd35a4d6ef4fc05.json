@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC F9 PWM 43 CFM 92 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F9 PWM",
+    "Part #": "ACFAN00213A",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "150 - 1800 RPM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.35 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WbmmP6/arctic-f9-pwm-43-cfm-92-mm-fan-acfan00213a"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Iceberg Thermal IceGALE Xtra 169 CFM 140 mm Fan",
+    "Manufacturer": "Iceberg Thermal",
+    "Part #": "ICEGALE14D-A0A",
+    "Size": "140 mm",
+    "Color": "Teal / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2500 RPM",
+    "Airflow": "169 CFM",
+    "Noise Level": "0 - 47 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.7 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZXFbt6/iceberg-thermal-icegale-xtra-169-cfm-140-mm-fan-icegale14d-a0a"
+}

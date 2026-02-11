@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron G470 2 GHz Single-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "CM8062301264401",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "1",
+    "Thread Count": "2",
+    "Performance Core Clock": "2 GHz",
+    "L2 Cache": "0.25 MB",
+    "L3 Cache": "1.5 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/64XfrH/intel-cpu-cm8062301264401"
+}

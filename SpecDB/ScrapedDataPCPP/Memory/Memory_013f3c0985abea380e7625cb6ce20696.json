@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Dark 16 GB (4 x 4 GB) DDR4-2400 CL14 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TDRED416G2400HC14QC01",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Red / Black",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "Timing": "14-16-16-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dhjJ7P/team-t-force-dark-16gb-4-x-4gb-ddr4-2400-memory-tdred416g2400hc14qc01"
+}

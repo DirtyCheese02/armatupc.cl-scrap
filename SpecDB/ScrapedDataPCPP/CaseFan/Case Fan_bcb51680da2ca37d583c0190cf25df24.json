@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-P9 32.77 CFM 92 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-P9-S",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "32.77 CFM",
+    "Noise Level": "23.85 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.98 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xMDQzy/thermalright-tl-p9-3277-cfm-92-mm-fan-tl-p9-s"
+}

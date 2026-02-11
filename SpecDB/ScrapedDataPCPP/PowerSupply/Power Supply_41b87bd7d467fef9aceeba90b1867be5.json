@@ -1,0 +1,22 @@
+{
+    "name": "SeaSonic Platinum 520 W 80+ Platinum Certified Fully Modular Fanless ATX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Part #": "SS-520FL2",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "520 W",
+    "Length": "160 mm",
+    "Modular": "Full",
+    "Fanless": "Yes",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@20A, +5V@20A, +12V@43A,-12@0.5A, +5Vsb@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4YphP6/seasonic-power-supply-ss520fl2"
+}

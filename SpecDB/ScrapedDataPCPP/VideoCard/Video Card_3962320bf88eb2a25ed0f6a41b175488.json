@@ -1,0 +1,21 @@
+{
+    "name": "Zotac ZT-60412-10L GeForce GT 630 1 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-60412-10L",
+    "Chipset": "GeForce GT 630",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1333 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "Frame Sync": "None",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Btckcf/zotac-video-card-zt6041210l"
+}

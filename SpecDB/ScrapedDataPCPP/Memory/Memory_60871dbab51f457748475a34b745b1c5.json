@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident X 32 GB (4 x 8 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-2400C10Q-32GTX",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Price / GB": "$8.246",
+    "Color": "Black / Red",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9VNp99/gskill-memory-f32400c10q32gtx"
+}

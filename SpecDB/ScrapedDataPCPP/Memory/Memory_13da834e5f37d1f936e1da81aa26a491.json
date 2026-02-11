@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP032GBSFU266F22 32 GB (2 x 16 GB) DDR4-2800 SODIMM CL19 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP032GBSFU266F22",
+    "Speed": "DDR4-2800",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "13.571 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vgPQzy/silicon-power-32-gb-2-x-16-gb-ddr4-2800-cl19-memory-sp032gbsfu266f22"
+}

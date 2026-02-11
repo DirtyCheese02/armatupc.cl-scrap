@@ -1,0 +1,14 @@
+{
+    "name": "Kingston Server Premier 16 GB (1 x 16 GB) Registered DDR4-2933 CL21 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM29RS8/16HAR",
+    "Speed": "DDR4-2933",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "First Word Latency": "14.32 ns",
+    "CAS Latency": "21",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hPkWGX/kingston-server-premier-16-gb-1-x-16-gb-registered-ddr4-2933-cl21-memory-ksm29rs816har"
+}

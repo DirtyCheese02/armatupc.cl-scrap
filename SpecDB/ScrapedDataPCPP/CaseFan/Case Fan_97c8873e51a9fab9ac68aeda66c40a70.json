@@ -1,0 +1,17 @@
+{
+    "name": "CRYORIG QF Silent 44 CFM 120 mm Fan",
+    "Manufacturer": "CRYORIG",
+    "Part #": "[QF120 Silent, CR-QFB]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 1000 RPM",
+    "Airflow": "44 CFM",
+    "Noise Level": "5 - 19 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mYJkcf/cryorig-case-fan-qf120silent"
+}

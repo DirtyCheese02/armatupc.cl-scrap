@@ -1,0 +1,19 @@
+{
+    "name": "NZXT FN V2 50 CFM 140 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "RF-FNV2-140",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "50 CFM",
+    "Noise Level": "21 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.9 mmH₂O",
+    "Bearing Type": "Rifle",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BLvRsY/nzxt-case-fan-rffnv2140"
+}

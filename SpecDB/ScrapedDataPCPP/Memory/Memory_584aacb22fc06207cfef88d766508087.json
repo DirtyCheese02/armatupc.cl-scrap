@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 32 GB (1 x 32 GB) DDR5-6400 CL34 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FLRD532G6400HC34B01",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 32GB",
+    "Color": "Red",
+    "First Word Latency": "10.625 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.35 V",
+    "Timing": "34-44-44-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kk4Zxr/teamgroup-t-force-vulcan-32-gb-1-x-32-gb-ddr5-6400-cl34-memory-flrd532g6400hc34b01"
+}

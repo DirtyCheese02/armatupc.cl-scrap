@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M8Pe 128 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-128M8PeY",
+    "Capacity": "128 GB",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Marvell 88SS1093",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/66DzK8/plextor-m8pe-128gb-pci-e-solid-state-drive-px-128m8pey"
+}

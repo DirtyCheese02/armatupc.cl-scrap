@@ -1,0 +1,23 @@
+{
+    "name": "Asus STRIX GAMING Advanced GeForce GTX 1660 SUPER 6 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ROG-STRIX-GTX1660S-A6G-GAMING",
+    "Chipset": "GeForce GTX 1660 SUPER",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1845 MHz",
+    "Effective Memory Clock": "14002 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "243 mm",
+    "TDP": "125 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W7vqqs/asus-geforce-gtx-1660-super-6-gb-strix-gaming-advanced-video-card-rog-strix-gtx1660s-a6g-gaming"
+}

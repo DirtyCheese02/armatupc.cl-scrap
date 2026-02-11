@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II X4 638 2.7 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD638XOJGXBOX",
+    "Series": "AMD Athlon II X4",
+    "Microarchitecture": "Lynx",
+    "Core Family": "Llano",
+    "Socket": "FM1",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.7 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NvLypg/amd-cpu-ad638xojgxbox"
+}

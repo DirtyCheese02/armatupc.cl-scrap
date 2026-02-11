@@ -1,0 +1,21 @@
+{
+    "name": "Acer Nitro OC Radeon RX 9070 16 GB Video Card",
+    "Manufacturer": "Acer",
+    "Part #": "[DP.Z4EWW.P01, AN-RX9070-OCC]",
+    "Chipset": "Radeon RX 9070",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2070 MHz",
+    "Boost Clock": "2700 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "297 mm",
+    "TDP": "245 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2cG2FT/acer-nitro-oc-radeon-rx-9070-16-gb-video-card-dpz4ewwp01"
+}

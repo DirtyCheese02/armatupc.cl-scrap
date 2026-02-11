@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte WINDFORCE GeForce RTX 5060 Ti 16 GB PCIe x8 Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N506TWF2-16GD",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2572 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "208 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B7CCmG/gigabyte-windforce-geforce-rtx-5060-ti-16-gb-pcie-x8-video-card-gv-n506twf2-16gd"
+}

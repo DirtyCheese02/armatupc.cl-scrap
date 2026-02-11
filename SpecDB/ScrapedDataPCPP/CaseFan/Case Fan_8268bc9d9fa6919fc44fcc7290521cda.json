@@ -1,0 +1,19 @@
+{
+    "name": "Thermalright TL-C12 PRO 82 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Model": "TL-C12 PRO",
+    "Part #": "TL-C12 PRO D6",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1850 RPM",
+    "Airflow": "82 CFM",
+    "Noise Level": "29.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.1 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yq6p99/thermalright-tl-c12-pro-82-cfm-120-mm-fan-tl-c12-pro-d6"
+}

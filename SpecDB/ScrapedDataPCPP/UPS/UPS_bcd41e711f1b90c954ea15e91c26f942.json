@@ -1,0 +1,22 @@
+{
+    "name": "CyberPower BRG1000AVRLCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "BRG1000AVRLCD",
+    "Capacity (W)": "600 W",
+    "Capacity (VA)": "1000 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "1 Minute",
+    "Backup/Run Time (Half Load)": "9 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "[RJ-45, RG-6]",
+    "Form Factor": "Mini-tower",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Surge, Overload, EMI / RFI, Lightning, Black Out, Brownout, Spike, Sag]",
+    "Receptacles": "[10 x NEMA 5-15R, 2 x USB]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Simulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DLDzK8/cyberpower-ups-brg1000avrlcd"
+}

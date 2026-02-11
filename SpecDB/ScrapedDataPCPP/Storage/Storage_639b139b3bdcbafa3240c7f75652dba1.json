@@ -1,0 +1,13 @@
+{
+    "name": "Seagate ST2000NX0253 2 TB 2.5\" 7200 RPM Internal Hard Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "ST2000NX0253",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.095",
+    "Type": "7200 RPM",
+    "Cache": "128 MB",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VpgPxr/seagate-internal-hard-drive-st2000nx0253"
+}

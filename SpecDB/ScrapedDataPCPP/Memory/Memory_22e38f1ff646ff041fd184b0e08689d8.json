@@ -1,0 +1,14 @@
+{
+    "name": "Crucial Ballistix 6 GB (3 x 2 GB) DDR3-1333 CL7 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLT3KIT2G3D1337DT1TX0",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 2GB",
+    "First Word Latency": "10.503 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CMh9TW/crucial-memory-blt3kit2g3d1337dt1tx0"
+}

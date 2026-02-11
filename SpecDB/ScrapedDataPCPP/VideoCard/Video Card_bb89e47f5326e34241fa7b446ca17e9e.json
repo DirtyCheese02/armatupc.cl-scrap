@@ -1,0 +1,23 @@
+{
+    "name": "Colorful NB-V GeForce RTX 2060 6 GB Video Card",
+    "Manufacturer": "Colorful",
+    "Part #": "RTX2060 NB-V",
+    "Chipset": "GeForce RTX 2060",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1680 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Red / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "222 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4G3NnQ/colorful-nb-v-geforce-rtx-2060-6-gb-video-card-rtx2060-nb-v"
+}

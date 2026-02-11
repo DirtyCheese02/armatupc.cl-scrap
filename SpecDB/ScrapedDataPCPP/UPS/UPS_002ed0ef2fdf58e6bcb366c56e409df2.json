@@ -1,0 +1,16 @@
+{
+    "name": "HP AF471A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF471A",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "1U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KzM323/hp-ups-af471a"
+}

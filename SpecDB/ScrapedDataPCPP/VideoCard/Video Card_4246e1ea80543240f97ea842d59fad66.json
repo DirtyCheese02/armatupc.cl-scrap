@@ -1,0 +1,23 @@
+{
+    "name": "MSI N640GT-MD2GD3 GeForce GT 640 2 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N640GT-MD2GD3",
+    "Chipset": "GeForce GT 640",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "1334 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "144 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gtZQzy/msi-video-card-n640gtmd2gd3"
+}

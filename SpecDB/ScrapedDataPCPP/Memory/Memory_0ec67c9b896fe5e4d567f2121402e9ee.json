@@ -1,0 +1,16 @@
+{
+    "name": "Avexir Blitz 1.1 32 GB (4 x 8 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD3U24001008G-4BZ1SE",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "Timing": "10-12-12-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JYdxFT/avexir-blitz-11-32gb-4-x-8gb-ddr3-2400-memory-avd3u24001008g-4bz1se"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "CoolMax CUQ-1350B 1350 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "CoolMax",
+    "Part #": "CUQ-1350B",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "1350 W",
+    "Length": "218 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "4",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "9",
+    "Output": "+3.3V@30A, +5V@30A, +12V1@20A, +12V2@20A, +12V3@25A, +12V4@25A, -12V@0.8A, +5VSB@6.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2LTmP6/coolmax-power-supply-cuq1350b"
+}

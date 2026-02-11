@@ -1,0 +1,19 @@
+{
+    "name": "Thermalright TL-H12-X28-S 80.45 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Model": "TL-H12-X28-S",
+    "Part #": "TL-H12W-X28-S",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2150 RPM",
+    "Airflow": "80.45 CFM",
+    "Noise Level": "29.4 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.65 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r34Pxr/thermalright-tl-h12-x28-s-8045-cfm-120-mm-fan-tl-h12w-x28-s"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQRTX4000-PB Quadro RTX 4000 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "[VCQRTX4000-PB, VCQRTX4000-SB]",
+    "Chipset": "Quadro RTX 4000",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1005 MHz",
+    "Boost Clock": "1545 MHz",
+    "Effective Memory Clock": "13000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "3",
+    "VirtualLink Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k866Mp/pny-vcqrtx4000-pb-quadro-rtx-4000-8-gb-video-card-vcqrtx4000-pb"
+}

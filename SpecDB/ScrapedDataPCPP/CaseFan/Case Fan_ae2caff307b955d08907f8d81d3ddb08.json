@@ -1,0 +1,19 @@
+{
+    "name": "Antec Fusion 120 ARGB 57.93 CFM 120 mm Fans 5-Pack",
+    "Manufacturer": "Antec",
+    "Model": "Fusion 120 ARGB",
+    "Part #": "761345-57004-6",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "5-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2000 RPM",
+    "Airflow": "57.93 CFM",
+    "Noise Level": "17.02 - 31.24 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "Static Pressure": "2.11 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pGKKHx/antec-fusion-120-argb-5793-cfm-120-mm-fans-5-pack-761345-57004-6"
+}

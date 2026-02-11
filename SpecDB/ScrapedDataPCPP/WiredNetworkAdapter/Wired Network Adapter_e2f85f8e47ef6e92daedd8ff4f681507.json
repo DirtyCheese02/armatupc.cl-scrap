@@ -1,0 +1,8 @@
+{
+    "name": "StarTech PEX100S 100 Mb/s Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "PEX100S",
+    "Interface": "PCIe x1",
+    "Features": "[Chipset ID: Realtek RTL8101E, OS Compatibility: Windows 98SE/ ME/ 2000/ XP(32/64bit)/ Vista(32/64bit)/ 7(32/64bit), and Linux, Card Type: Low / Standard Profile, Compliant with IEEE802.3 CSMA/CD, 802.3 10Base-T and 100Base-TX standards, Crossover Detection & Auto-Correction (Auto-MDIX), Link speed and duplex mode auto-negotiation, Full/Low Profile installation brackets included]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Mc9KHx/startech-wired-network-card-pex100s"
+}

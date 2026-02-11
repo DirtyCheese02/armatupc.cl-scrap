@@ -1,0 +1,13 @@
+{
+    "name": "Intel 530 180 GB mSATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDMCEAW180A401",
+    "Capacity": "180 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X9h9TW/intel-internal-hard-drive-ssdmceaw180a401"
+}

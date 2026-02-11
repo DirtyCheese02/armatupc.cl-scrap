@@ -1,0 +1,22 @@
+{
+    "name": "PNY RTX A-Series RTX A4500 20 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTXA4500-PB",
+    "Chipset": "RTX A4500",
+    "Memory": "20 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1050 MHz",
+    "Boost Clock": "1650 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rTGbt6/pny-rtx-a4500-20-gb-rtx-a-series-video-card-vcnrtxa4500-pb"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Panram Ninja-V 32 GB (4 x 8 GB) DDR4-2133 CL13 Memory",
+    "Manufacturer": "Panram",
+    "Part #": "PUD42133C138G4NJK",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "12.189 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9cTrxr/panram-memory-pud42133c138g4njk"
+}

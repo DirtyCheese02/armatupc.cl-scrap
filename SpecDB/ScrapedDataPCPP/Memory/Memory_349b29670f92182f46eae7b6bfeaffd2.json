@@ -1,0 +1,15 @@
+{
+    "name": "VisionTek Black Label 4 GB (1 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "VisionTek",
+    "Part #": "900393",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FKW9TW/visiontek-memory-900393"
+}

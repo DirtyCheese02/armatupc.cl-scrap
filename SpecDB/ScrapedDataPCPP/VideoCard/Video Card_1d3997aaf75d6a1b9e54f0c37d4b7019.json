@@ -1,0 +1,22 @@
+{
+    "name": "MSI GAMING X GeForce RTX 4060 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4060 GAMING X 8G, GeForce RTX 4060 GAMING X 8G, 912-V516-003, V516-003R]",
+    "Chipset": "GeForce RTX 4060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1830 MHz",
+    "Boost Clock": "2610 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "247 mm",
+    "TDP": "115 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rqbRsY/msi-gaming-x-geforce-rtx-4060-8-gb-video-card-rtx-4060-gaming-x-8g"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Apevia CF14S-BK 59.6 CFM 140 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF14S-BK",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "59.6 CFM",
+    "Noise Level": "29.4 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Features": "[Material: Plastic, Power: Air Power: 12 VDC, Operation Voltage Range: 9 VDC ~ 13.5 VDC, Start-up Voltage: 6 VDC, Rated Voltage: 12 VDC, Rated Current: 0.22 A, Lock Rotor Current: 0.24 A]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WtPfrH/apevia-case-fan-cf14sbk"
+}

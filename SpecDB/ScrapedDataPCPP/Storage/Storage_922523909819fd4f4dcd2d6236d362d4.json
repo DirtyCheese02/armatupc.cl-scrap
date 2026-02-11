@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Strata 60 GB mSATA Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "STR-MSATA-60G",
+    "Capacity": "60 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Indilinx Barefoot Eco",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WfW9TW/ocz-internal-hard-drive-strmsata60g"
+}

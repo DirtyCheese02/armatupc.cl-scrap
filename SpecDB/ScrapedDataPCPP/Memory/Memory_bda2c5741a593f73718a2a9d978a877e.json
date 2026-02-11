@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Green 8 GB (2 x 4 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GG38GB1333C9DC",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$12.999",
+    "Color": "Black / Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.3 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tKyFf7/geil-memory-gg38gb1333c9dc"
+}

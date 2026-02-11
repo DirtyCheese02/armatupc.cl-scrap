@@ -1,0 +1,14 @@
+{
+    "name": "Kingston ValueRAM 64 GB (2 x 32 GB) DDR5-4800 SODIMM CL40 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR48S40BD8K2-64",
+    "Speed": "DDR5-4800",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VTkWGX/kingston-valueram-64-gb-2-x-32-gb-ddr5-4800-cl40-memory-kvr48s40bd8k2-64"
+}

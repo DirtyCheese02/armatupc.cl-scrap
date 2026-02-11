@@ -1,0 +1,20 @@
+{
+    "name": "Noctua NF-A6x25 FLX 17.18 CFM 60 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "NF-A6x25 FLX",
+    "Part #": "[NF-A6x25, NF-A6x25 FLX]",
+    "Size": "60 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1600 - 3000 RPM",
+    "Airflow": "9.82 - 17.18 CFM",
+    "Noise Level": "8.19 - 19.3 dB",
+    "PWM": "No",
+    "LED": "Single Color",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "SSO2",
+    "Features": "[Flow Acceleration Channels, Reduced Motor Hub Size, AAO Frame, Stepped Inlet Design, Inner Surface Microstructures, Integrated Anti-Vibration Pads, Smooth Commutation Drive 2, 3 speed settings for full flexibility]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R3Lypg/noctua-nf-a6x25-flx-1718-cfm-60-mm-fan-nf-a6x25"
+}

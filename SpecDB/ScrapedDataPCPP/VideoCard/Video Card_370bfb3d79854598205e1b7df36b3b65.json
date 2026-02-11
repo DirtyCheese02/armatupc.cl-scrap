@@ -1,0 +1,23 @@
+{
+    "name": "VisionTek 900829 Radeon R9 Nano 4 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900829",
+    "Chipset": "Radeon R9 Nano",
+    "Memory": "4 GB",
+    "Memory Type": "HBM",
+    "Core Clock": "1000 MHz",
+    "Effective Memory Clock": "500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "FreeSync",
+    "Length": "153 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rykwrH/visiontek-video-card-900829"
+}

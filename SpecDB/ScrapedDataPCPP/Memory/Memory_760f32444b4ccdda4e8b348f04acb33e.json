@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 32 GB (4 x 8 GB) DDR4-3600 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C17Q-32GTRS",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Silver",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "Timing": "17-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FgVD4D/gskill-trident-z-royal-32-gb-4-x-8-gb-ddr4-3600-memory-f4-3600c17q-32gtrs"
+}

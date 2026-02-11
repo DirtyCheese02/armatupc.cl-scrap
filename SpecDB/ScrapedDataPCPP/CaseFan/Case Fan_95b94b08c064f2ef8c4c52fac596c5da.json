@@ -1,0 +1,20 @@
+{
+    "name": "Noctua A14 industrialPPC-2000 PWM 107.41 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A14 industrialPPC-2000 PWM",
+    "Part #": "[NF-A14 industrialPPC-2000 PWM, NF-A14 iPPC-2000 PWM]",
+    "Size": "140 mm",
+    "Color": "Brown / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "107.41 CFM",
+    "Noise Level": "31.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.18 mmH₂O",
+    "Bearing Type": "SSO2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y9xfrH/noctua-case-fan-nfa14industrialppc2000pwm"
+}

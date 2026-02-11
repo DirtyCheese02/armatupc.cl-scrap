@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LED 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMU32GX4M2F3600C18",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mYL48d/corsair-vengeance-led-32gb-2-x-16gb-ddr4-3600-memory-cmu32gx4m2f3600c18"
+}

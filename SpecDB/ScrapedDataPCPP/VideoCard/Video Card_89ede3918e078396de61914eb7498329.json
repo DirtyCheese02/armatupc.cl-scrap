@@ -1,0 +1,21 @@
+{
+    "name": "EVGA FTW3 ULTRA HYBRID GAMING GeForce RTX 3080 12GB LHR 12 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "12G-P5-4878-KL",
+    "Chipset": "GeForce RTX 3080 12GB LHR",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1260 MHz",
+    "Boost Clock": "1800 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "289 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "240 mm Radiator + 1 Fan",
+    "External Power": "3 x PCIe 8-pin",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YHmmP6/evga-geforce-rtx-3080-12gb-lhr-12-gb-ftw3-ultra-hybrid-gaming-video-card-12g-p5-4878-kl"
+}

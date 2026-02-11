@@ -1,0 +1,16 @@
+{
+    "name": "V-Color TRA524G64S832Q 96 GB (4 x 24 GB) Registered DDR5-6400 CL32 Memory",
+    "Manufacturer": "V-Color",
+    "Part #": "TRA524G64S832Q",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 24GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/92cgXL/v-color-tra524g64s832q-96-gb-4-x-24-gb-registered-ddr5-6400-cl32-memory-tra524g64s832q"
+}

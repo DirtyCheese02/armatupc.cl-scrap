@@ -1,0 +1,18 @@
+{
+    "name": "LEPA Vortex 63.91 CFM 120 mm Fan",
+    "Manufacturer": "LEPA",
+    "Part #": "LPVX12P",
+    "Size": "120 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1600 RPM",
+    "Airflow": "24.85 - 63.91 CFM",
+    "Noise Level": "15 - 25 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Features": "[Vortex frame design integrates air flow for better cooling performance, PWM speed control for the best balance of performance and silence, Ultra silent spinning for case cooling solution]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R2vRsY/lepa-case-fan-lpvx12p"
+}

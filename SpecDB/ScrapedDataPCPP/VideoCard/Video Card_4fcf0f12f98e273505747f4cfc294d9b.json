@@ -1,0 +1,23 @@
+{
+    "name": "MSI N450GTS-MD1GD3 GeForce GTS 450 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N450GTS-MD1GD3",
+    "Chipset": "GeForce GTS 450",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "146 mm",
+    "TDP": "106 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j7Lypg/msi-video-card-n450gtsmd1gd3"
+}

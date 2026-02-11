@@ -1,0 +1,14 @@
+{
+    "name": "TEAMGROUP Elite 4 GB (2 x 2 GB) DDR3-1066 CL7 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TED34096M1066HC7DC",
+    "Speed": "DDR3-1066",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ls9KHx/team-memory-ted34096m1066hc7dc"
+}

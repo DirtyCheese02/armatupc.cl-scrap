@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator 4 GB (2 x 2 GB) DDR2-1066 CL5 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "TWIN2X4096-8500C5D",
+    "Speed": "DDR2-1066",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "9.381 ns",
+    "CAS Latency": "5",
+    "Voltage": "2.1 V",
+    "Timing": "5-5-5-15",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bnV48d/corsair-memory-twin2x40968500c5d"
+}

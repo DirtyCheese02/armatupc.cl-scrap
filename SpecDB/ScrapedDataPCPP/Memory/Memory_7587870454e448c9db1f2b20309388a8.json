@@ -1,0 +1,16 @@
+{
+    "name": "Klevv CRAS XR5 RGB 32 GB (2 x 16 GB) DDR5-6200 CL40 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KD5AGUA80-62E400S",
+    "Speed": "DDR5-6200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White / Black",
+    "First Word Latency": "12.903 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.3 V",
+    "Timing": "40-42-42-78",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D4P8TW/klevv-cras-xr5-rgb-32-gb-2-x-16-gb-ddr5-6200-cl40-memory-kd5agua80-62e400s"
+}

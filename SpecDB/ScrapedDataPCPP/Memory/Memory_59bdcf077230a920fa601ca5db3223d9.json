@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Aegis 32 GB (2 x 16 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2133C15D-32GIS",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Red",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WJM323/gskill-aegis-32-gb-2-x-16-gb-ddr4-2133-cl15-memory-f4-2133c15d-32gis"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "TEAMGROUP T-Create Expert 48 GB (2 x 24 GB) DDR5-7200 CL34 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "CTCWD548G7200HC34ADC01",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Price / GB": "$13.333",
+    "Color": "White",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-42-42-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mGJp99/teamgroup-t-create-expert-48-gb-2-x-24-gb-ddr5-7200-cl34-memory-ctcwd548g7200hc34adc01"
+}

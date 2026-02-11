@@ -1,0 +1,16 @@
+{
+    "name": "Kingston ValueRAM 2 GB (1 x 2 GB) DDR2-800 CL6 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR800D2N6/2G",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "1 x 2GB",
+    "Price / GB": "$8.260",
+    "Color": "Green",
+    "First Word Latency": "15 ns",
+    "CAS Latency": "6",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lrg323/kingston-memory-kvr800d2n62g"
+}

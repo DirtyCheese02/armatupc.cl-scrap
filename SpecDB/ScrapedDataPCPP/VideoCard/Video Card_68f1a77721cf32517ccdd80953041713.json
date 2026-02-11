@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GAMING Radeon RX 9060 XT 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R9060XTGAMING-16GD",
+    "Chipset": "Radeon RX 9060 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2220 MHz",
+    "Boost Clock": "3230 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "281 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "2",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Bny8TW/gigabyte-gaming-radeon-rx-9060-xt-16-gb-video-card-gv-r9060xtgaming-16gd"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E3-1275 V2 3.5 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "CM8063701098702",
+    "Series": "Intel Xeon E3",
+    "Microarchitecture": "Ivy Bridge",
+    "Core Family": "Ivy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "3.5 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "32 MB",
+    "TDP": "77 W",
+    "Integrated Graphics": "Intel HD Graphics P4000",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/br9KHx/intel-cpu-cm8063701098702"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Klevv Urbane V RGB 64 GB (2 x 32 GB) DDR5-6400 CL30 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KD5BGUA80-64A320M",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "White",
+    "First Word Latency": "9.375 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xPyH99/klevv-urbane-v-rgb-64-gb-2-x-32-gb-ddr5-6400-cl30-memory-kd5bgua80-64a320m"
+}

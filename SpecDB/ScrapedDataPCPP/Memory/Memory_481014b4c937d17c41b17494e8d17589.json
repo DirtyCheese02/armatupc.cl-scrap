@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X II AMD 4 GB (1 x 4 GB) DDR4-3600 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAEXSY44GB3600C16ASC",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "8.889 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vsfxFT/geil-evo-x-ii-amd-4-gb-1-x-4-gb-ddr4-3600-cl16-memory-gaexsy44gb3600c16asc"
+}

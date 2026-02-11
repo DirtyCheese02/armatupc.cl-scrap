@@ -1,0 +1,20 @@
+{
+    "name": "Silverstone FT05 ATX Mid Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "[FT05S-W, SST-FT05S-W]",
+    "Type": "ATX Mid Tower",
+    "Color": "Silver",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, SSI CEB]",
+    "Maximum Video Card Length": "[312 mm, 12.283\"]",
+    "Drive Bays": "[1 x External 5.25\" Slim Slot Load, 2 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm, 180 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm]",
+    "Dimensions": "[483 mm x 220 mm x 426 mm, 19.016\" x 8.661\" x 16.772\"]",
+    "Volume": "[45.267 L, 1.599 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bBDzK8/silverstone-case-ft05sw"
+}

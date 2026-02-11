@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Redline 64 GB (2 x 32 GB) DDR4-3000 SODIMM CL16 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRA4S300GJJM32GX2",
+    "Speed": "DDR4-3000",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pCH7YJ/mushkin-redline-64-gb-2-x-32-gb-ddr4-3000-cl16-memory-mra4s300gjjm32gx2"
+}

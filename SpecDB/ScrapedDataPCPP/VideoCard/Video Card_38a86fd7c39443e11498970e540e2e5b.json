@@ -1,0 +1,21 @@
+{
+    "name": "Asus PRIME GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[PRIME-RTX5080-16G, 90YV0LX1-M0NA00]",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / White",
+    "Frame Sync": "G-Sync",
+    "Length": "306 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q6XMnQ/asus-prime-geforce-rtx-5080-16-gb-video-card-prime-rtx5080-16g"
+}

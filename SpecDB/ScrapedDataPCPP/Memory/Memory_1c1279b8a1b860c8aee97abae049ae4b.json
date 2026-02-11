@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Blu 2 GB (2 x 1 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1600C9AD3B1K2/2G",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 1GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PpsKHx/kingston-memory-khx1600c9ad3b1k22g"
+}

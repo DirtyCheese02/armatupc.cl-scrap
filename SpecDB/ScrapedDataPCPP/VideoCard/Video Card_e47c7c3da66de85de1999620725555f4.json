@@ -1,0 +1,23 @@
+{
+    "name": "Sparkle SXS4501024D5SNS GeForce GTS 450 1 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "SXS4501024D5SNS",
+    "Chipset": "GeForce GTS 450",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "789 MHz",
+    "Effective Memory Clock": "3760 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "106 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JdV48d/sparkle-video-card-sxs4501024d5sns"
+}

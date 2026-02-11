@@ -1,0 +1,20 @@
+{
+    "name": "PNY VCQK2000-PB Quadro K2000 2 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQK2000-PB",
+    "Chipset": "Quadro K2000",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "198 mm",
+    "TDP": "51 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N3Lypg/pny-video-card-vcqk2000pb"
+}

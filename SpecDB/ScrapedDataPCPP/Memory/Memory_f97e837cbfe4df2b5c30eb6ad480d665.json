@@ -1,0 +1,16 @@
+{
+    "name": "Kingston KTD-L3CL/4G 4 GB (1 x 4 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KTD-L3CL/4G",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Price / GB": "$8.438",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hMLypg/kingston-memory-ktdl3cl4g"
+}

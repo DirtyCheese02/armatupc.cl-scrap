@@ -1,0 +1,22 @@
+{
+    "name": "Mars Gaming MPIII750 750 W ATX Power Supply",
+    "Manufacturer": "Mars Gaming",
+    "Model": "MPIII750",
+    "Part #": "MPIII750W",
+    "Type": "ATX",
+    "Wattage": "750 W",
+    "Length": "145 mm",
+    "Modular": "No",
+    "Color": "White",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LN88TW/mars-gaming-mpiii750-750-w-atx-power-supply-mpiii750w"
+}

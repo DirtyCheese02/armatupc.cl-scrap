@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake SWAFAN EX14 ARGB 81.6 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "Thermaltake",
+    "Model": "SWAFAN EX14 ARGB",
+    "Part #": "CL-F170-PL14SW-A",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "79.3 - 81.6 CFM",
+    "Noise Level": "34.5 - 38.8 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.17 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KcGhP6/thermaltake-swafan-ex14-argb-816-cfm-140-mm-fans-3-pack-cl-f170-pl14sw-a"
+}

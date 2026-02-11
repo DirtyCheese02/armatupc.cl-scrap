@@ -1,0 +1,13 @@
+{
+    "name": "AUKEY PC-LM1 Webcam",
+    "Manufacturer": "AUKEY",
+    "Part #": "PC-LM1",
+    "Resolution": "[1080p, 720p, 480p]",
+    "Connection": "USB 2.0 Type-A",
+    "Focus Type": "Manual",
+    "Operating System": "[Windows, OS X, Android]",
+    "FOV Angle": "55°",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R9drxr/aukey-pc-lm1-webcam-pc-lm1"
+}

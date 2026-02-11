@@ -1,0 +1,16 @@
+{
+    "name": "Corsair XMS 8 GB (1 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMX8GX3M1A1600C11",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / White",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "Timing": "11-11-11-30",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gBkD4D/corsair-xms-8-gb-1-x-8-gb-ddr3-1600-cl11-memory-cmx8gx3m1a1600c11"
+}

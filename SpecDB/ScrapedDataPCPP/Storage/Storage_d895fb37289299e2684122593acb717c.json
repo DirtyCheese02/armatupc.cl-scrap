@@ -1,0 +1,14 @@
+{
+    "name": "Samsung XP941 256 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Samsung",
+    "Part #": "MZHPU256HCGL-00000",
+    "Capacity": "256 GB",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "SSD Controller": "Samsung S4LNO53X01",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6MPfrH/samsung-internal-hard-drive-mzhpu256hcgl00000"
+}

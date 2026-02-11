@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks D30-120 Reversed 61.5 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Phanteks",
+    "Model": "D30-120 Reversed",
+    "Part #": "PH-F120D30R_DRGB_PWM_WT01_3P",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "250 - 2000 RPM",
+    "Airflow": "61.5 CFM",
+    "Noise Level": "31.8 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.72 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pn7scf/phanteks-d30-120-reversed-615-cfm-120-mm-fans-3-pack-ph-f120d30r_drgb_pwm_wt01_3p"
+}

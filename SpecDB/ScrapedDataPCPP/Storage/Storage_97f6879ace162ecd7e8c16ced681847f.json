@@ -1,0 +1,13 @@
+{
+    "name": "SanDisk Extreme 240 GB 2.5\" Solid State Drive",
+    "Manufacturer": "SanDisk",
+    "Part #": "SDSSDX-240G-G25",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/42dqqs/sandisk-internal-hard-drive-sdssdx240gg25"
+}

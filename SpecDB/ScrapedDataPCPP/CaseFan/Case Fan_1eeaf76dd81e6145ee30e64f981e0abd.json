@@ -1,0 +1,20 @@
+{
+    "name": "Corsair AF120 Quiet 52.19 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "AF120 Quiet",
+    "Part #": "CO-9050015-BLED",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "52.19 CFM",
+    "Noise Level": "25.2 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Tuned for high-airflow, large volume cooling, Better performance than standard case fans, Translucent, frosted fan blades and Blue LEDs for a dramatic effect, Nine ultra-thin fan blades and a sleeved bearing system for less vibration, noise and turbulence, Custom fan enclosure for ducting air in the right direction with minimal interference.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bnckcf/corsair-case-fan-co9050015bled"
+}

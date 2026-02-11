@@ -1,0 +1,15 @@
+{
+    "name": "Kingston T1 8 GB (2 x 4 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1866C9D3T1K2/8GX",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Blue",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r8Np99/kingston-memory-khx1866c9d3t1k28gx"
+}

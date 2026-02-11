@@ -1,0 +1,23 @@
+{
+    "name": "Intel Pentium E2160 1.8 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80557E2160R",
+    "Series": "Intel Pentium",
+    "Microarchitecture": "Core",
+    "Core Family": "Conroe",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "1.8 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jzrG3C/intel-cpu-bx80557e2160r"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GAMING Radeon RX 6800 XT 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R68XTGAMING-16GD",
+    "Chipset": "Radeon RX 6800 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1825 MHz",
+    "Boost Clock": "2250 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "286 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HrpzK8/gigabyte-gaming-radeon-rx-6800-xt-16-gb-video-card-gv-r68xtgaming-16gd"
+}

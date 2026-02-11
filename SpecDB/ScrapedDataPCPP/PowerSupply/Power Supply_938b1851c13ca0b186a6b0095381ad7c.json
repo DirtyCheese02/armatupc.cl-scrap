@@ -1,0 +1,22 @@
+{
+    "name": "Cooler Master V550 550 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Cooler Master",
+    "Model": "V550",
+    "Part #": "RS550-AFBAG1-US",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "550 W",
+    "Length": "140 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9Gqbt6/cooler-master-power-supply-rs550afbag1us"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Vertex 3.20 240 GB 2.5\" Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "VTX3-25SAT3-240G.20",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4zJwrH/ocz-internal-hard-drive-vtx325sat3240g20"
+}

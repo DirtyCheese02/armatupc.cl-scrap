@@ -1,0 +1,17 @@
+{
+    "name": "Deepcool RF 64.13 CFM 140 mm Fan",
+    "Manufacturer": "Deepcool",
+    "Part #": "DP-FRGB-RF140-1C",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "5000 - 1200 RPM",
+    "Airflow": "64.13 CFM",
+    "Noise Level": "19.8 - 24 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "12V RGB",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d7448d/deepcool-rf-140-6413-cfm-140-mm-fan-dp-frgb-rf140-1c"
+}

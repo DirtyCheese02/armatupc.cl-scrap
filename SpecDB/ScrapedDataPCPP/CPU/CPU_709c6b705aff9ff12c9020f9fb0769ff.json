@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon X2 340 3.2 GHz Dual-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD340XOKHJBOX",
+    "Series": "AMD Athlon X2",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Trinity",
+    "Socket": "FM2",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VXK7YJ/amd-cpu-ad340xokhjbox"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "KOLINK KL-400 400 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "KOLINK",
+    "Part #": "KL-400",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "400 W",
+    "Length": "150 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HpsV3C/kolink-kl-400-400-w-80-bronze-certified-atx-power-supply-kl-400"
+}

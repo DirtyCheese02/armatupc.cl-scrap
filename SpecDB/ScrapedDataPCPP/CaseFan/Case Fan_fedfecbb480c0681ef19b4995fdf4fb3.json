@@ -1,0 +1,20 @@
+{
+    "name": "Enermax T.B. Apollish 45.4 CFM 140 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTA14N-BL",
+    "Size": "140 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "750 RPM",
+    "Airflow": "45.4 CFM",
+    "Noise Level": "15 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.88 mmH₂O",
+    "Bearing Type": "Twister",
+    "Features": "[LED Number: 15, Static Pressure (mm-H2O): 0.882, Input Power (W): 3, Rated Voltage (V): 12, Accessory: Screws × 4, 3-pin to 4-pin adaptor x 1, Circular type LED with up to 15 diodes and up to four times brighter than any other fans, Focus Blades centering the light to increase brightness, Turbine Blades of high-pressure airflow, Twister Bearing technology for long lifetime and low noise, Detachable fan blades for easy cleaning.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x4ckcf/enermax-case-fan-ucta14nbl"
+}

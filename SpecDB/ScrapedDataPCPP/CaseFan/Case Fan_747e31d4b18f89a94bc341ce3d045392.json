@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master MasterFan MF120 Halo² 3in1 51.88 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Cooler Master",
+    "Model": "MasterFan MF120 Halo² 3in1",
+    "Part #": "MFL-B2DN-213P2-R2",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1 - 2050 RPM",
+    "Airflow": "51.88 CFM",
+    "Noise Level": "27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "USB",
+    "Static Pressure": "2.89 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Jv88TW/cooler-master-masterfan-mf120-halo2-3in1-5188-cfm-120-mm-fans-3-pack-mfl-b2dn-213p2-r2"
+}

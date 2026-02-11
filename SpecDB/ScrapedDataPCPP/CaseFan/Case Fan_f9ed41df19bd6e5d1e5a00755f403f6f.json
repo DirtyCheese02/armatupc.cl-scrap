@@ -1,0 +1,19 @@
+{
+    "name": "Gelid Solutions Silent 14 PWM 78.5 CFM 140 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Model": "Silent 14 PWM",
+    "Part #": "FN-PX14-16",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "750 - 1500 RPM",
+    "Airflow": "78.5 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.6 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FH3NnQ/gelid-solutions-silent-14-pwm-785-cfm-140-mm-fan-fn-px14-16"
+}

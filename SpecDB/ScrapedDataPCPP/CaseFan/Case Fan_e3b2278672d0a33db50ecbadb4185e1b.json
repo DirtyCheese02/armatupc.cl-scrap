@@ -1,0 +1,18 @@
+{
+    "name": "ADATA XPG VENTO 45.3 CFM 120 mm Fan",
+    "Manufacturer": "ADATA",
+    "Part #": "[75260103, VENTO120ARGB-BKCWW]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "45.3 CFM",
+    "Noise Level": "23 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "0.68 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GDwypg/adata-xpg-vento-453-cfm-120-mm-fan-75260103"
+}

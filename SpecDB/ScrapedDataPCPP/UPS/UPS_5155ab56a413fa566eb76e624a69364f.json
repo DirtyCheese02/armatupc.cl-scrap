@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite AVR750U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "AVR750U",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mYrcCJ/tripp-lite-ups-avr750u"
+}

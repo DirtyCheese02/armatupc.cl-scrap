@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LED 32 GB (2 x 16 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMU32GX4M2C3000C15B",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jkfmP6/corsair-vengeance-led-32gb-2-x-16gb-ddr4-3000-memory-cmu32gx4m2c3000c15b"
+}

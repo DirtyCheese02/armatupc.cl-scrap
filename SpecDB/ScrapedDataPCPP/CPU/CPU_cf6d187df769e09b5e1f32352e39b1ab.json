@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-8320 3.5 GHz 8-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD8320FRHKBOX",
+    "Series": "AMD FX",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Vishera",
+    "Socket": "AM3+",
+    "Core Count": "8",
+    "Thread Count": "8",
+    "Performance Core Clock": "3.5 GHz",
+    "L2 Cache": "8 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dmw323/amd-cpu-fd8320frhkbox"
+}

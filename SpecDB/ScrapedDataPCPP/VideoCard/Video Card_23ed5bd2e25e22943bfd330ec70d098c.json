@@ -1,0 +1,23 @@
+{
+    "name": "Palit StormX OC GeForce GTX 1650 G5 4 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE51650S06G1-1170F",
+    "Chipset": "GeForce GTX 1650 G5",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1485 MHz",
+    "Boost Clock": "1725 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "145 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pPcRsY/palit-geforce-gtx-1650-4-gb-stormx-oc-video-card-ne51650s06g1-1170f"
+}

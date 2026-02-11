@@ -1,0 +1,23 @@
+{
+    "name": "Yeston Sakura Radeon RX 7800 XT 16 GB Video Card",
+    "Manufacturer": "Yeston",
+    "Part #": "RX7800XT-16GD6",
+    "Chipset": "Radeon RX 7800 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1295 MHz",
+    "Boost Clock": "2520 MHz",
+    "Effective Memory Clock": "19500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Blue",
+    "Frame Sync": "FreeSync",
+    "Length": "340 mm",
+    "TDP": "263 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X8QwrH/yeston-sakura-radeon-rx-7800-xt-16-gb-video-card-rx7800xt-16gd6"
+}

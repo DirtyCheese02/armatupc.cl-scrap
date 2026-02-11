@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KSM26RD8/16HAI 16 GB (2 x 8 GB) Registered DDR4-2666 CL19 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM26RD8/16HAI",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Green / Black",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GpNv6h/kingston-16gb-2-x-8gb-registered-ddr4-2666-memory-ksm26rd816hai"
+}

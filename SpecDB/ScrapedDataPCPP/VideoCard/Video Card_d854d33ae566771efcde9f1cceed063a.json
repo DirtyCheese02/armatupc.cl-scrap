@@ -1,0 +1,22 @@
+{
+    "name": "MSI SHADOW 3X OC GeForce RTX 4070 Ti SUPER 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4070 Ti SUPER 16G SHADOW 3X OC, GeForce RTX 4070 Ti SUPER 16G SHADOW 3X OC, V513-845R, RTX-4070TIS-16G-SHADOW-3X-OC, G407TS16S3C]",
+    "Chipset": "GeForce RTX 4070 Ti SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2340 MHz",
+    "Boost Clock": "2655 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "308 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sv88TW/msi-shadow-3x-oc-geforce-rtx-4070-ti-super-16-gb-video-card-rtx-4070-ti-super-16g-shadow-3x-oc"
+}

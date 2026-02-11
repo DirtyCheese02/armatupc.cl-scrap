@@ -1,0 +1,14 @@
+{
+    "name": "Kingston KC300 480 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Kingston",
+    "Part #": "SKC300S3B7A/480G",
+    "Capacity": "480 GB",
+    "Price / GB": "$0.646",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tMLypg/kingston-internal-hard-drive-skc300s3b7a480g"
+}

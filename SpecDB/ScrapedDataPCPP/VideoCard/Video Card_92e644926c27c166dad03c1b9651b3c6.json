@@ -1,0 +1,18 @@
+{
+    "name": "PNY VCG951024GXXB GeForce 9500 GT 1 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG951024GXXB",
+    "Chipset": "GeForce 9500 GT",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "550 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vzDwrH/pny-video-card-vcg951024gxxb"
+}

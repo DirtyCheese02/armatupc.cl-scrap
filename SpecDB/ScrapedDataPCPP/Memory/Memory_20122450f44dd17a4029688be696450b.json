@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 16 GB (1 x 16 GB) DDR5-5600 CL32 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FLBD516G5600HC3201",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "11.429 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.2 V",
+    "Timing": "32-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4nYmP6/teamgroup-t-force-vulcan-16-gb-1-x-16-gb-ddr5-5600-cl32-memory-flbd516g5600hc3201"
+}

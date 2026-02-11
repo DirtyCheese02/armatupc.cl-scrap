@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker BlackSilentPro P-2 5.3 CFM 40 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "[NB-BlackSilentPro PM-2, ITR-PM-2]",
+    "Size": "40 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "3800 RPM",
+    "Airflow": "5.3 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Cy6BD3/noiseblocker-nb-blacksilentpro-pm-2-53-cfm-40-mm-fan-nb-blacksilentpro-pm-2"
+}

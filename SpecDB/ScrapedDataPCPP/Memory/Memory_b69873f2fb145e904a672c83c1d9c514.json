@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Create Expert 96 GB (2 x 48 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "CTCWD596G6400HC32BDC01",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cZkH99/teamgroup-t-create-expert-96-gb-2-x-48-gb-ddr5-6400-cl32-memory-ctcwd596g6400hc32bdc01"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Night Hawk RGB 16 GB (2 x 8 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TF2D416G2666HC15BDC01",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wfwqqs/team-night-hawk-rgb-16gb-2-x-8gb-ddr4-2666-memory-tf2d416g2666hc15bdc01"
+}

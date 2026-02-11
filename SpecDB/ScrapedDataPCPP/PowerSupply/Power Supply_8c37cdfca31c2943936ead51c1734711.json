@@ -1,0 +1,22 @@
+{
+    "name": "FSP Group VITAL 400 400 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "FSP Group",
+    "Part #": "VITAL 400",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "400 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "24.0A @ +3.3V DC<br/>23.0A @ +5V DC<br/>17.0A @ +12V1 DC<br/>15.0A @ +12V2 DC<br/>0.5A @ -12V DC<br/>2.5A @ +5Vsb DC Standby",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8R2kcf/fsp-group-power-supply-vital400"
+}

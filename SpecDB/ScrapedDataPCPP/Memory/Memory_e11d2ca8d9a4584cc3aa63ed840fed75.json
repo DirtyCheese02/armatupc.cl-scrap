@@ -1,0 +1,16 @@
+{
+    "name": "Crucial CT2K4G3S160BM 8 GB (2 x 4 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "[CT2K4G3S160BM, CT2C4G3S160BMCEU]",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$3.869",
+    "Color": "Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9LGkcf/crucial-memory-ct2k4g3s160bm"
+}

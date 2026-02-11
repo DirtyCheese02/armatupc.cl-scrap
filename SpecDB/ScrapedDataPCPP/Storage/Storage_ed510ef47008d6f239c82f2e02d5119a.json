@@ -1,0 +1,14 @@
+{
+    "name": "OCZ Vertex 450 Series 256 256 GB 2.5\" Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Model": "Vertex 450 Series 256",
+    "Part #": "VTX450-25SAT3-256G",
+    "Capacity": "256 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Indilinx Barefoot 3",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZY3RsY/ocz-internal-hard-drive-vtx45025sat3256g"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Rosewill RC-402 100 Mb/s Ethernet PCI Network Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RC-402",
+    "Interface": "PCI",
+    "Features": "[Chipset: Realtek RTL8100c, ACPI and PCI power management Ver. 1.1 compliant., Provides two independent long FIFOs with 2K bytes each for transmission and receiving., OS Supports: Supports ODI, NDIS, Windows 98/98SE/ME/2000/XP/NT 4.0/Vista 32/64bit, Plug n Play support for Win7 and Win8(32/64 bit), UNIX and Linux.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jHPfrH/rosewill-wired-network-card-rc402"
+}

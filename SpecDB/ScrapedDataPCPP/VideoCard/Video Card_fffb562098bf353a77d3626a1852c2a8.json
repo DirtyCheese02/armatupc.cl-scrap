@@ -1,0 +1,22 @@
+{
+    "name": "Asus ProArt OC GeForce RTX 4080 SUPER 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[proart-rtx4080s-o16g, 90YV0K90-M0NA00, 90YV0K90-M0AA00]",
+    "Chipset": "GeForce RTX 4080 SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2210 MHz",
+    "Boost Clock": "2640 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bbDQzy/asus-proart-oc-geforce-rtx-4080-super-16-gb-video-card-proart-rtx4080s-o16g"
+}

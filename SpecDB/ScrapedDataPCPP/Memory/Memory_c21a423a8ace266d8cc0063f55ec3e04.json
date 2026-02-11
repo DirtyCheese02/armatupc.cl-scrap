@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F2-6400CL5D-4GBNT 4 GB (2 x 2 GB) DDR2-800 CL5 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F2-6400CL5D-4GBNT",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "2 x 2GB",
+    "Color": "Blue / Black",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "Timing": "5-5-5-15",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZZTmP6/gskill-4gb-2-x-2gb-ddr2-800-memory-f2-6400cl5d-4gbnt"
+}

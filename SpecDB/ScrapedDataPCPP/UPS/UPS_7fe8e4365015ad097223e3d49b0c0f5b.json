@@ -1,0 +1,15 @@
+{
+    "name": "Tripp Lite BC350 UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "BC350",
+    "Capacity (W)": "180 W",
+    "Capacity (VA)": "350 VA",
+    "Backup/Run Time (Full Load)": "2.50 Minutes",
+    "Backup/Run Time (Half Load)": "8 Minutes",
+    "Form Factor": "Mini Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CjcMnQ/tripp-lite-ups-bc350"
+}

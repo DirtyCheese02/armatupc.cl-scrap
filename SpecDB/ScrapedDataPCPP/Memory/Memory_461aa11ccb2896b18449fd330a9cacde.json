@@ -1,0 +1,14 @@
+{
+    "name": "G.Skill Ripjaws Z 64 GB (8 x 8 GB) DDR3-2133 CL10 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-2133C10Q2-64GZM",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "8 x 8GB",
+    "First Word Latency": "9.376 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.6 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dpfp99/gskill-memory-f32133c10q264gzm"
+}

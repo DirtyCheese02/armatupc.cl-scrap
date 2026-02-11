@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Renegade 128 GB (4 x 32 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF426C15RBK4/128",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8bPQzy/kingston-fury-renegade-128-gb-4-x-32-gb-ddr4-2666-cl15-memory-kf426c15rbk4128"
+}

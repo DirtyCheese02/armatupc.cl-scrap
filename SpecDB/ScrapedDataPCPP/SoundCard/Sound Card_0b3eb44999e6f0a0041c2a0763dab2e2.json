@@ -1,0 +1,14 @@
+{
+    "name": "Creative Labs Sound BlasterX AE-5 Pure 32-bit 384 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "Sound BlasterX AE-5 Pure",
+    "Part #": "70SB174000001",
+    "Channels": "5.1",
+    "Digital Audio": "32-bit",
+    "Signal-To-Noise Ratio": "122 dB",
+    "Sample Rate": "384 kHz",
+    "Chipset": "Sound Core3D",
+    "Interface": "PCIe x1",
+    "Color": "White / Black",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ccJgXL/creative-labs-sound-blasterx-ae-5-pure-32-bit-384-khz-sound-card-70sb174000001"
+}

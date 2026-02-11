@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GV-N560UD-1GI GeForce GTX 560 Ti 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N560UD-1GI",
+    "Chipset": "GeForce GTX 560 Ti",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "822 MHz",
+    "Effective Memory Clock": "4000 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FrFPxr/gigabyte-video-card-gvn560ud1gi"
+}

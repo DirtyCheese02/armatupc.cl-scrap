@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte OC Radeon RX 5500 XT 4 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R55XTOC-4GD",
+    "Chipset": "Radeon RX 5500 XT",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1647 MHz",
+    "Boost Clock": "1845 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "FreeSync",
+    "Length": "225 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d8jNnQ/gigabyte-radeon-rx-5500-xt-4-gb-oc-video-card-gv-r55xtoc-4gd"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ASRock D1520D4I Mini ITX Xeon D-1520 Motherboard",
+    "Manufacturer": "ASRock",
+    "Part #": "D1520D4I",
+    "Socket / CPU": "Integrated Xeon D-1520",
+    "Form Factor": "Mini ITX",
+    "Chipset": "CPU Integrated",
+    "Memory Max": "128 GB",
+    "Memory Type": "DDR4",
+    "Memory Slots": "4",
+    "Memory Speed": "[DDR4-1866, DDR4-2133]",
+    "Color": "Black / Green",
+    "PCIe x16 Slots": "1",
+    "M.2 Slots": "2242/2280 M-key",
+    "SATA 6.0 Gb/s Ports": "2",
+    "Onboard Ethernet": "2 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "Yes",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/F78H99/asrock-motherboard-d1520d4i"
+}

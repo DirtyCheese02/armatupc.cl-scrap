@@ -1,0 +1,19 @@
+{
+    "name": "In Win Sirius Pure ASP120-1PK 50 CFM 120 mm Fan",
+    "Manufacturer": "In Win",
+    "Model": "Sirius Pure ASP120-1PK",
+    "Part #": "ASP120FAN-1PK",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "50 CFM",
+    "Noise Level": "13 - 27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.67 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dFD7YJ/in-win-sirius-pure-asp120-1pk-50-cfm-120-mm-fan-asp120fan-1pk"
+}

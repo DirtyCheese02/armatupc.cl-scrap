@@ -1,0 +1,18 @@
+{
+    "name": "Antec S10 ATX Full Tower Case",
+    "Manufacturer": "Antec",
+    "Part #": "S10",
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, XL ATX]",
+    "Maximum Video Card Length": "[317 mm, 12.48\"]",
+    "Drive Bays": "[6 x Internal 3.5\", 8 x Internal 2.5\"]",
+    "Expansion Slots": "10 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H6s8TW/antec-case-s10"
+}

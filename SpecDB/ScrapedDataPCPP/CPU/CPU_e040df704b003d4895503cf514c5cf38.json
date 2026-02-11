@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-875K 2.93 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80605I7875K",
+    "Series": "Intel Core i7",
+    "Microarchitecture": "Nehalem",
+    "Core Family": "Lynnfield",
+    "Socket": "LGA1156",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "2.93 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hbYXsY/intel-cpu-bx80605i7875k"
+}

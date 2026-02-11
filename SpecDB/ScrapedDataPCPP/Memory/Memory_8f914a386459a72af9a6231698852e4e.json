@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Lancer Blade 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX5U6400C3216G–DTLABWH",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Grvscf/adata-xpg-lancer-blade-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-ax5u6400c3216gdtlabwh"
+}

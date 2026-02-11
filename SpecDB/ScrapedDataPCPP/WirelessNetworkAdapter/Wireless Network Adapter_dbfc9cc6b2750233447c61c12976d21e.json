@@ -1,0 +1,11 @@
+{
+    "name": "Linksys AE6000 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Linksys",
+    "Part #": "AE6000",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "USB Type-A 2.0",
+    "Security": "WEP 64/128-bit, WPA-TKIP and WPA2-Personal & Enterpise (AES/TKIP), WPS",
+    "Antenna": "Internal Antenna",
+    "Features": "[Maximum Speed: Up to 430 Mbps speed on Wireless-AC 5 GHz band or up to 150 Mbps speed on Wireless-N 2.4 GHz band, Easily connect using the Setup Wizard or by using the WPS button, Upgrade devices to Wireless-AC, High performance HD video and gaming, Unique mini design for easier mobility, Dual-Band to help avoid interference and maximize throughput.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4MjG3C/linksys-wireless-network-card-ae6000"
+}

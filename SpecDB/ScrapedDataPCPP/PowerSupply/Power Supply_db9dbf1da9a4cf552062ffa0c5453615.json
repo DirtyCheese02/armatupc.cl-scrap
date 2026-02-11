@@ -1,0 +1,22 @@
+{
+    "name": "Cooler Master V1000 1000 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Cooler Master",
+    "Part #": "[RSA00-AFBAG1-US, RSA00-AFBAG1]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1000 W",
+    "Length": "170 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@25A, +5V@25A, +12V@83A, -12V@0.5A, +5Vsb@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QwxfrH/cooler-master-power-supply-rsa00afbag1us"
+}

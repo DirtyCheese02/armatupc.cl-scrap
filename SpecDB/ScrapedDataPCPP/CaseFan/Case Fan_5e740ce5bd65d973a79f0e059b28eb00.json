@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Shadow Wings 2 38.5 CFM 120 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL085",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1100 RPM",
+    "Airflow": "38.5 CFM",
+    "Noise Level": "15.9 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "0.82 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pFjJ7P/be-quiet-bl085-385-cfm-120mm-fan-bl085"
+}

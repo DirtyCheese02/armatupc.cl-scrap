@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker NB-ELOOP X ARGB 77.93 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "ITR-B12X-P",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 77.93 CFM",
+    "Noise Level": "0 - 28.4 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.02 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6Ddrxr/noiseblocker-nb-eloop-x-argb-7793-cfm-120-mm-fan-itr-b12x-p"
+}

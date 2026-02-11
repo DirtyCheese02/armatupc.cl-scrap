@@ -1,0 +1,19 @@
+{
+    "name": "Enermax Marathon 44 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UC-12EB",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "44 CFM",
+    "Noise Level": "17 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Magnetic Barometric",
+    "Features": "[Exclusive ENLOBAL bearing with magnetic-barometric design to run friction-free and noiseless, Nano-technology composite for lowest abrasion and extreme durability, Detachable fan blades can be cleaned, Best wire management and 3 to 4 pin adaptor]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zbbp99/enermax-uc-12eb-44-cfm-120-mm-fan-uc-12eb"
+}

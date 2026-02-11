@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-4170 4.2 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD4170FRGUBOX",
+    "Series": "AMD FX",
+    "Microarchitecture": "Bulldozer",
+    "Core Family": "Zambezi",
+    "Socket": "AM3+",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "4.2 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YYxfrH/amd-cpu-fd4170frgubox"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Apacer Panther-Golden 8 GB (1 x 8 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "Apacer",
+    "Part #": "EK.08G2V.KEC",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qHkwrH/apacer-panther-golden-8gb-1-x-8gb-ddr4-2666-memory-ek08g2vkec"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 1000 GQ 1000 W 80+ Gold Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "1000 GQ",
+    "Part #": "[210-GQ-1000, 210-GQ-1000-V1, 210-GQ-1000-V2, 210-GQ-1000-V3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1000 W",
+    "Length": "180 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "10",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bcTrxr/evga-1000-gq-1000-w-80-gold-certified-semi-modular-atx-power-supply-210-gq-1000"
+}

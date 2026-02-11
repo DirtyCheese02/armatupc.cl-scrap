@@ -1,0 +1,15 @@
+{
+    "name": "APC SMT2200I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT2200I",
+    "Capacity (W)": "1980 W",
+    "Capacity (VA)": "2200 VA",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zVYWGX/apc-ups-smt2200i"
+}

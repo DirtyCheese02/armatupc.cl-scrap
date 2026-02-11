@@ -1,0 +1,19 @@
+{
+    "name": "Scythe Slipstream 92 CFM 140 mm Fan",
+    "Manufacturer": "Scythe",
+    "Part #": "SM1425SL12HPVC-V",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1700 RPM",
+    "Airflow": "27 - 92 CFM",
+    "Noise Level": "9.6 - 36.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Fan Speed: PWM mode: minimum 500 (±250) - 1,200 rpm (±10%), maximum 650 (±250) - 1,700 rpm (±10%), VR mode: 500 (±250) - 1,700 rpm (±10%), Air Flow: PWM mode: minimum 27.2 - 65.2 CFM (46 - 110 m³/h), maximum 35.36 - 92.4 CFM (60 - 157 m³/h), VR mode: 27.2 - 92.4 CFM (46 - 157 m³/h), Noise Level: PWM mode: minimum 9.6 - 23.2 dBA, maximum 12.4 - 36.4 dBA, VR mode: 9.6 - 36.4 dBA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xQFPxr/scythe-case-fan-sm1425sl12hpvcv"
+}

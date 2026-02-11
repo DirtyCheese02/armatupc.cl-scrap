@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RFA-120-WL 74.48 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFA-120-WL",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "74.48 CFM",
+    "Noise Level": "29.28 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "4 White LEDs implemented for bright glowing result",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q8DwrH/rosewill-case-fan-rfa120wl"
+}

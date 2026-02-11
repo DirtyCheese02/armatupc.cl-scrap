@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQP5000-PB Quadro P5000 16 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQP5000-PB",
+    "Chipset": "Quadro P5000",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR5X",
+    "Core Clock": "1607 MHz",
+    "Boost Clock": "1733 MHz",
+    "Effective Memory Clock": "9008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "4",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cKdFf7/pny-quadro-p5000-16gb-video-card-vcqp5000-pb"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "XFX Speedster MERC 319 Radeon RX 6800 16 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-68XLATBD9",
+    "Chipset": "Radeon RX 6800",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1700 MHz",
+    "Boost Clock": "2190 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "340 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X2tKHx/xfx-radeon-rx-6800-16-gb-speedster-merc-319-video-card-rx-68xlatbd9"
+}

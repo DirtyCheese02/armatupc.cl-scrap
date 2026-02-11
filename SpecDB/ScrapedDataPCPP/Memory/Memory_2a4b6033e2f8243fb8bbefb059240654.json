@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z5 Royal 64 GB (2 x 32 GB) DDR5-6000 CL28 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J2836G32GX2-TR5S",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Silver",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.4 V",
+    "Timing": "28-36-36-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rxjv6h/gskill-trident-z5-royal-64-gb-2-x-32-gb-ddr5-6000-cl28-memory-f5-6000j2836g32gx2-tr5s"
+}

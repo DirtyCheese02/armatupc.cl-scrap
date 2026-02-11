@@ -1,0 +1,13 @@
+{
+    "name": "Zalman 9500A Ball Bearing CPU Cooler",
+    "Manufacturer": "Zalman",
+    "Part #": "9500A",
+    "Fan RPM": "1350 - 2600 RPM",
+    "Noise Level": "18 - 27 dB",
+    "Height": "125 mm",
+    "Bearing": "Ball",
+    "CPU Socket": "[AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA775, LGA1150, LGA1151, LGA1155, LGA1156, LGA1200]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8CXfrH/zalman-cpu-cooler-9500a"
+}

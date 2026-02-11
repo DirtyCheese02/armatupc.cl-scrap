@@ -1,0 +1,16 @@
+{
+    "name": "APC BK300MI UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK300MI",
+    "Capacity (W)": "180 W",
+    "Capacity (VA)": "300 VA",
+    "Backup/Run Time (Full Load)": "6.20 Minutes",
+    "Backup/Run Time (Half Load)": "21.20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Tower",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[1 x IEC 320-C13, 2 x IEC 320-C13, 3]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sBPzK8/apc-ups-bk300mi"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Corsair Vengeance 16 GB (2 x 8 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CML16GX3M2A1600C10R",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qR7wrH/corsair-memory-cml16gx3m2a1600c10r"
+}

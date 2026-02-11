@@ -1,0 +1,22 @@
+{
+    "name": "Cougar COUGAR-1000CMX 1000 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Cougar",
+    "Part #": "COUGAR-1000CMX",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "1000 W",
+    "Length": "180 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "7",
+    "Output": "+3.3V@30A, +5V@30A, +12V1@24A, +12V2@24A, +12V3@24A, +12V4@24A, +12V5@28A, +12V6@28A, -12V@0.8A, +5VSB@4.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zKrG3C/cougar-power-supply-cougar1000cmx"
+}

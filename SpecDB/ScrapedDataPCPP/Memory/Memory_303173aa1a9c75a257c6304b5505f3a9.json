@@ -1,0 +1,16 @@
+{
+    "name": "GeIL ORION V RGB 16 GB (1 x 16 GB) DDR5-8000 CL38 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GVSR516GB8000C38ASC",
+    "Speed": "DDR5-8000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.45 V",
+    "Timing": "38-48-48-100",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rdqrxr/geil-orion-v-rgb-16-gb-1-x-16-gb-ddr5-8000-cl38-memory-gvsr516gb8000c38asc"
+}

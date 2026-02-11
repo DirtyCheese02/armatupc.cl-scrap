@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N250PCe 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N250PCe",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128-bit WEP (802.1X), WPA(TKIP, AES, and 802.1X), WPA2(TKIP, AES, and 802.1X)",
+    "Antenna": "2 x external detachable 5 dBi Antenna",
+    "Features": "[Chipset: Realtek RTL8192CE, Complies with IEEE 802.11b, 802.11g and 802.11n standard for 2.4GHz Wireless LAN, Compliant with PCI-E Standard, Supports Windows 2000/XP/2003/Vista/7 and Linux Kernel 2.6.x, Supports MIMO technology with 2x Transmit and 2x Receive., Lower power consumption, Easy installation and configuration, Support WPS]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CG9KHx/rosewill-wireless-network-card-rnxn250pce"
+}

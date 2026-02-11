@@ -1,0 +1,23 @@
+{
+    "name": "HEC Zephyr 700 CM 700 W 80+ Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "HEC",
+    "Model": "Zephyr 700 CM",
+    "Part #": "ZEPHYR700CM",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "700 W",
+    "Length": "165 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "2",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@24A, +5V@20A, +12V1@30A, +12V2@30A, -12V@0.5A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bZfmP6/hec-cougar-700w-80-certified-semi-modular-atx-power-supply-zephyr700cm"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 02G-P4-2645-KR GeForce GT 640 2 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "02G-P4-2645-KR",
+    "Chipset": "GeForce GT 640",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "901 MHz",
+    "Effective Memory Clock": "1782 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w69KHx/evga-video-card-02gp42645kr"
+}

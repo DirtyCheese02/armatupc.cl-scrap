@@ -1,0 +1,15 @@
+{
+    "name": "EVGA SuperSC 16 GB (2 x 8 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "EVGA",
+    "Part #": "16G-D4-2400-MR",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6FgPxr/evga-memory-16gd42400mr"
+}

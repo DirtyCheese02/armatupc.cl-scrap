@@ -1,0 +1,19 @@
+{
+    "name": "CyberPower OR2200PFCRT2U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "OR2200PFCRT2U",
+    "Capacity (W)": "1320 W",
+    "Capacity (VA)": "2000 VA",
+    "Backup/Run Time (Full Load)": "7.80 Minutes",
+    "Backup/Run Time (Half Load)": "19.80 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RG-6, RJ-11]",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-20R",
+    "Switching Time": "4 ms",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nzM323/cyberpower-ups-or2200pfcrt2u"
+}

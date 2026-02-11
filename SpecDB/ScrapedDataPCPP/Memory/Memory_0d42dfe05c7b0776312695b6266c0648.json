@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Elite Plus 32 GB (2 x 16 GB) DDR5-5600 CL40 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TPSD532G5600HC46DC01",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gLM48d/teamgroup-elite-plus-32-gb-2-x-16-gb-ddr5-5600-cl40-memory-tpsd532g5600hc46dc01"
+}

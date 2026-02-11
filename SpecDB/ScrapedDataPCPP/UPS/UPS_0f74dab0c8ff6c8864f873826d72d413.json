@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SU5000RT3UHV UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU5000RT3UHV",
+    "Capacity (W)": "3500 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "5U",
+    "Alarm": "[On Battery, Low Battery, Overload, UPS Fault, Inverter Failure, Remote Shutdown]",
+    "Backup/Run Time (Full Load)": "11 Minutes",
+    "Backup/Run Time (Half Load)": "26 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "[240 V AC, 208 V AC, 220 V AC]",
+    "Receptacles": "[2 x NEMA L6-20R, 2 x NEMA L6-30R]",
+    "Switching Time": "0 ns",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LWX2FT/tripp-lite-ups-su5000rt3uhv"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master MasterFan MF200R ARGB 90.3 CFM 200 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "MasterFan MF200R ARGB",
+    "Part #": "R4-200R-08FA-R1",
+    "Size": "200 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 RPM",
+    "Airflow": "90.3 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "No",
+    "LED": "Addressable RGB",
+    "Connector": "3-pin + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "0.88 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qkC48d/cooler-master-masterfan-mf200r-argb-903-cfm-200-mm-fan-r4-200r-08fa-r1"
+}

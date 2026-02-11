@@ -1,0 +1,22 @@
+{
+    "name": "Raidmax Cobra 500 W 80+ Bronze Certified ATX Power Supply",
+    "Manufacturer": "Raidmax",
+    "Part #": "RX-500AF-B",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "500 W",
+    "Length": "165 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@20A, +5V@20A, +12V@32A, -12V@0.5A ,5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NwNp99/raidmax-power-supply-rx500afb"
+}

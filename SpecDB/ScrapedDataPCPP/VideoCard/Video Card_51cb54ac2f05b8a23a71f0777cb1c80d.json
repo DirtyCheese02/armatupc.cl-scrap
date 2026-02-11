@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Challenger OC Radeon RX 7600 XT 16 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "RX7600X CL 16GO",
+    "Chipset": "Radeon RX 7600 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1720 MHz",
+    "Boost Clock": "2799 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "267 mm",
+    "TDP": "190 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MRbRsY/asrock-challenger-oc-radeon-rx-7600-xt-16-gb-video-card-rx7600x-cl-16go"
+}

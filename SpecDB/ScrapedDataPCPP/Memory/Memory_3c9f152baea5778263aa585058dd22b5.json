@@ -1,0 +1,16 @@
+{
+    "name": "Kingston Server Premier 16 GB (1 x 16 GB) DDR5-5200 CL42 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM52E42BS8KM-16HA",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$18.749",
+    "Color": "Green / Black",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FmWJ7P/kingston-server-premier-16-gb-1-x-16-gb-ddr5-5200-cl42-memory-ksm52e42bs8km-16ha"
+}

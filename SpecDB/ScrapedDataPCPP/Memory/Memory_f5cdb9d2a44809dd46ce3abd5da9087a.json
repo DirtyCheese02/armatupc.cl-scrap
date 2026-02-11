@@ -1,0 +1,16 @@
+{
+    "name": "Corsair CMSX4GX4M1A2400C16 4 GB (1 x 4 GB) DDR4-2400 SODIMM CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSX4GX4M1A2400C16",
+    "Speed": "DDR4-2400",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p3kj4D/corsair-4gb-1-x-4gb-ddr4-2400-memory-cmsx4gx4m1a2400c16"
+}

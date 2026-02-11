@@ -1,0 +1,19 @@
+{
+    "name": "EK Loop Fan FPT 120 D-RGB 77 CFM 120 mm Fan",
+    "Manufacturer": "EK",
+    "Model": "Loop Fan FPT 120 D-RGB",
+    "Part #": "[EK-LOOP-FPT-120-DRGB-BK, 3831109897546]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "550 - 2300 RPM",
+    "Airflow": "77 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.7 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HmLdnQ/ek-loop-fan-fpt-120-d-rgb-77-cfm-120-mm-fan-ek-loop-fpt-120-drgb-bk"
+}

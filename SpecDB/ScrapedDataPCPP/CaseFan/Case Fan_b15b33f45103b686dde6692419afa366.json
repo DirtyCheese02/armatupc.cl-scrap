@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone Air Penetrator 184i PRO 143.21 CFM 180 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Model": "Air Penetrator 184i PRO",
+    "Part #": "SST-AP184i-PRO",
+    "Size": "180 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1 - 1200 RPM",
+    "Airflow": "1 - 143.21 CFM",
+    "Noise Level": "1 - 34.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.22 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/432j4D/silverstone-air-penetrator-184i-pro-14321-cfm-180-mm-fan-sst-ap184i-pro"
+}

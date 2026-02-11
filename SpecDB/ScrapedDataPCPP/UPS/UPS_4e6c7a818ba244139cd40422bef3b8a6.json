@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SU2200XL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU2200XL",
+    "Capacity (W)": "1600 W",
+    "Capacity (VA)": "2200 VA",
+    "Alarm": "[On Battery, Low Battery, Overload, UPS Fault, Remote Shutdown]",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "18 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA 5-20R, 1 x NEMA L5-20R]",
+    "Switching Time": "0 ns",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r9Wrxr/tripp-lite-ups-su2200xl"
+}

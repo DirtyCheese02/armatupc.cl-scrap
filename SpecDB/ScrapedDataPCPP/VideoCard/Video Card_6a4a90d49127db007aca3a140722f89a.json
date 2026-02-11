@@ -1,0 +1,23 @@
+{
+    "name": "Galaxy 84GFF4HX2HXZ GeForce 8400 GS 512 MB Video Card",
+    "Manufacturer": "Galaxy",
+    "Part #": "84GFF4HX2HXZ",
+    "Chipset": "GeForce 8400 GS",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "589 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "165 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Zg9KHx/galaxy-video-card-84gff4hx2hxz"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI N740-2GD5 GeForce GT 740 2 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N740-2GD5",
+    "Chipset": "GeForce GT 740",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1006 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "165 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nW2kcf/msi-video-card-n7402gd5"
+}

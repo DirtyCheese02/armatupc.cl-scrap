@@ -1,0 +1,16 @@
+{
+    "name": "GeIL ORION V RGB 32 GB (2 x 16 GB) DDR5-6400 CL38 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GVSR532GB6400C38ADC",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "11.875 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-40-40-82",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gckH99/geil-orion-v-rgb-32-gb-2-x-16-gb-ddr5-6400-cl38-memory-gvsr532gb6400c38adc"
+}

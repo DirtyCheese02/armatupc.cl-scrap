@@ -1,0 +1,17 @@
+{
+    "name": "Cooler Master MasterFan SFR 59 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "MFX-B2NN-20NPK-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 2000 RPM",
+    "Airflow": "59 CFM",
+    "Noise Level": "8 - 30 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6PyV3C/cooler-master-masterfan-sf120r-59-cfm-120-mm-fan-mfx-b2nn-20npk-r1"
+}

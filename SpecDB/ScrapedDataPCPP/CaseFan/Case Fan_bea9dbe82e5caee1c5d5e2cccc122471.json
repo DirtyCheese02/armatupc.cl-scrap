@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks PH-F140D30R 71.76 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "PH-F140D30R",
+    "Part #": "PH-F140D30R_DRGB_PWM_BK01",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "250 - 1800 RPM",
+    "Airflow": "71.76 CFM",
+    "Noise Level": "32.1 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.08 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HjLdnQ/phanteks-ph-f140d30r-7176-cfm-140-mm-fan-ph-f140d30r_drgb_pwm_bk01"
+}

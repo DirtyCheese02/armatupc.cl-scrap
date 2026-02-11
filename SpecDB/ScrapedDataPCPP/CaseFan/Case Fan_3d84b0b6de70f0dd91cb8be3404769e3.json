@@ -1,0 +1,18 @@
+{
+    "name": "Enermax D.F. Pressure 85.43 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCDFP12P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2000 RPM",
+    "Airflow": "33.69 - 85.43 CFM",
+    "Noise Level": "16 - 27 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.812 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LZ7p99/enermax-ucdfp12p-8543-cfm-120-mm-fan-ucdfp12p"
+}

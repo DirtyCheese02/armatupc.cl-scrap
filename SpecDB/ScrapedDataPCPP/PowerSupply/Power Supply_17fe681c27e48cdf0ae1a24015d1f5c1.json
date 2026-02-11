@@ -1,0 +1,22 @@
+{
+    "name": "Corsair HX1200i SHIFT 1200 W Fully Modular Side Interface ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "HX1200i SHIFT",
+    "Part #": "[CP-9020267-NA, CP-9020267-JP, CP-9020267-AU, CP-9020267-WW, CP-9020267-KR, CP-9020267-EU, CP-9020267-TW, CP-9020267-UK]",
+    "Type": "ATX",
+    "Wattage": "1200 W",
+    "Length": "200 mm",
+    "Modular": "Full / Side",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "1",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "8",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XqXMnQ/corsair-hx1200i-shift-1200-w-fully-modular-side-interface-atx-power-supply-cp-9020267-na"
+}

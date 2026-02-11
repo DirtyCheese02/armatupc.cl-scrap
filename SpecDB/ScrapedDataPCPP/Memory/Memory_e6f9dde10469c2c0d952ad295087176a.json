@@ -1,0 +1,15 @@
+{
+    "name": "VisionTek 901343 8 GB (1 x 8 GB) DDR4-2933 CL21 Memory",
+    "Manufacturer": "VisionTek",
+    "Part #": "901343",
+    "Speed": "DDR4-2933",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "14.32 ns",
+    "CAS Latency": "21",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JT2bt6/visiontek-901343-8-gb-1-x-8-gb-ddr4-2933-cl21-memory-901343"
+}

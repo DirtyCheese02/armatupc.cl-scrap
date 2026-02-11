@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D iChill Black GeForce RTX 4080 SUPER 16 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "C408SB-166XX-18700006",
+    "Chipset": "GeForce RTX 4080 SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2210 MHz",
+    "Boost Clock": "2610 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "280 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "240 mm Radiator",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N8vD4D/inno3d-ichill-black-geforce-rtx-4080-super-16-gb-video-card-c408sb-166xx-18700006"
+}

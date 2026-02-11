@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-C12RB-S V2 58 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "[TL-C12RB-S V2, C12RB-S V2 D6-Y, C12RB-S V2 D6-DE, C12RB-S V2 D6]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "1500 RPM",
+    "Airflow": "58 CFM",
+    "Noise Level": "25.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.53 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gBzXsY/thermalright-tl-c12rb-s-v2-58-cfm-120-mm-fan-tl-c12rb-s-v2"
+}

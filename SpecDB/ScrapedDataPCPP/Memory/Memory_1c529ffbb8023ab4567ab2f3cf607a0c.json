@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X II AMD 8 GB (2 x 4 GB) DDR4-2666 CL19 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAEXSW48GB2666C19DC",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "White",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "Timing": "19-19-19-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yQn9TW/geil-evo-x-ii-amd-8-gb-2-x-4-gb-ddr4-2666-cl19-memory-gaexsw48gb2666c19dc"
+}

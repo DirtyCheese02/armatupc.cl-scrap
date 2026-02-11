@@ -1,0 +1,23 @@
+{
+    "name": "Zotac ZT-71304-20L GeForce GT 710 1 GB PCIe x1 Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-71304-20L",
+    "Chipset": "GeForce GT 710",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "954 MHz",
+    "Effective Memory Clock": "1600 MHz",
+    "Interface": "PCIe x1",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "147 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LDQRsY/zotac-geforce-gt-710-1-gb-pcie-x1-video-card-zt-71304-20l"
+}

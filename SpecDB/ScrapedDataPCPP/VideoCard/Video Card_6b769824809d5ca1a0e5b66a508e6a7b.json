@@ -1,0 +1,23 @@
+{
+    "name": "XFX Speedster SWFT 210 Radeon RX 6600 XT 8 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-66XT8DFDQ",
+    "Chipset": "Radeon RX 6600 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2092 MHz",
+    "Boost Clock": "2589 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "241 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tWJgXL/xfx-radeon-rx-6600-xt-8-gb-speedster-swft-210-video-card-rx-66xt8dfdq"
+}

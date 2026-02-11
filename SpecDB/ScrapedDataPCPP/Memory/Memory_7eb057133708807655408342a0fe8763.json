@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum RGB 32 GB (2 x 16 GB) DDR5-4800 CL34 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT32GX5M2A4800C34",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.1 V",
+    "Timing": "34-35-35-69",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PZPQzy/corsair-dominator-platinum-rgb-32-gb-2-x-16-gb-ddr5-4800-cl34-memory-cmt32gx5m2a4800c34"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F120Q (2022) 64 CFM 120 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F120Q (2022)",
+    "Part #": "RF-Q12SF-W1",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1200 RPM",
+    "Airflow": "27.77 - 64 CFM",
+    "Noise Level": "16.7 - 22.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.08 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/F2stt6/nzxt-f120q-2022-64-cfm-120-mm-fan-rf-q12sf-w1"
+}

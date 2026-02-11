@@ -1,0 +1,17 @@
+{
+    "name": "Vetroo ARGB120 48.1 CFM 120 mm Fan",
+    "Manufacturer": "Vetroo",
+    "Model": "ARGB120",
+    "Part #": "VT-FAN-ARGB120-BK",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1300 RPM",
+    "Airflow": "48.1 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bYxRsY/vetroo-argb120-481-cfm-120-mm-fan-vt-fan-argb120-bk"
+}

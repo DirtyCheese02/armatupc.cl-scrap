@@ -1,0 +1,18 @@
+{
+    "name": "Lian Li UNI FAN P28 92 CFM 120 mm Fan",
+    "Manufacturer": "Lian Li",
+    "Part #": "[P28120-1W, 12P28 1W, UF-P28120-1W, G99.12P281W.00]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 2600 RPM",
+    "Airflow": "44.94 - 92 CFM",
+    "Noise Level": "20.4 - 32.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.79 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tMV2FT/lian-li-uni-fan-p28-92-cfm-120-mm-fan-p28120-1w"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E3-1280 3.5 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80637E31280V2",
+    "Series": "Intel Xeon E3",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "3.5 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k37wrH/intel-cpu-bx80637e31280v2"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Gainward Ghost OC GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NE63050T19P1-190AB",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1822 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "245 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dWC48d/gainward-geforce-rtx-3050-8gb-8-gb-ghost-oc-video-card-ne63050t19p1-190ab"
+}

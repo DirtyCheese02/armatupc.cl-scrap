@@ -1,0 +1,12 @@
+{
+    "name": "TRENDnet TEW-684UB 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-684UB",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP, WPA/WPA2-RADIUS, WPA-PSK/WPA2-PSK, WPS",
+    "Antenna": "Built-in on board antenna",
+    "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+    "Features": "[Button: WPS, Antenna: 2.4GHz: 2dBi (built-in on board), 5GHz: 1dBi (built-in on board), Certifications: CE, FCC, Multiple Input Multiple Output (MIMO) technology, Maximum reliability, throughput, and connectivity with automatic data rate switching, Wi-Fi Multimedia (WMM) Quality of Service (QoS) data prioritization, Easy user setup and intuitive diagnostic utility]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J8phP6/trendnet-wireless-network-card-tew684ub"
+}

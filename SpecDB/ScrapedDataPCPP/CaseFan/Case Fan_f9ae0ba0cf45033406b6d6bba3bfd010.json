@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F120P (2024) 73.47 CFM 120 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F120P (2024)",
+    "Part #": "RF-P12SF-B2",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "73.47 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.5 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KP4Zxr/nzxt-f120p-2024-7347-cfm-120-mm-fan-rf-p12sf-b2"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z Neo 32 GB (4 x 8 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3000C16Q-32GTZN",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Price / GB": "$12.998",
+    "Color": "Silver / Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T29tt6/gskill-trident-z-neo-32-gb-4-x-8-gb-ddr4-3000-memory-f4-3000c16q-32gtzn"
+}

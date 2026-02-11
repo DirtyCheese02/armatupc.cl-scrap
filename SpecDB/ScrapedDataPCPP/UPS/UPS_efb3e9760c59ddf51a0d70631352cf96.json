@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SMX500RT1U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMX500RT1U",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Rack Height": "1U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Dataline Protection": "RJ-11",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "6 x IEC 320-C13",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wwVBD3/tripp-lite-ups-smx500rt1u"
+}

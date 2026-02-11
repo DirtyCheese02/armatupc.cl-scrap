@@ -1,0 +1,15 @@
+{
+    "name": "Supermicro MEM-DR412L-SL02-LR26 128 GB (1 x 128 GB) Registered DDR4-2666 CL22 Memory",
+    "Manufacturer": "Supermicro",
+    "Part #": "MEM-DR412L-SL02-LR26",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 128GB",
+    "Color": "Green / Black",
+    "First Word Latency": "16.504 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yLYLrH/supermicro-128gb-1-x-128gb-registered-ddr4-2666-memory-mem-dr412l-sl02-lr26"
+}

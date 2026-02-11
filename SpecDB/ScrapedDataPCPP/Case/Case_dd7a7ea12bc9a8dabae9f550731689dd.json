@@ -1,0 +1,18 @@
+{
+    "name": "CFI Bastet ATX Mid Tower Case",
+    "Manufacturer": "CFI",
+    "Part #": "Bastet",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Acrylic",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "[USB 3.2 Gen 1 Type-A, USB 2.0 Type-A]",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Drive Bays": "[4 x External 5.25\", 2 x Internal 3.5\", 4 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "120 mm",
+    "Dimensions": "[199 mm x 489 mm x 493 mm, 7.835\" x 19.252\" x 19.409\"]",
+    "Volume": "[47.974 L, 1.694 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2QmLrH/cfi-case-bastet"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline 64 GB (2 x 32 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRD4U240FFFF32GX2",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "White",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fwddnQ/mushkin-redline-64-gb-2-x-32-gb-ddr4-2400-cl15-memory-mrd4u240ffff32gx2"
+}

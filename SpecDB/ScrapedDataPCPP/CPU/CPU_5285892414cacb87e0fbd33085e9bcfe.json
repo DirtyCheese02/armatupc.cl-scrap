@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E5-2603 V2 1.8 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80635E52603V2",
+    "Series": "Intel Xeon E5",
+    "Microarchitecture": "Ivy Bridge",
+    "Core Family": "Ivy Bridge-EP",
+    "Socket": "LGA2011",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "1.8 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "10 MB",
+    "TDP": "80 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "Boxed",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rT6BD3/intel-cpu-bx80635e52603v2"
+}

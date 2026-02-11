@@ -1,0 +1,20 @@
+{
+    "name": "APC SURT20KRMXLT UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURT20KRMXLT",
+    "Capacity (W)": "16000 W",
+    "Capacity (VA)": "20000 VA",
+    "Rack Height": "12U",
+    "Backup/Run Time (Full Load)": "4.90 Minutes",
+    "Backup/Run Time (Half Load)": "15.30 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[2 x NEMA L6-20R, 4 x NEMA L6-30R, 1 x Hard Wire 3-wire (2PH + G)]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fzM323/apc-surt20krmxlt-ups-surt20krmxlt"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "APC SUM1500RMXLI2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUM1500RMXLI2U",
+    "Capacity (W)": "1425 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "11.90 Minutes",
+    "Backup/Run Time (Half Load)": "28.30 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "[9 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pccMnQ/apc-ups-sum1500rmxli2u"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte EAGLE OC Rev 2.0 GeForce RTX 3080 10GB LHR 10 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "[GV-N3080EAGLE OC-10GD (REV 2.0), GV-N3080EAGLE OC-10GD 2.0]",
+    "Chipset": "GeForce RTX 3080 10GB LHR",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1755 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "320 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HYBG3C/gigabyte-eagle-oc-rev-20-geforce-rtx-3080-10gb-lhr-10-gb-video-card-gv-n3080eagle-oc-10gd-rev-20"
+}

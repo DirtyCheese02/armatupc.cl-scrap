@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Phantom Gaming D OC Radeon RX 6900 XT 16 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX6900XT PGD 16GO, 90-GA2DZZ-00UANF]",
+    "Chipset": "Radeon RX 6900 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1925 MHz",
+    "Boost Clock": "2340 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "330 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CLWBD3/asrock-radeon-rx-6900-xt-16-gb-phantom-gaming-d-oc-video-card-rx6900xt-pgd-16go"
+}

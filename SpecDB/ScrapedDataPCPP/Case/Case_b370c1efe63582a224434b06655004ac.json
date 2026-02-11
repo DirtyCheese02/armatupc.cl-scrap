@@ -1,0 +1,21 @@
+{
+    "name": "Silverstone RM52 5U Rackmount Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-RM52",
+    "Type": "Rackmount 5U",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB]",
+    "Maximum Video Card Length": "[418 mm, 16.457\"]",
+    "Drive Bays": "[4 x Internal 3.5\", 3 x Internal 2.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[Front: 3 x 120 mm, Rear: 1 x 120 mm / 1 x 140 mm + 2 x 80 mm, Middle: 3 x 120 mm]",
+    "Included Fans": "Rear: 2 x 80 mm + 1 x 140 mm",
+    "Radiator Support": "[Front: 360 / 240 / 120 mm, Rear: 120 mm, Middle: 360 / 240 / 120 mm]",
+    "Dimensions": "[605 mm x 220 mm x 440 mm, 23.819\" x 8.661\" x 17.323\"]",
+    "Volume": "[58.564 L, 2.068 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2gPv6h/silverstone-rm52-atx-full-tower-case-sst-rm52"
+}

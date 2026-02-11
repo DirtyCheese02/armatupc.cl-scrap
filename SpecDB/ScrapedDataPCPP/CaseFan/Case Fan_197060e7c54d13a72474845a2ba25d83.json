@@ -1,0 +1,17 @@
+{
+    "name": "SilenX Ixtrema Pro 5 CFM 40 mm Fan",
+    "Manufacturer": "SilenX",
+    "Part #": "IXP-11-14",
+    "Size": "40 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "3500 RPM",
+    "Airflow": "5 CFM",
+    "Noise Level": "14 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XTQypg/silenx-ixp-11-14-5-cfm-40-mm-fan-ixp-11-14"
+}

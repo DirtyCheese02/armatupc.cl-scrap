@@ -1,0 +1,11 @@
+{
+    "name": "Lamptron FC-FC5V3-BK Fan Controller",
+    "Manufacturer": "Lamptron",
+    "Part #": "FC-FC5V3-BK",
+    "Channels": "6",
+    "Channel Wattage": "30 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[Power Input : +12VDC (via standard 4-pin Molex), Power Output : up to 30W per channel x 6 channels, Control Range : 0 - 12VDC, Fan Header : Molex Standard 3-pin x 6, Front Panel Color : Black, Start Boost, selectable 16 colors for the extra wide LCD display, 3 alarm different modes, 30W x 6 channels, knob based control, The FC5 V3 is a real step forward in the evolution of fan controllers. It is bound to become the new standard in this domain. With up to 30W for each of its 6 channels you can hook up some powerful fans for your system. The newly improved and wider LCD display displays RPM, temperature and voltage, and has 16 different colors to choose from for illumination. The FC5 V3 integrates all the commands directly on the front of the fan controller for quicker access to all functions. The smart Start Boost provides an initial 12V power for all the channels in order to power up all fans properly even if the fans are set at a minimum working voltage.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2GvRsY/lamptron-fan-controller-fcfc5v3bk"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Corsair Dominator Platinum 32 GB (4 x 8 GB) DDR3-2400 CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD32GX3M4A2400C11",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "9.167 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rKCwrH/corsair-memory-cmd32gx3m4a2400c11"
+}

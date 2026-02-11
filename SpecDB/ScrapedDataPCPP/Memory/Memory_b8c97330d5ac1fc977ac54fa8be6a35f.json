@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z RGB 128 GB (4 x 32 GB) DDR4-3200 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C14Q-128GTZR",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.45 V",
+    "Timing": "14-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qzJgXL/gskill-trident-z-rgb-128-gb-4-x-32-gb-ddr4-3200-cl14-memory-f4-3200c14q-128gtzr"
+}

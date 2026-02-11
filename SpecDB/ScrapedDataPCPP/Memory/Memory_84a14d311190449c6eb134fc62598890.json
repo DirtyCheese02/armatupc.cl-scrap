@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z RGB 32 GB (4 x 8 GB) DDR4-4133 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4133C17Q-32GTZR",
+    "Speed": "DDR4-4133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Price / GB": "$10.281",
+    "Color": "Black",
+    "First Word Latency": "8.226 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.4 V",
+    "Timing": "17-17-17-37",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fC8j4D/gskill-trident-z-rgb-32gb-4-x-8gb-ddr4-4133-memory-f4-4133c17q-32gtzr"
+}

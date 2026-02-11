@@ -1,0 +1,19 @@
+{
+    "name": "Gigabyte GV-N460D5-768I-B GeForce GTX 460 768 MB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N460D5-768I-B",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "0.75 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ycK7YJ/gigabyte-video-card-gvn460d5768ib"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "be quiet! Pure Power L7 350 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "be quiet!",
+    "Model": "Pure Power L7",
+    "Part #": "BN104",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "350 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ndBv6h/be-quiet-pure-power-l7-350-w-80-certified-atx-power-supply-bn104"
+}

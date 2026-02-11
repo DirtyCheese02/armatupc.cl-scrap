@@ -1,0 +1,23 @@
+{
+    "name": "Jetway JTI41M Micro ATX LGA775 Motherboard",
+    "Manufacturer": "Jetway",
+    "Part #": "JTI41M",
+    "Socket / CPU": "LGA775",
+    "Form Factor": "Micro ATX",
+    "Chipset": "Intel G41",
+    "Memory Max": "8 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "2",
+    "Memory Speed": "DDR3-1333",
+    "PCIe x16 Slots": "1",
+    "PCI Slots": "1",
+    "SATA 3.0 Gb/s Ports": "4",
+    "Onboard Ethernet": "1 x 100 Mb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "2",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "No",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PBBv6h/jetway-motherboard-jti41m"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS 2X XS OC GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 3050 Ventus 2X XS 8G OC, GeForce RTX 3050 Ventus 2X XS 8G OC, V809-4266R, 912-V809-4287]",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1807 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "205 mm",
+    "TDP": "115 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.1 Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3Xn9TW/msi-ventus-2x-xs-oc-geforce-rtx-3050-8gb-8-gb-video-card-rtx-3050-ventus-2x-xs-8g-oc"
+}

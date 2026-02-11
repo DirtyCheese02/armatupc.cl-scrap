@@ -1,0 +1,23 @@
+{
+    "name": "Palit Dual GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE63050019P1-190AD",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1777 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "245 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3nrRsY/palit-geforce-rtx-3050-8gb-8-gb-dual-video-card-ne63050019p1-190ad"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SMART2200RM2UN UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART2200RM2UN",
+    "Capacity (W)": "1920 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x NEMA 5-15R, 4 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "5 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T4Crxr/tripp-lite-ups-smart2200rm2un"
+}

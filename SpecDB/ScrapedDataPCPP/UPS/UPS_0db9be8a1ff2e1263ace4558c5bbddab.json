@@ -1,0 +1,21 @@
+{
+    "name": "CyberPower PR1500LCDTAA UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR1500LCDTAA",
+    "Capacity (W)": "1050 W",
+    "Capacity (VA)": "1500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "7.98 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Mini-tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bm8H99/cyberpower-ups-pr1500lcdtaa"
+}

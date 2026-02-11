@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z5 CK RGB 48 GB (2 x 24 GB) DDR5-9600 CL46 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-9600C4658H24GX2-TZ5CRK",
+    "Speed": "DDR5-9600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "9.583 ns",
+    "CAS Latency": "46",
+    "Voltage": "1.45 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k39nTW/gskill-trident-z5-ck-rgb-48-gb-2-x-24-gb-ddr5-9600-cl46-memory-f5-9600c4658h24gx2-tz5crk"
+}

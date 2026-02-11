@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-6000 CL32 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J3238F16GX2-RS5W",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$22.580",
+    "Color": "White",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.35 V",
+    "Timing": "32-38-38-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9MWzK8/gskill-ripjaws-s5-32-gb-2-x-16-gb-ddr5-6000-cl32-memory-f5-6000j3238f16gx2-rs5w"
+}

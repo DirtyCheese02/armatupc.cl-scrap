@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL OC GeForce RTX 4060 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RTX4060-O8G-WHITE, 90YV0JC2-M0NA00]",
+    "Chipset": "GeForce RTX 4060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1830 MHz",
+    "Boost Clock": "2535 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "227 mm",
+    "TDP": "115 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qpzXsY/asus-dual-oc-geforce-rtx-4060-8-gb-video-card-dual-rtx4060-o8g-white"
+}

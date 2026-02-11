@@ -1,0 +1,21 @@
+{
+    "name": "ASRock Phantom Gaming D Arc A770 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[A770 PGD 8GO, 90-GA3TZZ-00UANF]",
+    "Chipset": "Arc A770",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "305 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dg2WGX/asrock-phantom-gaming-d-arc-a770-8-gb-video-card-a770-pgd-8go"
+}

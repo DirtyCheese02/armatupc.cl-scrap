@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks M25G2-120 D-RGB Reverse 73.69 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Phanteks",
+    "Model": "M25G2-120 D-RGB Reverse",
+    "Part #": "PH-F120M25R_G2_DBK01_3P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "350 - 2000 RPM",
+    "Airflow": "73.69 CFM",
+    "Noise Level": "39.28 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.99 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CL2j4D/phanteks-m25g2-120-d-rgb-reverse-7369-cfm-120-mm-fans-3-pack-ph-f120m25r_g2_dbk01_3p"
+}

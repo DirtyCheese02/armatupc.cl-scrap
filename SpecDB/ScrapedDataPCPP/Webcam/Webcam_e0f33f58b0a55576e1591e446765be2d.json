@@ -1,0 +1,16 @@
+{
+    "name": "Logitech Brio 500 Webcam",
+    "Manufacturer": "Logitech",
+    "Part #": "[960-001427, 960-001428, 960-001429]",
+    "Resolution": "[1080p, 720p]",
+    "Connection": "USB 2.0 Type-C",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X, ChromeOS]",
+    "FOV Angle": "90°",
+    "Digital Zoom": "4X",
+    "Sensor Pixels": "4 MP",
+    "Privacy Shutter": "Yes",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p3XMnQ/logitech-brio-500-webcam-960-001427"
+}

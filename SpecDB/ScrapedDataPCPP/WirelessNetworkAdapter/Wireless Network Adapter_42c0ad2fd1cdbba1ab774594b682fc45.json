@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill N900UBE 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "N900UBE",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128 bit WEP Encryption and WPA-PSK<br/>WPA2-PSK security<br/>Hardware WPS and IEEE 802.1x Encryption",
+    "Antenna": "Internal Antenna + External Flippable antenna for optimum Wi-Fi performance",
+    "Features": "[Chipset: Ralink RT3573, Data Rate: 2.4GHz - 900Mbps and 5GHz - 900Mbps (450Mbps upload / 450 Mbps download), Supports dual-band wireless connectivity (2.4GHz or 5GHz), 3T3R, 2x Internal Antenna + 1x External Flippable antenna for optimal Wi-Fi performance., Supports WPS (WiFi Protected Setup) hardware button for easy connection, Supports 64/128-bit WEP, WPA, WPA2, WPS, and IEEE 802.1x encryptions, Supports QoS-WMM., Support OS: Windows 2000/XP/Vista/7; MAC OS10.5, 10.6, 10.7, 10.8]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fM9KHx/rosewill-wireless-network-card-n900ube"
+}

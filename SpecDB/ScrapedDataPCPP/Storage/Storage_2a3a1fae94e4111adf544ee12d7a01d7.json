@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M5M 256 GB mSATA Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-256M5M",
+    "Capacity": "256 GB",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yPw323/plextor-internal-hard-drive-px256m5m"
+}

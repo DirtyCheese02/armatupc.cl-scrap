@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper Elite II 64 GB (2 x 32 GB) DDR4-3600 CL20 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVE2464G360C0K",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Red / Black",
+    "First Word Latency": "11.111 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.35 V",
+    "Timing": "20-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mH3gXL/patriot-viper-elite-ii-64-gb-2-x-32-gb-ddr4-3600-cl20-memory-pve2464g360c0k"
+}

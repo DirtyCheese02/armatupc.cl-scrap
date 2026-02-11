@@ -1,0 +1,23 @@
+{
+    "name": "Palit JetStream GeForce RTX 2060 SUPER 8 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE6206ST19P2-1061J",
+    "Chipset": "GeForce RTX 2060 SUPER",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1470 MHz",
+    "Boost Clock": "1830 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "292 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W6mFf7/palit-geforce-rtx-2060-super-8-gb-jetstream-video-card-ne6206st19p2-1061j"
+}

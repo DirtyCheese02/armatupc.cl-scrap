@@ -1,0 +1,14 @@
+{
+    "name": "OCZ Z-Drive R2 M84 512 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZSSDPX-ZD2M84512G",
+    "Capacity": "512 GB",
+    "Type": "SSD",
+    "Cache": "256 MB",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Indilinx Barefoot 1",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nPBv6h/ocz-internal-hard-drive-oczssdpxzd2m84512g"
+}

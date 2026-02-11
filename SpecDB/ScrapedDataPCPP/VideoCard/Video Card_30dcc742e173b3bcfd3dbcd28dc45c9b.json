@@ -1,0 +1,22 @@
+{
+    "name": "ATI FirePro S9000 FirePro S9000 6 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro S9000",
+    "Part #": "100-505748",
+    "Chipset": "FirePro S9000",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "5500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qMjG3C/ati-video-card-100505748"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill ECO 4 GB (2 x 2 GB) DDR3-1333 CL7 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-10666CL7D-4GBECO",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "White",
+    "First Word Latency": "10.503 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hFNp99/gskill-memory-f310666cl7d4gbeco"
+}

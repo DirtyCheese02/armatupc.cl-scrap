@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite INTERNET350U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "INTERNET350U",
+    "Capacity (W)": "180 W",
+    "Capacity (VA)": "350 VA",
+    "Alarm": "[On Battery, Self-test Operation]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Ultra-compact Desk-mount",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Brownout, Black Out]",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XjcMnQ/tripp-lite-ups-internet350u"
+}

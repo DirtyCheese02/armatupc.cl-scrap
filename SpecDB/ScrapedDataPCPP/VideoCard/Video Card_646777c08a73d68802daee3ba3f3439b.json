@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire PULSE Radeon RX 9060 XT 8 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11350-04-20G",
+    "Chipset": "Radeon RX 9060 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2220 MHz",
+    "Boost Clock": "3290 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "240 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "1",
+    "HDMI 2.1b Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DgFCmG/sapphire-pulse-radeon-rx-9060-xt-8-gb-video-card-11350-04-20g"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Apollo RGB 16 GB (2 x 8 GB) DDR4-3200 CL14 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "BL.9BWWR.226",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Silver / Black",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "Timing": "14-14-14-34",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BKXJ7P/acer-predator-apollo-16-gb-2-x-8-gb-ddr4-3200-cl14-memory-bl9bwwr226"
+}

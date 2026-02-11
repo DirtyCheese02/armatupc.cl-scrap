@@ -1,0 +1,19 @@
+{
+    "name": "BitFenix Spectre 56.1 CFM 140 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-SCF-P14025KK-RP",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1800 RPM",
+    "Airflow": "56.1 CFM",
+    "Noise Level": "24.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[PWM Technology, Silent Operation, Enhanced Airflow, Aggressive Looks Both On and Off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JNrG3C/bitfenix-case-fan-bffscfp14025kkrp"
+}

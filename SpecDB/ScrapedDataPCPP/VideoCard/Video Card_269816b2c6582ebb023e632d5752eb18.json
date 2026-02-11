@@ -1,0 +1,21 @@
+{
+    "name": "MSI VANGUARD SOC GeForce RTX 5080 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 5080 16G VANGUARD SOC, RTX 5080 16G VANGUARD SOC, G5080-16VGS, V531-039R]",
+    "Chipset": "GeForce RTX 5080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "357 mm",
+    "TDP": "360 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m8YfrH/msi-vanguard-soc-geforce-rtx-5080-16-gb-video-card-geforce-rtx-5080-16g-vanguard-soc"
+}

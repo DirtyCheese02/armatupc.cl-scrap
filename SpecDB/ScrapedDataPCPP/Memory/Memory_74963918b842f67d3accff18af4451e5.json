@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP048GBSVU520P22 48 GB (2 x 24 GB) DDR5-5200 SODIMM CL42 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP048GBSVU520P22",
+    "Speed": "DDR5-5200",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gq26Mp/silicon-power-sp048gbsvu520p22-48-gb-2-x-24-gb-ddr5-5200-sodimm-cl42-memory-sp048gbsvu520p22"
+}

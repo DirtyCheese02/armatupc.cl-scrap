@@ -1,0 +1,18 @@
+{
+    "name": "Noctua NF-A6x25-PWM 17.19 CFM 60 mm Fan",
+    "Manufacturer": "Noctua",
+    "Part #": "NF-A6x25-PWM",
+    "Size": "60 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "550 - 3000 RPM",
+    "Airflow": "13.3 - 17.19 CFM",
+    "Noise Level": "13.7 - 19.3 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.18 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ldw7YJ/noctua-nf-a6x25-pwm-1719-cfm-60-mm-fan-nf-a6x25-pwm"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Crucial Ballistix MAX 32 GB (2 x 16 GB) DDR4-4400 CL19 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLM2K16G44C19U4B",
+    "Speed": "DDR4-4400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "8.636 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jLpmP6/crucial-ballistix-max-32-gb-2-x-16-gb-ddr4-4400-memory-blm2k16g44c19u4b"
+}

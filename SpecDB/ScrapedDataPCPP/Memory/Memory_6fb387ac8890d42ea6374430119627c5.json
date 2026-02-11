@@ -1,0 +1,17 @@
+{
+    "name": "Silicon Power XPOWER Turbine RGB 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP016GXLZU320BDB",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$7.924",
+    "Color": "Silver / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lb448d/silicon-power-xpower-turbine-rgb-16-gb-2-x-8-gb-ddr4-3200-memory-sp016gxlzu320bdb"
+}

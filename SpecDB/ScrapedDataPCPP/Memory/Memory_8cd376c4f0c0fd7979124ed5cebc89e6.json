@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X II AMD 64 GB (2 x 32 GB) DDR4-3200 CL18 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAEXSY464GB3200C18BDC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9yBzK8/geil-evo-x-ii-amd-64-gb-2-x-32-gb-ddr4-3200-cl18-memory-gaexsy464gb3200c18bdc"
+}

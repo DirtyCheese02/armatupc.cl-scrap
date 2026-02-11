@@ -1,0 +1,19 @@
+{
+    "name": "Gelid Solutions Stella Frost Daisy Chain 70 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Gelid Solutions",
+    "Model": "Stella Frost Daisy Chain",
+    "Part #": "FN-STELLA-D-02",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "70 CFM",
+    "Noise Level": "35 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jqdG3C/gelid-solutions-stella-frost-daisy-chain-70-cfm-120-mm-fans-3-pack-fn-stella-d-02"
+}

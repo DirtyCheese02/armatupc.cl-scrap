@@ -1,0 +1,21 @@
+{
+    "name": "XFX Speedster SWFT 309 Radeon RX 6700 10 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-67XLKWFDV",
+    "Chipset": "Radeon RX 6700",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2132 MHz",
+    "Boost Clock": "2425 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "304 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rs92FT/xfx-speedster-swft-309-radeon-rx-6700-10-gb-video-card-rx-67xlkwfdv"
+}

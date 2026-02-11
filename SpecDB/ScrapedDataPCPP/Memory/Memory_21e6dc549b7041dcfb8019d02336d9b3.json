@@ -1,0 +1,15 @@
+{
+    "name": "Crucial CT2KIT51264BC1067 8 GB (2 x 4 GB) DDR3-1066 SODIMM CL7 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CT2KIT51264BC1067",
+    "Speed": "DDR3-1066",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Green",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VCR48d/crucial-memory-ct2kit51264bc1067"
+}

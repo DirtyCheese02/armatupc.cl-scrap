@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Titanium 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMP64GX5M2B6000C30W",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.4 V",
+    "Timing": "30-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8LbRsY/corsair-dominator-titanium-64-gb-2-x-32-gb-ddr5-6000-cl30-memory-cmp64gx5m2b6000c30w"
+}

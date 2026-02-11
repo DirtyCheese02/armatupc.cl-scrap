@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws V 8 GB (2 x 4 GB) DDR4-2800 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2800C15D-8GVR",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.25 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NFGj4D/gskill-memory-f42800c15d8gvr"
+}

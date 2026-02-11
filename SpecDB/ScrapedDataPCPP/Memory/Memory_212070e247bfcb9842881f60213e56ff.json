@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL28 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH64GX5M2B6000Z28",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$17.578",
+    "Color": "Black",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.44 V",
+    "Timing": "28-36-36-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mQh2FT/corsair-vengeance-rgb-64-gb-2-x-32-gb-ddr5-6000-cl28-memory-cmh64gx5m2b6000z28"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Asus STRIX GAMING GeForce RTX 3080 10GB 10 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[ROG-STRIX-RTX3080-10G-GAMING, 90YV0FA0-M0NM00]",
+    "Chipset": "GeForce RTX 3080 10GB",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1740 MHz",
+    "Effective Memory Clock": "19500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "318 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cnRgXL/asus-geforce-rtx-3080-10-gb-strix-gaming-video-card-rog-strix-rtx3080-10g-gaming"
+}

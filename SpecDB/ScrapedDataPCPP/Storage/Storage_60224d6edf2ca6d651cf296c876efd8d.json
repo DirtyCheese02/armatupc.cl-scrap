@@ -1,0 +1,14 @@
+{
+    "name": "Plextor M5M 128 GB mSATA Solid State Drive",
+    "Manufacturer": "Plextor",
+    "Part #": "PX-128M5M",
+    "Capacity": "128 GB",
+    "Type": "SSD",
+    "Cache": "256 MB",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dVxfrH/plextor-internal-hard-drive-px128m5m"
+}

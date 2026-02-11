@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire PULSE Radeon RX 6750 XT 12 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11318-03-20G",
+    "Chipset": "Radeon RX 6750 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2150 MHz",
+    "Boost Clock": "2618 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Red / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "280 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8yNxFT/sapphire-radeon-rx-6750-xt-12-gb-pulse-video-card-11318-03-20g"
+}

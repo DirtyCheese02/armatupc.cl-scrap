@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 16 GB (2 x 8 GB) DDR3-2133 SODIMM CL11 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-2133C11D-16GRSL",
+    "Speed": "DDR3-2133",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10.314 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9RjG3C/gskill-memory-f32133c11d16grsl"
+}

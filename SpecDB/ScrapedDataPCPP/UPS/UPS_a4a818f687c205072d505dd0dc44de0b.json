@@ -1,0 +1,16 @@
+{
+    "name": "APC BF500-GR UPS",
+    "Manufacturer": "APC",
+    "Part #": "BF500-GR",
+    "Capacity (W)": "325 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "USB": "Yes",
+    "Waveform Type": "Stepped Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ppbkcf/apc-ups-bf500gr"
+}

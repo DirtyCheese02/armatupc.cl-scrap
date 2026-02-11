@@ -1,0 +1,21 @@
+{
+    "name": "APC BE550R UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE550R",
+    "Capacity (W)": "330 W",
+    "Capacity (VA)": "550 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "3.30 Minutes",
+    "Backup/Run Time (Half Load)": "13.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Surge, Spike]",
+    "Receptacles": "4 x NEMA 5-15R",
+    "USB": "Yes",
+    "Waveform Type": "Stepped Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fr7CmG/apc-ups-be550r"
+}

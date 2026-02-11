@@ -1,0 +1,17 @@
+{
+    "name": "Timetec PINNACLE Konduit 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Timetec",
+    "Part #": "PKMD4U36C18FNHW8GK2",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$7.312",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d3ZXsY/timetec-pinnacle-konduit-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-pkmd4u36c18fnhw8gk2"
+}

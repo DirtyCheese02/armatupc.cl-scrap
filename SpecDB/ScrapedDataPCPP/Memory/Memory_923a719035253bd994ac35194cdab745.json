@@ -1,0 +1,16 @@
+{
+    "name": "Kingston Impact 32 GB (2 x 16 GB) DDR4-2133 SODIMM CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX421S13IBK2/32",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "12.189 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.2 V",
+    "Timing": "13-13-13-33",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/V8rcCJ/kingston-impact-32gb-2-x-16gb-ddr4-2133-memory-hx421s13ibk232"
+}

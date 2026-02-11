@@ -1,0 +1,11 @@
+{
+    "name": "SIIG JU-WR0112-S1 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "SIIG",
+    "Part #": "JU-WR0112-S1",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP Encryption<br/>WPA, WPA-PSK, WPA2, WPA2-PSK, TKIP/AES<br/>Wi-Fi Protected Setup (WPS)",
+    "Antenna": "External Antenna",
+    "Features": "[MIMO technology improves data throughput and range, Supports 2.4GHz WLAN networks and complies with IEEE 802.11n/g/b, Operating distance: up to 300ft indoor and 900ft in open space, Supports WLAN security with WPA, WEP (128/64) and WPS, Supports Ad Hoc and infrastructure modes, Provides up to 150Mbps (download & upload) data transmission rate, Integrated antennas]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HYn2FT/siig-wireless-network-card-juwr0112s1"
+}

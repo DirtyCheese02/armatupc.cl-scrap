@@ -1,0 +1,19 @@
+{
+    "name": "Gelid Solutions Silent 37.89 CFM 92 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Part #": "FN-PX09-20",
+    "Size": "92 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 2000 RPM",
+    "Airflow": "37.89 CFM",
+    "Noise Level": "11 - 23.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Hydro Dynamic Bearing",
+    "Features": "[Pulse Width Modulation  (PWM), Silent Operation w/ Rubber Fan Mounts, Optimized Fan Blades, High Airflow & High Static Pressure, Long Lifetime (50'000 h MTTF at 40°C), Safety Approvals: CE, RoHS Compliant]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TKvRsY/gelid-solutions-fn-px09-20-3789-cfm-92-mm-fan-fn-px09-20"
+}

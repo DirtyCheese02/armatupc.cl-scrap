@@ -1,0 +1,17 @@
+{
+    "name": "Corsair WS 128 GB (8 x 16 GB) Registered DDR5-5600 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMA128GX5M8B5600C40",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "8 x 16GB",
+    "Price / GB": "$17.687",
+    "Color": "Black / Green",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rtfxFT/corsair-ws-128-gb-8-x-16-gb-registered-ddr5-5600-cl40-memory-cma128gx5m8b5600c40"
+}

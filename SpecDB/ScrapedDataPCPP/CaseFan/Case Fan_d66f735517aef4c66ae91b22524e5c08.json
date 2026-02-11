@@ -1,0 +1,19 @@
+{
+    "name": "Corsair iCUE AF120 RGB SLIM 56.3 CFM 120 mm Fans 2-Pack",
+    "Manufacturer": "Corsair",
+    "Model": "iCUE AF120 RGB SLIM",
+    "Part #": "CO-9050163-WW",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "2-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2000 RPM",
+    "Airflow": "13.4 - 56.3 CFM",
+    "Noise Level": "27.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "5V Addressable RGB",
+    "Static Pressure": "1.9 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ymDQzy/corsair-icue-af120-rgb-slim-563-cfm-120-mm-fans-2-pack-co-9050163-ww"
+}

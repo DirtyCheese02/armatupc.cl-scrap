@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (4 x 4 GB) DDR3-2400 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX3M4A2400C9",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Price / GB": "$29.174",
+    "Color": "Black / Silver",
+    "First Word Latency": "7.5 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "Timing": "9-11-11-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YCTmP6/corsair-memory-cmd16gx3m4a2400c9"
+}

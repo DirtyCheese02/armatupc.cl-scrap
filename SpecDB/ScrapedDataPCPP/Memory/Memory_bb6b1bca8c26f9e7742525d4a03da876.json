@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 8 GB (2 x 4 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX424C15FBK2/8",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / White",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T7Trxr/kingston-memory-hx424c15fbk28"
+}

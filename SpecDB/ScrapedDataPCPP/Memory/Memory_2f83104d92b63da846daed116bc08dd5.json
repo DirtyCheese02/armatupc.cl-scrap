@@ -1,0 +1,16 @@
+{
+    "name": "Avexir Core 8 GB (2 x 4 GB) DDR3-2800 CL14 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD3U28001204G-2CI",
+    "Speed": "DDR3-2800",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.65 V",
+    "Timing": "14-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hWc48d/avexir-core-8gb-2-x-4gb-ddr3-2800-memory-avd3u28001204g-2ci"
+}

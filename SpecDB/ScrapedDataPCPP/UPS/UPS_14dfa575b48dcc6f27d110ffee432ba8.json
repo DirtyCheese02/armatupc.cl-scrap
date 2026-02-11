@@ -1,0 +1,19 @@
+{
+    "name": "APC SMT1500X448 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT1500X448",
+    "Capacity (W)": "1000 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "6.50 Minutes",
+    "Backup/Run Time (Half Load)": "23.10 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YCyxFT/apc-ups-smt1500x448"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D iChill X3 Ultra GeForce RTX 2060 SUPER 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "C206S3-08D6X-1731VA17",
+    "Chipset": "GeForce RTX 2060 SUPER",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1470 MHz",
+    "Boost Clock": "1695 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fbkgXL/inno3d-geforce-rtx-2060-super-8-gb-ichill-x3-ultra-video-card-c206s3-08d6x-1731va17"
+}

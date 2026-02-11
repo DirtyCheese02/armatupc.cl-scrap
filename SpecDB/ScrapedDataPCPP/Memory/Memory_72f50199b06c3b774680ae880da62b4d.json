@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (4 x 4 GB) DDR4-3666 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX4M4B3666C18",
+    "Speed": "DDR4-3666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "9.82 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NDx9TW/corsair-memory-cmd16gx4m4b3666c18"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS GP GeForce RTX 2080 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "RTX 2080 VENTUS GP 8G",
+    "Chipset": "GeForce RTX 2080",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1710 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "255 mm",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nWDkcf/msi-geforce-rtx-2080-8-gb-ventus-gp-video-card-rtx-2080-ventus-gp-8g"
+}

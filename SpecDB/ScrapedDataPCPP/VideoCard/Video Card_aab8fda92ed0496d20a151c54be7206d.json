@@ -1,0 +1,23 @@
+{
+    "name": "Asus STRIX GAMING OC Radeon RX 5700 XT 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[ROG-STRIX-RX5700XT-O8G-GAMING, 90YV0D90-M0NA00]",
+    "Chipset": "Radeon RX 5700 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1770 MHz",
+    "Boost Clock": "2035 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "305 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KDxbt6/asus-radeon-rx-5700-xt-8-gb-strix-gaming-oc-video-card-rog-strix-rx5700xt-o8g-gaming"
+}

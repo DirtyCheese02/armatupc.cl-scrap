@@ -1,0 +1,18 @@
+{
+    "name": "CRYORIG QF120 Balance 49 CFM 120 mm Fan",
+    "Manufacturer": "CRYORIG",
+    "Model": "QF120 Balance",
+    "Part #": "[QF120 Balanced, CR-QFA]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "330 - 1600 RPM",
+    "Airflow": "49 CFM",
+    "Noise Level": "10 - 25 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7zyxFT/cryorig-case-fan-qf120balance"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Kingston Fury Renegade RGB 48 GB (2 x 24 GB) DDR5-8000 CL36 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF580C36RLAK2-48",
+    "Speed": "DDR5-8000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.45 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w6GhP6/kingston-fury-renegade-rgb-48-gb-2-x-24-gb-ddr5-8000-cl36-memory-kf580c36rlak2-48"
+}

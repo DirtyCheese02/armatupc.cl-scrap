@@ -1,0 +1,20 @@
+{
+    "name": "Antec Solo ATX Mid Tower Case",
+    "Manufacturer": "Antec",
+    "Part #": "Solo",
+    "Type": "ATX Mid Tower",
+    "Color": "Black / White",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[254 mm, 10\"]",
+    "Drive Bays": "[4 x External 5.25\", 4 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "120 mm",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[469 mm x 205 mm x 431 mm, 18.465\" x 8.071\" x 16.969\"]",
+    "Volume": "[41.438 L, 1.463 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Kmckcf/antec-case-solo"
+}

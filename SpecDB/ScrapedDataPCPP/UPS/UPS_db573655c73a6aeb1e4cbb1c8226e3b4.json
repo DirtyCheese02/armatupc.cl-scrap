@@ -1,0 +1,18 @@
+{
+    "name": "HP AF460A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF460A",
+    "Capacity (W)": "4500 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "5.70 Minutes",
+    "Backup/Run Time (Half Load)": "16 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "48 Hour",
+    "Receptacles": "[4 x IEC 60320 C13, 4 x IEC 60320 C19, 1 x NEMA L6-30R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4xYWGX/hp-ups-af460a"
+}

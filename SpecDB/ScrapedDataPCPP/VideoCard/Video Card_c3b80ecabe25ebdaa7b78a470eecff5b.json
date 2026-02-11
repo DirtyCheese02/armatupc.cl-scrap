@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 3X OC GeForce RTX 4070 Ti 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 4070 Ti VENTUS 3X 12G OC, V513-001R, GEFORCE RTX 4070 TI VENTUS 3X 12G OC, 912-V513-006, G407TV3X12C]",
+    "Chipset": "GeForce RTX 4070 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2655 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "308 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QX92FT/msi-ventus-3x-oc-geforce-rtx-4070-ti-12-gb-video-card-rtx-4070-ti-ventus-3x-12g-oc"
+}

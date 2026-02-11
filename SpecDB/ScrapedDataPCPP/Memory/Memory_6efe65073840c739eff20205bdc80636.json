@@ -1,0 +1,14 @@
+{
+    "name": "Micron MT8JTF25664AZ-1G4D1 2 GB (1 x 2 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Micron",
+    "Part #": "MT8JTF25664AZ-1G4D1",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MRNgXL/micron-2-gb-1-x-2-gb-ddr3-1333-cl9-memory-mt8jtf25664az-1g4d1"
+}

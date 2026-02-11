@@ -1,0 +1,23 @@
+{
+    "name": "MSI Radeon RX 6600 ARMOR 8G V1 Radeon RX 6600 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Model": "Radeon RX 6600 ARMOR 8G V1",
+    "Part #": "[RX 6600 ARMOR 8G V1, Radeon RX 6600 ARMOR 8G V1]",
+    "Chipset": "Radeon RX 6600",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1626 MHz",
+    "Boost Clock": "2491 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "238 mm",
+    "TDP": "132 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mX3gXL/msi-radeon-rx-6600-8-gb-armor-v1-video-card-rx-6600-armor-8g-v1"
+}

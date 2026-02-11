@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X6 1100T Black 3.3 GHz 6-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDE00ZFBK6DGR",
+    "Series": "AMD Phenom II X6",
+    "Microarchitecture": "K10",
+    "Core Family": "Thuban",
+    "Socket": "AM3",
+    "Core Count": "6",
+    "Thread Count": "6",
+    "Performance Core Clock": "3.3 GHz",
+    "L2 Cache": "3 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sVNp99/amd-cpu-hde00zfbk6dgr"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F4-3600C17Q2-128GTZSW 128 GB (8 x 16 GB) DDR4-3600 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C17Q2-128GTZSW",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Gray / White",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "Timing": "17-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qZVmP6/gskill-f4-3600c17q2-128gtzsw-128-gb-8-x-16-gb-ddr4-3600-cl17-memory-f4-3600c17q2-128gtzsw"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek XLF 76 CFM 200 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XLF-F2006",
+    "Size": "200 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 RPM",
+    "Airflow": "76 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Higher airflow, static pressure and torque., Reduce noise and power consumption, 4 pcs White LEDs and transparent colorific blade and frame, Low noise level., Optimized blade design to create cooling performance, Anti-vibration rubbers attached.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nc8Zxr/xigmatek-case-fan-xlff2006"
+}

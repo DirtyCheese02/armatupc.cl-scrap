@@ -1,0 +1,12 @@
+{
+    "name": "Thermaltake Commander FT Fan Controller",
+    "Manufacturer": "Thermaltake",
+    "Model": "Commander FT",
+    "Part #": "AC-010-B51NAN-A1",
+    "Channels": "5",
+    "Channel Wattage": "10 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[Type: Touch Screen Fan Controller, Screen Size: 5.5\", Power Input: 12V, Fans Channels: 5, Individual Fan Wattage: 10W, Combined Fan Wattage: 50W, Fan Speed Range: 0 - 9990RPM, Temerture Sensor: 1, Fan Connector Supported: 3-pin / 4-pin, Power Connector: (1) 4-pin Peripherial (Molex), Weight: 24g, Color : Black, Touch Screen Fan Speed Slider, Warning Alarm with built-in Short Circuit Protection, Thermal Dynamics Readout, Easily Switch between F / C, Supports up to (5) Fan Simultaneously]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XnnG3C/thermaltake-commander-ft-fan-controller-ac-010-b51nan-a1"
+}

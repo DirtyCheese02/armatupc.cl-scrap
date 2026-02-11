@@ -1,0 +1,22 @@
+{
+    "name": "AMD FirePro W8000 FirePro W8000 4 GB Video Card",
+    "Manufacturer": "AMD",
+    "Model": "FirePro W8000",
+    "Part #": "100-505845",
+    "Chipset": "FirePro W8000",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "5500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "279 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9t648d/amd-video-card-100505845"
+}

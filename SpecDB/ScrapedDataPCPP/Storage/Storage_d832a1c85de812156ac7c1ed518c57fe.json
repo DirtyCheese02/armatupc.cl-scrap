@@ -1,0 +1,13 @@
+{
+    "name": "Intel 330 60 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSC2CT060A3K5",
+    "Capacity": "60 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RrkD4D/intel-internal-hard-drive-ssdsc2ct060a3k5"
+}

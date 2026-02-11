@@ -1,0 +1,22 @@
+{
+    "name": "Corsair RM750e (2025) 750 W Fully Modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "RM750e (2025)",
+    "Part #": "[CP-9020292-NA, CP-9020292-UK, CP-9020292-EU, CP-9020292-AU]",
+    "Type": "ATX",
+    "Wattage": "750 W",
+    "Length": "140 mm",
+    "Modular": "Full",
+    "Color": "White",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "1",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "3",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q3Nscf/corsair-rm750e-2025-750-w-fully-modular-atx-power-supply-cp-9020292-na"
+}

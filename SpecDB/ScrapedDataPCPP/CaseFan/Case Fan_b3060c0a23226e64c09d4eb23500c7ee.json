@@ -1,0 +1,18 @@
+{
+    "name": "ID-COOLING ZF-12025 Pastel 55.2 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "ZF-12025-L",
+    "Size": "120 mm",
+    "Color": "Yellow",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 2000 RPM",
+    "Airflow": "55.2 CFM",
+    "Noise Level": "16.3 - 33.5 dB",
+    "PWM": "Yes",
+    "LED": "White",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.13 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FtjBD3/id-cooling-zf-12025-pastel-552-cfm-120-mm-fan-zf-12025-l"
+}

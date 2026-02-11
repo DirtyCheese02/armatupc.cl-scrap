@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 8 GB (1 x 8 GB) DDR5-6400 CL40 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FLRD58G6400HC40B01",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 8GB",
+    "Color": "Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.35 V",
+    "Timing": "40-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r9sV3C/teamgroup-t-force-vulcan-8-gb-1-x-8-gb-ddr5-6400-cl40-memory-flrd58g6400hc40b01"
+}

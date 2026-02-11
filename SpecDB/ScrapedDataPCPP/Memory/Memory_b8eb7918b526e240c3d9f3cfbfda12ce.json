@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan Z 8 GB (1 x 8 GB) DDR4-3600 CL20 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLZRD48G3600HC20D01",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Red",
+    "First Word Latency": "11.111 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.35 V",
+    "Timing": "20-24-24-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wCXJ7P/teamgroup-t-force-vulcan-z-8-gb-1-x-8-gb-ddr4-3600-cl20-memory-tlzrd48g3600hc20d01"
+}

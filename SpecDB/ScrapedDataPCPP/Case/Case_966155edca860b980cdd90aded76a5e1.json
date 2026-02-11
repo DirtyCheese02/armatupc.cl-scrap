@@ -1,0 +1,21 @@
+{
+    "name": "Antec P30 AIR ATX Mid Tower Case",
+    "Manufacturer": "Antec",
+    "Part #": "[P30 AIR, 0-761345-10256-8]",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Tempered Glass",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[405 mm, 15.945\"]",
+    "Drive Bays": "[2 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[Front: 2 x 120 mm / 2 x 140 mm, Rear: 1 x 120 mm, Top: 3 x 120 mm / 2 x 140 mm, PSU Shroud: 2 x 120 mm]",
+    "Included Fans": "[Front: 2 x 140 mm (PWM), Rear: 1 x 120 mm (PWM), PSU Shroud: 2 x 120 mm (Reversed PWM)]",
+    "Radiator Support": "[Front: 240 / 140 / 120 mm, Rear: 120 mm, Top: 360 / 240 / 120 mm]",
+    "Dimensions": "[478 mm x 222 mm x 465 mm, 18.819\" x 8.74\" x 18.307\"]",
+    "Volume": "[49.344 L, 1.743 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gVPv6h/antec-p30-air-atx-mid-tower-case-p30-air"
+}

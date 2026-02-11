@@ -1,0 +1,15 @@
+{
+    "name": "Kingston Beast 16 GB (4 x 4 GB) DDR3-1866 CL10 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX18C10T3K4/16",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "10.718 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H67wrH/kingston-memory-khx18c10t3k416"
+}

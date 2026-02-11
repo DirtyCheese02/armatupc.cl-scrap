@@ -1,0 +1,13 @@
+{
+    "name": "Intel 313 24 GB mSATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDMAEXC024G301",
+    "Capacity": "24 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21BA0",
+    "SSD NAND Flash Type": "SLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8qvRsY/intel-internal-hard-drive-ssdmaexc024g301"
+}

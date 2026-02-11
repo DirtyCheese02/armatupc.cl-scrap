@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SMART5000XFMRXL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART5000XFMRXL",
+    "Capacity (W)": "3750 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "8.50 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "208 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[1 x NEMA L6-30R, 2 x NEMA L6-20R, 8 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KPs8TW/tripp-lite-ups-smart5000xfmrxl"
+}

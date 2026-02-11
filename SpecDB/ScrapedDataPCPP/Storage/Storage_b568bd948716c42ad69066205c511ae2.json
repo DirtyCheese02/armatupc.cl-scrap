@@ -1,0 +1,22 @@
+{
+    "name": "Crucial T700 4 TB M.2-2280 PCIe 5.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT4000T700SSD3",
+    "Capacity": "4 TB",
+    "Price / GB": "$0.146",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 5.0 X4",
+    "NVME": "Yes",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xhkH99/crucial-t700-4-tb-m2-2280-pcie-50-x4-nvme-solid-state-drive-ct4000t700ssd3"
+}

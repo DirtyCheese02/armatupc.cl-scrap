@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FQ 63.8 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FQ122",
+    "Size": "120 mm",
+    "Color": "White / Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1500 RPM",
+    "Airflow": "37.79 - 63.8 CFM",
+    "Noise Level": "15.9 - 24.9 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "P.C.F. bearing (Powder Copper Fluid Bearing)",
+    "Features": "[PWM design allows 800~1500rpm fan speed control by motherboard, Optimum airflow, pressure and extremely silent performance, Innovative blade design focuses airflow with maximum efficiency, Air-inlet with optimized aerodynamic design reduces noisy air turbulence, Anti-vibration rubber pads included for additional noise dampening]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w7PzK8/silverstone-case-fan-fq122"
+}

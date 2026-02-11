@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Fighter Radeon RX 6700 10 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 6700 10GBD6-3DH/OC",
+    "Chipset": "Radeon RX 6700",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1941 MHz",
+    "Boost Clock": "2495 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "228 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2zqPxr/powercolor-fighter-radeon-rx-6700-10-gb-video-card-axrx-6700-10gbd6-3dhoc"
+}

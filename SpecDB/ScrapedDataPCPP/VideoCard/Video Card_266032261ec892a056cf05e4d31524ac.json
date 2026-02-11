@@ -1,0 +1,23 @@
+{
+    "name": "Asus STRIX GAMING Advanced GeForce GTX 1650 SUPER 4 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ROG-STRIX-GTX1650S-A4G-GAMING",
+    "Chipset": "GeForce GTX 1650 SUPER",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1770 MHz",
+    "Effective Memory Clock": "12002 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "243 mm",
+    "TDP": "100 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yGjNnQ/asus-geforce-gtx-1650-super-4-gb-strix-gaming-advanced-video-card-rog-strix-gtx1650s-a4g-gaming"
+}

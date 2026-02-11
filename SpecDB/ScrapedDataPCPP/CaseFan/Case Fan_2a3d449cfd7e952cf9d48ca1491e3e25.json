@@ -1,0 +1,20 @@
+{
+    "name": "NZXT FS 89.5 CFM 193 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "FS-200RB-GLED",
+    "Size": "193 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 RPM",
+    "Airflow": "89.5 CFM",
+    "Noise Level": "20.16 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.98 mmH₂O",
+    "Bearing Type": "Rifle Bearing",
+    "Features": "[11 Blade Rifle Bearing Fan, LED On/Off Switch, Compatible with Phantom LED Switch, Sleeved Cables, Voltage: 12V DC, Current: 0.42A+10%, Input: 5.04W, Air Pressure: 0.98mm H2O, Life: 40,000 hours]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GyYXsY/nzxt-case-fan-fs200rbgled"
+}

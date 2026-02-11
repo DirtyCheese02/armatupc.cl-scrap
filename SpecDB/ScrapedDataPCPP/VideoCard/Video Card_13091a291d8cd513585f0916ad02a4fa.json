@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor AX6790 1GBD5-DH Radeon HD 6790 1 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AX6790 1GBD5-DH",
+    "Chipset": "Radeon HD 6790",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "840 MHz",
+    "Effective Memory Clock": "1050 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2nR48d/powercolor-video-card-ax67901gbd5dh"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "PNY VERTO GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG30508DFBPB1",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1777 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "228 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bYpzK8/pny-verto-geforce-rtx-3050-8gb-8-gb-video-card-vcg30508dfbpb1"
+}

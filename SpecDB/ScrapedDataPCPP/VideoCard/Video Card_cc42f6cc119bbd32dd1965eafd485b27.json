@@ -1,0 +1,23 @@
+{
+    "name": "Asus Turbo EVO GeForce RTX 2070 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "TURBO-RTX2070-8G-EVO",
+    "Chipset": "GeForce RTX 2070",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1650 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "268 mm",
+    "TDP": "185 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yqDJ7P/asus-geforce-rtx-2070-8-gb-evo-turbo-video-card-turbo-rtx2070-8g-evo"
+}

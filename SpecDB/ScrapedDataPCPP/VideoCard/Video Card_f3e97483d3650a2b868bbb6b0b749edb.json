@@ -1,0 +1,23 @@
+{
+    "name": "AMD 100-505957 Radeon Pro WX 9100 16 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-505957",
+    "Chipset": "Radeon Pro WX 9100",
+    "Memory": "16 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1200 MHz",
+    "Boost Clock": "1500 MHz",
+    "Effective Memory Clock": "1890 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "Length": "267 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bxhj4D/amd-radeon-pro-wx-9100-16gb-video-card-100-505957"
+}

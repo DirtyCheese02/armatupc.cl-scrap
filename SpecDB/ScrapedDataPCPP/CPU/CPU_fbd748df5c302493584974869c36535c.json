@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i3-3220 3.3 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80637I33220",
+    "Series": "Intel Core i3",
+    "Microarchitecture": "Ivy Bridge",
+    "Core Family": "Ivy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "2",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.3 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "3 MB",
+    "TDP": "55 W",
+    "Integrated Graphics": "Intel HD Graphics 2500",
+    "ECC Support": "Yes",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dZphP6/intel-cpu-bx80637i33220"
+}

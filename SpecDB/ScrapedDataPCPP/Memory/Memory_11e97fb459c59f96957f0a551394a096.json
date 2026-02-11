@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Evo Two 16 GB (2 x 8 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GET316GB1333C9DC",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TrkD4D/geil-memory-get316gb1333c9dc"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL GeForce RTX 5060 Ti 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[dual-rtx5060ti-16g, 90YV0MH1-M0NA00]",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2602 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "229 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cmxTwP/asus-dual-geforce-rtx-5060-ti-16-gb-video-card-dual-rtx5060ti-16g"
+}

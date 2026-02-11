@@ -1,0 +1,22 @@
+{
+    "name": "Philips BDL3245E00 32.0\" 1920 x 1080 60 Hz Monitor",
+    "Manufacturer": "Philips",
+    "Part #": "BDL3245E00",
+    "Screen Size": "32\"",
+    "Resolution": "1920 x 1080",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "5 ms",
+    "Aspect Ratio": "16:9",
+    "Brightness": "500 cd/m²",
+    "Pixel Pitch": "0.369 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "No",
+    "VESA Mounting": "400 x 200",
+    "Viewing Angle": "178° H x 178° V",
+    "Display Colors": "1060000000",
+    "Contrast Ratio": "1450:1",
+    "Inputs": "[1 x Component, 1 x DVI, 1 x HDMI, 1 x S-Video, 1 x VGA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wcw323/philips-monitor-bdl3245e00"
+}

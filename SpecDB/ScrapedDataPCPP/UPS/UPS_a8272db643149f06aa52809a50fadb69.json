@@ -1,0 +1,20 @@
+{
+    "name": "CyberPower PR750LCDTAA UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR750LCDTAA",
+    "Capacity (W)": "525 W",
+    "Capacity (VA)": "750 VA",
+    "Alarm": "[Low Battery, On Battery, Overload]",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Mini-tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TGfmP6/cyberpower-ups-pr750lcdtaa"
+}

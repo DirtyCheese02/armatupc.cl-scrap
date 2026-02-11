@@ -1,0 +1,15 @@
+{
+    "name": "Kingston LoVo 4 GB (2 x 2 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1600C9D3LK2/4GX",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Green / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rwBv6h/kingston-memory-khx1600c9d3lk24gx"
+}

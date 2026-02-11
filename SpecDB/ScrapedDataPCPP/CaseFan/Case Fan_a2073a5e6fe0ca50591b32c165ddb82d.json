@@ -1,0 +1,19 @@
+{
+    "name": "Prolimatech Vortex 56 CFM 120 mm Fan",
+    "Manufacturer": "Prolimatech",
+    "Part #": "PRO-USV12-WH",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1300 RPM",
+    "Airflow": "56 CFM",
+    "Noise Level": "7 - 17 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Double Ball Bearing",
+    "Features": "[17 bladed fan specially engineered to provide high static pressure and wind volume while reducing noise., Only 15 mm thick! Allows the USV Fan to be installed in smaller spaces that 25 mm fans won't fit!, Variable fan speed from 400 to 1300 RPM with PWM., Light weight, reducing stress on boards already burdened with heavy heatsinks!, Especially suited for Home Theater PCs and smaller cases, where excellent cooling ability and quiet operation is desired.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KgYXsY/prolimatech-case-fan-prousv12wh"
+}

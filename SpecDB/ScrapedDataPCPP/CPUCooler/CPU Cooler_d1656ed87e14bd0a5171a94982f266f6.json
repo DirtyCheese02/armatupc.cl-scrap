@@ -1,0 +1,11 @@
+{
+    "name": "Intel BXTS15A CPU Cooler",
+    "Manufacturer": "Intel",
+    "Part #": "BXTS15A",
+    "Fan RPM": "1000 - 3850 RPM",
+    "Height": "90 mm",
+    "CPU Socket": "[LGA1150, LGA1151, LGA1155, LGA1156, LGA1200]",
+    "Water Cooled": "No",
+    "Fanless": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YykwrH/intel-cpu-cooler-bxts15a"
+}

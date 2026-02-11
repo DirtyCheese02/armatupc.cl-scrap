@@ -1,0 +1,22 @@
+{
+    "name": "Xilence XP600R6 600 W ATX Power Supply",
+    "Manufacturer": "Xilence",
+    "Model": "XP600R6",
+    "Part #": "XN044",
+    "Type": "ATX",
+    "Wattage": "600 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Color": "Black / Red",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NCMwrH/xilence-xp600r6-600-w-atx-power-supply-xn044"
+}

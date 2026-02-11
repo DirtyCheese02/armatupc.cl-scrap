@@ -1,0 +1,11 @@
+{
+    "name": "Intel 750 1.2 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDMW012T4R5",
+    "Capacity": "1.2 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MCyxFT/intel-internal-hard-drive-ssdpedmw012t4r5"
+}

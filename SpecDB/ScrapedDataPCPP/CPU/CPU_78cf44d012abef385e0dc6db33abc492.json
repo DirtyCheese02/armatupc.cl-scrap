@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II X2 235e 2.7 GHz Dual-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD235EHDGQBOX",
+    "Series": "AMD Athlon II X2",
+    "Microarchitecture": "K10",
+    "Core Family": "Regor",
+    "Socket": "AM3",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.7 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "45 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ws7wrH/amd-cpu-ad235ehdgqbox"
+}

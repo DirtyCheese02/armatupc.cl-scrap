@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Hermes RGB 32 GB (2 x 16 GB) DDR5-8000 CL36 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "[BL.9BWWR.414, HERMES-32GB-8000-1R8-V1]",
+    "Speed": "DDR5-8000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.45 V",
+    "Timing": "36-48-48-126",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GwQKHx/acer-predator-hermes-rgb-32-gb-2-x-16-gb-ddr5-8000-cl36-memory-bl9bwwr414"
+}

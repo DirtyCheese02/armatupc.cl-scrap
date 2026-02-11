@@ -1,0 +1,20 @@
+{
+    "name": "Xion XON-700P12F 700 W ATX Power Supply",
+    "Manufacturer": "Xion",
+    "Part #": "XON-700P12F",
+    "Type": "ATX",
+    "Wattage": "700 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@25A, +12V2@25A, -12V@0.3A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D8Np99/xion-xon-700p12f-700-w-atx-power-supply-xon-700p12f"
+}

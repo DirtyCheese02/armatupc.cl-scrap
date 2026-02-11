@@ -1,0 +1,10 @@
+{
+    "name": "SIIG CN-WR0811-S1 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "SIIG",
+    "Part #": "CN-WR0811-S1",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64-bit  / 128-bit WEP<br/>WPA (TKIP with IEEE 802.1x)<br/>WPA2 (AES with IEEE 802.1x)",
+    "Features": "[Chipset: Ralink RT5392, 2-Transmitter & 2-Receiver antennas configuration, Supports QoS-WMM, WMM-PS, 20MHz / 40MHz Bandwidth, Supports WPS (Wi-Fi protected setup), Supports Multiple BSSID, Legacy and high throughput modes, Infrastructure / Ad-Hoc / Soft AP network modes support, Two detachable 2dBi antennas, Form factor: Full profile / Low profile, Media Access Control: CSMA / CA, Data Rate, 802.11b: 11, 5.5, 2 and 1Mb/s, 802.11g: 54, 48, 36, 24, 18, 12, 9 and 6Mb/s; Auto-fall back, 802.11n (20MHz channel): up to 144Mb/s, 802.11n (40MHz channel): up to 300Mb/s, Certifications/Standards: FCC, CE, RoHS, Complies with 2.4GHz IEEE 802.11 b/g/n standards, 2T2R with 300Mb/s data rate for both transmitting and receiving, Wireless security: 64/128bit WEP, WPA, WPA2, Installs in standard height or low profile chassis with included brackets]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HrZQzy/siig-wireless-network-card-cnwr0811s1"
+}

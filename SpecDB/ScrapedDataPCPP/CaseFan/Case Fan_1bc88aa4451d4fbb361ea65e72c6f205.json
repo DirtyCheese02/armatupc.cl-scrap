@@ -1,0 +1,18 @@
+{
+    "name": "Scythe Kaze Flex RGB 48.88 CFM 92 mm Fan",
+    "Manufacturer": "Scythe",
+    "Part #": "KF9225FD23R-P",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 2300 RPM",
+    "Airflow": "6.75 - 48.88 CFM",
+    "Noise Level": "7.3 - 28.83 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "2.03 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6PBG3C/scythe-kaze-flex-rgb-4888-cfm-92-mm-fan-kf9225fd23r-p"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Intel 320 300 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSA2CW300G3K5",
+    "Capacity": "300 GB",
+    "Price / GB": "$0.667",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21BA0",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WrFPxr/intel-internal-hard-drive-ssdsa2cw300g3k5"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Fractal Design Momentum 74.39 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "Fractal Design",
+    "Part #": "FD-F-MR1-1403",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 1800 RPM",
+    "Airflow": "74.39 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.45 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nZG2FT/fractal-design-momentum-7439-cfm-140-mm-fans-3-pack-fd-f-mr1-1403"
+}

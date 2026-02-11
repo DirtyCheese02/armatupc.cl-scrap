@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Challenger OC Radeon RX 9060 XT 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX9060XT CL 8GO, 90-GA5TZZ-00UANF]",
+    "Chipset": "Radeon RX 9060 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2220 MHz",
+    "Boost Clock": "3290 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "249 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "2",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zC4Pxr/asrock-challenger-oc-radeon-rx-9060-xt-8-gb-video-card-rx9060xt-cl-8go"
+}

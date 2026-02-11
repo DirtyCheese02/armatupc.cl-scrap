@@ -1,0 +1,19 @@
+{
+    "name": "Gigabyte AORUS 120 ARGB 40.85 CFM 120 mm Fan",
+    "Manufacturer": "Gigabyte",
+    "Model": "AORUS 120 ARGB",
+    "Part #": "GP-AR120RFAN",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1700 RPM",
+    "Airflow": "18.52 - 40.85 CFM",
+    "Noise Level": "7.3 - 28.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.48 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mkZ9TW/gigabyte-aorus-120-argb-4085-cfm-120-mm-fan-gp-ar120rfan"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Alphacool 24845 119.8 CFM 120 mm Fan",
+    "Manufacturer": "Alphacool",
+    "Part #": "24845",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "4000 RPM",
+    "Airflow": "119.8 CFM",
+    "Noise Level": "30 - 49.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "Manual",
+    "Static Pressure": "12.67 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h3jv6h/alphacool-24845-1198-cfm-120-mm-fan-24845"
+}

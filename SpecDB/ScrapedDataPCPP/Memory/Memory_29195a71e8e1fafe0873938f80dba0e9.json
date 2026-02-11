@@ -1,0 +1,15 @@
+{
+    "name": "GeIL GPR432GB2133C15QC 32 GB (4 x 8 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GPR432GB2133C15QC",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Zv648d/geil-memory-gpr432gb2133c15qc"
+}

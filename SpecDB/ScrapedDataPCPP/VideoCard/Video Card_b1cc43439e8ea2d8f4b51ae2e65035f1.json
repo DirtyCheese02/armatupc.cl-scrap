@@ -1,0 +1,23 @@
+{
+    "name": "Gainward Phantom GS GeForce RTX 3090 Ti 24 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NED309TS19SB-1022M",
+    "Chipset": "GeForce RTX 3090 Ti",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1560 MHz",
+    "Boost Clock": "1890 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "314 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pZC48d/gainward-phantom-gs-geforce-rtx-3090-ti-24-gb-video-card-ned309ts19sb-1022m"
+}

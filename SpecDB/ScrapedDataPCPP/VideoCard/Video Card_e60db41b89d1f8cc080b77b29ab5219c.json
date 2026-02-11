@@ -1,0 +1,21 @@
+{
+    "name": "Intel Limited Edition Arc A770 16 GB Video Card",
+    "Manufacturer": "Intel",
+    "Part #": "[99AK3T, 21P01J00BA]",
+    "Chipset": "Arc A770",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2100 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "250 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wjt9TW/intel-limited-edition-arc-a770-16-gb-video-card-99ak3t"
+}

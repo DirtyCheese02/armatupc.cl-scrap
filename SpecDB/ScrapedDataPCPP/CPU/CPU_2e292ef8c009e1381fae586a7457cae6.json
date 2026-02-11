@@ -1,0 +1,23 @@
+{
+    "name": "Intel Pentium G630 2.7 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80623G630",
+    "Series": "Intel Pentium",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.7 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "3 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sF2kcf/intel-cpu-bx80623g630"
+}

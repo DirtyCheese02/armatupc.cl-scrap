@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force DELTAα RGB 32 GB (2 x 16 GB) DDR5-5600 CL40 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF7D532G5600HC40BDC01",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.2 V",
+    "Timing": "40-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7pGhP6/teamgroup-t-force-delta-rgb-32-gb-2-x-16-gb-ddr5-5600-cl40-memory-ff7d532g5600hc40bdc01"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte AORUS XTREME ICE GeForce RTX 4080 SUPER 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N408SAORUSX ICE-16GD",
+    "Chipset": "GeForce RTX 4080 SUPER",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2210 MHz",
+    "Boost Clock": "2700 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Gold",
+    "Frame Sync": "G-Sync",
+    "Length": "357 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/t3pQzy/gigabyte-aorus-xtreme-ice-geforce-rtx-4080-super-16-gb-video-card-gv-n408saorusx-ice-16gd"
+}

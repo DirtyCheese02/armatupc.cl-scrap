@@ -1,0 +1,13 @@
+{
+    "name": "Western Digital WD_Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Western Digital",
+    "Part #": "[WDS200T2X0E, WDBB9G0020BNC-WRSN, WDS200T2X0E-00BCA0]",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.220",
+    "Type": "SSD",
+    "Cache": "2048 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/crKKHx/western-digital-wd_black-sn850x-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-wds200t2x0e"
+}

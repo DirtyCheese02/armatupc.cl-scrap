@@ -1,0 +1,18 @@
+{
+    "name": "Antec 75002 42.4 CFM 92 mm Fan",
+    "Manufacturer": "Antec",
+    "Part #": "75002",
+    "Size": "92 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2600 RPM",
+    "Airflow": "42.4 CFM",
+    "Noise Level": "33 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rjdqqs/antec-75002-424-cfm-92-mm-fan-75002"
+}

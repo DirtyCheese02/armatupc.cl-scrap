@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 64 GB (4 x 16 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD64GX4M4A2666C15",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MkX2FT/corsair-memory-cmd64gx4m4a2666c15"
+}

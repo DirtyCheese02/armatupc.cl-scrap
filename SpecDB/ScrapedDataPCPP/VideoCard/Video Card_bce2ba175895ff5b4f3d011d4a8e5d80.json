@@ -1,0 +1,22 @@
+{
+    "name": "Palit OC GeForce RTX 5060 Ti 16 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE7506TU19T1-GB2061M",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2602 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "262 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K2MXsY/palit-oc-geforce-rtx-5060-ti-16-gb-video-card-ne7506tu19t1-gb2061m"
+}

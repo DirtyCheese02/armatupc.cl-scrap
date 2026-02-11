@@ -1,0 +1,12 @@
+{
+    "name": "NZXT SENTRY 3 Fan Controller",
+    "Manufacturer": "NZXT",
+    "Model": "SENTRY 3",
+    "Part #": "AC-SEN-3-B1",
+    "Channels": "5",
+    "Channel Wattage": "15 W",
+    "PWM (4-Pin)": "Yes",
+    "Form Factor": "5.25\"",
+    "Features": "[Fan Connector: 3-Pin or 4-Pin, Finish: Textured Injected Plastic, Included Accessories: 4x M3 Screws, Connections: 1x Molex, 1x Temperature Sensor, 5x PWM Male Fan Connectors, Maximum Combined Wattage\t: 75 Watts, Brightness Levels: On / Off, Control Modes: Manual / Performance / Quiet, Fan Channel Quantity: 5 Channels, Fan Channel Wattage: 15 Watts, Temperature Range: 0 to 120 C degree, Minimum Power To Fans: 0%, Screen Size: 5.4 Inches, Screen Type: Capacitive Touch]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dQ8Zxr/nzxt-fan-controller-acsen3b1"
+}

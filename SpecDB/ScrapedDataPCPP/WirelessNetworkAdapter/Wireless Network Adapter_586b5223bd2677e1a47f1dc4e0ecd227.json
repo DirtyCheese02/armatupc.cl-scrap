@@ -1,0 +1,11 @@
+{
+    "name": "HP FH971AA 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "HP",
+    "Part #": "FH971AA",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "IEEE and WiFi compliant 64/128 bit WEP encryption<br/>AES: CCM<br/>802.1x authentication<br/>WPA: 802.1x. WPA-PSK and TKIP<br/>WPA2 certification<br/>IEEE 802.11i<br/>Cisco Certified Extensions, all versions through V5",
+    "Antenna": "External Antenna",
+    "Features": "Controller: Ralink RT2790",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mbbp99/hp-wireless-network-card-fh971aa"
+}

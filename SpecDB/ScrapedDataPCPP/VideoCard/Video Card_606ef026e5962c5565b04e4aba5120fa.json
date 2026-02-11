@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-N1030SL-2GL GeForce GT 1030 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N1030SL-2GL",
+    "Chipset": "GeForce GT 1030",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1252 MHz",
+    "Boost Clock": "1506 MHz",
+    "Effective Memory Clock": "6008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "None",
+    "Length": "175 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Single Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s3YWGX/gigabyte-geforce-gt-1030-2gb-silent-low-profile-video-card-gv-n1030sl-2gl"
+}

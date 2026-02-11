@@ -1,0 +1,21 @@
+{
+    "name": "Thermaltake Litepower 650 W ATX Power Supply",
+    "Manufacturer": "Thermaltake",
+    "Part #": "PS-LTP-0650NPCNUS-F",
+    "Type": "ATX",
+    "Wattage": "650 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@23A, +5V@17A, +12V@48A, -12V@0.5A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zsBrxr/thermaltake-litepower-650-w-atx-power-supply-ps-ltp-0650npcnus-f"
+}

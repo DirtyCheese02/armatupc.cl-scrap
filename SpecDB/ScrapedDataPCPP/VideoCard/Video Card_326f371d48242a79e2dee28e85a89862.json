@@ -1,0 +1,22 @@
+{
+    "name": "KFA2 SG (1-Click OC) GeForce RTX 4070 Ti 12 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "47IOM7MD6MSK",
+    "Chipset": "GeForce RTX 4070 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2685 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "320 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tPytt6/kfa2-sg-1-click-oc-geforce-rtx-4070-ti-12-gb-video-card-47iom7md6msk"
+}

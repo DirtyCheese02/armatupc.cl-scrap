@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon 200GE 3.2 GHz Dual-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "YD200GC6FBBOX",
+    "Series": "AMD Athlon",
+    "Microarchitecture": "Zen",
+    "Core Family": "Raven Ridge",
+    "Socket": "AM4",
+    "Core Count": "2",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "4 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "Radeon Vega 3",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "14 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dFhKHx/amd-athlon-200ge-32ghz-dual-core-processor-yd200gc6fbbox"
+}

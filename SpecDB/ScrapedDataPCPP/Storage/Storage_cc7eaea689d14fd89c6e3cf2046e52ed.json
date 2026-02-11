@@ -1,0 +1,13 @@
+{
+    "name": "Seagate Game Drive 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "[ZP2000GP3A4001, ZP2000GP304001]",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.200",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D TLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FHJp99/seagate-game-drive-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-zp2000gp3a4001"
+}

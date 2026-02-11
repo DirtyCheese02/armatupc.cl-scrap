@@ -1,0 +1,20 @@
+{
+    "name": "Noctua A9x14 29.72 CFM 92 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A9x14",
+    "Part #": "[NF-A9x14, NF-A9x14-PWM]",
+    "Size": "92 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 2200 RPM",
+    "Airflow": "22.42 - 29.72 CFM",
+    "Noise Level": "13.5 - 19.89 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "SSO2",
+    "Features": "[14mm Low Profile Design, Flow Acceleration Channels, AAO Frame, Stepped Inlet Design, Inner Surface Microstructures, Integrated Anti-Vibration Pads, Custom designed PWM IC with SCD, Low-Noise Adaptor]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PfXfrH/noctua-nf-a9x14-2972-cfm-92-mm-fan-nf-a9x14"
+}

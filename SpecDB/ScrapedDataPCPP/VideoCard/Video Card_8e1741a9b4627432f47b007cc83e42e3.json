@@ -1,0 +1,22 @@
+{
+    "name": "PNY T-Series T1000 4GB 4 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNT1000-PB",
+    "Chipset": "T1000 4GB",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1065 MHz",
+    "Boost Clock": "1395 MHz",
+    "Effective Memory Clock": "10000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PXhFf7/pny-t1000-4gb-4-gb-t-series-video-card-vcnt1000-pb"
+}

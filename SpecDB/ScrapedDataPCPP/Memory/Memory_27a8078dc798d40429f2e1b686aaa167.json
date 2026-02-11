@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper Elite 5 RGB 16 GB (1 x 16 GB) DDR5-5600 CL38 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVER516G56C38W",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "White",
+    "First Word Latency": "13.571 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-48-48-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gWjRsY/patriot-viper-elite-5-rgb-16-gb-1-x-16-gb-ddr5-5600-cl38-memory-pver516g56c38w"
+}

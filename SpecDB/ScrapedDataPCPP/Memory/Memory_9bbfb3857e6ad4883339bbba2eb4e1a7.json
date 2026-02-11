@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP016GBLVU520F02 16 GB (1 x 16 GB) DDR5-5200 CL42 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP016GBLVU520F02",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3y26Mp/silicon-power-sp016gblvu520f02-16-gb-1-x-16-gb-ddr5-5200-cl42-memory-sp016gblvu520f02"
+}

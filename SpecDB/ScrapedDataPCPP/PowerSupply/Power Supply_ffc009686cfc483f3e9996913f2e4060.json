@@ -1,0 +1,21 @@
+{
+    "name": "iStarUSA TC-1200PD8G 1200 W Fully Modular ATX Power Supply",
+    "Manufacturer": "iStarUSA",
+    "Part #": "TC-1200PD8G",
+    "Type": "ATX",
+    "Wattage": "1200 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Color": "Gray",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "8",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bRGhP6/istarusa-tc-1200pd8g-1200-w-fully-modular-atx-power-supply-tc-1200pd8g"
+}

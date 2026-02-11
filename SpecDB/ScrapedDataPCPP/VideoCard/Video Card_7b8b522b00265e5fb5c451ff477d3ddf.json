@@ -1,0 +1,23 @@
+{
+    "name": "Zotac GAMING GeForce GTX 1660 Ti 6 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-T16610F-10L",
+    "Chipset": "GeForce GTX 1660 Ti",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1770 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "173 mm",
+    "TDP": "120 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cY3H99/zotac-geforce-gtx-1660-ti-6-gb-gaming-video-card-zt-t16610f-10l"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "NexiGo N60 Webcam",
+    "Manufacturer": "NexiGo",
+    "Part #": "N60",
+    "Resolution": "1080p",
+    "Connection": "USB 2.0 Type-A",
+    "Focus Type": "Fixed",
+    "Operating System": "[Windows, OS X, Linux, ChromeOS, Android]",
+    "FOV Angle": "110°",
+    "Digital Zoom": "2X",
+    "Sensor Pixels": "2 MP",
+    "Privacy Shutter": "Yes",
+    "Built-In Lighting": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ByZWGX/nexigo-n60-webcam-n60"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Asus Xonar D1 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Asus",
+    "Part #": "[Xonar D1, 90-YAA0B0-0UAN00Z]",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "116 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "ASUS AV100",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vCTmP6/asus-sound-card-xonard1"
+}

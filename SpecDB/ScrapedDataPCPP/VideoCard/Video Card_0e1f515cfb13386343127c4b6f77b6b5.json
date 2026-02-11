@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GV-R567ZL-1GI Radeon HD 5670 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R567ZL-1GI",
+    "Chipset": "Radeon HD 5670",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "790 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fs4gXL/gigabyte-video-card-gvr567zl1gi"
+}

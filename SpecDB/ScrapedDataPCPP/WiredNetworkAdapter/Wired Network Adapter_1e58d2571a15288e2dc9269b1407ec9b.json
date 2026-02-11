@@ -1,0 +1,8 @@
+{
+    "name": "Intel EXPI9402PT 2 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "Manufacturer": "Intel",
+    "Part #": "[EXPI9402PT, EXPI9402PTBLK]",
+    "Interface": "PCIe x4",
+    "Features": "[Intel 82571GB Gigabit Controller, Load balancing on multiple CPUs, Interrupt moderation, Compatible with x4, x8, and x16 full-height PCI Express slots, Support for most network operating systems (NOS), Remote management support, Category-5 unshielded twisted pair (UTP), 4-pair cabling, RoHS compliant, lead-free technology, Intel PROSet Utility for Microsoft Device Manager, Advanced cable diagnostics, Intel backing]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GL8Zxr/intel-wired-network-card-expi9402pt"
+}

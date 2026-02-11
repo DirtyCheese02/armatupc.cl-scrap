@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Performance 32 GB (4 x 8 GB) DDR4-3800 SODIMM CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMSX32GX4M4X3800C18",
+    "Speed": "DDR4-3800",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "9.474 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZjndnQ/corsair-vengeance-performance-32gb-4-x-8gb-ddr4-3800-memory-cmsx32gx4m4x3800c18"
+}

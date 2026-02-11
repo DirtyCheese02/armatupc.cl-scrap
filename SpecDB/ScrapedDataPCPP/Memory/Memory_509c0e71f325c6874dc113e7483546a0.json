@@ -1,0 +1,16 @@
+{
+    "name": "GeIL ORION V 16 GB (1 x 16 GB) DDR5-6400 CL38 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GVG516GB6400C38ASC",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "11.875 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-40-40-82",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Hdqrxr/geil-orion-v-16-gb-1-x-16-gb-ddr5-6400-cl38-memory-gvg516gb6400c38asc"
+}

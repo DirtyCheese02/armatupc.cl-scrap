@@ -1,0 +1,12 @@
+{
+    "name": "Intel DC P3700 400 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDMD400G401",
+    "Capacity": "400 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L7PzK8/intel-dc-p3700-400-gb-pci-e-solid-state-drive-ssdpedmd400g401"
+}

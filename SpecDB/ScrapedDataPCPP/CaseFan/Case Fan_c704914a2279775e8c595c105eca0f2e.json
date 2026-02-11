@@ -1,0 +1,17 @@
+{
+    "name": "GAMDIAS AEOLUS M3-1204R 69.01 CFM 120 mm Fans 4-Pack",
+    "Manufacturer": "GAMDIAS",
+    "Part #": "AEOLUS M3-1204R",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "4-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2000 RPM",
+    "Airflow": "69.01 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "Manual",
+    "Static Pressure": "2.37 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w8YRsY/gamdias-aeolus-m3-1204r-6901-cfm-120-mm-fans-4-pack-aeolus-m3-1204r"
+}

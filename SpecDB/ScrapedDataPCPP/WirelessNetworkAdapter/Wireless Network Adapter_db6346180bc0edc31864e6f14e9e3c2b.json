@@ -1,0 +1,12 @@
+{
+    "name": "Encore ENEWI-2XN45 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Encore",
+    "Part #": "ENEWI-2XN45",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128-bits WEP Encryption, WPA-PSK, WPA2-PSK, WPA, WPA2",
+    "Antenna": "2 x 5dBi dipole antenna with R-SMA connector",
+    "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+    "Features": "[PCI Express Rev. 1.1, Ideal for Surfing the Web, Sharing Files, Streaming Video, and Playing Online Games, Support IEEE 802.11e QoS Enhancement (WMM, WMM-SA client mode), Cisco Compatible eXtensions (CCX) for WLAN devices.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8nxfrH/encore-wireless-network-card-enewi2xn45"
+}

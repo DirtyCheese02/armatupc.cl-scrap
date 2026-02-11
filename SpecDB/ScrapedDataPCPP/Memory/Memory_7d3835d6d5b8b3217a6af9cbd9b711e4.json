@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident X Series 16 GB (2 x 8 GB) DDR3-2933 CL12 Memory",
+    "Manufacturer": "G.Skill",
+    "Model": "Trident X Series",
+    "Part #": "F3-2933C12D-16GTXDG",
+    "Speed": "DDR3-2933",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "First Word Latency": "8.183 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R3h9TW/gskill-memory-f32933c12d16gtxdg"
+}

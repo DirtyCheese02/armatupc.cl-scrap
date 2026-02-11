@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA NEX1500 Classified 1500 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA NEX1500 Classified",
+    "Part #": "120-PG-1500-XR",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1500 W",
+    "Length": "200 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "16",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "12",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A, +12V5@20A, +12V6@20A, +12V7@20A, +12V8@20A, +5VSB@4A, -12V@0.8A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DWkD4D/evga-supernova-nex1500-classified-1500-w-80-gold-certified-fully-modular-atx-power-supply-120-pg-1500-xr"
+}

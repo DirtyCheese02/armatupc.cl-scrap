@@ -1,0 +1,18 @@
+{
+    "name": "APC BN4001 UPS",
+    "Manufacturer": "APC",
+    "Part #": "BN4001",
+    "Capacity (W)": "257 W",
+    "Capacity (VA)": "450 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "9 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CVYWGX/apc-ups-bn4001"
+}

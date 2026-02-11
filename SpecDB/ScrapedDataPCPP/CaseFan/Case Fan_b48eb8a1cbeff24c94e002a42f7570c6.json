@@ -1,0 +1,15 @@
+{
+    "name": "ARCTIC P14 PWM PST A-RGB 68 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "ARCTIC",
+    "Part #": "ACFAN00257A",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 68 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nWqPxr/arctic-p14-pwm-pst-a-rgb-68-cfm-140-mm-fans-3-pack-acfan00257a"
+}

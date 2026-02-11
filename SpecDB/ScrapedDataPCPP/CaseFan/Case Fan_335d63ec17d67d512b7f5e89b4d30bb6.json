@@ -1,0 +1,20 @@
+{
+    "name": "SHARKOON Shark Blade 33 CFM 120 mm Fan",
+    "Manufacturer": "SHARKOON",
+    "Part #": "000SKBG",
+    "Size": "120 mm",
+    "Color": "Black / Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "33 CFM",
+    "Noise Level": "19 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2.63 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Unique 3D frame design for optimal air flow, Special air-stabilizing fan blade design, Fluid Dynamic Sleeve Bearing, Cable with textile sheathing, Universal connection cable (50 cm with 3-pin plug), PSU adapter cable included (3-pin > 4-pin PSU), Available color versions: black/yellow, black/red, black/blue and black/green]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pzbp99/sharkoon-case-fan-000skbg"
+}

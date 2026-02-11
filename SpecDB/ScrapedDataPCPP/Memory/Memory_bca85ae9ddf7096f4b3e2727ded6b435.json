@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 128 GB (4 x 32 GB) DDR4-3600 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C16Q-128GTZR",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "8.889 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.45 V",
+    "Timing": "16-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VGbTwP/gskill-trident-z-rgb-128-gb-4-x-32-gb-ddr4-3600-cl16-memory-f4-3600c16q-128gtzr"
+}

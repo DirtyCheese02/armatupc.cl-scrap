@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 2X E OC GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 4070 VENTUS 2X E 12G OC, RTX 4070 VENTUS 2X E 12G OC, V513-432R, 912-V513-432]",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2520 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "245 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j9XV3C/msi-ventus-2x-e-oc-geforce-rtx-4070-12-gb-video-card-geforce-rtx-4070-ventus-2x-e-12g-oc"
+}

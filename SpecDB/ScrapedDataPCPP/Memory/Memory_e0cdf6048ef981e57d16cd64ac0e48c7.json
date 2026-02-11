@@ -1,0 +1,15 @@
+{
+    "name": "Kingston ValueRAM 8 GB (2 x 4 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR21N15S8K2/8",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Green",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YLs8TW/kingston-memory-kvr21n15s8k28"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB RT 128 GB (4 x 32 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMN128GX4M4Z3200C16",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rHpzK8/corsair-vengeance-rgb-rt-128-gb-4-x-32-gb-ddr4-3200-cl16-memory-cmn128gx4m4z3200c16"
+}

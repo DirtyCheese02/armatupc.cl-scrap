@@ -1,0 +1,18 @@
+{
+    "name": "Noctua A14 PWM 82.5 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A14 PWM",
+    "Part #": "NF-A14 PWM",
+    "Size": "140 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1500 RPM",
+    "Airflow": "68 - 82.5 CFM",
+    "Noise Level": "19.2 - 24.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dwR48d/noctua-case-fan-nfa14pwm"
+}

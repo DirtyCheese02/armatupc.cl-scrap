@@ -1,0 +1,22 @@
+{
+    "name": "XFX Speedster MERC 310 Radeon RX 7900 XT 20 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-79TMERCW9",
+    "Chipset": "Radeon RX 7900 XT",
+    "Memory": "20 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1775 MHz",
+    "Boost Clock": "2535 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "344 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RPsMnQ/xfx-speedster-merc-310-radeon-rx-7900-xt-20-gb-video-card-rx-79tmercw9"
+}

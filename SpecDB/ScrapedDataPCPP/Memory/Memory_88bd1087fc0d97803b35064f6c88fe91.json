@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP064GBLFU266X22 64 GB (2 x 32 GB) DDR4-2666 CL19 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP064GBLFU266X22",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YVjBD3/silicon-power-sp064gblfu266x22-64-gb-2-x-32-gb-ddr4-2666-cl19-memory-sp064gblfu266x22"
+}

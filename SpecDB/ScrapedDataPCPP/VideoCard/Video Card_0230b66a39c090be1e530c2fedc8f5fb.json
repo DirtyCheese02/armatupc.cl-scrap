@@ -1,0 +1,23 @@
+{
+    "name": "PNY XLR8 Gaming REVEL EPIC-X RGB GeForce RTX 3080 Ti 12 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG3080T12TFXPPB",
+    "Chipset": "GeForce RTX 3080 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1665 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "294 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2g3gXL/pny-geforce-rtx-3080-ti-12-gb-xlr8-gaming-revel-epic-x-rgb-video-card-vcg3080t12tfxppb"
+}

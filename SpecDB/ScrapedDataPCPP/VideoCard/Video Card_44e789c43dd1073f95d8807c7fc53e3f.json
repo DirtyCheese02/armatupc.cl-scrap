@@ -1,0 +1,22 @@
+{
+    "name": "Asus ROG STRIX GeForce RTX 4060 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[rog-strix-rtx4060-8g-gaming, 90YV0JB1-M0NA00]",
+    "Chipset": "GeForce RTX 4060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1830 MHz",
+    "Boost Clock": "2490 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "311 mm",
+    "TDP": "115 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vz6NnQ/asus-rog-strix-geforce-rtx-4060-8-gb-video-card-rog-strix-rtx4060-8g-gaming"
+}

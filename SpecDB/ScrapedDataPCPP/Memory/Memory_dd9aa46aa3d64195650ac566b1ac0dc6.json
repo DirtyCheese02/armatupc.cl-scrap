@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP048GBLVU520P02 48 GB (1 x 48 GB) DDR5-5200 CL42 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP048GBLVU520P02",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 48GB",
+    "Color": "Black",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K3QKHx/silicon-power-sp048gblvu520p02-48-gb-1-x-48-gb-ddr5-5200-cl42-memory-sp048gblvu520p02"
+}

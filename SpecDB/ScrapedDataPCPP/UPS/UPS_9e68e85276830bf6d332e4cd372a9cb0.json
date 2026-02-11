@@ -1,0 +1,18 @@
+{
+    "name": "APC SMT1500J UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT1500J",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1500 VA",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Input Voltage": "100 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "100 V AC",
+    "Protection Type": "Surge",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TTH48d/apc-ups-smt1500j"
+}

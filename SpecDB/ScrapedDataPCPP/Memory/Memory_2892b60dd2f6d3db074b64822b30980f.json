@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin MES4S266KF32GX2 64 GB (2 x 32 GB) DDR4-2666 SODIMM CL19 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MES4S266KF32GX2",
+    "Speed": "DDR4-2666",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$5.547",
+    "First Word Latency": "14.254 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "Timing": "19-19-19-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qfgrxr/mushkin-mes4s266kf32gx2-64-gb-2-x-32-gb-ddr4-2666-sodimm-cl19-memory-mes4s266kf32gx2"
+}

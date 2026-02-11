@@ -1,0 +1,17 @@
+{
+    "name": "Thermalright TL-R12 65.25 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-R12A",
+    "Size": "120 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1500 RPM",
+    "Airflow": "21.76 - 65.25 CFM",
+    "Noise Level": "15 - 23 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dbWzK8/thermalright-tl-r12-6525-cfm-120-mm-fan-tl-r12a"
+}

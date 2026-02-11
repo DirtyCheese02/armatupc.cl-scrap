@@ -1,0 +1,23 @@
+{
+    "name": "Palit StormX OC GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE63050S19P1-190AF",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1807 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "170 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R9pzK8/palit-geforce-rtx-3050-8gb-8-gb-stormx-oc-video-card-ne63050s19p1-190af"
+}

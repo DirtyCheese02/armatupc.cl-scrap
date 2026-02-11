@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire 100369L R7 240 Radeon R7 240 1 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Model": "100369L R7 240",
+    "Part #": "100369L",
+    "Chipset": "Radeon R7 240",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "730 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cbqdnQ/sapphire-video-card-100369l"
+}

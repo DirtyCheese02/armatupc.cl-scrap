@@ -1,0 +1,20 @@
+{
+    "name": "ECS NBGTX460-1GPI-F GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "ECS",
+    "Part #": "NBGTX460-1GPI-F",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "765 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z6zv6h/ecs-video-card-nbgtx4601gpif"
+}

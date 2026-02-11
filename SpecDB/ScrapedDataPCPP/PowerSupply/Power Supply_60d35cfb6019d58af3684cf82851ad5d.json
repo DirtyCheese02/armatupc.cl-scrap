@@ -1,0 +1,22 @@
+{
+    "name": "Corsair HX750 750 W 80+ Gold Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Part #": "[HX750, CP-9020031-NA, CP-9020031-AU]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "750 W",
+    "Length": "180 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@25A, +5V25A, +12V@60A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VZphP6/corsair-hx750-750-w-80-gold-certified-semi-modular-atx-power-supply-hx750"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP001GBRDE333O01 1 GB (1 x 1 GB) Registered DDR-333 CL2.5 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP001GBRDE333O01",
+    "Speed": "DDR-333",
+    "Form Factor": "184-pin DIMM (DDR)",
+    "Modules": "1 x 1GB",
+    "First Word Latency": "15.015 ns",
+    "CAS Latency": "2.5",
+    "Voltage": "2.5 V",
+    "ECC / Registered": "Non-ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wMjBD3/silicon-power-sp001gbrde333o01-1-gb-1-x-1-gb-registered-ddr-333-cl25-memory-sp001gbrde333o01"
+}

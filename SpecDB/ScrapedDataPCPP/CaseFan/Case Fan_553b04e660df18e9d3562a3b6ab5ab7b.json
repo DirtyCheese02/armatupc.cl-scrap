@@ -1,0 +1,18 @@
+{
+    "name": "Silverstone FN 25.06 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-FN124",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "25.06 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.86 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jGsmP6/silverstone-sst-fn124-2506-cfm-120-mm-fan-sst-fn124"
+}

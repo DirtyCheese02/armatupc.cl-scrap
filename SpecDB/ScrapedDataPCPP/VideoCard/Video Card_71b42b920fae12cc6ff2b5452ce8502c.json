@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "DUAL-RTX5070-12G",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2160 MHz",
+    "Boost Clock": "2542 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "249 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wsnXsY/asus-dual-geforce-rtx-5070-12-gb-video-card-dual-rtx5070-12g"
+}

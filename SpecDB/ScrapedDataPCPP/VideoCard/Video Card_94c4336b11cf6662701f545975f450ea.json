@@ -1,0 +1,22 @@
+{
+    "name": "MSI SUPRIM LIQUID X GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 4090 SUPRIM LIQUID X 24G, RTX 4090 SUPRIM LIQUID X 24G, V510-007R, G4090SLX24]",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "280 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "240 mm Radiator + 1 Fan",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VtPQzy/msi-suprim-liquid-x-geforce-rtx-4090-24-gb-video-card-geforce-rtx-4090-suprim-liquid-x-24g"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI VR5570-MD1G Radeon HD 5570 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "VR5570-MD1G",
+    "Chipset": "Radeon HD 5570",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "650 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "167 mm",
+    "TDP": "39 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xJ9KHx/msi-video-card-vr5570md1g"
+}

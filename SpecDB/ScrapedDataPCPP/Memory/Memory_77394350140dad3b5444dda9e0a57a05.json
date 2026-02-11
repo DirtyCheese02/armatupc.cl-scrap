@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Pro 16 GB (2 x 8 GB) DDR3-2666 CL12 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMY16GX3M2A2666C12R",
+    "Speed": "DDR3-2666",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9.002 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "Timing": "12-13-13-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ycW9TW/corsair-memory-cmy16gx3m2a2666c12r"
+}

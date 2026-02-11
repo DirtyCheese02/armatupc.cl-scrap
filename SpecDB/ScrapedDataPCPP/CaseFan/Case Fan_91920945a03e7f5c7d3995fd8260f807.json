@@ -1,0 +1,17 @@
+{
+    "name": "Apevia CF12SL-URED 57.67 CFM 120 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF12SL-URED",
+    "Size": "120 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "57.67 CFM",
+    "Noise Level": "24.7 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RrNp99/apevia-case-fan-cf12slured"
+}

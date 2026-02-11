@@ -1,0 +1,23 @@
+{
+    "name": "Palit StormX OC GeForce RTX 4060 Ti 8 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE6406TS19P1-1060F",
+    "Chipset": "GeForce RTX 4060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2670 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "170 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6vjRsY/palit-stormx-oc-geforce-rtx-4060-ti-8-gb-video-card-ne6406ts19p1-1060f"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Asus STRIX LC GAMING OC GeForce RTX 3090 Ti 24 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ROG-STRIX-LC-RTX3090TI-O24G-GAMING",
+    "Chipset": "GeForce RTX 3090 Ti",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1560 MHz",
+    "Boost Clock": "1980 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "293 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "240 mm Radiator + 1 Fan",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z6gFf7/asus-geforce-rtx-3090-ti-24-gb-strix-lc-gaming-oc-video-card-rog-strix-lc-rtx3090ti-o24g-gaming"
+}

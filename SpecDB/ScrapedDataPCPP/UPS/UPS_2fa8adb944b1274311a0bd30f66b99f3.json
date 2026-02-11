@@ -1,0 +1,16 @@
+{
+    "name": "APC BE650MC UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE650MC",
+    "Capacity (W)": "390 W",
+    "Capacity (VA)": "650 VA",
+    "Battery Chemistry": "Lead Acid",
+    "Battery Life": "5 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Input Voltage": "120 V AC",
+    "Output Voltage": "115 V AC",
+    "Protection Type": "[Brownout, Over Voltage, EMI / RFI, Surge, Spike, Power Failure]",
+    "Receptacles": "8 x AC Power",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7HNypg/apc-ups-be650mc"
+}

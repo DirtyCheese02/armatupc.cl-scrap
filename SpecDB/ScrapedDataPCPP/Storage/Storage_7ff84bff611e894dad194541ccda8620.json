@@ -1,0 +1,13 @@
+{
+    "name": "Intel 313 20 GB mSATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDMAEXC020G301",
+    "Capacity": "20 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21BA0",
+    "SSD NAND Flash Type": "SLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9ZMFf7/intel-internal-hard-drive-ssdmaexc020g301"
+}

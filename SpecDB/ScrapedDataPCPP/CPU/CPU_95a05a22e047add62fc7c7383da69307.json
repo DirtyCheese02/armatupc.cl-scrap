@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X3 720 Black 2.8 GHz Triple-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDZ720WFK3DGI",
+    "Series": "AMD Phenom II X3",
+    "Microarchitecture": "K10",
+    "Core Family": "Heka",
+    "Socket": "AM3",
+    "Core Count": "3",
+    "Thread Count": "3",
+    "Performance Core Clock": "2.8 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8cDwrH/amd-cpu-hdz720wfk3dgi"
+}

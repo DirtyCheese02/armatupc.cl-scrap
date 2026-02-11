@@ -1,0 +1,18 @@
+{
+    "name": "CyberPower CP550SLG UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP550SLG",
+    "Capacity (W)": "330 W",
+    "Capacity (VA)": "550 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "8 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tzM323/cyberpower-ups-cp550slg"
+}

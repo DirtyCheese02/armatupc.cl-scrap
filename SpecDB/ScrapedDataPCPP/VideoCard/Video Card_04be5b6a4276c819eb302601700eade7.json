@@ -1,0 +1,22 @@
+{
+    "name": "XFX Speedster SWFT 309 Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-67XTYJFDV",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Boost Clock": "2581 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "304 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RFGbt6/xfx-radeon-rx-6700-xt-12-gb-speedster-swft-309-video-card-rx-67xtyjfdv"
+}

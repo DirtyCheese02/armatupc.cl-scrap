@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident X 16 GB (4 x 4 GB) DDR3-3100 CL12 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-3100C12Q-16GTXDG",
+    "Speed": "DDR3-3100",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "7.742 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GDrG3C/gskill-memory-f33100c12q16gtxdg"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Sniper X 64 GB (4 x 16 GB) DDR4-2400 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2400C17Q-64GSXW",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "Timing": "17-17-17-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hp7G3C/gskill-sniper-x-64-gb-4-x-16-gb-ddr4-2400-cl17-memory-f4-2400c17q-64gsxw"
+}

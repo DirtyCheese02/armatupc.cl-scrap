@@ -1,0 +1,17 @@
+{
+    "name": "PrimoChill Praxis WetBench ATX Test Bench Case",
+    "Manufacturer": "PrimoChill",
+    "Part #": "MWB-BK-BK",
+    "Type": "ATX Test Bench",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "None",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX]",
+    "Drive Bays": "[2 x External 5.25\", 4 x Internal 3.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm, 360 mm]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Kk3H99/primochill-praxis-wetbench-atx-test-bench-case-mwb-bk-bk"
+}

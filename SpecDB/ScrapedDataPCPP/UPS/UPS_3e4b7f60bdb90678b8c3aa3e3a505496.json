@@ -1,0 +1,16 @@
+{
+    "name": "APC BE700G-GR UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE700G-GR",
+    "Capacity (W)": "405 W",
+    "Capacity (VA)": "700 VA",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "13.30 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "230 V AC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2NNypg/apc-ups-be700ggr"
+}

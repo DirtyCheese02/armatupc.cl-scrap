@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Dragon RAM 8 GB (2 x 4 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GWW48GB4000C19DC",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "White / Gold",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L4s8TW/geil-memory-gww48gb4000c19dc"
+}

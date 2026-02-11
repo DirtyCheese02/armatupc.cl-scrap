@@ -1,0 +1,22 @@
+{
+    "name": "NEC E172M-BK 17.0\" 1280 x 1024 60 Hz Monitor",
+    "Manufacturer": "NEC",
+    "Part #": "E172M-BK",
+    "Screen Size": "17\"",
+    "Resolution": "1280 x 1024",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "5.5 ms",
+    "Panel Type": "TN",
+    "Aspect Ratio": "5:4",
+    "Color": "Black",
+    "Brightness": "250 cd/m²",
+    "Pixel Pitch": "0.263 mm",
+    "Widescreen": "No",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "Yes",
+    "VESA Mounting": "100 x 100",
+    "Viewing Angle": "170° H x 160° V",
+    "Inputs": "[1 x DisplayPort, 1 x HDMI, 1 x VGA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4jmFf7/nec-e172m-bk-170-1280-x-1024-60-hz-monitor-e172m-bk"
+}

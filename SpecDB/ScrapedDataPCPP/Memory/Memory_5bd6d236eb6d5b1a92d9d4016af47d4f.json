@@ -1,0 +1,15 @@
+{
+    "name": "OCZ Platinum 24 GB (6 x 4 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZ3P1333C9LV24GS",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "6 x 4GB",
+    "Color": "Silver",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hHMFf7/ocz-memory-ocz3p1333c9lv24gs"
+}

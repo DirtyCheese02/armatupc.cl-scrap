@@ -1,0 +1,8 @@
+{
+    "name": "Intel EXPI9404PTLBLK 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "Manufacturer": "Intel",
+    "Part #": "EXPI9404PTLBLK",
+    "Interface": "PCIe x4",
+    "Features": "[Two Intel 82571GB Gigabit Controllers, Low-profile, Load balancing on multiple CPUs, Intel I/OAT, Virtualization, Interrupt moderation, Compatible with x4, x8, and x16 standard and low-profile PCI Express slots, Support for most network operating systems (NOS), Remote management support, Category-5 unshielded twisted pair (UTP), 4-pair cabling, RoHS compliant, lead-free technology, Intel PROSet Utility for Windows, Advanced cable diagnostics, Intel backing]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/C6Gkcf/intel-wired-network-card-expi9404ptlblk"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite INTERNET350SER UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "INTERNET350SER",
+    "Capacity (W)": "180 W",
+    "Capacity (VA)": "350 VA",
+    "Alarm": "On Battery",
+    "Backup/Run Time (Full Load)": "2.50 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Ultra-compact Desk-mount",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jf8H99/tripp-lite-ups-internet350ser"
+}

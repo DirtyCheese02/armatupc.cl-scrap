@@ -1,0 +1,17 @@
+{
+    "name": "HP AF446A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF446A",
+    "Capacity (W)": "500 W",
+    "Capacity (VA)": "750 VA",
+    "Battery Chemistry": "Sealed Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y3FXsY/hp-ups-af446a"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "PNY VCNRTX6000ADA-PB RTX 6000 Ada Generation 48 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTX6000ADA-PB",
+    "Chipset": "RTX 6000 Ada Generation",
+    "Memory": "48 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "915 MHz",
+    "Boost Clock": "2505 MHz",
+    "Effective Memory Clock": "20000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/82bRsY/pny-vcnrtx6000ada-pb-rtx-6000-ada-generation-48-gb-video-card-vcnrtx6000ada-pb"
+}

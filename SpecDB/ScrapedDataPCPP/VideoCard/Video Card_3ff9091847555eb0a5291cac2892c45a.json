@@ -1,0 +1,23 @@
+{
+    "name": "AMD RADEON PRO WX 7100 Radeon Pro WX 7100 8 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "[RADEON PRO WX 7100, 100-505826]",
+    "Chipset": "Radeon Pro WX 7100",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "900 MHz",
+    "Boost Clock": "1080 MHz",
+    "Effective Memory Clock": "8000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "Length": "242 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hYwqqs/amd-radeon-pro-wx-7100-8gb-video-card-radeon-pro-wx-7100"
+}

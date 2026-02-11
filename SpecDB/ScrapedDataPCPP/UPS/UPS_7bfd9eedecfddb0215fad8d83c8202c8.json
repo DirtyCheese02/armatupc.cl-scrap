@@ -1,0 +1,13 @@
+{
+    "name": "IBM 2130R6X UPS",
+    "Manufacturer": "IBM",
+    "Part #": "2130R6X",
+    "Capacity (W)": "1050 W",
+    "Capacity (VA)": "1500 VA",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Form Factor": "Desktop",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MjcMnQ/ibm-ups-2130r6x"
+}

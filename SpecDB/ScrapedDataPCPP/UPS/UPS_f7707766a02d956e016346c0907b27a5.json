@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite OMNI900LCD UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNI900LCD",
+    "Capacity (W)": "475 W",
+    "Capacity (VA)": "900 VA",
+    "Alarm": "AC Input Failure",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "20 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Switching Time": "3 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YVYWGX/tripp-lite-ups-omni900lcd"
+}

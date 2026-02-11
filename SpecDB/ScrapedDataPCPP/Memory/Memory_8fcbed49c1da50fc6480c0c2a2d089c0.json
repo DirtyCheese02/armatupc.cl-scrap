@@ -1,0 +1,16 @@
+{
+    "name": "Corsair XMS 16 GB (2 x 8 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMX16GX3M2A1333C9",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ycw323/corsair-memory-cmx16gx3m2a1333c9"
+}

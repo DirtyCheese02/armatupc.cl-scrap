@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Silent Wings 2 60.4 CFM 140 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL031",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "60.4 CFM",
+    "Noise Level": "16.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "0.81 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LjPfrH/be-quiet-case-fan-bl031"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "XFX THICC II Radeon RX 5700 XT 8 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-57XT826D6",
+    "Chipset": "Radeon RX 5700 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1605 MHz",
+    "Boost Clock": "1755 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "293 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tfPgXL/xfx-radeon-rx-5700-8-gb-thicc-ii-video-card-rx-57xt826d6"
+}

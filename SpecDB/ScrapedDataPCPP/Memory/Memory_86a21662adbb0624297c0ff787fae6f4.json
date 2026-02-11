@@ -1,0 +1,15 @@
+{
+    "name": "ADATA AD5U480016G-DT 32 GB (2 x 16 GB) DDR5-4800 CL40 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AD5U480016G-DT",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xrnypg/adata-ad5u480016g-dt-32-gb-2-x-16-gb-ddr5-4800-cl40-memory-ad5u480016g-dt"
+}

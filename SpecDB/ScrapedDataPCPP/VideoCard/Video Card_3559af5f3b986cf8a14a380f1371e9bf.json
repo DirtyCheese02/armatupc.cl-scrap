@@ -1,0 +1,23 @@
+{
+    "name": "KFA2 ST (1-Click OC) GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "49NXM5MD6DDK",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Boost Clock": "2535 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "352 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZvKscf/kfa2-st-1-click-oc-geforce-rtx-4090-24-gb-video-card-49nxm5md6ddk"
+}

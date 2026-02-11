@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 4 GB (2 x 2 GB) DDR3-1600 CL7 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-12800CL7D-4GBRM",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PVK7YJ/gskill-memory-f312800cl7d4gbrm"
+}

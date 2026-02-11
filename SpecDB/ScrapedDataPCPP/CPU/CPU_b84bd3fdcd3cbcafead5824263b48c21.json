@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i5-750 2.66 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BV80605001911AP",
+    "Series": "Intel Core i5",
+    "Microarchitecture": "Nehalem",
+    "Core Family": "Lynnfield",
+    "Socket": "LGA1156",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.66 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D9H323/intel-cpu-bv80605001911ap"
+}

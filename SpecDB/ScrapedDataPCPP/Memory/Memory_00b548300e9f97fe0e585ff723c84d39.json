@@ -1,0 +1,15 @@
+{
+    "name": "Kingston Impact Black 8 GB (2 x 4 GB) DDR3-2133 SODIMM CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX321LS11IBK2/8",
+    "Speed": "DDR3-2133",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "10.314 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DdNp99/kingston-memory-hx321ls11ibk28"
+}

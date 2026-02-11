@@ -1,0 +1,22 @@
+{
+    "name": "AMD FirePro S9050 FirePro S9050 12 GB Video Card",
+    "Manufacturer": "AMD",
+    "Model": "FirePro S9050",
+    "Part #": "100-505878",
+    "Chipset": "FirePro S9050",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "5500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "254 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2bvZxr/amd-video-card-100505878"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Asus TUF Gaming TF120 ARGB 76 CFM 120 mm Fan",
+    "Manufacturer": "Asus",
+    "Model": "TUF Gaming TF120 ARGB",
+    "Part #": "[TUF GAMING TF120 ARGB, 90DA0030-B08000]",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 1900 RPM",
+    "Airflow": "76 CFM",
+    "Noise Level": "29 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.5 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/26C48d/asus-tuf-gaming-tf120-argb-76-cfm-120-mm-fan-tuf-gaming-tf120-argb"
+}

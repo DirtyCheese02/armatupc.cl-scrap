@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FQ 44.2 CFM 92 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FQ91",
+    "Size": "92 mm",
+    "Color": "White / Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 2500 RPM",
+    "Airflow": "19.8 - 44.2 CFM",
+    "Noise Level": "15.3 - 24.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "P.C.F. bearing (Powder Copper Fluid Bearing)",
+    "Features": "[PWM design allows 1000~2500rpm fan speed control by motherboard, Optimum airflow, pressure and extremely silent performance, Innovative blade design focuses airflow with maximum efficiency, Air-inlet with optimized aerodynamic design reduces noisy air turbulence, Anti-vibration rubber pads included for additional noise dampening]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c4DzK8/silverstone-case-fan-fq91"
+}

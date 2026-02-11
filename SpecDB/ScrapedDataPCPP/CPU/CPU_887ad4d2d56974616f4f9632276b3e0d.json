@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i3-3240T 2.9 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "CM8063701194400",
+    "Series": "Intel Core i3",
+    "Microarchitecture": "Ivy Bridge",
+    "Core Family": "Ivy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "2",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.9 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "3 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "Intel HD Graphics 2500",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gc6NnQ/intel-core-i3-3240t-29-ghz-dual-core-oemtray-processor-cm8063701194400"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Gelid Solutions Gale Extreme 195 CFM 120 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Part #": "FN-GALE-02",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 6000 RPM",
+    "Airflow": "195 CFM",
+    "Noise Level": "60 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "24 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7yFmP6/gelid-solutions-gale-extreme-195-cfm-120-mm-fan-fn-gale-02"
+}

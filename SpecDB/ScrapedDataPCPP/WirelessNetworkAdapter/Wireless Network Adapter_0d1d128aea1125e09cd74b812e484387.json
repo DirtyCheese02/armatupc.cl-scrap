@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N180UB 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N180UB",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP (Hex & ASCII), WPA/WPA2, WPA(TKIP with IEEE 802.1x)/WPA2(AES with IEEE 802.1x)",
+    "Antenna": "Printed antenna",
+    "Features": "[Supports MIMO technology with 1 transmit antenna and 2 receive antenna., Provides max. 300Mbps download rate and 150Mbps upload rate., Support WPS (Hardware WiFi Protected Setup Button)., Supports 20MHz/40MHz frequency width., Auto-detects and changes network transmission rate., Provides two work modes: Infrastructure and Ad-Hoc., Supports WMM for Multimedia Applications with Quality of Service in Wi-Fi Networks., * The IEEE 802.11n Draft prohibits using High Throughput with WEP or TKIP as the unicast cipher. If you use these encryption methods (e.g. WEP, WPA-TKIP), you will experience the data rate will drop to 54 Mbps. Rosewill recommend setting your router’s wireless encryption as WPA-AES or WPA2-AES or update the latest firmware, in order to keep your wireless transfer rate at N speed.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nmw323/rosewill-wireless-network-card-rnxn180ub"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC F12 Pro 57 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F12 Pro",
+    "Part #": "AF12PWM",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1350 RPM",
+    "Airflow": "57 CFM",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[PWM Sharing Technology (PST), Extremely quiet, High air flow and static pressure, Low noise impeller, Fluid dynamic bearing extends service life]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HPZQzy/arctic-arctic-f12-pwm-57-cfm-120-mm-fan-af12pwm"
+}

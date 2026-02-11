@@ -1,0 +1,17 @@
+{
+    "name": "OBSBOT Tiny 2 Webcam",
+    "Manufacturer": "OBSBOT",
+    "Model": "Tiny 2",
+    "Part #": "OWB-2204-CE",
+    "Resolution": "[4k, 2k, 1080p, 720p, 480p]",
+    "Connection": "USB 3.2 Gen 1 Type-A",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X]",
+    "FOV Angle": "85.5°",
+    "Focal Length": "100 mm",
+    "Optical Zoom": "4X",
+    "Sensor Pixels": "50 MP",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XVCZxr/obsbot-tiny-2-webcam-owb-2204-ce"
+}

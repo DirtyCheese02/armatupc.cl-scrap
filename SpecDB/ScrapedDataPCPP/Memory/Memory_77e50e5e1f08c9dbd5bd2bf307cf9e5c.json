@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 32 GB (2 x 16 GB) DDR5-4800 CL38 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FLBD532G4800HC38FDC01",
+    "Speed": "DDR5-4800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "15.833 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.1 V",
+    "Timing": "38-38-38-70",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qkmNnQ/teamgroup-t-force-vulcan-32-gb-2-x-16-gb-ddr5-4800-cl38-memory-flbd532g4800hc38fdc01"
+}

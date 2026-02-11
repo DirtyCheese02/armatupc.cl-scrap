@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal DW100 RGB 32 GB (2 x 16 GB) DDR5-7400 CL34 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "B5DW100327234FR2G-CW005",
+    "Speed": "DDR5-7400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "9.189 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-45-45-115",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/834Pxr/biwin-black-opal-dw100-rgb-32-gb-2-x-16-gb-ddr5-7400-cl34-memory-b5dw100327234fr2g-cw005"
+}

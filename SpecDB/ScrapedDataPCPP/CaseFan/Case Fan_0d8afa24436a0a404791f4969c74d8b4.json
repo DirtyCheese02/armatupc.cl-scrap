@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master MOBIUS 120P ARGB 75.2 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "MOBIUS 120P ARGB",
+    "Part #": "MFZ-M2DW-24NP2-R1",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "75.2 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.63 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VLDQzy/cooler-master-mobius-120p-argb-752-cfm-120-mm-fan-mfz-m2dw-24np2-r1"
+}

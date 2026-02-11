@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 32 GB (4 x 8 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX426C15FBK4/32",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4qkwrH/kingston-memory-hx426c15fbk432"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PNY VCGGTX560TXPB-OC-BDL GeForce GTX 560 Ti 1 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGGTX560TXPB-OC-BDL",
+    "Chipset": "GeForce GTX 560 Ti",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Effective Memory Clock": "4104 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NzV48d/pny-video-card-vcggtx560txpbocbdl"
+}

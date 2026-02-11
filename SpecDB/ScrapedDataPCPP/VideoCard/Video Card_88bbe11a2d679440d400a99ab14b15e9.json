@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor Hellhound Radeon RX 7600 8 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "RX7600 8G-L/OC",
+    "Chipset": "Radeon RX 7600",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1720 MHz",
+    "Boost Clock": "2655 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "234 mm",
+    "TDP": "165 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zspQzy/powercolor-hellhound-radeon-rx-7600-xt-8-gb-video-card-rx7600-8g-loc"
+}

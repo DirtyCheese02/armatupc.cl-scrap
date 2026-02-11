@@ -1,0 +1,21 @@
+{
+    "name": "Corsair HD120 54.4 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "HD120",
+    "Part #": "CO-9050066-WW",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1725 RPM",
+    "Airflow": "54.4 CFM",
+    "Noise Level": "18 - 30 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "2.25 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "Features": "[12 independent RGB LEDs, 7 unique lighting effects with speed control, Intuitive 3-button RGB LED controller, PWM Control, High static pressure tuned for optimal air delivery, Ultra-thin fan blades ensure quieter performance, Rated Voltage - Fan: 12V Rated, Voltage - RGB LED's: 5V, Operating Voltage - Fan: 7V - 13.2V, Startup Voltage - Fan: 7V, Rated Current - Fan: 0.30A, Rated Current - RGB LED's: 0.47A +/- 10%, Static Pressure: 2.25 mm-H2O, Cable Length - Fan (mm): 600, Cable Length - RGB LED's (mm): 600, MTBF - Life Expectation: 40,000 hours @ 25c, GB LED Controller: 3 button (Effect Speed, Color, Mode), Effect Speed: High, Medium, Slow, Color: White, Red, Orange, Yellow, Green, Blue, Violet, Demo (Cycle through all colors), Mode: Static, Breathing, Pulse, Sequential, Marquee, Rainbow, Demo (Cycle through all modes), RGB LED Hub: 6 port RGB LED hub, Allows connection of up to 6 HD120 RGB LED lighting cables to a single hub, Add more fans and have the same mode/color/effect speed across all attached fans]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VQdFf7/corsair-hd120-rgb-w-controller-544-cfm-120-mm-fan-co-9050066-ww"
+}

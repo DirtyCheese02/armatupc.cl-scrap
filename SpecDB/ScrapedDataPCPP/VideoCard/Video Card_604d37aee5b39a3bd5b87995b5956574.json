@@ -1,0 +1,20 @@
+{
+    "name": "AMD 100-505841 FirePro 2450 512 MB PCIe x1 Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-505841",
+    "Chipset": "FirePro 2450",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "600 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x1",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "32 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GhM323/amd-video-card-100505841"
+}

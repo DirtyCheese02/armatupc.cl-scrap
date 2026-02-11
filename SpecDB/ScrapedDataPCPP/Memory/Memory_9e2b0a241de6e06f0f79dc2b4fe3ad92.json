@@ -1,0 +1,15 @@
+{
+    "name": "Kingston Predator 8 GB (2 x 4 GB) DDR3-2800 CL12 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX28C12T2K2/8X",
+    "Speed": "DDR3-2800",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "8.571 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yFBv6h/kingston-memory-khx28c12t2k28x"
+}

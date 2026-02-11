@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i5-650 3.2 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80616I5650",
+    "Series": "Intel Core i5",
+    "Microarchitecture": "Westmere",
+    "Core Family": "Clarkdale",
+    "Socket": "LGA1156",
+    "Core Count": "2",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "4 MB",
+    "TDP": "73 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BkZQzy/intel-cpu-bx80616i5650"
+}

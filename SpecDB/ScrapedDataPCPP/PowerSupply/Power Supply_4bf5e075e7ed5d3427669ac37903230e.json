@@ -1,0 +1,20 @@
+{
+    "name": "HEC HP485D Retail 485 W ATX Power Supply",
+    "Manufacturer": "HEC",
+    "Part #": "HP485D Retail",
+    "Type": "ATX",
+    "Wattage": "485 W",
+    "Length": "165 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2NmLrH/compucase-power-supply-hp485dretail"
+}

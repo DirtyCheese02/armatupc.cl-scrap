@@ -1,0 +1,13 @@
+{
+    "name": "Mushkin Scorpion PCIe 960 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Mushkin",
+    "Part #": "MKNP22SC960GB",
+    "Capacity": "960 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x2",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rszv6h/mushkin-internal-hard-drive-mknp22sc960gb"
+}

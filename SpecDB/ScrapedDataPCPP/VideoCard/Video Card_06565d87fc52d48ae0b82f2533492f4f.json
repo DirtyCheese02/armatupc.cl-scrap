@@ -1,0 +1,20 @@
+{
+    "name": "VisionTek 900394 Radeon HD 6870 X2 2 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900394",
+    "Chipset": "Radeon HD 6870 X2",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "TDP": "302 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/THyFf7/visiontek-video-card-900394"
+}

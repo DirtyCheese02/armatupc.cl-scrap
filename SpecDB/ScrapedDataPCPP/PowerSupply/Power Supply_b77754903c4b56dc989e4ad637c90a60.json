@@ -1,0 +1,20 @@
+{
+    "name": "Azza PSAZ-650B14 650 W ATX Power Supply",
+    "Manufacturer": "Azza",
+    "Part #": "PSAZ-650B14",
+    "Type": "ATX",
+    "Wattage": "650 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@24A, +5V@32A, +12V1@21A, +12V2@22A, -12V@0.6A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b8Np99/azza-power-supply-psaz650b14"
+}

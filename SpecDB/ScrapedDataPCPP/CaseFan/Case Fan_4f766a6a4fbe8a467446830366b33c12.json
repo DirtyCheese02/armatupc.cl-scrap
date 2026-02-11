@@ -1,0 +1,18 @@
+{
+    "name": "TRYX ROTA SL 65.64 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "TRYX",
+    "Part #": "F-R120A-AM3M-G0K",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1850 RPM",
+    "Airflow": "65.64 CFM",
+    "Noise Level": "28.87 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.49 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2prp99/tryx-rota-sl-6564-cfm-120-mm-fans-3-pack-f-r120a-am3m-g0k"
+}

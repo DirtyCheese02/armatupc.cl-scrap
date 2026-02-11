@@ -1,0 +1,23 @@
+{
+    "name": "SeaSonic TFX 350 350 W 80+ Gold Certified Fully Modular TFX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Part #": "TFX 350",
+    "Type": "TFX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "350 W",
+    "Length": "175 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@12A, +5V@16A, +12V1@18A, +12V2@18A, -12V@0.3A, +5VSB@2A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L298TW/seasonic-tfx-350-350-w-80-gold-certified-fully-modular-tfx-power-supply-tfx-350"
+}

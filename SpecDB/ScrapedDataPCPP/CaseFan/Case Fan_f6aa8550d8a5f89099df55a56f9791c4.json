@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FN 58.47 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FN121-P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "58.47 CFM",
+    "Noise Level": "25.15 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[High performance for system thermal solution, High airflow and less noise with 9-bladed design]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GvXfrH/silverstone-fn121-p-5847-cfm-120-mm-fan-fn121-p"
+}

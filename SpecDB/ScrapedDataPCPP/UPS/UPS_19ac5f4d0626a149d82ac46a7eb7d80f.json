@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite SMART1300LCDT UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART1300LCDT",
+    "Capacity (W)": "720 W",
+    "Capacity (VA)": "1300 VA",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "6.30 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "6 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pqkwrH/tripp-lite-ups-smart1300lcdt"
+}

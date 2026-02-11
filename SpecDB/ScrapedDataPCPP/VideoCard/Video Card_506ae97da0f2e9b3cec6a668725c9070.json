@@ -1,0 +1,23 @@
+{
+    "name": "Asus GT720-SL-2GD3-BRK GeForce GT 720 2 GB PCIe x8 Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "GT720-SL-2GD3-BRK",
+    "Chipset": "GeForce GT 720",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "797 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "137 mm",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xt648d/asus-video-card-gt720sl2gd3brk"
+}

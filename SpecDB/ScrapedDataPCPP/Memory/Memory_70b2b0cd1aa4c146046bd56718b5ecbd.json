@@ -1,0 +1,15 @@
+{
+    "name": "Kingston Server Premier 8 GB (1 x 8 GB) Registered DDR4-3200 CL22 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM32RS8/8HDR",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$14.988",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lj848d/kingston-server-premier-8-gb-1-x-8-gb-registered-ddr4-3200-cl22-memory-ksm32rs88hdr"
+}

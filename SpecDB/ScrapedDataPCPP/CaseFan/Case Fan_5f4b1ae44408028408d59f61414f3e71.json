@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-C12CW-X28 73.3 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-C12CW-X28",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1550 RPM",
+    "Airflow": "73.3 CFM",
+    "Noise Level": "25.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.86 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nZJBD3/thermalright-tl-c12cw-x28-733-cfm-120-mm-fan-tl-c12cw-x28"
+}

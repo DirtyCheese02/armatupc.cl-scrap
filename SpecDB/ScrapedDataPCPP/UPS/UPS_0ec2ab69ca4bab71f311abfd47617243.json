@@ -1,0 +1,16 @@
+{
+    "name": "Tripp Lite SMART5000RT3UXR UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART5000RT3UXR",
+    "Capacity (W)": "4000 W",
+    "Capacity (VA)": "5000 VA",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[10 x NEMA 5-15R, 2 x NEMA 5-20R, 1 x NEMA L6-30R, 1 x NEMA L14-30R]",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LVYWGX/tripp-lite-ups-smart5000rt3uxr"
+}

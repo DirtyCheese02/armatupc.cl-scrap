@@ -1,0 +1,16 @@
+{
+    "name": "Avexir Core White 32 GB (4 x 8 GB) DDR4-2400 CL16 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD4UZ124001608G-4CIW",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / White",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.3 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g2x2FT/avexir-core-white-32gb-4-x-8gb-ddr4-2400-memory-avd4uz124001608g-4ciw"
+}

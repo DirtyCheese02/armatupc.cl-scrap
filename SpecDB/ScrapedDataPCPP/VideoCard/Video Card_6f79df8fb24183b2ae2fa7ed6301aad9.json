@@ -1,0 +1,20 @@
+{
+    "name": "Palit GameRock GeForce RTX 5090 32 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE75090019R5-GB2020G",
+    "Chipset": "GeForce RTX 5090",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2010 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "332 mm",
+    "TDP": "575 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yfHp99/palit-gamerock-geforce-rtx-5090-32-gb-video-card-ne75090019r5-gb2020g"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "EVGA 512-P3-N871-AR GeForce 9800 GTX+ 512 MB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "512-P3-N871-AR",
+    "Chipset": "GeForce 9800 GTX+",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Cyzv6h/evga-video-card-512p3n871ar"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Asus ProArt OC GeForce RTX 4070 Ti 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[PROART-RTX4070TI-O12G, 90YV0J30-M0AA00, 90YV0J30-M0NA00]",
+    "Chipset": "GeForce RTX 4070 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2760 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nZcgXL/asus-proart-oc-geforce-rtx-4070-ti-12-gb-video-card-proart-rtx4070ti-o12g"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "XFX ProSeries 850 W 80+ Silver Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "XFX",
+    "Part #": "[P1-850B-NLG9, P1-850B-UKB9]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "850 W",
+    "Length": "170 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@24A, +5V@30A, +12V@70A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yTkD4D/xfx-proseries-850-w-80-silver-certified-semi-modular-atx-power-supply-p1-850b-nlg9"
+}

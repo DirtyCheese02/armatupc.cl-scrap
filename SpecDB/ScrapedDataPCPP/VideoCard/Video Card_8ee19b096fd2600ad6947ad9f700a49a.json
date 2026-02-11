@@ -1,0 +1,23 @@
+{
+    "name": "Asus DUAL EVO GeForce RTX 2060 6 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RTX2060-6G-EVO, 90YV0CH4-M0AA00, 90YV0CH4-M0NA00]",
+    "Chipset": "GeForce RTX 2060",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1395 MHz",
+    "Boost Clock": "1710 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "242 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "1",
+    "HDMI 2.0b Outputs": "2",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CV6p99/asus-dual-evo-geforce-rtx-2060-6-gb-video-card-dual-rtx2060-6g-evo"
+}

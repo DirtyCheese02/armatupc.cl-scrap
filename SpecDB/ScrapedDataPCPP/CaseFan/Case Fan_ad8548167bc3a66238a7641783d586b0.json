@@ -1,0 +1,18 @@
+{
+    "name": "Thermaltake Riing 40.6 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F038-PL12OR-A",
+    "Size": "120 mm",
+    "Color": "Black / Orange",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 1500 RPM",
+    "Airflow": "40.6 CFM",
+    "Noise Level": "18.7 - 24.6 dB",
+    "PWM": "No",
+    "LED": "Orange",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2.01 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XJbkcf/thermaltake-case-fan-clf038pl12ora"
+}

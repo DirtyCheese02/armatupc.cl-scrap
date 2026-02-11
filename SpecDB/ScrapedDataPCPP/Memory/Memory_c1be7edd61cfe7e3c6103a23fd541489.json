@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum RGB 128 GB (8 x 16 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT128GX4M8X3600C18",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fPPKHx/corsair-dominator-platinum-rgb-128-gb-8-x-16-gb-ddr4-3600-memory-cmt128gx4m8x3600c18"
+}

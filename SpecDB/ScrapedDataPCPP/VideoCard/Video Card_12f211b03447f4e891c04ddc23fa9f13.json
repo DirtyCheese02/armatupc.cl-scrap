@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor RX7700XT 12G-P Radeon RX 7700 XT 12 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "RX7700XT 12G-P",
+    "Chipset": "Radeon RX 7700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1700 MHz",
+    "Boost Clock": "2544 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "260 mm",
+    "TDP": "245 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WmxTwP/powercolor-rx7700xt-12g-p-radeon-rx-7700-xt-12-gb-video-card-rx7700xt-12g-p"
+}

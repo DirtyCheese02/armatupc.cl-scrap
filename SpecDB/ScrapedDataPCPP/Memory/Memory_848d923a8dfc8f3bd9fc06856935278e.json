@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 32 GB (4 x 8 GB) DDR4-3000 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3000C14Q-32GTZR",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "Timing": "14-14-14-34",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/txCrxr/gskill-tridentz-rgb-32gb-4-x-8gb-ddr4-3000-memory-f4-3000c14q-32gtzr"
+}

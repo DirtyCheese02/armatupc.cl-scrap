@@ -1,0 +1,21 @@
+{
+    "name": "APC SUM3000RMXL2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUM3000RMXL2U",
+    "Capacity (W)": "2850 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Backup/Run Time (Full Load)": "3.50 Minutes",
+    "Backup/Run Time (Half Load)": "11.90 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[2 x NEMA 5-15R, 6 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tGfmP6/apc-ups-sum3000rmxl2u"
+}

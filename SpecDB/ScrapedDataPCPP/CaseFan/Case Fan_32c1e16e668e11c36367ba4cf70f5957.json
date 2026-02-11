@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Shadow Wings 44.1 CFM 80 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL024",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "26 - 44.1 CFM",
+    "Noise Level": "16.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.25 mmH₂O",
+    "Bearing Type": "Rifle",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PKfp99/be-quiet-case-fan-bl024"
+}

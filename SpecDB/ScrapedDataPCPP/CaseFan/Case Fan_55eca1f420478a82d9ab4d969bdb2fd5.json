@@ -1,0 +1,17 @@
+{
+    "name": "Thermaltake CT ARGB Sync 131.6 CFM 200 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F180-PL20SW-A",
+    "Size": "200 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 900 RPM",
+    "Airflow": "131.6 CFM",
+    "Noise Level": "27.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YHBFf7/thermaltake-ct-argb-sync-1316-cfm-200-mm-fan-cl-f180-pl20sw-a"
+}

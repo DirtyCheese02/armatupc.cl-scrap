@@ -1,0 +1,20 @@
+{
+    "name": "APC SURT2000XLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURT2000XLI",
+    "Capacity (W)": "1400 W",
+    "Capacity (VA)": "2000 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Backup/Run Time (Full Load)": "4.10 Minutes",
+    "Backup/Run Time (Half Load)": "14.20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[6 x IEC 320-C13, 3]",
+    "Serial Port": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ngL7YJ/apc-ups-surt2000xli"
+}

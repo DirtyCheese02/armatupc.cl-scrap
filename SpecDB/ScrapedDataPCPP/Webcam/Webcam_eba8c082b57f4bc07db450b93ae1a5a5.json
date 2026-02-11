@@ -1,0 +1,16 @@
+{
+    "name": "Logitech StreamCam Plus Webcam",
+    "Manufacturer": "Logitech",
+    "Model": "StreamCam Plus",
+    "Part #": "960-001280",
+    "Resolution": "[1080p, 720p, 480p]",
+    "Connection": "USB 3.2 Gen 1 Type-C",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X]",
+    "F-Stop": "2.0X",
+    "Focal Length": "4 mm",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jQsnTW/logitech-streamcam-plus-webcam-960-001280"
+}

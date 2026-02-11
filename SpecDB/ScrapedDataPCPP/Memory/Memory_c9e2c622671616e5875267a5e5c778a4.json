@@ -1,0 +1,16 @@
+{
+    "name": "GeIL GS432GB2133C15DC 32 GB (2 x 16 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GS432GB2133C15DC",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HWrmP6/geil-32gb-2-x-16gb-ddr4-2133-memory-gs432gb2133c15dc"
+}

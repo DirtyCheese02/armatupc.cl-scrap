@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP048GBLVU560P22 48 GB (2 x 24 GB) DDR5-5600 CL46 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP048GBLVU560P22",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "16.429 ns",
+    "CAS Latency": "46",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9rBzK8/silicon-power-sp048gblvu560p22-48-gb-2-x-24-gb-ddr5-5600-cl46-memory-sp048gblvu560p22"
+}

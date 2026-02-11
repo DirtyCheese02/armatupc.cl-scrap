@@ -1,0 +1,23 @@
+{
+    "name": "EVGA Superclocked GeForce GT 740 4 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "04G-P4-2744-KR",
+    "Chipset": "GeForce GT 740",
+    "Memory": "4 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "1059 MHz",
+    "Effective Memory Clock": "1334 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / White",
+    "Frame Sync": "None",
+    "Length": "153 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FBsKHx/evga-video-card-04gp42744kr"
+}

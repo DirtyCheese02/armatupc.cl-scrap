@@ -1,0 +1,17 @@
+{
+    "name": "Cooler Master MasterFan Lite 32 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "R4-CPDS-12FR-B1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "32 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Zn97YJ/cooler-master-masterfan-lite-120-320-cfm-120mm-fan-r4-cpds-12fr-b1"
+}

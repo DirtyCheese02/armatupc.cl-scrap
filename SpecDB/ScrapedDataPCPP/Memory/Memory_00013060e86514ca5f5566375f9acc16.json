@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z 16 GB (2 x 8 GB) DDR4-3600 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C15D-16GTZ",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Silver / Red",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yCVBD3/gskill-tridentz-series-16gb-2-x-8gb-ddr4-3600-memory-f4-3600c15d-16gtz"
+}

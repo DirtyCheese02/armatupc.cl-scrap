@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS XS OC GeForce RTX 2060 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 2060 VENTUS XS 6G OC, RTX 2060 VENTUS XS 6G OC, G2060VXS6C, V375-035R]",
+    "Chipset": "GeForce RTX 2060",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1710 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "205 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QNn8TW/msi-geforce-rtx-2060-6-gb-ventus-xs-oc-video-card-geforce-rtx-2060-ventus-xs-6g-oc"
+}

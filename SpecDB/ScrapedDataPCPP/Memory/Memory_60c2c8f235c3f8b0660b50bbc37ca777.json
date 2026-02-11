@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX T1 6 GB (3 x 2 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1866C9D3T1K3/6GX",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 2GB",
+    "Color": "Blue",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2Dg323/kingston-memory-khx1866c9d3t1k36gx"
+}

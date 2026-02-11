@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RFA-120-BL 74.48 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFA-120-BL",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "74.48 CFM",
+    "Noise Level": "29.28 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "4 Blue LEDs implemented for bright glowing result",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gYkD4D/rosewill-case-fan-rfa120bl"
+}

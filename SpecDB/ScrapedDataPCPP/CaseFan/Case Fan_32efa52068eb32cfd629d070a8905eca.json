@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Light Wings PWM high-speed 52.3 CFM 120 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Model": "Light Wings PWM high-speed",
+    "Part #": "BL073",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2500 RPM",
+    "Airflow": "52.3 CFM",
+    "Noise Level": "31 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.6 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pqVmP6/be-quiet-light-wings-pwm-high-speed-523-cfm-120-mm-fan-bl073"
+}

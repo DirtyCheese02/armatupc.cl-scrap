@@ -1,0 +1,18 @@
+{
+    "name": "Tripp Lite ECO850LCD UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "ECO850LCD",
+    "Capacity (W)": "425 W",
+    "Capacity (VA)": "850 VA",
+    "Backup/Run Time (Full Load)": "2.80 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "[Desktop, Wall Mountable]",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Black Out, Surge]",
+    "Receptacles": "12 x NEMA 5-15R",
+    "Switching Time": "6 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g2RFf7/tripp-lite-ups-eco850lcd"
+}

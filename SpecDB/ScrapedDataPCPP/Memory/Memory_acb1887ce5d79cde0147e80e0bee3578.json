@@ -1,0 +1,15 @@
+{
+    "name": "AMD Radeon R5 Entertainment 16 GB (2 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "AMD",
+    "Part #": "R5316G1601U2K-G",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g9h9TW/amd-memory-r5316g1601u2kg"
+}

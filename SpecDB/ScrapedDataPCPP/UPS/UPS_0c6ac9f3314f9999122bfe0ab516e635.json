@@ -1,0 +1,19 @@
+{
+    "name": "APC BN1080G UPS",
+    "Manufacturer": "APC",
+    "Part #": "BN1080G",
+    "Capacity (W)": "650 W",
+    "Capacity (VA)": "1080 VA",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-11, RJ-45]",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "[120 V AC, 110 V AC]",
+    "Receptacles": "4 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MQVBD3/apc-ups-bn1080g"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Noctua R8 redux-1200 21.07 CFM 80 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "R8 redux-1200",
+    "Part #": "NF-R8 redux-1200",
+    "Size": "80 mm",
+    "Color": "Black / Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "21.07 CFM",
+    "Noise Level": "9.1 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.67 mmH₂O",
+    "Bearing Type": "SSO",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZwMFf7/noctua-case-fan-nfr8redux1200"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Samsung SH-222AL DVD/CD Writer",
+    "Manufacturer": "Samsung",
+    "Part #": "SH-222AL",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "DVD-ROM Speed": "16X",
+    "CD-ROM Speed": "48X",
+    "DVD+R Speed": "22X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "16X",
+    "DVD-R Speed": "22X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "12X",
+    "DVD-RAM Speed": "12X",
+    "CD-R Speed": "48X",
+    "CD-RW Speed": "24X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N8tCmG/samsung-optical-drive-sh222al"
+}

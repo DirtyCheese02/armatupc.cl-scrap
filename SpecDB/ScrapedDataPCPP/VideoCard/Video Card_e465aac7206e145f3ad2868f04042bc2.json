@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Challenger Pro OC Radeon RX 6800 16 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX6800 CLP 16GO, 90-GA29ZZ-00UANF]",
+    "Chipset": "Radeon RX 6800",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1700 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "303 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J8n8TW/asrock-radeon-rx-6800-16-gb-challenger-pro-oc-video-card-rx6800-clp-16go"
+}

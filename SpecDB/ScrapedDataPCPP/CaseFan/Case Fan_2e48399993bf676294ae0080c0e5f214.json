@@ -1,0 +1,20 @@
+{
+    "name": "NZXT Air Flow 59.1 CFM 120 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "RF-FZ120-02",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "59.1 CFM",
+    "Noise Level": "26.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.71 mmH₂O",
+    "Bearing Type": "Long Life Bearing",
+    "Features": "[Optimized for extreme airflow - 120mm fan with minimal speeds of 1200+/- 20% RPM, Low noise level of 26.8 dBA with exceptional airflow at 59.1 CFM]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BM9KHx/nzxt-air-flow-series-591-cfm-120-mm-fan-rf-fz120-02"
+}

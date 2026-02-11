@@ -1,0 +1,23 @@
+{
+    "name": "AMD 100-506163 Radeon Pro VII 16 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-506163",
+    "Chipset": "Radeon Pro VII",
+    "Memory": "16 GB",
+    "Memory Type": "HBM2",
+    "Core Clock": "1400 MHz",
+    "Boost Clock": "1700 MHz",
+    "Effective Memory Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "FreeSync",
+    "Length": "305 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YWTzK8/amd-radeon-pro-vii-16-gb-video-card-100-506163"
+}

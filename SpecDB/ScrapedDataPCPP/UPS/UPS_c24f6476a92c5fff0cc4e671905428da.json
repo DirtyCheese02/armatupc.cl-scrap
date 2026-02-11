@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite SU5000RT4U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU5000RT4U",
+    "Capacity (W)": "3800 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "4U",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "22 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Output Voltage": "[240 V AC, 208 V AC]",
+    "Receptacles": "[8 x NEMA L6-30R, 2 x NEMA 5-15/20R, 2 x NEMA L6-20R]",
+    "Switching Time": "0 ns",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4RGj4D/tripp-lite-ups-su5000rt4u"
+}

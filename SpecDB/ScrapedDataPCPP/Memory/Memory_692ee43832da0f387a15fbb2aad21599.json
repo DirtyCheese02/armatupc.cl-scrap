@@ -1,0 +1,17 @@
+{
+    "name": "Crucial Pro Overclocking 64 GB (2 x 32 GB) DDR5-6400 CL40 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CP2K32G64C40U5B",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$8.890",
+    "Color": "Black",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.35 V",
+    "Timing": "40-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9RVfrH/crucial-pro-overclocking-64-gb-2-x-32-gb-ddr5-6400-cl40-memory-cp2k32g64c40u5b"
+}

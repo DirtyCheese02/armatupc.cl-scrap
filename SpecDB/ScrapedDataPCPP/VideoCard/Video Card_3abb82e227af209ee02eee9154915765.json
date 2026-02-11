@@ -1,0 +1,22 @@
+{
+    "name": "ATI FirePro W600 FirePro W600 2 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro W600",
+    "Part #": "100-505835",
+    "Chipset": "FirePro W600",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "600 MHz",
+    "Effective Memory Clock": "4000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "163 mm",
+    "TDP": "26 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PQFPxr/ati-video-card-100505835"
+}

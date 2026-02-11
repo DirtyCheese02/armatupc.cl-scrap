@@ -1,0 +1,14 @@
+{
+    "name": "Samsung XP941 512 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Samsung",
+    "Part #": "MZHPU512HCGL-00000",
+    "Capacity": "512 GB",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "SSD Controller": "Samsung S4LNO53X01",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LMJwrH/samsung-internal-hard-drive-mzhpu512hcgl00000"
+}

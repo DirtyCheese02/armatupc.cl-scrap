@@ -1,0 +1,16 @@
+{
+    "name": "GeIL SUPER LUCE RGB 8 GB (2 x 4 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLS48GB3000C16ADC",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lmx2FT/geil-super-luce-rgb-8gb-2-x-4gb-ddr4-3000-memory-gls48gb3000c16adc"
+}

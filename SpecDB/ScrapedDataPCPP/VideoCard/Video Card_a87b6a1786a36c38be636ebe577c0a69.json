@@ -1,0 +1,22 @@
+{
+    "name": "AMD 100-506189 Radeon PRO W6400 4 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-506189",
+    "Chipset": "Radeon PRO W6400",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2331 MHz",
+    "Boost Clock": "2331 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 1.4 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jpZ9TW/amd-100-506189-radeon-pro-w6400-4-gb-video-card-100-506189100-506189"
+}

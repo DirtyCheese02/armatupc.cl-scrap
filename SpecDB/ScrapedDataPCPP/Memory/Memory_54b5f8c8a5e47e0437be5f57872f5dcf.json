@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX12800D3K2/4G 4 GB (2 x 2 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX12800D3K2/4G",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.9 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wkL7YJ/kingston-memory-khx12800d3k24g"
+}

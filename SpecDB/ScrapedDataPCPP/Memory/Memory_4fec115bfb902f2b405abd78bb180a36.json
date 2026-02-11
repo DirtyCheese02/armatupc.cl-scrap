@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 4 8 GB (2 x 4 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2666C15D-8GRR",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VZfmP6/gskill-memory-f42666c15d8grr"
+}

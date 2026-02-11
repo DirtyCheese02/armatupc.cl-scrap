@@ -1,0 +1,23 @@
+{
+    "name": "HIS H575QS1GD Radeon HD 5750 1 GB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "H575QS1GD",
+    "Chipset": "Radeon HD 5750",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "86 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qhzv6h/his-video-card-h575qs1gd"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-3960X Extreme Edition 3.3 GHz 6-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80619i73960X",
+    "Series": "Intel Core i7 Extreme",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge-E",
+    "Socket": "LGA2011",
+    "Core Count": "6",
+    "Thread Count": "12",
+    "Performance Core Clock": "3.3 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "15 MB",
+    "TDP": "130 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fMkD4D/intel-cpu-bx80619i73960x"
+}

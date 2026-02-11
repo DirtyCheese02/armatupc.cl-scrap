@@ -1,0 +1,22 @@
+{
+    "name": "Asus Phoenix GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[PH-RTX3050-8G, 90YV0HH2-M0NA00]",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1807 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "177 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q9pzK8/asus-geforce-rtx-3050-8gb-8-gb-phoenix-video-card-ph-rtx3050-8g"
+}

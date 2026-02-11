@@ -1,0 +1,11 @@
+{
+    "name": "Asus PCE-AC56 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Asus",
+    "Part #": "[PCE-AC56, 90IG00K0-BM0000]",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "PCIe x1",
+    "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPS support",
+    "Antenna": "2 x R SMA Antenna",
+    "Features": "[Instant 802.11ac Wi-Fi upgrade for your desktop PC: no more messy Ethernet cables needed., Next-generation 802.11ac chipset for super-fast connections up to 867 Mbps, Selectable dual-band 2.4 GHz/ 5 GHz operation, backwards-compatible with all existing devices, Broadcom TurboQAM technology gives 33% faster 802.11n performance, with speeds up to 400 Mbps, High-power design reduces wireless dead zones with 150% greater coverage, Specially designed heatsink ensures stable and reliable continuous operation]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bQ8Zxr/asus-wireless-network-card-pceac56"
+}

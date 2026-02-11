@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II X4 651 3 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD651XWNGXBOX",
+    "Series": "AMD Athlon II X4",
+    "Microarchitecture": "Lynx",
+    "Core Family": "Llano",
+    "Socket": "FM1",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "100 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/44XfrH/amd-cpu-ad651xwngxbox"
+}

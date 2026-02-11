@@ -1,0 +1,11 @@
+{
+    "name": "Intel DC P3500 2 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPEDMX020T410",
+    "Capacity": "2 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Jy4NnQ/intel-internal-hard-drive-ssdpedmx020t410"
+}

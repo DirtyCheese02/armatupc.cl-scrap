@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master SickleFlow 67 CFM 140 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "MFX-B4DN-14NPA-R1",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 1400 RPM",
+    "Airflow": "67 CFM",
+    "Noise Level": "10 - 27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CdhmP6/cooler-master-67-cfm-140-mm-fan-mfx-b4dn-14npa-r1"
+}

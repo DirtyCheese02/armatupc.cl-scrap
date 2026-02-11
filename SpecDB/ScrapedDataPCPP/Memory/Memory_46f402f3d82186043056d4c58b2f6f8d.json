@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance 16 GB (4 x 4 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMZ16GX3M4A2400C10",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "Timing": "10-12-12-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xnzv6h/corsair-memory-cmz16gx3m4a2400c10"
+}

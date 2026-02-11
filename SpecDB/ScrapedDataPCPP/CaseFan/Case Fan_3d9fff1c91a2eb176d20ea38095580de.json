@@ -1,0 +1,19 @@
+{
+    "name": "Apevia S 57.67 CFM 120 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "AF512L-SPK",
+    "Size": "120 mm",
+    "Color": "Black / Pink",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "57.67 CFM",
+    "Noise Level": "24.7 dB",
+    "PWM": "Yes",
+    "LED": "Pink",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "0.96 mmH₂O",
+    "Features": "[Material: Pink transparent PU plastic, Air Power: 12 VDC, Operation Voltage Range: 9 VDC - 13.5 VDC, Start-up Voltage: 9 VDC, Rated Voltage: 12 VDC, Rated Current: 0.20 A, Lock Rotor Current: 0.21 A, Static Air Pressure: 0.96mm-H2O, Life Expectation: 25,000 hours]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PBNypg/apevia-af512l-spk-5-pack1-577-cfm-120mm-fan-af512l-spk"
+}

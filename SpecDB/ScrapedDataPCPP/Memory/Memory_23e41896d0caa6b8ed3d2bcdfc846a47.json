@@ -1,0 +1,17 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 32 GB (2 x 16 GB) DDR5-5200 CL40 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FLBD532G5200HC40CDC01",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$11.371",
+    "Color": "Black",
+    "First Word Latency": "15.385 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YwfnTW/teamgroup-t-force-vulcan-32-gb-2-x-16-gb-ddr5-5200-cl40-memory-flbd532g5200hc40cdc01"
+}

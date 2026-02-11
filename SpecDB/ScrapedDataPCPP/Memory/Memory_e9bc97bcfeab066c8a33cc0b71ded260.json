@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP008GBLFU213X22 8 GB (2 x 4 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP008GBLFU213X22",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JjmmP6/silicon-power-sp008gblfu213x22-8-gb-2-x-4-gb-ddr4-2133-cl15-memory-sp008gblfu213x22"
+}

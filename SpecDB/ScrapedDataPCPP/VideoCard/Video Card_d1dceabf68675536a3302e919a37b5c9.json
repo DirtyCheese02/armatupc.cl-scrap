@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-R677D5-1GD Radeon HD 6770 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R677D5-1GD",
+    "Chipset": "Radeon HD 6770",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "775 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "205 mm",
+    "TDP": "108 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sXckcf/gigabyte-video-card-gvr677d51gd"
+}

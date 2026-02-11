@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X II AMD 16 GB (1 x 16 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAEXSW416GB3600C18ASC",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DmjRsY/geil-evo-x-ii-amd-16-gb-1-x-16-gb-ddr4-3600-cl18-memory-gaexsw416gb3600c18asc"
+}

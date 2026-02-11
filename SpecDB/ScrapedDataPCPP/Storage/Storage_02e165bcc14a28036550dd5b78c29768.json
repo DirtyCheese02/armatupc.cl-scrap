@@ -1,0 +1,13 @@
+{
+    "name": "Kingston SSDNow mS200 480 GB mSATA Solid State Drive",
+    "Manufacturer": "Kingston",
+    "Part #": "SMS200S3/480G",
+    "Capacity": "480 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VVrG3C/kingston-internal-hard-drive-sms200s3480g"
+}

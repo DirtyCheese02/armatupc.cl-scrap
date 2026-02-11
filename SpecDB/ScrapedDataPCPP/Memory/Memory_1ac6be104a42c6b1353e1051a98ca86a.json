@@ -1,0 +1,16 @@
+{
+    "name": "Neo Forza FAYE 16 GB (2 x 8 GB) DDR4-4400 CL19 Memory",
+    "Manufacturer": "Neo Forza",
+    "Part #": "NMUD480E82-4400GG20",
+    "Speed": "DDR4-4400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.636 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.45 V",
+    "Timing": "19-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xJfnTW/neo-forza-faye-16-gb-2-x-8-gb-ddr4-4400-cl19-memory-nmud480e82-4400gg20"
+}

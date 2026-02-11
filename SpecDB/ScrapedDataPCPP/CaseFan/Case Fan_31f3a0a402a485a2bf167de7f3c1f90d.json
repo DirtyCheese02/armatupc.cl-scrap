@@ -1,0 +1,18 @@
+{
+    "name": "Iceberg Thermal IceGALE ARGB 94 CFM 120 mm Fan",
+    "Manufacturer": "Iceberg Thermal",
+    "Part #": "ICEGALE12A-E0A",
+    "Size": "120 mm",
+    "Color": "Black / Teal",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2200 RPM",
+    "Airflow": "94 CFM",
+    "Noise Level": "0 - 38 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.27 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/n9Fbt6/iceberg-thermal-icegale-argb-94-cfm-120-mm-fan-icegale12a-e0a"
+}

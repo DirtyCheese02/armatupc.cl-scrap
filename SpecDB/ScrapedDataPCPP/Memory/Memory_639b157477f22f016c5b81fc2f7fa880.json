@@ -1,0 +1,15 @@
+{
+    "name": "VisionTek 900384 2 GB (1 x 2 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "VisionTek",
+    "Part #": "900384",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "Color": "Black / Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zC8j4D/visiontek-2gb-1-x-2gb-ddr3-1333-memory-900384"
+}

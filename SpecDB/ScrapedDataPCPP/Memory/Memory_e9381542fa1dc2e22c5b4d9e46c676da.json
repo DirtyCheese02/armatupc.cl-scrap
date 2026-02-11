@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP032GBSFU320F01 32 GB (1 x 32 GB) DDR4-3200 SODIMM CL22 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP032GBSFU320F01",
+    "Speed": "DDR4-3200",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BQpzK8/silicon-power-sp032gbsfu320f01-32-gb-1-x-32-gb-ddr4-3200-sodimm-cl22-memory-sp032gbsfu320f01"
+}

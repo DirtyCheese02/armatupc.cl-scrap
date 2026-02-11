@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-2700K 3.5 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80623i72700K",
+    "Series": "Intel Core i7",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "3.5 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "Intel HD Graphics 3000",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CNCwrH/intel-cpu-bx80623i72700k"
+}

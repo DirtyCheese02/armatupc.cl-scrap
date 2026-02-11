@@ -1,0 +1,15 @@
+{
+    "name": "Kingston ValueRAM 4 GB (1 x 4 GB) DDR4-3200 SODIMM CL22 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR32S22S6/4",
+    "Speed": "DDR4-3200",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "Price / GB": "$10.750",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mHmmP6/kingston-valueram-4-gb-1-x-4-gb-ddr4-3200-cl22-memory-kvr32s22s64"
+}

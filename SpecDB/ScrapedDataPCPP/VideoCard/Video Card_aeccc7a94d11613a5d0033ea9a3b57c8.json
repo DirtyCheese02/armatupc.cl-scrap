@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Challenger D Arc A750 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[A750 CLD 8GO, 90-GA3HZZ-00UANF]",
+    "Chipset": "Arc A750",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "271 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "2",
+    "HDMI 2.1 Outputs": "1",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yyJgXL/asrock-challenger-d-arc-a750-8-gb-video-card-a750-cld-8go"
+}

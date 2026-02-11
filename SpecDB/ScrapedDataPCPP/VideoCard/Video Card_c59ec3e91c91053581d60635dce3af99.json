@@ -1,0 +1,23 @@
+{
+    "name": "MSI GAMING TRIO GeForce RTX 5060 Ti 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[G506T-16GT, RTX 5060 Ti 16G GAMING TRIO]",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2587 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yyxTwP/msi-gaming-trio-geforce-rtx-5060-ti-16-gb-video-card-g506t-16gt"
+}

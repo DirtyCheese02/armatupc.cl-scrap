@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 2X OC GeForce RTX 5050 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RTX 5050 8G VENTUS 2X OC, GeForce RTX 5050 8G VENTUS 2X OC, 4711377380003, V538-002R, G5050-8V2C]",
+    "Chipset": "GeForce RTX 5050",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2317 MHz",
+    "Boost Clock": "2617 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "197 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J2jv6h/msi-ventus-2x-oc-geforce-rtx-5050-8-gb-video-card-rtx-5050-8g-ventus-2x-oc"
+}

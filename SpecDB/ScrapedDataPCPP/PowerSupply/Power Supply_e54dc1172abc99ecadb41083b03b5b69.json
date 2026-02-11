@@ -1,0 +1,23 @@
+{
+    "name": "Silverstone Strider 1500 W 80+ Silver Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Part #": "[ST1500, SST-ST1500]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "1500 W",
+    "Length": "219 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "4",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "12",
+    "Output": "+3.3V@40A, +5V@40A, +12V1@25A, +12V2@25A, +12V3@25A, +12V4@25A, +12V5@25A, +12V6@25A, +12V7@25A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/83DwrH/silverstone-strider-1500-w-80-silver-certified-fully-modular-atx-power-supply-st1500"
+}

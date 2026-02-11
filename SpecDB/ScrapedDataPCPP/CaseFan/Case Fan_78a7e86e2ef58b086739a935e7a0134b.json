@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Light Wings LX 56 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL127",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "56 CFM",
+    "Noise Level": "22.9 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "0.9 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CxyH99/be-quiet-light-wings-lx-56-cfm-140-mm-fans-3-pack-bl127"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z RGB 96 GB (2 x 48 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6400J3239F48GX2-TZ5RK",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Price / GB": "$10.188",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.35 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xDcgXL/gskill-trident-z-rgb-96-gb-2-x-48-gb-ddr5-6400-cl32-memory-f5-6400j3239f48gx2-tz5rk"
+}

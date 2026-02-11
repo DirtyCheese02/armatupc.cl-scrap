@@ -1,0 +1,21 @@
+{
+    "name": "APC SRT8KRMXLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SRT8KRMXLI",
+    "Capacity (W)": "8000 W",
+    "Capacity (VA)": "8000 VA",
+    "Rack Height": "6U",
+    "Alarm": "Battery Failure",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "16 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "1.50 Hour",
+    "Output Voltage": "230 V AC",
+    "Protection Type": "[Surge, Spike, Lightning]",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pPs8TW/apc-ups-srt8krmxli"
+}

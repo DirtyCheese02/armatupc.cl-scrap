@@ -1,0 +1,19 @@
+{
+    "name": "IBM 53953KX UPS",
+    "Manufacturer": "IBM",
+    "Part #": "53953KX",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "253 V AC",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vPs8TW/ibm-ups-53953kx"
+}

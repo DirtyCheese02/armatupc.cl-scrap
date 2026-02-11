@@ -1,0 +1,21 @@
+{
+    "name": "CyberPower CP685AVRLCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP685AVRLCD",
+    "Capacity (W)": "390 W",
+    "Capacity (VA)": "685 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RG-6, RJ-11]",
+    "Emergency Power OFF": "No",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jTH48d/cyberpower-ups-cp685avrlcd"
+}

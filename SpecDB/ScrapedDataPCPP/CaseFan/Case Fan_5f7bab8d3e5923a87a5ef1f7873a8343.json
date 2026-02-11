@@ -1,0 +1,18 @@
+{
+    "name": "Xilence XPF80.R.PWM 21.8 CFM 80 mm Fan",
+    "Manufacturer": "Xilence",
+    "Model": "XPF80.R.PWM",
+    "Part #": "[XF040, XPF80.R.PWM]",
+    "Size": "80 mm",
+    "Color": "Red / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1800 RPM",
+    "Airflow": "21.8 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WpTZxr/xilence-xpf80rpwm-218-cfm-80-mm-fan-xf040"
+}

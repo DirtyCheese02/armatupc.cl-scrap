@@ -1,0 +1,21 @@
+{
+    "name": "XFX HD-467X-ZDF2 Radeon HD 4670 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-467X-ZDF2",
+    "Chipset": "Radeon HD 4670",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "750 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "TDP": "59 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YLTmP6/xfx-video-card-hd467xzdf2"
+}

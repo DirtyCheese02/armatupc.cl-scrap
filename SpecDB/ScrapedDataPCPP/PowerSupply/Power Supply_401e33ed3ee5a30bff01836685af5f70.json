@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 850 G2 850 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 850 G2",
+    "Part #": "[220-G2-0850-XR, 220-G2-0850-X2, 220-G2-0850-X3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "850 W",
+    "Length": "177 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+5V@24A +3.3V@24A +12V@70.8A -12V@0.5A +5Vsb@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LCfp99/evga-supernova-850-g2-850-w-80-gold-certified-fully-modular-atx-power-supply-220-g2-0850-xr"
+}

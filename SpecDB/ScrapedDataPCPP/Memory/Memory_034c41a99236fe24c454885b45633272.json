@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6600 CL32 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH64GX5M2B6600C32",
+    "Speed": "DDR5-6600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$17.500",
+    "Color": "Black / Gray",
+    "First Word Latency": "9.697 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JvfxFT/corsair-vengeance-rgb-64-gb-2-x-32-gb-ddr5-6600-cl32-memory-cmh64gx5m2b6600c32"
+}

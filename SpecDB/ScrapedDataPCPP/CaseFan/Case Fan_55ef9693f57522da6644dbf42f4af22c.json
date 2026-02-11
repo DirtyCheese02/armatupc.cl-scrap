@@ -1,0 +1,17 @@
+{
+    "name": "Logisys CF120GN 69.15 CFM 120 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "CF120GN",
+    "Size": "120 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 - 2000 RPM",
+    "Airflow": "69.15 CFM",
+    "Noise Level": "39.29 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R7ckcf/logisys-case-fan-cf120gn"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PNY Blower GeForce GTX 1080 Ti 11 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGGTX1080T11PB-CG",
+    "Chipset": "GeForce GTX 1080 Ti",
+    "Memory": "11 GB",
+    "Memory Type": "GDDR5X",
+    "Core Clock": "1480 MHz",
+    "Boost Clock": "1582 MHz",
+    "Effective Memory Clock": "11000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / White",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yVBTwP/pny-geforce-gtx-1080-ti-11gb-blower-edition-video-card-vcggtx1080t11pb-cg"
+}

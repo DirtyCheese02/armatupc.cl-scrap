@@ -1,0 +1,22 @@
+{
+    "name": "LEPA G1000-MA 1000 W 80+ Gold Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "LEPA",
+    "Part #": "G1000-MA",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1000 W",
+    "Length": "175 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "8",
+    "Output": "+3.3V@24A, +5V@24A, +12V1@30A, +12V2@30A, +12V3@30A, +12V4@30A, -12V@0.5A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VMzv6h/lepa-power-supply-g1000ma"
+}

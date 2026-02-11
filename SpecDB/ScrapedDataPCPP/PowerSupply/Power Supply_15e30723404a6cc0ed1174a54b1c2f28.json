@@ -1,0 +1,22 @@
+{
+    "name": "MSI MAG A600DN 600 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "MSI",
+    "Part #": "MAG A600DN",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "600 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jystt6/msi-mag-a600dn-600-w-80-certified-atx-power-supply-mag-a600dn"
+}

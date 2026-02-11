@@ -1,0 +1,21 @@
+{
+    "name": "E-Power EP-1200P10-T2 1200 W 80+ Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "E-Power",
+    "Part #": "EP-1200P10-T2",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "1200 W",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "3",
+    "PCIe 6-pin Connectors": "3",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@30A,+5V@30A,+12V1@20A,+12V2@20A,+12V3@20A,+12V4@20A,<br/>+12V5@20A,+12V6@20A (combine 84A),-12V@0.8A, +5VSB@6.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/29fp99/e-power-power-supply-ep1200p10t2"
+}

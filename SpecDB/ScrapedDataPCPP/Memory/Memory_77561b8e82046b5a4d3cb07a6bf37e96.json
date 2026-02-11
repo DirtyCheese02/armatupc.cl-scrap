@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws 8 GB (2 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-12800CL9D-8GBRL",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Price / GB": "$6.124",
+    "Color": "Black / Red",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/36zv6h/gskill-memory-f312800cl9d8gbrl"
+}

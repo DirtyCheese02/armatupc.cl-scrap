@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC F8 31 CFM 80 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Part #": "[F8 PWM PST, AFACO-080P0-GBA01]",
+    "Size": "80 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "31 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cxgQzy/arctic-f8-pwm-pst-31-cfm-80-mm-fan-f8-pwm-pst"
+}

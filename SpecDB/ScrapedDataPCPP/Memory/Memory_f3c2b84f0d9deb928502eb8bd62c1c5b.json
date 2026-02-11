@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws M5 Neo RGB 64 GB (2 x 32 GB) DDR5-6000 CL36 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J3636F32GX2-RM5NRW",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "White",
+    "First Word Latency": "12 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-36-36-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vxYfrH/gskill-ripjaws-m5-neo-rgb-64-gb-2-x-32-gb-ddr5-6000-cl36-memory-f5-6000j3636f32gx2-rm5nrw"
+}

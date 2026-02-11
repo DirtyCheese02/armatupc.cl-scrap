@@ -1,0 +1,13 @@
+{
+    "name": "OCZ RevoDrive X2 360 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZSSDPX-1RVDX0360",
+    "Capacity": "360 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-1222",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XHmLrH/ocz-internal-hard-drive-oczssdpx1rvdx0360"
+}

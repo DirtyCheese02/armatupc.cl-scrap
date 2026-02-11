@@ -1,0 +1,15 @@
+{
+    "name": "Kingston ValueRAM 8 GB (1 x 8 GB) DDR4-3200 CL22 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR32N22S8/8",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$9.373",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CtJgXL/kingston-valueram-8-gb-1-x-8-gb-ddr4-3200-cl22-memory-kvr32n22s88"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Antec Nine Hundred ATX Mid Tower Case",
+    "Manufacturer": "Antec",
+    "Part #": "Nine Hundred",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Acrylic",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, Thin Mini ITX]",
+    "Maximum Video Card Length": "[406 mm, 15.984\"]",
+    "Drive Bays": "[3 x External 5.25\", 6 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 200 mm]",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[467 mm x 205 mm x 492 mm, 18.386\" x 8.071\" x 19.37\"]",
+    "Volume": "[47.102 L, 1.663 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DKmLrH/antec-case-ninehundred"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Challenger Radeon RX 6600 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX6600 CLW 8G, 90-GA4UZZ-00UANF]",
+    "Chipset": "Radeon RX 6600",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1626 MHz",
+    "Boost Clock": "2491 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "FreeSync",
+    "Length": "269 mm",
+    "TDP": "132 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/28zXsY/asrock-challenger-radeon-rx-6600-8-gb-video-card-rx6600-clw-8g"
+}

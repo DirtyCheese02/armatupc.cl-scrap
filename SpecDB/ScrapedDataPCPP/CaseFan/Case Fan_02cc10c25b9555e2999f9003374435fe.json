@@ -1,0 +1,18 @@
+{
+    "name": "LEPA LP70D12R 120 mm Fan",
+    "Manufacturer": "LEPA",
+    "Part #": "LP70D12R",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1600 RPM",
+    "Noise Level": "24 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Barometric Oilless Bearing (BOL Bearing)",
+    "Features": "[Barometric Oilless (BOL) Bearing for long life span and silent spinning, Working ambient temperature up to 70 Degrees C, Solid appearance with high quality texture, 12V / 7V / 5V combo adapter for 3 speed modes]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x4H323/lepa-case-fan-lp70d12r"
+}

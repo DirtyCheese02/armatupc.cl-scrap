@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle X560 Ti DF 3DG GeForce GTX 560 Ti 1 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "X560 Ti DF 3DG",
+    "Chipset": "GeForce GTX 560 Ti",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "950 MHz",
+    "Effective Memory Clock": "4602 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "228 mm",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/26w323/sparkle-video-card-x560tidf3dg"
+}

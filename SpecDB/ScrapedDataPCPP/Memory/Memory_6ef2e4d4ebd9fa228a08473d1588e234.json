@@ -1,0 +1,15 @@
+{
+    "name": "OCZ Platinum XTE 6 GB (3 x 2 GB) DDR3-1600 CL7 Memory",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZ3XTEP1600C7LV6GK",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 2GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xhckcf/ocz-memory-ocz3xtep1600c7lv6gk"
+}

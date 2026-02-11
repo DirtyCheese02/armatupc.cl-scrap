@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Dragon RAM 32 GB (2 x 16 GB) DDR4-2800 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GWW432GB2800C16DC",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "White / Gold",
+    "First Word Latency": "11.429 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QhkwrH/geil-memory-gww432gb2800c16dc"
+}

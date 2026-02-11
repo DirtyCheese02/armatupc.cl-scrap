@@ -1,0 +1,23 @@
+{
+    "name": "CyberPower PR1000LCDRTXL2UA UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR1000LCDRTXL2UA",
+    "Capacity (W)": "750 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "18 Minutes",
+    "Backup/Run Time (Half Load)": "39 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-11, RG-6, RJ-45]",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jd648d/cyberpower-ups-pr1000lcdrtxl2ua"
+}

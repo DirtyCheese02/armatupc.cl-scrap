@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQM6000-PB Quadro M6000 12 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQM6000-PB",
+    "Chipset": "Quadro M6000",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "988 MHz",
+    "Effective Memory Clock": "6612 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "SLI/CrossFire": "[4-way SLI Capable, 3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "4",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j2RFf7/pny-video-card-vcqm6000pb"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Rosewill Glacier 1000M 1000 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Rosewill",
+    "Part #": "Glacier 1000M",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "1000 W",
+    "Length": "165 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@20A,+5V@20A,+12V@83A,-12V@0.5A,+5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6WZ2FT/rosewill-power-supply-glacier1000m"
+}

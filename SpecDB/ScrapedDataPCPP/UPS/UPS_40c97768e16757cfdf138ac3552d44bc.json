@@ -1,0 +1,20 @@
+{
+    "name": "CyberPower CP1350AVRLCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP1350AVRLCD",
+    "Capacity (W)": "810 W",
+    "Capacity (VA)": "1350 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "9 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11, RG-6]",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WkTrxr/cyberpower-ups-cp1350avrlcd"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "KFA2 1-Click OC 2X GeForce RTX 5070 12 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "57NON7MDBSWK",
+    "Chipset": "GeForce RTX 5070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2160 MHz",
+    "Boost Clock": "2542 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "240 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yHG2FT/kfa2-1-click-oc-2x-geforce-rtx-5070-12-gb-video-card-57non7mdbswk"
+}

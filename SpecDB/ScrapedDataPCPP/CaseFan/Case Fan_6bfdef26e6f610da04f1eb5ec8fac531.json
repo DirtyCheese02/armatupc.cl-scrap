@@ -1,0 +1,20 @@
+{
+    "name": "ID-COOLING ZF-12025 50.5 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Model": "ZF-12025",
+    "Part #": "ZF-12025-ARGB-SNOW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1600 RPM",
+    "Airflow": "50.5 CFM",
+    "Noise Level": "16.3 - 28.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.99 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xMYRsY/id-cooling-zf-12025-505-cfm-120-mm-fan-zf-12025-argb-snow"
+}

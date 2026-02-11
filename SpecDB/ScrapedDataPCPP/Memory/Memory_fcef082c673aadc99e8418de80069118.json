@@ -1,0 +1,16 @@
+{
+    "name": "Crucial CT32G56C46U5 32 GB (1 x 32 GB) DDR5-5600 CL46 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CT32G56C46U5",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 32GB",
+    "Price / GB": "$10.625",
+    "Color": "Black",
+    "First Word Latency": "16.429 ns",
+    "CAS Latency": "46",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FJtLrH/crucial-ct32g56c46u5-32-gb-1-x-32-gb-ddr5-5600-cl46-memory-ct32g56c46u5"
+}

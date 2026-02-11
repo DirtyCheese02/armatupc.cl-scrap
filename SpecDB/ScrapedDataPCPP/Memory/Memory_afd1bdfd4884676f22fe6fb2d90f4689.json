@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 8 GB (2 x 4 GB) DDR3-2133 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD8GX3M2A2133C8",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.439 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hsyFf7/corsair-memory-cmd8gx3m2a2133c8"
+}

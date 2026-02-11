@@ -1,0 +1,18 @@
+{
+    "name": "APC BK500JS UPS",
+    "Manufacturer": "APC",
+    "Part #": "BK500JS",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Backup/Run Time (Full Load)": "6.40 Minutes",
+    "Backup/Run Time (Half Load)": "8.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8.30 Hour",
+    "Output Voltage": "100 V AC",
+    "Receptacles": "[1 x NEMA 5-15R, 2 x NEMA 5-15R]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vCyxFT/apc-ups-bk500js"
+}

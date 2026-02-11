@@ -1,0 +1,19 @@
+{
+    "name": "EVGA 01G-P3-2616-KR GeForce GT 610 1 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "01G-P3-2616-KR",
+    "Chipset": "GeForce GT 610",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HVNp99/evga-video-card-01gp32616kr"
+}

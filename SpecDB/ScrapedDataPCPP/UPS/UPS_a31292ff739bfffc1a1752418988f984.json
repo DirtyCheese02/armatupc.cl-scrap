@@ -1,0 +1,20 @@
+{
+    "name": "APC SU700X167 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SU700X167",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "700 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "12.50 Minutes",
+    "Backup/Run Time (Half Load)": "40.90 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nvVBD3/apc-ups-su700x167"
+}

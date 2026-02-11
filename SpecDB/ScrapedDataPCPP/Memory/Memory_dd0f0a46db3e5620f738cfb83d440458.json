@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP032GBLVU520F22 32 GB (2 x 16 GB) DDR5-5200 CL42 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP032GBLVU520F22",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "16.154 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qpYRsY/silicon-power-sp032gblvu520f22-32-gb-2-x-16-gb-ddr5-5200-cl42-memory-sp032gblvu520f22"
+}

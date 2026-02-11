@@ -1,0 +1,19 @@
+{
+    "name": "BitFenix Spectre 43.5 CFM 120 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-BLF-12025O-RP",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "43.5 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "Orange",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Silent Operation, Enhanced Airflow, On-the-Fly Light Switching, Aggressive Looks Both On and Off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yLMFf7/bitfenix-case-fan-bffblf12025orp"
+}

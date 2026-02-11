@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (2 x 8 GB) DDR4-3866 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX4M2B3866C18",
+    "Speed": "DDR4-3866",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "9.312 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LY448d/corsair-dominator-platinum-16-gb-2-x-8-gb-ddr4-3866-memory-cmd16gx4m2b3866c18"
+}

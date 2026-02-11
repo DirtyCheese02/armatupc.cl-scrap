@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS XTREME GeForce RTX 3080 10GB 10 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N3080AORUS X-10GD",
+    "Chipset": "GeForce RTX 3080 10GB",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1710 MHz",
+    "Boost Clock": "1905 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "319 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mpCFf7/gigabyte-geforce-rtx-3080-10-gb-aorus-xtreme-video-card-gv-n3080aorus-x-10gd"
+}

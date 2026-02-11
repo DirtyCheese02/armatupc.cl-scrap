@@ -1,0 +1,18 @@
+{
+    "name": "BitFenix Spectre Pro 156.72 CFM 230 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-SRGB-23030N-RP",
+    "Size": "230 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 RPM",
+    "Airflow": "156.72 CFM",
+    "Noise Level": "25.6 dB",
+    "PWM": "No",
+    "LED": "RGB",
+    "Connector": "3-pin + 4-pin 12V RGB",
+    "Controller": "12V RGB",
+    "Static Pressure": "1.81 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jyfhP6/bitfenix-spectre-pro-rgb-230-15672-cfm-230-mm-fan-bff-srgb-23030n-rp"
+}

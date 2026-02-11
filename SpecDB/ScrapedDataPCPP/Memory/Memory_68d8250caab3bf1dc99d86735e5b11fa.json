@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill F2-5300CL4S-2GBSQ 2 GB (1 x 2 GB) DDR2-667 SODIMM CL4 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F2-5300CL4S-2GBSQ",
+    "Speed": "DDR2-667",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 2GB",
+    "Color": "Green",
+    "First Word Latency": "11.994 ns",
+    "CAS Latency": "4",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sjrG3C/gskill-memory-f25300cl4s2gbsq"
+}

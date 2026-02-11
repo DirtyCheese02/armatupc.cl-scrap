@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake SWAFAN GT14 58.17 CFM 140 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Model": "SWAFAN GT14",
+    "Part #": "CL-F157-PL14BL-A",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "54.71 - 58.17 CFM",
+    "Noise Level": "26.5 - 29.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.17 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FKKscf/thermaltake-swafan-gt14-5817-cfm-140-mm-fan-cl-f157-pl14bl-a"
+}

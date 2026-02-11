@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Challenger D OC Radeon RX 5700 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "RX 5700 CHALLENGER D 8G OC",
+    "Chipset": "Radeon RX 5700",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1515 MHz",
+    "Boost Clock": "1750 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Yellow",
+    "Frame Sync": "FreeSync",
+    "Length": "281 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kNQfrH/asrock-radeon-rx-5700-8-gb-challenger-d-oc-video-card-rx-5700-challenger-d-8g-oc"
+}

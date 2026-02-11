@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG LANCER NEON RGB 32 GB (2 x 16 GB) DDR5-7200 CL34 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX5U7200C3416G-DCLANRSG",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vfxTwP/adata-xpg-lancer-neon-rgb-32-gb-2-x-16-gb-ddr5-7200-cl34-memory-ax5u7200c3416g-dclanrsg"
+}

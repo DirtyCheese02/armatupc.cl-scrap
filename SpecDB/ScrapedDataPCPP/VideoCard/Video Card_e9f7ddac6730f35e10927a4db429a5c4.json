@@ -1,0 +1,22 @@
+{
+    "name": "NVIDIA 900-5G172-2580-000 RTX A1000 8 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "900-5G172-2580-000",
+    "Chipset": "RTX A1000",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "727 MHz",
+    "Boost Clock": "1462 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "163 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zswmP6/nvidia-900-5g172-2580-000-rtx-a1000-8-gb-video-card-900-5g172-2580-000"
+}

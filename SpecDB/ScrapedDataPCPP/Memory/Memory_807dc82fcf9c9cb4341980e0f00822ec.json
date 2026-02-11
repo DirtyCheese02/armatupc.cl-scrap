@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 16 GB (2 x 8 GB) DDR3-1866 SODIMM CL11 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1866C11D-16GRSL",
+    "Speed": "DDR3-1866",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$3.824",
+    "First Word Latency": "11.79 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wg2kcf/gskill-memory-f31866c11d16grsl"
+}

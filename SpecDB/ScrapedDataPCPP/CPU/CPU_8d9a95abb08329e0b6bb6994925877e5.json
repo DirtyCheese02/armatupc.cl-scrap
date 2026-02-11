@@ -1,0 +1,23 @@
+{
+    "name": "Intel Pentium E6700 3.2 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80571E6700",
+    "Series": "Intel Pentium",
+    "Microarchitecture": "Wolfdale",
+    "Core Family": "Wolfdale",
+    "Socket": "LGA775",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3.2 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Kpw323/intel-cpu-bx80571e6700"
+}

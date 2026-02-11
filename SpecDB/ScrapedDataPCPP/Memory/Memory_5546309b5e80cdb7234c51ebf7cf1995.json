@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TF4D416G2666HC16CDC01",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TNhFf7/team-t-force-delta-rgb-16-gb-2-x-8-gb-ddr4-2666-cl16-memory-tf4d416g2666hc16cdc01"
+}

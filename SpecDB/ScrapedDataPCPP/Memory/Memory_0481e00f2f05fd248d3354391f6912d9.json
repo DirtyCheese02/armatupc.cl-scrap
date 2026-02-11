@@ -1,0 +1,14 @@
+{
+    "name": "G.Skill F3-1333C9S-8GSL 8 GB (1 x 8 GB) DDR3-1333 SODIMM CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1333C9S-8GSL",
+    "Speed": "DDR3-1333",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nLzv6h/gskill-memory-f31333c9s8gsl"
+}

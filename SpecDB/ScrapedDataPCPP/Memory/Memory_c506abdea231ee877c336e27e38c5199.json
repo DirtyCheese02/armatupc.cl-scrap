@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Vulcan 16 GB (1 x 16 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLGD416G2400HC15B01",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Black / Gray",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YGp323/team-vulcan-16gb-1-x-16gb-ddr4-2400-memory-tlgd416g2400hc15b01"
+}

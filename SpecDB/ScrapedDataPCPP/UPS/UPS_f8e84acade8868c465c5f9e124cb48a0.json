@@ -1,0 +1,17 @@
+{
+    "name": "APC BE500R-CN UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE500R-CN",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Backup/Run Time (Full Load)": "4.30 Minutes",
+    "Backup/Run Time (Half Load)": "15.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h8KhP6/apc-ups-be500rcn"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SU10KRT3UHV UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU10KRT3UHV",
+    "Capacity (W)": "7000 W",
+    "Capacity (VA)": "10000 VA",
+    "Rack Height": "6U",
+    "Alarm": "[On Battery, Low Battery, Overload, UPS Fault, Remote Shutdown]",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "[240 V AC, 220 V AC, 230 V AC]",
+    "Switching Time": "0 ns",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qKZ2FT/tripp-lite-ups-su10krt3uhv"
+}

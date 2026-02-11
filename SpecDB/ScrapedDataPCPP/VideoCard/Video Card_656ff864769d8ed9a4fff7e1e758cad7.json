@@ -1,0 +1,23 @@
+{
+    "name": "MSI R4350-MD1GD3H/LP Radeon HD 4350 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "R4350-MD1GD3H/LP",
+    "Chipset": "Radeon HD 4350",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "600 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "166 mm",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/djFPxr/msi-video-card-r4350md1gd3hlp"
+}

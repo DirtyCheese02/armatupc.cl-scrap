@@ -1,0 +1,19 @@
+{
+    "name": "BitFenix Spectre 51.3 CFM 120 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-BLF-P12025R-RP",
+    "Size": "120 mm",
+    "Color": "Translucent Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1800 RPM",
+    "Airflow": "51.3 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "Yes",
+    "LED": "Red",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[PWM Technology, Silent Operation, Enhanced Airflow, On-the-Fly Light Switching, Aggressive Looks Both On and Off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P7K7YJ/bitfenix-case-fan-bffblfp12025rrp"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "XFX Black Edition 850 W 80+ Silver Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "XFX",
+    "Part #": "P1850BCAG9",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "850 W",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@24A, +5V@30A (+3.3V ; +5V = 150W max.), +12V@70A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/krg323/xfx-black-edition-850-w-80-silver-certified-fully-modular-atx-power-supply-p1850bcag9"
+}

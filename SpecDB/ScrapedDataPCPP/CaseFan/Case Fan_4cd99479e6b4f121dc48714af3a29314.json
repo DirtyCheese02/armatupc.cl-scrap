@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek Crystal 76 CFM 200 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "CLF-F2002",
+    "Size": "200 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 RPM",
+    "Airflow": "76 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Performing max. Air flow and mini. amount of noise, Less power consumption, Optimized blade design to create cooling performance, Reduce noise and power consumption, Quad LEDs and transparent frame and blades, Longer life bearing design, Reliable and outstanding performance, Anti-vibration rubbers attached, 4 pin adaptor attached, Voltage Rating: 12 V, Starting Voltage: 9V, Life Expectance: 30,000 hrs]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pjdqqs/xigmatek-case-fan-clff2002"
+}

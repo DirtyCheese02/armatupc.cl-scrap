@@ -1,0 +1,18 @@
+{
+    "name": "Logisys LT80UVGN 21.71 CFM 80 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "LT80UVGN",
+    "Size": "80 mm",
+    "Color": "Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "21.71 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "UV Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydraulic Bearing",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RL3RsY/logisys-case-fan-lt80uvgn"
+}

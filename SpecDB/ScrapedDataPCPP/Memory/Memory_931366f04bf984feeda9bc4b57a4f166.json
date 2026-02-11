@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C16D-32GTZR",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$7.812",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FPYLrH/gskill-trident-z-rgb-32gb-2-x-16gb-ddr4-3200-memory-f4-3200c16d-32gtzr"
+}

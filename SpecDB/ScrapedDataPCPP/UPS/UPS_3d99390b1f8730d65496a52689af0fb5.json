@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite SMARTINT2200VS UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMARTINT2200VS",
+    "Capacity (W)": "1600 W",
+    "Capacity (VA)": "2200 VA",
+    "Alarm": "Utility Power Failure",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "19 Minutes",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[8 x IEC 320-C13, 1 x IEC 320-C19]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Bf8H99/tripp-lite-ups-smartint2200vs"
+}

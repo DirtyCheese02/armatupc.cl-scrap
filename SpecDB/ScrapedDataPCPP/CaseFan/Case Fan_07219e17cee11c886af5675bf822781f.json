@@ -1,0 +1,19 @@
+{
+    "name": "EK Vardar F3-140ER 108 CFM 140 mm Fan",
+    "Manufacturer": "EK",
+    "Model": "Vardar F3-140ER",
+    "Part #": "3831109867587",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "108 CFM",
+    "Noise Level": "40.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.15 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rTnG3C/ek-case-fan-3831109867587"
+}

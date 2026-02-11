@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP016GBLFU320X22 16 GB (2 x 8 GB) DDR4-3200 CL22 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP016GBLFU320X22",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zBM48d/silicon-power-sp016gblfu320x22-16-gb-2-x-8-gb-ddr4-3200-cl22-memory-sp016gblfu320x22"
+}

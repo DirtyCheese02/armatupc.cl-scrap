@@ -1,0 +1,16 @@
+{
+    "name": "Kingston Savage 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX430C15SB2K2/16",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Price / GB": "$24.312",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c78H99/kingston-memory-hx430c15sb2k216"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone Air Penetrator 31.4 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "AP123",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "31.4 CFM",
+    "Noise Level": "31.4 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Industry leading air channeling fan, Mixed fan blade design for noise reduction, Standard 120mm frame for maximum compatibility with CPU coolers, Integrated air channeling grille double as fan guard to reduce overall size, Low power consumption]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YpCwrH/silverstone-ap123-314-cfm-120-mm-fan-ap123"
+}

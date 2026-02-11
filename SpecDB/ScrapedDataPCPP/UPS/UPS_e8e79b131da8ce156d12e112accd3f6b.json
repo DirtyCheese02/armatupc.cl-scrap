@@ -1,0 +1,18 @@
+{
+    "name": "Tripp Lite SMART700DVA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART700DVA",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "700 VA",
+    "Backup/Run Time (Full Load)": "11 Minutes",
+    "Backup/Run Time (Half Load)": "27.50 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/63FXsY/tripp-lite-smart700dva-ups-smart700dva"
+}

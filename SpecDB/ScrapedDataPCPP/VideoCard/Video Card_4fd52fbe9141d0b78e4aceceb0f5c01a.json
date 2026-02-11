@@ -1,0 +1,20 @@
+{
+    "name": "ATI 100-505553 FirePro V5700 512 MB Video Card",
+    "Manufacturer": "ATI",
+    "Part #": "100-505553",
+    "Chipset": "FirePro V5700",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "58 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BvrG3C/ati-video-card-100505553"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "In Win Saturn ASN120 77.17 CFM 120 mm Fan",
+    "Manufacturer": "In Win",
+    "Model": "Saturn ASN120",
+    "Part #": "ASN120-1PK",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.12 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KVkgXL/in-win-saturn-asn120-7717-cfm-120-mm-fan-asn120-1pk"
+}

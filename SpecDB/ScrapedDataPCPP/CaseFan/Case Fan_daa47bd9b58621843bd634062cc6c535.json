@@ -1,0 +1,19 @@
+{
+    "name": "Gelid Solutions Wing PL 75.59 CFM 120 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Part #": "FN-FW12PL-18",
+    "Size": "120 mm",
+    "Color": "Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1800 RPM",
+    "Airflow": "75.59 CFM",
+    "Noise Level": "10 - 26.8 dB",
+    "PWM": "Yes",
+    "LED": "Green",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Nanoflux Bearing (NFB)",
+    "Features": "[Optimized Winglet Fan Blades, PWM Control, Detachable Impeller, Long Lifetime (100'000 h MTTF at 40°C)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z4ckcf/gelid-solutions-case-fan-fnfw12pl18"
+}

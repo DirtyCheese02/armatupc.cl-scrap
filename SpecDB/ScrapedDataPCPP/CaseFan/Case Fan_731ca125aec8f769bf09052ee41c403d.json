@@ -1,0 +1,15 @@
+{
+    "name": "ENDORFY Stratus 140 mm Fan",
+    "Manufacturer": "ENDORFY",
+    "Part #": "EY4A012",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 1200 RPM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cPP8TW/endorfy-stratus-140-mm-fan-ey4a012"
+}

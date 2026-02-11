@@ -1,0 +1,15 @@
+{
+    "name": "Corsair Vengeance LPX 8 GB (2 x 4 GB) DDR4-3733 CL17 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK8GX4M2B3733C17",
+    "Speed": "DDR4-3733",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "9.108 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xv38TW/corsair-memory-cmk8gx4m2b3733c17"
+}

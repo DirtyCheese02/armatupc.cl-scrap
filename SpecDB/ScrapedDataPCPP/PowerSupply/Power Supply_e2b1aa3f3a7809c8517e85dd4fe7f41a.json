@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 650 G1 650 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 650 G1",
+    "Part #": "[120-G1-0650-XR, 120-G1-0650-X2, 120-G1-0650-X3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "650 W",
+    "Length": "165 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A, +5Vsb@3A, -12V@0.8A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g63RsY/evga-supernova-650-g1-650-w-80-gold-certified-fully-modular-atx-power-supply-120-g1-0650-xr"
+}

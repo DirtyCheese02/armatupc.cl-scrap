@@ -1,0 +1,18 @@
+{
+    "name": "Rosewill RFX-80 38.08 CFM 80 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFX-80",
+    "Size": "80 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 - 3000 RPM",
+    "Airflow": "38.08 CFM",
+    "Noise Level": "32.31 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KCH323/rosewill-rfx-80-3808-cfm-80-mm-fan-rfx-80"
+}

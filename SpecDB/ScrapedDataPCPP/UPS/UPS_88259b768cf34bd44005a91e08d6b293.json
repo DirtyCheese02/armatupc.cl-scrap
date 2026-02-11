@@ -1,0 +1,18 @@
+{
+    "name": "APC BE350G-CN UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE350G-CN",
+    "Capacity (W)": "200 W",
+    "Capacity (VA)": "350 VA",
+    "Backup/Run Time (Full Load)": "2.30 Minutes",
+    "Backup/Run Time (Half Load)": "9.70 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nr7CmG/apc-ups-be350gcn"
+}

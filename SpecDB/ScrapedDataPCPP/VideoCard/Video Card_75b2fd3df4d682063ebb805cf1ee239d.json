@@ -1,0 +1,23 @@
+{
+    "name": "MSI SUPRIM GeForce RTX 3070 Ti 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 3070 Ti SUPRIM 8G, RTX 3070 Ti SUPRIM 8G]",
+    "Chipset": "GeForce RTX 3070 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1575 MHz",
+    "Boost Clock": "1845 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "335 mm",
+    "TDP": "310 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dphFf7/msi-geforce-rtx-3070-ti-8-gb-suprim-video-card-geforce-rtx-3070-ti-suprim-8g"
+}

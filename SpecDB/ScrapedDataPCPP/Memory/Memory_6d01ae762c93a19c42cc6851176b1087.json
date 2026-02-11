@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z 16 GB (2 x 8 GB) DDR4-4500 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4500C19D-16GTZSWE",
+    "Speed": "DDR4-4500",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Silver / White",
+    "First Word Latency": "8.444 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.45 V",
+    "Timing": "19-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nKqhP6/gskill-trident-z-16gb-2-x-8gb-ddr4-4500-memory-f4-4500c19d-16gtzswe"
+}

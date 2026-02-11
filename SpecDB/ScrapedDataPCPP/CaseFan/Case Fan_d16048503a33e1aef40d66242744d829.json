@@ -1,0 +1,19 @@
+{
+    "name": "Kingwin CF-08LB 30 CFM 80 mm Fan",
+    "Manufacturer": "Kingwin",
+    "Part #": "CF-08LB",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1700 RPM",
+    "Airflow": "30 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Long life bearing",
+    "Features": "[Special high profile fan blades for maximum air flow, Provide excellent ventilation for your PC cases, Design for up to 100,000 hrs life expectancy, High performance, High reliability]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3TCrxr/kingwin-case-fan-cf08lb"
+}

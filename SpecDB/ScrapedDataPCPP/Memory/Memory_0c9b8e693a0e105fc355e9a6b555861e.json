@@ -1,0 +1,14 @@
+{
+    "name": "TEAMGROUP Elite 4 GB (2 x 2 GB) DDR2-667 CL5 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TEDD4096M667C5DC",
+    "Speed": "DDR2-667",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "2 x 2GB",
+    "First Word Latency": "14.993 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wcJwrH/team-memory-tedd4096m667c5dc"
+}

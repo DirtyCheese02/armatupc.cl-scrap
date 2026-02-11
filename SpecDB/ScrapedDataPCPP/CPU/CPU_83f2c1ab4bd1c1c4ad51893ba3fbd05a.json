@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E5-2630 2.3 GHz 6-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80621E52630",
+    "Series": "Intel Xeon E5",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge-EP",
+    "Socket": "LGA2011",
+    "Core Count": "6",
+    "Thread Count": "12",
+    "Performance Core Clock": "2.3 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "15 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kKvRsY/intel-cpu-bx80621e52630"
+}

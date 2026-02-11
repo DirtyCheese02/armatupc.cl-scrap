@@ -1,0 +1,22 @@
+{
+    "name": "Asus STRIX GAMING GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[rog-strix-rtx4070-12g-gaming, 90YV0J01-M0AA00, ROG-STRIX-RTX4070-12G-GAM]",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2505 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "339 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wJfxFT/asus-strix-gaming-geforce-rtx-4070-12-gb-video-card-rog-strix-rtx4070-12g-gaming"
+}

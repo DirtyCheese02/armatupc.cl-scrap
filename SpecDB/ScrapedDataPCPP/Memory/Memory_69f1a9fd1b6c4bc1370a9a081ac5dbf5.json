@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (2 x 8 GB) DDR4-2400 CL10 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX4M2B2400C10",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.35 V",
+    "Timing": "10-12-12-28",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mjZ2FT/corsair-memory-cmd16gx4m2b2400c10"
+}

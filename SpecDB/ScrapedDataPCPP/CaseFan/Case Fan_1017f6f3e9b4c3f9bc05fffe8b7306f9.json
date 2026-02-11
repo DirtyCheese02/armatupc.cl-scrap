@@ -1,0 +1,18 @@
+{
+    "name": "Thermaltake TOUGHFAN Turbo 72.69 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F121-PL12GM-A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2500 RPM",
+    "Airflow": "72.69 CFM",
+    "Noise Level": "28.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.78 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CmgFf7/thermaltake-toughfan-turbo-7269-cfm-120-mm-fan-cl-f121-pl12gm-a"
+}

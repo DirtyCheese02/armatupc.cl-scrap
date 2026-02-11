@@ -1,0 +1,16 @@
+{
+    "name": "Crucial Ballistix Elite 16 GB (2 x 8 GB) DDR4-3200 CL15 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "BLE2C8G4D32BEEAK",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.375 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-16-16-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B2kj4D/crucial-ballistix-elite-16gb-2-x-8gb-ddr4-3200-memory-ble2c8g4d32beeak"
+}

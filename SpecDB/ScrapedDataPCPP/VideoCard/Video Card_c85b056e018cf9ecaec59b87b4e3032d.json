@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D Twin X2 OC GeForce RTX 5060 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N50602-08D7X-195070N",
+    "Chipset": "GeForce RTX 5060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2280 MHz",
+    "Boost Clock": "2527 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "250 mm",
+    "TDP": "145 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LmFCmG/inno3d-twin-x2-oc-geforce-rtx-5060-8-gb-video-card-n50602-08d7x-195070n"
+}

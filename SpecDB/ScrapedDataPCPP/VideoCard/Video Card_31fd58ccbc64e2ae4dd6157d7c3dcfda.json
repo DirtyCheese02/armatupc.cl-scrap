@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire 100315L Radeon HD 6850 1 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100315L",
+    "Chipset": "Radeon HD 6850",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "775 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "127 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vNmLrH/sapphire-video-card-100315l"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Lancer Blade RGB 48 GB (2 x 24 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX5U6400C3224G-DTLABRBK",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.45 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rqQwrH/adata-xpg-lancer-blade-rgb-48-gb-2-x-24-gb-ddr5-6400-cl32-memory-ax5u6400c3224g-dtlabrbk"
+}

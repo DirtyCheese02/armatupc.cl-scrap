@@ -1,0 +1,17 @@
+{
+    "name": "APC SURTD5000XLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTD5000XLI",
+    "Capacity (W)": "3500 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "15.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[8 x IEC 320-C13, 2 x IEC 320-C19, 6]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J4Crxr/apc-ups-surtd5000xli"
+}

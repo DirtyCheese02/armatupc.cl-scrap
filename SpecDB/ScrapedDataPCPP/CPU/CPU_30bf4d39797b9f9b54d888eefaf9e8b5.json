@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i7-930 2.8 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "AT80601000897AA",
+    "Series": "Intel Core i7",
+    "Microarchitecture": "Nehalem",
+    "Core Family": "Bloomfield",
+    "Socket": "LGA1366",
+    "Core Count": "4",
+    "Thread Count": "8",
+    "Performance Core Clock": "2.8 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "130 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gGFPxr/intel-cpu-at80601000897aa"
+}

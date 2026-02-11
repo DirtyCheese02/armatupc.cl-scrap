@@ -1,0 +1,21 @@
+{
+    "name": "NEC V322-PC 32.0\" 1366 x 768 60 Hz Monitor",
+    "Manufacturer": "NEC",
+    "Part #": "V322-PC",
+    "Screen Size": "32\"",
+    "Resolution": "1366 x 768",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "8 ms",
+    "Aspect Ratio": "16:9",
+    "Brightness": "340 cd/m²",
+    "Pixel Pitch": "0.519 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "No",
+    "Viewing Angle": "178° H x 178° V",
+    "Display Colors": "16700000",
+    "Contrast Ratio": "3000:1",
+    "Inputs": "[1 x DisplayPort, 1 x DVI, 1 x HDMI, 1 x VGA]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wVsKHx/nec-monitor-v322pc"
+}

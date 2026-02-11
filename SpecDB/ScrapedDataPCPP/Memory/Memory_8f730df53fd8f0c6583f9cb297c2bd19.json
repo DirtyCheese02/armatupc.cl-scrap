@@ -1,0 +1,15 @@
+{
+    "name": "OCZ Reaper HPC R2 12 GB (6 x 2 GB) DDR3-1600 CL7 Memory",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZ3RPR1600R2LV12GS",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "6 x 2GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jLR48d/ocz-memory-ocz3rpr1600r2lv12gs"
+}

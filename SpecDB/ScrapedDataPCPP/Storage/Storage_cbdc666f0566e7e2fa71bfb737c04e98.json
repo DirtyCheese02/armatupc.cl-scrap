@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Nocti 60 GB mSATA Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "NOC-MSATA-60G",
+    "Capacity": "60 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2181",
+    "SSD NAND Flash Type": "MLC (asynchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M7Lypg/ocz-internal-hard-drive-nocmsata60g"
+}

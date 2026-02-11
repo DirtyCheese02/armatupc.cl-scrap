@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline 32 GB (2 x 16 GB) DDR4-4133 CL19 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRD4U413KOOP16GX2",
+    "Speed": "DDR4-4133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "9.194 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "Timing": "19-23-23-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X8D7YJ/mushkin-redline-32-gb-2-x-16-gb-ddr4-4133-cl19-memory-mrd4u413koop16gx2"
+}

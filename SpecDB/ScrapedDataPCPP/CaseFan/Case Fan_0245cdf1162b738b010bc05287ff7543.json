@@ -1,0 +1,18 @@
+{
+    "name": "Deepcool CF 64.13 CFM 140 mm Fan",
+    "Manufacturer": "Deepcool",
+    "Part #": "DP-FA-RGB-CF140-1",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1200 RPM",
+    "Airflow": "64.13 CFM",
+    "Noise Level": "19.8 - 24 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.09 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YpL48d/deepcool-cf-140-6413-cfm-140-mm-fan-dp-fa-rgb-cf140-1"
+}

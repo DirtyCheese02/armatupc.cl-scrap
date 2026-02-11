@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 24 GB (1 x 24 GB) DDR5-7200 CL36 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESW524GB7200C36ASC",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 24GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-44-44-86",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NvsV3C/geil-evo-v-rgb-24-gb-1-x-24-gb-ddr5-7200-cl36-memory-gesw524gb7200c36asc"
+}

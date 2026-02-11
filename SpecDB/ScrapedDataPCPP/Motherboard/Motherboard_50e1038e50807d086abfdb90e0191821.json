@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GA-F2A88XN-WIFI Mini ITX FM2+ Motherboard",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GA-F2A88XN-WIFI",
+    "Socket / CPU": "FM2+",
+    "Form Factor": "Mini ITX",
+    "Chipset": "AMD A88X",
+    "Memory Max": "64 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "2",
+    "Memory Speed": "[DDR3-1333, DDR3-1600, DDR3-1866, DDR3-2133]",
+    "PCIe x16 Slots": "1",
+    "SATA 6.0 Gb/s Ports": "4",
+    "Onboard Ethernet": "1 x 1 Gb/s Ports",
+    "Onboard Video": "Depends on CPU",
+    "USB 2.0 Headers": "1",
+    "USB 3.2 Gen 1 Headers": "1",
+    "Supports ECC": "No",
+    "Wireless Networking": "Wi-Fi 5",
+    "RAID Support": "Yes",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jJYXsY/gigabyte-motherboard-gaf2a88xnwifi"
+}

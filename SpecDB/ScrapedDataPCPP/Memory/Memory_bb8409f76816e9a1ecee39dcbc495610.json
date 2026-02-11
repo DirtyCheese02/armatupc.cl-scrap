@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J3036F16GX2-FX5",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$15.000",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-36-36-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wNJp99/gskill-flare-x5-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-f5-6000j3036f16gx2-fx5"
+}

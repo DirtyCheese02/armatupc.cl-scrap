@@ -1,0 +1,15 @@
+{
+    "name": "PNY XLR8 4 GB (2 x 2 GB) DDR2-1066 CL5 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MD4096KD2-1066-X5",
+    "Speed": "DDR2-1066",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "2 x 2GB",
+    "Color": "Black",
+    "First Word Latency": "9.381 ns",
+    "CAS Latency": "5",
+    "Voltage": "2.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3Ch9TW/pny-memory-md4096kd21066x5"
+}

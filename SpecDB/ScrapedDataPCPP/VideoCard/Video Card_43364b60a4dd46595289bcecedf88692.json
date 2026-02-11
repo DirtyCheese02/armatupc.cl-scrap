@@ -1,0 +1,22 @@
+{
+    "name": "Intel 23P6PA00BA Arc Pro A40 6 GB Video Card",
+    "Manufacturer": "Intel",
+    "Part #": "23P6PA00BA",
+    "Chipset": "Arc Pro A40",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1700 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 2.0 Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tGTZxr/intel-23p6pa00ba-arc-pro-a40-6-gb-video-card-23p6pa00ba"
+}

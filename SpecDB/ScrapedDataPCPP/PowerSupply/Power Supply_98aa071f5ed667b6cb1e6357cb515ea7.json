@@ -1,0 +1,23 @@
+{
+    "name": "FSP Group FSP400-60FGGBA 400 W 80+ Gold Certified Flex ATX Power Supply",
+    "Manufacturer": "FSP Group",
+    "Part #": "FSP400-60FGGBA",
+    "Type": "Flex ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "400 W",
+    "Length": "150 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "1",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "2",
+    "Output": "+3.3V@14A, +5V@16A, +12V1@18A, +12V2@18A, -12V@0.5A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m4nG3C/fsp-group-fsp400-60fggba-400-w-80-gold-certified-flex-atx-power-supply-fsp400-60fggba"
+}

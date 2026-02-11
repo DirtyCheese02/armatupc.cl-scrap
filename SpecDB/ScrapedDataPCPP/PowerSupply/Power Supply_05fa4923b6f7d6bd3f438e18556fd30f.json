@@ -1,0 +1,22 @@
+{
+    "name": "ABS Majesty 1100 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "ABS",
+    "Part #": "MJ1100-M",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1100 W",
+    "Length": "165 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "12",
+    "Output": "+3.3V@24A, +5V@30A, +12V@83A, -12V@0.5A, +5VSB@4.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/v8tCmG/abs-power-supply-mj1100m"
+}

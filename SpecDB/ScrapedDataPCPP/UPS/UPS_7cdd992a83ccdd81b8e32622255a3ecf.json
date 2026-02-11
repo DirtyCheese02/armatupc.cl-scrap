@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite SMART750XLA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART750XLA",
+    "Capacity (W)": "500 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "10 Minutes",
+    "Backup/Run Time (Half Load)": "27 Minutes",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zbjWGX/tripp-lite-ups-smart750xla"
+}

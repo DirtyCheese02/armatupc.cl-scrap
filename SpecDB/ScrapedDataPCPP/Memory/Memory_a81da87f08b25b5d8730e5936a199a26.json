@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB Pro 32 GB (4 x 8 GB) DDR4-4000 CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMW32GX4M4K4000C19",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.5 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-23-23-45",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mHDJ7P/corsair-vengeance-rgb-pro-32gb-4-x-8gb-ddr4-4000-memory-cmw32gx4m4k4000c19"
+}

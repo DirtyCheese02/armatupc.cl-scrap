@@ -1,0 +1,15 @@
+{
+    "name": "GOODRAM IRDM PRO 16 GB (2 x 8 GB) DDR4-3600 CL17 Memory",
+    "Manufacturer": "GOODRAM",
+    "Part #": "IRP-W3600D4V64L17S/16GDC",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sJNYcf/goodram-irdm-pro-16-gb-2-x-8-gb-ddr4-3600-cl17-memory-irp-w3600d4v64l17s16gdc"
+}

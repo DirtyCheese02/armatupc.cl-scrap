@@ -1,0 +1,20 @@
+{
+    "name": "APC BE525-RS UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE525-RS",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "525 VA",
+    "Backup/Run Time (Full Load)": "4.30 Minutes",
+    "Backup/Run Time (Half Load)": "15.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "5 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[1 x Schuko CEE 7, 3 x Schuko CEE 7]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tbjWGX/apc-ups-be525rs"
+}

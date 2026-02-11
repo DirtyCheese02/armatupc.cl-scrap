@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ares 16 GB (4 x 4 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1866C9Q-16GAB",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4mtCmG/gskill-memory-f31866c9q16gab"
+}

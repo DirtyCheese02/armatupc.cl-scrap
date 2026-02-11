@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Challenger D OC Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "RX6700XT CLD 12GO",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2330 MHz",
+    "Boost Clock": "2615 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "269 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CCJp99/asrock-challenger-d-oc-radeon-rx-6700-xt-12-gb-video-card-rx6700xt-cld-12go"
+}

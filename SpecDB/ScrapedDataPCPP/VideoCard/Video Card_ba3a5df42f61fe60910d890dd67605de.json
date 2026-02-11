@@ -1,0 +1,23 @@
+{
+    "name": "MSI GAMING X GeForce GTX 1660 SUPER 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "GeForce GTX 1660 SUPER GAMING X",
+    "Chipset": "GeForce GTX 1660 SUPER",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1830 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "247 mm",
+    "TDP": "125 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Fs9tt6/msi-geforce-gtx-1660-super-6-gb-gaming-x-video-card-geforce-gtx-1660-super-gaming-x"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "StarTech ATXPOW350PRO 350 W ATX Power Supply",
+    "Manufacturer": "StarTech",
+    "Part #": "ATXPOW350PRO",
+    "Type": "ATX",
+    "Wattage": "350 W",
+    "Length": "150 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WLR48d/startech-power-supply-atxpow350pro"
+}

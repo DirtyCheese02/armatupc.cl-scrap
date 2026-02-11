@@ -1,0 +1,18 @@
+{
+    "name": "Antec 77095 56 CFM 120 mm Fan",
+    "Manufacturer": "Antec",
+    "Model": "77095",
+    "Part #": "120MMBLUELEDFAN",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1600 RPM",
+    "Airflow": "56 CFM",
+    "Noise Level": "28 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P2JwrH/antec-case-fan-120mmblueledfan"
+}

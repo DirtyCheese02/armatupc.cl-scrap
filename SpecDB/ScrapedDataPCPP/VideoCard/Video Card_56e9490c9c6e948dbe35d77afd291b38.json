@@ -1,0 +1,22 @@
+{
+    "name": "MAXSUN Milestone Arc B580 12 GB Video Card",
+    "Manufacturer": "MAXSUN",
+    "Part #": "MS-Arc B580 Milestone 12G",
+    "Chipset": "Arc B580",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2670 MHz",
+    "Boost Clock": "2850 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "190 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G4nXsY/maxsun-milestone-arc-b580-12-gb-video-card-ms-arc-b580-milestone-12g"
+}

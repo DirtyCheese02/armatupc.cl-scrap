@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Z-Drive R2 P88 1 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZSSDPX-ZD2P881T",
+    "Capacity": "1 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Indilinx Barefoot 1",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Bfzv6h/ocz-internal-hard-drive-oczssdpxzd2p881t"
+}

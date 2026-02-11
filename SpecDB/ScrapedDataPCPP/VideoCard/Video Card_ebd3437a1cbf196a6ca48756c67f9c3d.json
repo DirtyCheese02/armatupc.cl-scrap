@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D iChill X3 GeForce RTX 4070 Ti 12 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "C407T3-126XX-186148H",
+    "Chipset": "GeForce RTX 4070 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2670 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "334 mm",
+    "TDP": "285 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XjYmP6/inno3d-ichill-x3-geforce-rtx-4070-ti-12-gb-video-card-c407t3-126xx-186148h"
+}

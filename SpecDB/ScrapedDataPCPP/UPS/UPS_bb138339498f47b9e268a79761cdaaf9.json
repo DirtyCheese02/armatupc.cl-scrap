@@ -1,0 +1,23 @@
+{
+    "name": "CyberPower PR3000LCDRTXL2U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR3000LCDRTXL2U",
+    "Capacity (W)": "3000 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[Overload, On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "5 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "EMI / RFI",
+    "Receptacles": "[8 x NEMA 5-20R, 1 x NEMA L5-30R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wd648d/cyberpower-ups-pr3000lcdrtxl2u"
+}

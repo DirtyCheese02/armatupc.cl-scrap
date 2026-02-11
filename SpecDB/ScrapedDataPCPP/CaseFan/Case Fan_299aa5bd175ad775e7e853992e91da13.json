@@ -1,0 +1,18 @@
+{
+    "name": "Noctua A20 PWM chromax.black.swap 86.46 CFM 200 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A20 PWM chromax.black.swap",
+    "Part #": "[NF-A20 PWM chromax.black.swap, NF-A20 PWM CH.BK.S]",
+    "Size": "200 mm",
+    "Color": "Black / Multicolor",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 800 RPM",
+    "Airflow": "86.46 CFM",
+    "Noise Level": "18.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2WfFf7/noctua-nf-a20-pwm-chromaxblackswap-8646-cfm-200-mm-fan-nf-a20-pwm-chromaxblackswap"
+}

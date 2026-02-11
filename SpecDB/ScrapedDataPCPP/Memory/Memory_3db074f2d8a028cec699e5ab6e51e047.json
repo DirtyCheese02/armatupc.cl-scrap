@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3333 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK16GX4M2C3333C16",
+    "Speed": "DDR4-3333",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "9.601 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/F766Mp/corsair-vengeance-lpx-16gb-2-x-8gb-ddr4-3333-memory-cmk16gx4m2c3333c16"
+}

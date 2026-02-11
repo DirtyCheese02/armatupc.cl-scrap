@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WDN3800 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WDN3800",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK,802.1x",
+    "Antenna": "2 x 2dBi Omni Directional, Detachable (RP-SMA)",
+    "Features": "[Wireless Modes: Ad-Hoc / Infrastructure mode, Achieves a maximum theoretical throughput of up to 300Mbps, Seamlessly compatible with 802.11a/b/g/n products, Experience smoother video streaming and online gaming by choosing the clearer 5GHz band for wireless connections, Bundled utility provides quick & hassle-free installation, Dual Band support - 2.4GHz or 5GHz channels bring an optimized HD video streaming, file sharing and online experience, Two antennas increase wireless performance and stability.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LTGkcf/tp-link-wireless-network-card-tlwdn3800"
+}

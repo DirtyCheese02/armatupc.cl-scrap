@@ -1,0 +1,19 @@
+{
+    "name": "Gelid Solutions Silent 27 CFM 80 mm Fan",
+    "Manufacturer": "Gelid Solutions",
+    "Part #": "FN-PX08-20",
+    "Size": "80 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 2000 RPM",
+    "Airflow": "27 CFM",
+    "Noise Level": "10 - 21.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Hydro Dynamic Bearing",
+    "Features": "[Pulse Width Modulation  (PWM), Silent Operation w/ Rubber Fan Mounts, Optimized Fan Blades, High Airflow & High Static Pressure, Long Lifetime (50'000 h MTTF at 40°C), Safety Approvals: CE, RoHS Compliant]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LG9KHx/gelid-solutions-fn-px08-20-27-cfm-80-mm-fan-fn-px08-20"
+}

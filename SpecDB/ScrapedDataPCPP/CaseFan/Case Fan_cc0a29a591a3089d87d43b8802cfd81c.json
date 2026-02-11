@@ -1,0 +1,20 @@
+{
+    "name": "NZXT Air Flow 83.6 CFM 140 mm Fan",
+    "Manufacturer": "NZXT",
+    "Part #": "RF-FZ140-G1",
+    "Size": "140 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "83.6 CFM",
+    "Noise Level": "24.5 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.81 mmH₂O",
+    "Bearing Type": "Long Life Bearing",
+    "Features": "[Optimized for extreme airflow 140mm fan with minimal speeds of 1000+/- 200 RPM, Low noise level 24.54 dBA with exceptional airflow at 83.6 CFM]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qG9KHx/nzxt-case-fan-rffz140g1"
+}

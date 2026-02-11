@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II X2 260u 1.8 GHz Dual-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD260USCK23GQ",
+    "Series": "AMD Athlon II X2",
+    "Microarchitecture": "K10",
+    "Core Family": "Regor",
+    "Socket": "AM3",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "1.8 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "25 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sGFPxr/amd-cpu-ad260usck23gq"
+}

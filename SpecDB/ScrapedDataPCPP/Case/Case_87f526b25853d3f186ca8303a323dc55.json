@@ -1,0 +1,20 @@
+{
+    "name": "Silverstone SETA D1 ATX Mid Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-SED1-B",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB]",
+    "Maximum Video Card Length": "[394 mm, 15.512\"]",
+    "Drive Bays": "[4 x External 5.25\", 8 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "[7 x Full-Height, 2 x Full-Height via Riser]",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm, 360 mm]",
+    "Dimensions": "[492.7 mm x 232 mm x 493.9 mm, 19.398\" x 9.134\" x 19.445\"]",
+    "Volume": "[56.456 L, 1.994 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QJNYcf/silverstone-seta-d1-atx-mid-tower-case-sst-sed1-b"
+}

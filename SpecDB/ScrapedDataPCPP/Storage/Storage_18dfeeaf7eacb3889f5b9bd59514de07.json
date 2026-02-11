@@ -1,0 +1,13 @@
+{
+    "name": "Seagate ST4000VN000 4 TB 3.5\" 5900 RPM Internal Hard Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "ST4000VN000",
+    "Capacity": "4 TB",
+    "Price / GB": "$0.062",
+    "Type": "5900 RPM",
+    "Cache": "64 MB",
+    "Form Factor": "3.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nmbp99/seagate-internal-hard-drive-st4000vn000"
+}

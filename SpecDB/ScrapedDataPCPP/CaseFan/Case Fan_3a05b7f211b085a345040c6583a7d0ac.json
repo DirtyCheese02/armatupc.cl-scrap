@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A9 FLX 38.02 CFM 92 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A9 FLX",
+    "Part #": "NF-A9 FLX",
+    "Size": "92 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1050 - 1600 RPM",
+    "Airflow": "25.25 - 38.02 CFM",
+    "Noise Level": "8.4 - 17.1 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.62 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vP648d/noctua-case-fan-nfa9flx"
+}

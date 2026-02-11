@@ -1,0 +1,22 @@
+{
+    "name": "Asus PRIME OC Radeon RX 9060 XT 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[PRIME-RX9060XT-O16G, 90YV0LF1-M0NA00]",
+    "Chipset": "Radeon RX 9060 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2220 MHz",
+    "Boost Clock": "3330 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "304 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "2",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xwy8TW/asus-prime-oc-radeon-rx-9060-xt-16-gb-video-card-prime-rx9060xt-o16g"
+}

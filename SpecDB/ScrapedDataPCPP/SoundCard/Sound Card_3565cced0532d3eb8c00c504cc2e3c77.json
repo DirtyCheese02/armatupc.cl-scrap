@@ -1,0 +1,12 @@
+{
+    "name": "Creative Labs Sound Blaster Zx 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Creative Labs",
+    "Model": "Sound Blaster Zx",
+    "Part #": "70SB150600000",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "116 dB",
+    "Sample Rate": "192 kHz",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3nxfrH/creative-labs-sound-blaster-zx-24-bit-192-khz-sound-card-70sb150600000"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Klevv FIT V 32 GB (2 x 16 GB) DDR5-6000 CL28 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KD5AGU880-60B280L",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.4 V",
+    "Timing": "28-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9gNscf/klevv-fit-v-32-gb-2-x-16-gb-ddr5-6000-cl28-memory-kd5agu880-60b280l"
+}

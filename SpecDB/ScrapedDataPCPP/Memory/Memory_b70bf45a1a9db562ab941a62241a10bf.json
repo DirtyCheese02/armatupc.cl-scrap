@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KVR1333D3N9HK4/16G 16 GB (4 x 4 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR1333D3N9HK4/16G",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CTLypg/kingston-memory-kvr1333d3n9hk416g"
+}

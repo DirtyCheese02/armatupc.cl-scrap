@@ -1,0 +1,16 @@
+{
+    "name": "PROXMEM KERBEROS 32 GB (2 x 16 GB) DDR4-3200 CL18 Memory",
+    "Manufacturer": "PROXMEM",
+    "Part #": "PGD4U32A18PX6-K1WC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tNqrxr/proxmem-kerberos-32-gb-2-x-16-gb-ddr4-3200-cl18-memory-pgd4u32a18px6-k1wc"
+}

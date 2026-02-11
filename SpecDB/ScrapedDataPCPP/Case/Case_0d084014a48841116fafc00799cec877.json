@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone GD10B HTPC Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-GD10B",
+    "Type": "HTPC",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, SSI CEB]",
+    "Maximum Video Card Length": "[309 mm, 12.165\"]",
+    "Drive Bays": "[1 x External 5.25\", 2 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[80 mm, 120 mm]",
+    "Dimensions": "[362 mm x 442 mm x 171 mm, 14.252\" x 17.402\" x 6.732\"]",
+    "Volume": "[27.361 L, 0.966 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fmGj4D/silverstone-gd10b-htpc-case-sst-gd10b"
+}

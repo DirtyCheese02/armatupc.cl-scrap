@@ -1,0 +1,17 @@
+{
+    "name": "Xilence Performance C 62.05 CFM 140 mm Fan",
+    "Manufacturer": "Xilence",
+    "Part #": "[XF051, XPF140.R.PWM]",
+    "Size": "140 mm",
+    "Color": "Red / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1500 RPM",
+    "Airflow": "62.05 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9Mhv6h/xilence-performance-c-6205-cfm-140-mm-fan-xf051"
+}

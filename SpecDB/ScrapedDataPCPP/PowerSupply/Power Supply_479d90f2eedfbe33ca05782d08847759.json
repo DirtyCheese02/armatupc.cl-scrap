@@ -1,0 +1,22 @@
+{
+    "name": "Topower TOP-900W 900 W 80+ Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Topower",
+    "Part #": "TOP-900W",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "900 W",
+    "Length": "175 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@28A, +5V@28A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A, +12V5@20A, +12V6@20A, -12V@0.8A, +5VSB@6.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Zfbp99/topower-top-900w-900-w-80-certified-fully-modular-atx-power-supply-top-900w"
+}

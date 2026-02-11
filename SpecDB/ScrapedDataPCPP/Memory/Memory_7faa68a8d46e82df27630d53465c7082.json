@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 16 GB (4 x 4 GB) DDR4-2666 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK16GX4M4A2666C15",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "11.253 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gfK7YJ/corsair-memory-cmk16gx4m4a2666c15"
+}

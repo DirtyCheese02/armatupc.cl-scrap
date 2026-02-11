@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Neo (For AMD Ryzen) 32 GB (2 x 16 GB) DDR4-2666 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2666C18D-32GTZN",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nWt9TW/gskill-trident-z-neo-for-amd-ryzen-32-gb-2-x-16-gb-ddr4-2666-cl18-memory-f4-2666c18d-32gtzn"
+}

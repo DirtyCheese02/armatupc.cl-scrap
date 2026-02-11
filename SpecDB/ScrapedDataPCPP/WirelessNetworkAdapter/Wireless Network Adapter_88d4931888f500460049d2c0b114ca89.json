@@ -1,0 +1,12 @@
+{
+    "name": "IOGEAR GWU523 802.11b/g USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "IOGEAR",
+    "Part #": "GWU523",
+    "Protocol": "Wi-Fi 3",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64-bit or 128-bit WEP/WPA TKIP",
+    "Antenna": "Internal Antenna",
+    "Operating Range": "100 - 400m, depending on surrounding environment",
+    "Features": "[Chipset: Zydas1211, Power Consumption: Transmit : < 350mA, Receive : < 260mA., Management: Windows-based Utility, Add Wireless 802.11 b/g access to any USB enabled computer, Up to five times faster than previous generation wireless connection standard (Wireless 802.11b), Operating distance of up to 300 meters in open space, DSSS (Direct Sequence Spread Spectrum).]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Qch9TW/iogear-wireless-network-card-gwu523"
+}

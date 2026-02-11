@@ -1,0 +1,15 @@
+{
+    "name": "GeIL EVO Leggara 16 GB (2 x 8 GB) DDR3-2400 CL11 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GEL316GB2400C11ADC",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Green",
+    "First Word Latency": "9.167 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ybbp99/geil-memory-gel316gb2400c11adc"
+}

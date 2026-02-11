@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 64 GB (8 x 8 GB) DDR4-4266 CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK64GX4M8X4266C19",
+    "Speed": "DDR4-4266",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "8.908 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.45 V",
+    "Timing": "19-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZHc48d/corsair-vengeance-lpx-64-gb-8-x-8-gb-ddr4-4266-memory-cmk64gx4m8x4266c19"
+}

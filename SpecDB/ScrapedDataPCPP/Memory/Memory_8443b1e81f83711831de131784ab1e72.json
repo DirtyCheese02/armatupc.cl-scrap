@@ -1,0 +1,17 @@
+{
+    "name": "Samsung Green 8 GB (1 x 8 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Samsung",
+    "Part #": "M378A1G43DB0-CPB",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$6.456",
+    "Color": "Green / Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-28",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8RVD4D/samsung-green-8gb-1-x-8gb-ddr4-2133-memory-m378a1g43db0-cpb"
+}

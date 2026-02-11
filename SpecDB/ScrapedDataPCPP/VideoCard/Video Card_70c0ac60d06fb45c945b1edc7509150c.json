@@ -1,0 +1,22 @@
+{
+    "name": "Sapphire NITRO+ Radeon RX 6750 XT 12 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11318-01-20G",
+    "Chipset": "Radeon RX 6750 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2150 MHz",
+    "Boost Clock": "2623 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "310 mm",
+    "TDP": "273 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/js7G3C/sapphire-radeon-rx-6750-xt-12-gb-nitro-video-card-11318-01-20g"
+}

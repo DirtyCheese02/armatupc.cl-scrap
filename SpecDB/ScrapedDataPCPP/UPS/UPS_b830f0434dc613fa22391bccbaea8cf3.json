@@ -1,0 +1,18 @@
+{
+    "name": "APC BE325-LM UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE325-LM",
+    "Capacity (W)": "185 W",
+    "Capacity (VA)": "325 VA",
+    "Backup/Run Time (Full Load)": "1 Minute",
+    "Backup/Run Time (Half Load)": "8.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "12 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "2 x NEMA 5-15R",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BJVBD3/apc-ups-be325lm"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Silverstone SETA H2M MicroATX Mid Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-SEH2M-B",
+    "Type": "MicroATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Mesh",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[350 mm, 13.78\"]",
+    "Drive Bays": "[4 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "5 x Full-Height",
+    "Fan Support": "[Front: 3 x 120 mm / 2 x 140 mm / 2 x 160 mm, Rear: 1 x 120 mm, Top: 3 x 120 mm / 2 x 140 mm / 2 x 160 mm, Motherboard Tray: 2 x 120 mm, PSU Shroud: 2 x 120 mm]",
+    "Included Fans": "[Front: 2 x 160 mm (PWM), Rear: 1 x 120 mm (PWM)]",
+    "Radiator Support": "[Front: 360 / 280 / 240 / 140 / 120 mm, Rear: 120 mm, Top: 360 / 280 / 240 / 140 / 120 mm, Motherboard Tray: 240 / 120 mm]",
+    "Dimensions": "[451.2 mm x 231.7 mm x 447.5 mm, 17.764\" x 9.122\" x 17.618\"]",
+    "Volume": "[46.783 L, 1.652 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CJXMnQ/silverstone-seta-h2m-microatx-mid-tower-case-sst-seh2m-b"
+}

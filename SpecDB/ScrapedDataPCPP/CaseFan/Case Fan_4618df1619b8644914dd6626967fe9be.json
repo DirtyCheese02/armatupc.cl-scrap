@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-P12-S 52.86 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-P12-S",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "52.86 CFM",
+    "Noise Level": "22.1 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.53 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VhJp99/thermalright-tl-p12-s-5286-cfm-120-mm-fan-tl-p12-s"
+}

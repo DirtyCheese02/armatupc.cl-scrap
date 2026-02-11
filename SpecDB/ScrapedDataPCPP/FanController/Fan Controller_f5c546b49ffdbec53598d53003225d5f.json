@@ -1,0 +1,11 @@
+{
+    "name": "Aerocool Touch 2000 Fan Controller",
+    "Manufacturer": "Aerocool",
+    "Part #": "[Touch 2000, EN55345]",
+    "Channels": "4",
+    "Channel Wattage": "6 W",
+    "PWM (4-Pin)": "No",
+    "Form Factor": "2 x 5.25\"",
+    "Features": "[LCD viewable area: 115 (W) x 57 (H) mm, Connectors: 4 x 3-pin connectors/4 x heat sensors, Max wattage per fan channel: 6W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J3qdnQ/aerocool-fan-controller-touch2000"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Thermaltake Riing 51.15 CFM 140 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F039-PL14BU-A",
+    "Size": "140 mm",
+    "Color": "Black / Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 - 1400 RPM",
+    "Airflow": "51.15 CFM",
+    "Noise Level": "22.1 - 28.1 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.58 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "Features": "[Patented Circular Blue LED Ring, High Static Pressure for Case/Radiator Applications, Concentrated Compression Blade Design, Hydraulic Bearing for Low noise/Longer Lifespan, LNC (Low Noise Cable) Included to Reduced Noise, Anti-vibration Mounting System]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BLDzK8/thermaltake-case-fan-clf039pl14bua"
+}

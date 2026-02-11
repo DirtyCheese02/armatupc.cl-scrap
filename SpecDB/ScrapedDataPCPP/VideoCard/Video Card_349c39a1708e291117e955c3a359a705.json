@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 3X E GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 4070 VENTUS 3X E 12G, RTX 4070 VENTUS 3X E 12G]",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2490 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "308 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BtHqqs/msi-ventus-3x-e-geforce-rtx-4070-12-gb-video-card-geforce-rtx-4070-ventus-3x-e-12g"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Noctua A12x25 PWM 60.1 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A12x25 PWM",
+    "Part #": "NF-A12x25 PWM",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "450 - 2000 RPM",
+    "Airflow": "49.73 - 60.1 CFM",
+    "Noise Level": "18.8 - 22.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.34 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zxx2FT/noctua-nf-a12x25-pwm-601-cfm-120mm-fan-nf-a12x25-pwm"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "APC SC1500I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SC1500I",
+    "Capacity (W)": "865 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rm8H99/apc-ups-sc1500i"
+}

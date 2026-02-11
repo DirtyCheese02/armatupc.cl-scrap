@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL OC GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[dual-rtx4070-o12g-white, 90YV0IZ4-M0NA00]",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2550 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "267 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LLP8TW/asus-dual-oc-geforce-rtx-4070-12-gb-video-card-dual-rtx4070-o12g-white"
+}

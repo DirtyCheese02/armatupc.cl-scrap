@@ -1,0 +1,21 @@
+{
+    "name": "Sapphire 100328VXL Radeon HD 6770 1 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100328VXL",
+    "Chipset": "Radeon HD 6770",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "108 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xVvRsY/sapphire-video-card-100328vxl"
+}

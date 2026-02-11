@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-B12 EXTREM 112 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-B12 EXTREM",
+    "Size": "120 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "3150 RPM",
+    "Airflow": "112 CFM",
+    "Noise Level": "40.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "5 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MvWJ7P/thermalright-tl-b12-extrem-112-cfm-120-mm-fan-tl-b12-extrem"
+}

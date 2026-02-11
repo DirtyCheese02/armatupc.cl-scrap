@@ -1,0 +1,17 @@
+{
+    "name": "Rosewill RFA-RL1201 35.2 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFA-RL1201",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "35.2 CFM",
+    "Noise Level": "26.8 dB",
+    "PWM": "Yes",
+    "LED": "Red",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wgRzK8/rosewill-rfa-rl1201-352-cfm-120-mm-fan-rfa-rl1201"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 32 GB (2 x 16 GB) DDR4-2133 SODIMM CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2133C15D-32GRS",
+    "Speed": "DDR4-2133",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VNPzK8/gskill-memory-f42133c15d32grs"
+}

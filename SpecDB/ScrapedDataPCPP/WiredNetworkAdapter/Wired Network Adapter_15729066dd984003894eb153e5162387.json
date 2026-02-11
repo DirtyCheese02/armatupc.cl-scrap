@@ -1,0 +1,8 @@
+{
+    "name": "Edimax EN-9130TXL 100 Mb/s Ethernet PCI Network Adapter",
+    "Manufacturer": "Edimax",
+    "Part #": "EN-9130TXL",
+    "Interface": "PCI",
+    "Features": "[10/100Mbps Auto-Negotiation - Support Nway Auto-Negotiation technology and makes it simple and cost effective to install and upgrade your network in the future.  Support Full-Duplex mode for maximum bandwidth up to 200Mbps in a switched network., Web-Based Management - Turn your PC into a remotely and locally manageable PC with Edimax WedDESK Manager. Collect all the PCs' critical information and even take a snapshot of the Client PC's screen through the Internet browser.   Managing network has never been easier., ACPI / Wake On LAN - When the adapter receives a wake-up frame or magic packet from the network management station, it will work with the system's ACPI interface to power up the PC and enable the PC to be remotely managed by the administrator]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tQ8Zxr/edimax-wired-network-card-en9130txl"
+}

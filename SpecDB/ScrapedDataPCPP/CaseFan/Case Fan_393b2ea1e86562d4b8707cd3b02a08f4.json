@@ -1,0 +1,19 @@
+{
+    "name": "ID-COOLING WF-12025-XT-G 71.2 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "WF-12025-XT-G",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2200 RPM",
+    "Airflow": "71.2 CFM",
+    "Noise Level": "14 - 35 dB",
+    "PWM": "Yes",
+    "LED": "Green",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.1 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/s7QcCJ/id-cooling-wf-12025-xt-g-712-cfm-120-mm-fan-wf-12025-xt-g"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i5-750S 2.4 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BV80605003213AH",
+    "Series": "Intel Core i5",
+    "Microarchitecture": "Nehalem",
+    "Core Family": "Lynnfield",
+    "Socket": "LGA1156",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.4 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "82 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c8ckcf/intel-cpu-bv80605003213ah"
+}

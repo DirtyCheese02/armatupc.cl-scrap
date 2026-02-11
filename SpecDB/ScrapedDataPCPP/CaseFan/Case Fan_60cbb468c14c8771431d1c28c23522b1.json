@@ -1,0 +1,16 @@
+{
+    "name": "ARCTIC P8 PST 23.4 CFM 80 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P8 PST",
+    "Part #": "ACFAN00150A",
+    "Size": "80 mm",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 3000 RPM",
+    "Airflow": "23.4 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gnLwrH/arctic-p8-pwm-pst-234-cfm-80-mm-fan-acfan00150a"
+}

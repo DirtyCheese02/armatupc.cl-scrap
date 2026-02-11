@@ -1,0 +1,21 @@
+{
+    "name": "ASRock Challenger ITX Radeon RX 6400 4 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX6400 CLI 4G, 90-GA3CZZ-00UANF]",
+    "Chipset": "Radeon RX 6400",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1923 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "162 mm",
+    "TDP": "53 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 1.4 Outputs": "1",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Cvt9TW/asrock-radeon-rx-6400-4-gb-challenger-itx-video-card-rx6400-cli-4g"
+}

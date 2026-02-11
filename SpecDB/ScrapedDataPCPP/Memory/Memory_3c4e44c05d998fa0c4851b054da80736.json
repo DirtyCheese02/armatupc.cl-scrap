@@ -1,0 +1,15 @@
+{
+    "name": "Kingston ValueRAM 2 GB (2 x 1 GB) DDR2-667 SODIMM CL5 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR667D2S5K2/2G",
+    "Speed": "DDR2-667",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "2 x 1GB",
+    "Color": "Green",
+    "First Word Latency": "14.993 ns",
+    "CAS Latency": "5",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kmMFf7/kingston-memory-kvr667d2s5k22g"
+}

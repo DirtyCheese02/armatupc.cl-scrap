@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 32 GB (4 x 8 GB) DDR4-4400 CL17 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK32GX4M4K4400C17",
+    "Speed": "DDR4-4400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "7.727 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.5 V",
+    "Timing": "17-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TyGxFT/corsair-vengeance-lpx-32-gb-4-x-8-gb-ddr4-4400-memory-cmk32gx4m4k4400c17"
+}

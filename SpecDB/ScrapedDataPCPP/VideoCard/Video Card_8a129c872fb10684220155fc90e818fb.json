@@ -1,0 +1,22 @@
+{
+    "name": "Asus RX6900XT-16G Radeon RX 6900 XT 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "RX6900XT-16G",
+    "Chipset": "Radeon RX 6900 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1825 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "267 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "VirtualLink Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2WGbt6/asus-radeon-rx-6900-xt-16-gb-video-card-rx6900xt-16g"
+}

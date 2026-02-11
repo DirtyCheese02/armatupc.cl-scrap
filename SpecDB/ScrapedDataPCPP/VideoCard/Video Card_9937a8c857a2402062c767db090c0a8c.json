@@ -1,0 +1,22 @@
+{
+    "name": "Asus TUF GAMING OC GeForce RTX 5060 Ti 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[tuf-rtx5060ti-o16g-gaming, 90YV0MG0-M0NA00, 90YV0MG0-M0AA00, 90YV0MG0-MVAA00]",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2692 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "302 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NWrp99/asus-tuf-gaming-oc-geforce-rtx-5060-ti-16-gb-video-card-tuf-rtx5060ti-o16g-gaming"
+}

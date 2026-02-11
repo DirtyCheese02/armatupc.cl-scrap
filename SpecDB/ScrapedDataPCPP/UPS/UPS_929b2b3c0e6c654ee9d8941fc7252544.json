@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SU3000RTXL3U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU3000RTXL3U",
+    "Capacity (W)": "2400 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "3U",
+    "Alarm": "[On Battery, Low Battery, Overload, UPS Fault, Remote Shutdown]",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "6 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[4 x NEMA L5-30R, 4 x NEMA 5-20R, 1 x NEMA 5-15R]",
+    "Switching Time": "0 ns",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zm8H99/tripp-lite-ups-su3000rtxl3u"
+}

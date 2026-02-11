@@ -1,0 +1,23 @@
+{
+    "name": "AMD Sempron 130 2.6 GHz Single-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "SDX130HBK12GM",
+    "Series": "AMD Sempron",
+    "Microarchitecture": "K10",
+    "Core Family": "Sargas",
+    "Socket": "AM3",
+    "Core Count": "1",
+    "Thread Count": "1",
+    "Performance Core Clock": "2.6 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "45 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gLQypg/amd-cpu-sdx130hbk12gm"
+}

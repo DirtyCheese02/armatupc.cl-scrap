@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Quad Q8400S 2.66 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80580Q8400S",
+    "Series": "Intel Core 2 Quad",
+    "Microarchitecture": "Yorkfield",
+    "Core Family": "Yorkfield",
+    "Socket": "LGA775",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.66 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L8ckcf/intel-cpu-bx80580q8400s"
+}

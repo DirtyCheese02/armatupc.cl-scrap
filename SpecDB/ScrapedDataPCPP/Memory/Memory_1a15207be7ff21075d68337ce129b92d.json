@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Ripjaws S5 128 GB (2 x 64 GB) DDR5-6400 CL36 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6400J3644F64GX2-RS5K",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 64GB",
+    "Price / GB": "$12.656",
+    "Color": "Black",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-44-44-102",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pLnXsY/gskill-ripjaws-s5-128-gb-2-x-64-gb-ddr5-6400-cl36-memory-f5-6400j3644f64gx2-rs5k"
+}

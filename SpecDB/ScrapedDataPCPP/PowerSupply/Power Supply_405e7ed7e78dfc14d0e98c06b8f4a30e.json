@@ -1,0 +1,22 @@
+{
+    "name": "SeaSonic X 1050 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "SeaSonic",
+    "Part #": "[X-1050, PSUSEAX1050WMGD, SS-1050XM2]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1050 W",
+    "Length": "190 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "14",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@25A, +5V@25A, +12V@87A, -12V@0.5A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PFV48d/seasonic-power-supply-x1050"
+}

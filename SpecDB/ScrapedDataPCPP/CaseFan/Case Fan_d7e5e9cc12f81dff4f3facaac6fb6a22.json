@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone FW 42.41 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "[SST-FW123-RGB, FW123-RGB]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "10.95 - 42.41 CFM",
+    "Noise Level": "19.25 - 23.54 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fssmP6/silverstone-sst-fw123-rgb-4241-cfm-120-mm-fan-sst-fw123-rgb"
+}

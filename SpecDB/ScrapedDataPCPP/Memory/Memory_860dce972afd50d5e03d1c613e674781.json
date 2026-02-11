@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 8 GB (2 x 4 GB) DDR3-3000 CL12 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD8GX3M2A3000C12",
+    "Speed": "DDR3-3000",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "Timing": "12-14-14-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/f2FXsY/corsair-dominator-platinum-8-gb-2-x-4-gb-ddr3-3000-cl12-memory-cmd8gx3m2a3000c12"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-C12015 52 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-C12015",
+    "Size": "120 mm",
+    "Color": "Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "52 CFM",
+    "Noise Level": "24.1 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.24 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9CZXsY/thermalright-tl-c12015-52-cfm-120-mm-fan-tl-c12015"
+}

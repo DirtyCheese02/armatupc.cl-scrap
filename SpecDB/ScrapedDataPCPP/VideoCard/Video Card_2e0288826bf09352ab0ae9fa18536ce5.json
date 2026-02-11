@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF Gaming X3 OC GeForce GTX 1660 SUPER 6 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[TUF3-GTX1660S-O6G-GAMING, 90YV0DS0-M0NA00]",
+    "Chipset": "GeForce GTX 1660 SUPER",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1530 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "264 mm",
+    "TDP": "125 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BpK2FT/asus-geforce-gtx-1660-super-6-gb-tuf-gaming-x3-oc-video-card-tuf3-gtx1660s-o6g-gaming"
+}

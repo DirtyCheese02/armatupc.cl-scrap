@@ -1,0 +1,10 @@
+{
+    "name": "Syba SD-PEX63034 24-bit 48 kHz Sound Card",
+    "Manufacturer": "Syba",
+    "Part #": "SD-PEX63034",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Sample Rate": "48 kHz",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qX8Zxr/syba-sound-card-sdpex63034"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks M25G2-140 D-RGB 101.78 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "Phanteks",
+    "Model": "M25G2-140 D-RGB",
+    "Part #": "PH-F140M25_G2_DWT01 _3P",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "350 - 1800 RPM",
+    "Airflow": "101.78 CFM",
+    "Noise Level": "36.4 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.23 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dmgZxr/phanteks-m25g2-140-d-rgb-10178-cfm-140-mm-fans-3-pack-ph-f140m25_g2_dwt01-_3p"
+}

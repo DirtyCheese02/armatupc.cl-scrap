@@ -1,0 +1,22 @@
+{
+    "name": "Thermaltake TR2 750 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Thermaltake",
+    "Part #": "W0382RU",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "750 W",
+    "Length": "160 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "7",
+    "AMP/Molex 4-pin Connectors": "7",
+    "Output": "+3.3V@24A, +5V@20A, +12V@56A, -12V@0.3A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/77jG3C/thermaltake-power-supply-w0382ru"
+}

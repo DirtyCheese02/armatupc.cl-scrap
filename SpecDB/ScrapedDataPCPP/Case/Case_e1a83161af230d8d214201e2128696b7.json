@@ -1,0 +1,20 @@
+{
+    "name": "Rosewill Blackbone ATX Mid Tower Case",
+    "Manufacturer": "Rosewill",
+    "Part #": "Blackbone",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[292 mm, 11.496\"]",
+    "Drive Bays": "[3 x External 5.25\", 2 x External 3.5\", 5 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "120 mm",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[469 mm x 184 mm x 407 mm, 18.465\" x 7.244\" x 16.024\"]",
+    "Volume": "[35.122 L, 1.24 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9B3RsY/rosewill-case-blackbone"
+}

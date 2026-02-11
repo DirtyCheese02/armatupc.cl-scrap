@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power XPOWER Pulse Gaming 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "[SP032GXLWU64AFDJAD, SP032GXLWU64AFDJ]",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NZhv6h/silicon-power-xpower-pulse-gaming-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-sp032gxlwu64afdjad"
+}

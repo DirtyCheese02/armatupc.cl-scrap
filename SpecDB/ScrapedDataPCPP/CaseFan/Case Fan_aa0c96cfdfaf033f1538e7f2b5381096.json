@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker ELoop B 58.09 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "NB-ELoop B12-HP",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "58.09 CFM",
+    "Noise Level": "21 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M8phP6/noiseblocker-nb-eloop-b12-hp-5809-cfm-120-mm-fan-nb-eloop-b12-hp"
+}

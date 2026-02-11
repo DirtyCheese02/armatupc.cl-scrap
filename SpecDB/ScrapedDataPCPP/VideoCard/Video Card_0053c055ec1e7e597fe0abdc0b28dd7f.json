@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Challenger D OC Radeon RX 5600 XT 6 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX5600XT CLD 6GO, 90-GA1XZZ-00UANF]",
+    "Chipset": "Radeon RX 5600 XT",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1235 MHz",
+    "Boost Clock": "1620 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "240 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4QK2FT/asrock-radeon-rx-5600-xt-6-gb-challenger-d-oc-video-card-rx5600xt-cld-6go"
+}

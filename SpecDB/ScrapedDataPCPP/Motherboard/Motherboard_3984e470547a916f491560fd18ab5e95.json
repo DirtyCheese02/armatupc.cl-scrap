@@ -1,0 +1,23 @@
+{
+    "name": "ASRock X299 WSI/IPMI Mini ITX LGA2066 Motherboard",
+    "Manufacturer": "ASRock",
+    "Part #": "X299 WSI/IPMI",
+    "Socket / CPU": "LGA2066",
+    "Form Factor": "Mini ITX",
+    "Chipset": "Intel X299",
+    "Memory Max": "64 GB",
+    "Memory Type": "DDR4",
+    "Memory Slots": "4",
+    "Memory Speed": "[DDR4-2400, DDR4-2666]",
+    "Color": "Black / Silver",
+    "PCIe x16 Slots": "1",
+    "SATA 6.0 Gb/s Ports": "4",
+    "Onboard Ethernet": "2 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 3.2 Gen 1 Headers": "1",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "Yes",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7bF48d/asrock-x299-wsiipmi-mini-itx-lga2066-motherboard-x299-wsiipmi"
+}

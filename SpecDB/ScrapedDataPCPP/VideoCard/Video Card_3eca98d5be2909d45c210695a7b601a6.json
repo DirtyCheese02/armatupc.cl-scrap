@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte AERO OC GeForce RTX 5060 Ti 16 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N506TAERO OC-16GD",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2410 MHz",
+    "Boost Clock": "2647 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "281 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xkwD4D/gigabyte-aero-oc-geforce-rtx-5060-ti-16-gb-video-card-gv-n506taero-oc-16gd"
+}

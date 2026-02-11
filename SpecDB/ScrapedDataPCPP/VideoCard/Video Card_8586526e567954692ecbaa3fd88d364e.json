@@ -1,0 +1,21 @@
+{
+    "name": "Sparkle 700005 GeForce GT 630 4 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "700005",
+    "Chipset": "GeForce GT 630",
+    "Memory": "4 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / White",
+    "Frame Sync": "None",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RJckcf/sparkle-video-card-700005"
+}

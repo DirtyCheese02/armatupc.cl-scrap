@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX5300S2LLK2/4G 4 GB (2 x 2 GB) DDR2-667 SODIMM CL4 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX5300S2LLK2/4G",
+    "Speed": "DDR2-667",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "2 x 2GB",
+    "Color": "Blue / White",
+    "First Word Latency": "11.994 ns",
+    "CAS Latency": "4",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/24Lypg/kingston-memory-khx5300s2llk24g"
+}

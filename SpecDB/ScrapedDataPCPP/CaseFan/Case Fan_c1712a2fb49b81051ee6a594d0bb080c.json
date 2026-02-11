@@ -1,0 +1,18 @@
+{
+    "name": "Rosewill RFX-120BL 87.5 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFX-120BL",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 2200 RPM",
+    "Airflow": "43.5 - 87.5 CFM",
+    "Noise Level": "23.5 - 38.15 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8hbp99/rosewill-case-fan-rfx120bl"
+}

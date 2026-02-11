@@ -1,0 +1,18 @@
+{
+    "name": "Thermaltake Pure 67.02 CFM 140 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F027-PL14RE-A",
+    "Size": "140 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "67.02 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vFfmP6/thermaltake-case-fan-clf027pl14rea"
+}

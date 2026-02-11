@@ -1,0 +1,20 @@
+{
+    "name": "APC SMT3000RMT2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT3000RMT2U",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "2 x NEMA L6-20R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xvVBD3/apc-ups-smt3000rmt2u"
+}

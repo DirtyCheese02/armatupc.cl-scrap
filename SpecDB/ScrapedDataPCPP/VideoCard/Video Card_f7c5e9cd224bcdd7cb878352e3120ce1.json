@@ -1,0 +1,23 @@
+{
+    "name": "KFA2 EX GeForce RTX 2060 SUPER 8 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "26ISL6MPX2EK",
+    "Chipset": "GeForce RTX 2060 SUPER",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1470 MHz",
+    "Boost Clock": "1665 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "295 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H6BhP6/kfa2-geforce-rtx-2060-super-8-gb-ex-1-click-oc-video-card-26isl6mpx2ek"
+}

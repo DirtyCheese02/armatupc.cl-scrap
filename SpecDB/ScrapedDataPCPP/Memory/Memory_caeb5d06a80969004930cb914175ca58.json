@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Orion RGB AMD Edition 64 GB (4 x 16 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAOSR464GB3000C16AQC",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kjxRsY/geil-orion-rgb-amd-edition-64-gb-4-x-16-gb-ddr4-3000-cl16-memory-gaosr464gb3000c16aqc"
+}

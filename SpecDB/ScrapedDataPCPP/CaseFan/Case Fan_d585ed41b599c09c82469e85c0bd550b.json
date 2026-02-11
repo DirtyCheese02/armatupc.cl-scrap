@@ -1,0 +1,19 @@
+{
+    "name": "Cougar CFD 64.37 CFM 120 mm Fan",
+    "Manufacturer": "Cougar",
+    "Part #": "CF-D12HB-B",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "64.37 CFM",
+    "Noise Level": "16.6 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydraulic-Bearing",
+    "Features": "[DUAL-LAYER RIGID BLADE DESIGN, Nine dual-layer rigid blades generate more powerful airflow, air pressure & decrease wind shear noise, COUGAR DIVERSION CLAWS DESIGN, Innovative COUGAR diversion claws to provide focused airflow & reduce noisy air turbulences, ANTI-VIBRATION PAD DESIGN, Reduce the vibrations efficiently & silent operation., LED LIGHT VISUAL DESIGN, BLUE LED with transparent orange blade generates energetic visual effect, HYDRAULIC BEARING TECHNOLOGY, HB runs more smoothly with no friction, make it quietly & durability, TOOL-LESS FIXED PINS, Rubber fixed pins also reduces vibrations (fan run more quietly) and tool-less makes it easy to mount, with no tools required]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x8DwrH/cougar-case-fan-cfd12hbb"
+}

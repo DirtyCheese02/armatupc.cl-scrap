@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Xtreem 16 GB (2 x 8 GB) DDR4-4500 CL18 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TXKD416G4500HC18EDC01",
+    "Speed": "DDR4-4500",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / White",
+    "First Word Latency": "8 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.45 V",
+    "Timing": "18-20-20-44",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JVQG3C/teamgroup-t-force-xtreem-16-gb-2-x-8-gb-ddr4-4500-cl18-memory-txkd416g4500hc18edc01"
+}

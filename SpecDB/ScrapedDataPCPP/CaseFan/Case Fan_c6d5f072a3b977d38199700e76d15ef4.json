@@ -1,0 +1,17 @@
+{
+    "name": "Apevia CF14SL-UBL 59.6 CFM 140 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF14SL-UBL",
+    "Size": "140 mm",
+    "Color": "Translucent Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "59.6 CFM",
+    "Noise Level": "29.4 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/X2tCmG/apevia-case-fan-cf14slubl"
+}

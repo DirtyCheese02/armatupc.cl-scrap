@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone FW 49.5 CFM 92 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FW91",
+    "Size": "92 mm",
+    "Color": "Blue / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 - 2800 RPM",
+    "Airflow": "26.8 - 49.5 CFM",
+    "Noise Level": "14.1 - 27.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GxrcCJ/silverstone-case-fan-fw91"
+}

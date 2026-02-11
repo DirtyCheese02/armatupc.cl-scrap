@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite SMART750USBTAA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART750USBTAA",
+    "Capacity (W)": "450 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jPs8TW/tripp-lite-ups-smart750usbtaa"
+}

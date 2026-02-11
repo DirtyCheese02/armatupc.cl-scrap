@@ -1,0 +1,22 @@
+{
+    "name": "HP 5Z7D8AT T1000 8GB 8 GB Video Card",
+    "Manufacturer": "HP",
+    "Part #": "5Z7D8AT",
+    "Chipset": "T1000 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1065 MHz",
+    "Boost Clock": "1395 MHz",
+    "Effective Memory Clock": "10000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "156 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2pytt6/hp-5z7d8at-t1000-8gb-8-gb-video-card-5z7d8at"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X4 940 Black 3 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDZ940XCJ4DGI",
+    "Series": "AMD Phenom II X4",
+    "Microarchitecture": "K10",
+    "Core Family": "Deneb",
+    "Socket": "AM2+",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/htfp99/amd-cpu-hdz940xcj4dgi"
+}

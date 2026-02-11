@@ -1,0 +1,18 @@
+{
+    "name": "Enermax UCTP12P 80 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTP12P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "23.81 - 80 CFM",
+    "Noise Level": "14 - 25 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Features": "[Hi-pressure blade design enhances the cooling performance, High air pressure fan best for your CPU cooler, World leading fan that can run at 85?, PWM speed control to keep your system cool and silent all the time, Smart APS (Adjustable Peak Speed) control providing 3 peak rpm options, Patented Twister Bearing for long lifetime and low noise, Detachable blades for easy cleaning, Isolator-mounts for shockproof and easy installation]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TPtCmG/enermax-case-fan-uctp12p"
+}

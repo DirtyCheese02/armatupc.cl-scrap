@@ -1,0 +1,21 @@
+{
+    "name": "Asus GT730-4H-SL-2GD5 GeForce GT 730 2 GB PCIe x1 Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "GT730-4H-SL-2GD5",
+    "Chipset": "GeForce GT 730",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "902 MHz",
+    "Boost Clock": "927 MHz",
+    "Effective Memory Clock": "5010 MHz",
+    "Interface": "PCIe x1",
+    "Color": "Blue",
+    "Frame Sync": "None",
+    "Length": "148 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ywBG3C/asus-gt730-4h-sl-2gd5-geforce-gt-730-2-gb-pcie-x1-video-card-gt730-4h-sl-2gd5"
+}

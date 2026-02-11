@@ -1,0 +1,17 @@
+{
+    "name": "Insignia NS-PCF1250 44 CFM 120 mm Fan",
+    "Manufacturer": "Insignia",
+    "Part #": "NS-PCF1250",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "44 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZyDwrH/insignia-case-fan-nspcf1250"
+}

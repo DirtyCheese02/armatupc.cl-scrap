@@ -1,0 +1,15 @@
+{
+    "name": "Corsair Dominator Platinum 32 GB (4 x 8 GB) DDR3-1600 CL7 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD32GX3M4A1600C7",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ptV48d/corsair-memory-cmd32gx3m4a1600c7"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Silicon Power SP064GBSVU480F22 64 GB (2 x 32 GB) DDR5-4800 SODIMM CL40 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP064GBSVU480F22",
+    "Speed": "DDR5-4800",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$10.687",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ywxRsY/silicon-power-sp064gbsvu480f22-64-gb-2-x-32-gb-ddr5-4800-sodimm-cl40-memory-sp064gbsvu480f22"
+}

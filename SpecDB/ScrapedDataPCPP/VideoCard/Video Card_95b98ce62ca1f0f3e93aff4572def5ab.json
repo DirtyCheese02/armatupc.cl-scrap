@@ -1,0 +1,23 @@
+{
+    "name": "MSI SUPRIM GeForce RTX 3080 Ti 12 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 3080 Ti SUPRIM 12G, RTX 3080 TI SUPRIM 12G]",
+    "Chipset": "GeForce RTX 3080 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1785 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "336 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w9KKHx/msi-suprim-geforce-rtx-3080-ti-12-gb-video-card-geforce-rtx-3080-ti-suprim-12g"
+}

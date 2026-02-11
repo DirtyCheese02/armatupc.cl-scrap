@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline 32 GB (2 x 16 GB) DDR4-3200 CL14 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRC4E320EJJP16GX2",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.4 V",
+    "Timing": "14-18-18-38",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9bbTwP/mushkin-redline-32-gb-2-x-16-gb-ddr4-3200-cl14-memory-mrc4e320ejjp16gx2"
+}

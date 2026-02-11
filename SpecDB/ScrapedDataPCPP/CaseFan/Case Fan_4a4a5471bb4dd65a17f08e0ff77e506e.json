@@ -1,0 +1,19 @@
+{
+    "name": "In Win Jupiter AJ120 70.32 CFM 120 mm Fan",
+    "Manufacturer": "In Win",
+    "Model": "Jupiter AJ120",
+    "Part #": "IW-FN-AJ120-1PK",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "70.32 CFM",
+    "Noise Level": "35 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.62 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/K4bCmG/in-win-jupiter-aj120-7032-cfm-120-mm-fan-iw-fn-aj120-1pk"
+}

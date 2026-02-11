@@ -1,0 +1,19 @@
+{
+    "name": "StarTech FAN12025PWM 78.41 CFM 120 mm Fan",
+    "Manufacturer": "StarTech",
+    "Part #": "FAN12025PWM",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2200 RPM",
+    "Airflow": "33.2 - 78.41 CFM",
+    "Noise Level": "17.2 - 39 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Ever Lubricate",
+    "Features": "[Enclosure Type: Plastic, Power:, Input Current: 320 mA, Input Voltage: 12 DC, 4-pin Pulse Width Modulation (PWM) motherboard connector, Ever Lubricate Bearing design, Includes a PWM Y-split cable]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QpCwrH/startech-fan12025pwm-7841-cfm-120-mm-fan-fan12025pwm"
+}

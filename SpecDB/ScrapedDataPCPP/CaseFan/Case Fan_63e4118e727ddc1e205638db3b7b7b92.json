@@ -1,0 +1,15 @@
+{
+    "name": "SilentiumPC Stella HP ARGB 120 mm Fan",
+    "Manufacturer": "SilentiumPC",
+    "Part #": "SPC235",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 2300 RPM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4BDnTW/silentiumpc-stella-hp-argb-120-mm-fan-spc235"
+}

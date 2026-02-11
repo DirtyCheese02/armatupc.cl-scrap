@@ -1,0 +1,20 @@
+{
+    "name": "VisionTek 900548 Radeon HD 7870 2 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900548",
+    "Chipset": "Radeon HD 7870",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "2 x PCIe 6-pin",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d8V48d/visiontek-video-card-900548"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "APNX FP2 83.87 CFM 120 mm Fan",
+    "Manufacturer": "APNX",
+    "Part #": "[FP2-120 PWM ARGB WH, APF3-PF11317.21, FP2-120 WH]",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "83.87 CFM",
+    "Noise Level": "15.3 - 34.8 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.49 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DcV2FT/apnx-fp2-8387-cfm-120-mm-fan-fp2-120-pwm-argb-wh"
+}

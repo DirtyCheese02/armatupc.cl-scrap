@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX T1 8 GB (4 x 2 GB) DDR3-2133 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX2133C9AD3T1K4/8GX",
+    "Speed": "DDR3-2133",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 2GB",
+    "Color": "Blue",
+    "First Word Latency": "8.439 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Qhckcf/kingston-memory-khx2133c9ad3t1k48gx"
+}

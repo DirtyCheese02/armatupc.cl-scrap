@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle R-SPI700GHN 700 W 80+ Certified ATX Power Supply",
+    "Manufacturer": "Sparkle",
+    "Part #": "R-SPI700GHN",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "700 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@36A, +5V@30A, +12V1@18A, +12V2@18A, +12V3@18A, +12V4@18A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mHyFf7/sparkle-power-supply-rspi700ghn"
+}

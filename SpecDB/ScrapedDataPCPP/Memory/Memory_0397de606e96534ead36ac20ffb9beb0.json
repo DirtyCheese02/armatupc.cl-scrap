@@ -1,0 +1,16 @@
+{
+    "name": "Acer Predator Pallas II 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "[BL.9BWWR.375, VESTA2-32GB-6400-1R8-V1]",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rPqrxr/acer-predator-pallas-ii-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-bl9bwwr375"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link TL-WN781ND 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "TL-WN781ND",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128-Bit WEP, WPA, WPA2",
+    "Antenna": "External Antenna",
+    "Features": "[Adopts Align technology, Supports QSS function, complying with WPS for worry free wireless security, Supports 64/128/152-bit WEP, WPA /WPA2/WPA-PSK/WPA2-PSK(TKIP/AES), supports IEEE 802.1X, Supports roaming technology, guaranteeing uninterrupted wireless connection, Supports Ad-Hoc/Infrastructure modes]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sN8Zxr/tp-link-wireless-network-card-tlwn781nd"
+}

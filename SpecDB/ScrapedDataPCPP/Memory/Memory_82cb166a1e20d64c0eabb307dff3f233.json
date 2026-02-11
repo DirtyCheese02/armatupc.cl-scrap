@@ -1,0 +1,14 @@
+{
+    "name": "GeIL EVO Leggara 32 GB (4 x 8 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GEL332GB2400C10AQC",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NZphP6/geil-memory-gel332gb2400c10aqc"
+}

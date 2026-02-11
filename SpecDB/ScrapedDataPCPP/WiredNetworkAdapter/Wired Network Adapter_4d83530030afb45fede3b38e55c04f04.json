@@ -1,0 +1,8 @@
+{
+    "name": "StarTech ST3300U3S Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "ST3300U3S",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Features": "[Connector Type(s): 1 - RJ-45 Female, 1 - USB 3.0 Micro-B (10 pin; SuperSpeed) Female, 3 - USB 3.0 A (9 pin; SuperSpeed) Female, OS Compatibility: Windows XP(32/64-bit)/ Server 2003(32/64-bit)/ Server 2008 R2/ Vista(32/64-bit)/ 7(32/64-bit)/ 8 (32/64-bit), Mac OS 10.x, Linux, Power: Center Tip Polarity: Positive, Input Voltage: Universal 115 ~ 230 AC, Output Current: 2, Output Voltage: 5 DC, Plug Type: M, Power Adapter Included: Yes, 10/100/1000 Mbps RJ45 Ethernet port, Fully compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab and IEEE 802.3az specifications, Supports Auto-MDIX, Wake-on-LAN and Jumbo Frames, Crossover Detection & Auto-Correction (Auto MDIX), 3 SuperSpeed USB 3.0 ports with up to 5Gbps of bandwidth, Backward compatible with USB 2.0 and USB 1.0/1.1 devices, Supports USB 3.0/2.0/1.x devices simultaneously, Fully compliant with USB 3.0 rev 1.0 specifications, Plug-and-Play and hot-swap compatible.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZZ6BD3/startech-wired-network-card-st3300u3s"
+}

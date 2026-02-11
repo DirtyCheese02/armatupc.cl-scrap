@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N150PCe 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N150PCe",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128/152-bit WEP, WPA/WPA2, 802.1x, WPS",
+    "Antenna": "1 x 2dBi Detachable Omni-directional Antenna (Reverse SMA Connector)",
+    "Features": "[WPS (Wi-Fi Protected Setup) for worry free wireless security, Supports 64/128/152-bit WEP, complies with 128 bit WPA standard (TKIP/AES), supports MIC, IV Expansion, Shared Key Authentication, IEEE 802.1X, Complies with 802.11e, supports WMM and WMM power save, Equipped with PCI-E 2.0 interface, supplies much faster transmission speed, Compatible with 11g and 11b equipments, Intel Centrino Compatibility tested, Simple Configuration and monitoring, Supports Windows 2000/XP/Vista/7 OS]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z6JwrH/rosewill-wireless-network-card-rnxn150pce"
+}

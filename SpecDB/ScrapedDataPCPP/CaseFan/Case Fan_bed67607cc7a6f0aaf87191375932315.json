@@ -1,0 +1,18 @@
+{
+    "name": "ARCTIC P8 Slim PWM PST 22.5 CFM 80 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P8 Slim PWM PST",
+    "Part #": "ACFAN00295A",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 3000 RPM",
+    "Airflow": "22.5 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.35 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Km8Pxr/arctic-p8-slim-pwm-pst-225-cfm-80-mm-fan-acfan00295a"
+}

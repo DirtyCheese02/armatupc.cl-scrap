@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA NEX750G Gold 750 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA NEX750G Gold",
+    "Part #": "120-PG-0750-GR",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "750 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "4",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@25A, +5V@25A, +12V1@20A, +12V2@20A, +12V3@20A, +12V4@20A,+5VSB@3A, -12V@0.8A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4M9KHx/evga-supernova-nex750g-gold-750-w-80-gold-certified-fully-modular-atx-power-supply-120-pg-0750-gr"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "SilenX Effizio 32 CFM 80 mm Fan",
+    "Manufacturer": "SilenX",
+    "Part #": "EFX-08-15B",
+    "Size": "80 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1700 RPM",
+    "Airflow": "32 CFM",
+    "Noise Level": "15 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "3rd generation fluid dynamic bearings",
+    "Features": "[Power:, Operating voltage: 6-14V, Current draw: 0.13A, Power consumption: 1.56W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NkphP6/silenx-case-fan-efx0815b"
+}

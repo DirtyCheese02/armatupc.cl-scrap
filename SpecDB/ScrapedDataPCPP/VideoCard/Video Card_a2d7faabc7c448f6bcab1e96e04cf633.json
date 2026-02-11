@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D X3 OC GeForce RTX 5090 32 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N50903-32D7X-17593928",
+    "Chipset": "GeForce RTX 5090",
+    "Memory": "32 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2017 MHz",
+    "Boost Clock": "2452 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "333 mm",
+    "TDP": "575 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Wxtkcf/inno3d-x3-oc-geforce-rtx-5090-32-gb-video-card-n50903-32d7x-17593928"
+}

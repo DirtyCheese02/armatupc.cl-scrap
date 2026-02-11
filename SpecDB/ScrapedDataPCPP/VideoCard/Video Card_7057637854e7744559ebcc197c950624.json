@@ -1,0 +1,22 @@
+{
+    "name": "Asus ENGT520 Silent/DI/1GD3(LP) GeForce GT 520 1 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ENGT520 Silent/DI/1GD3(LP)",
+    "Chipset": "GeForce GT 520",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "Length": "177 mm",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8QH323/asus-video-card-engt520silentdi1gd3lp"
+}

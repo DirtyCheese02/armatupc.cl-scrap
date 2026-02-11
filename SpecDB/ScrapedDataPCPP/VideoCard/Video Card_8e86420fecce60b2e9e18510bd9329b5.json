@@ -1,0 +1,23 @@
+{
+    "name": "Palit Infinity 3 OC GeForce RTX 5060 Ti 8 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NE7506TS19P1-GB2062S",
+    "Chipset": "GeForce RTX 5060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2407 MHz",
+    "Boost Clock": "2662 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "292 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wH4Pxr/palit-infinity-3-oc-geforce-rtx-5060-ti-8-gb-video-card-ne7506ts19p1-gb2062s"
+}

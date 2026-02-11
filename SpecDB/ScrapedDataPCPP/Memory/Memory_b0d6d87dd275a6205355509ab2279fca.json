@@ -1,0 +1,16 @@
+{
+    "name": "GOODRAM IRDM 64 GB (2 x 32 GB) DDR5-6800 CL34 Memory",
+    "Manufacturer": "GOODRAM",
+    "Part #": "IR-6800D564L34/64GDC",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.45 V",
+    "Timing": "34-44-44-108",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VzWJ7P/goodram-irdm-64-gb-2-x-32-gb-ddr5-6800-cl34-memory-ir-6800d564l3464gdc"
+}

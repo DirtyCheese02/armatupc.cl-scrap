@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY Impact 32 GB (2 x 16 GB) DDR5-4800 SODIMM CL38 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF548S38IBK2-32",
+    "Speed": "DDR5-4800",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "15.833 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PrBzK8/kingston-fury-impact-32-gb-2-x-16-gb-ddr5-4800-sodimm-cl38-memory-kf548s38ibk2-32"
+}

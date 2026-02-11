@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 4 GB (1 x 4 GB) DDR3-1600 CL10 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX316C10FW/4",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "White / Silver",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9XCwrH/kingston-memory-hx316c10fw4"
+}

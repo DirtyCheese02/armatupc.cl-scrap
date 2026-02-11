@@ -1,0 +1,23 @@
+{
+    "name": "Asus DUAL OC GeForce RTX 3050 6GB 6 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[dual-rtx3050-o6g, 90YV0K60-M0NA00]",
+    "Chipset": "GeForce RTX 3050 6GB",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1040 MHz",
+    "Boost Clock": "1537 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "201 mm",
+    "TDP": "70 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.1 Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RrCZxr/asus-dual-oc-geforce-rtx-3050-6gb-6-gb-video-card-dual-rtx3050-o6g"
+}

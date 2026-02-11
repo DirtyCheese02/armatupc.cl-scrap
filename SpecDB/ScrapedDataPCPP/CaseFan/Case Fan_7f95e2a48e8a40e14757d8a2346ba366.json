@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FW 29.5 CFM 80 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FW81",
+    "Size": "80 mm",
+    "Color": "Blue / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 3000 RPM",
+    "Airflow": "12 - 29.5 CFM",
+    "Noise Level": "15.3 - 30 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Long life sleeve",
+    "Features": "[Mixed fan blade design for noise reduction, PWM design allows 1200 ~ 3000rpm fan speed control by motherboard, High efficiency system thermal solution]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CD38TW/silverstone-case-fan-fw81"
+}

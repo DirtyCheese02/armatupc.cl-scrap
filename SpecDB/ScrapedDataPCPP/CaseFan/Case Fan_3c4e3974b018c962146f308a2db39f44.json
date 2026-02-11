@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Pure Wings 2 61.2 CFM 140 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL047",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "61.2 CFM",
+    "Noise Level": "18.8 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.76 mmH₂O",
+    "Bearing Type": "Rifle",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4GsKHx/be-quiet-case-fan-bl047"
+}

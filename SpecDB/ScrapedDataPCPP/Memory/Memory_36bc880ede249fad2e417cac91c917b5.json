@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance LPX 8 GB (1 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK8GX4M1Z3600C18",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Price / GB": "$10.124",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DfqBD3/corsair-vengeance-lpx-8-gb-1-x-8-gb-ddr4-3600-cl18-memory-cmk8gx4m1z3600c18"
+}

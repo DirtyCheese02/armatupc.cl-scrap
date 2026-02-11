@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO V RGB 48 GB (1 x 48 GB) DDR5-6400 CL38 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GESW548GB6400C38ASC",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 48GB",
+    "Color": "White",
+    "First Word Latency": "11.875 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-40-40-82",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8jvD4D/geil-evo-v-rgb-48-gb-1-x-48-gb-ddr5-6400-cl38-memory-gesw548gb6400c38asc"
+}

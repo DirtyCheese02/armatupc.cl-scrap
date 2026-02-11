@@ -1,0 +1,20 @@
+{
+    "name": "ID-COOLING AS-140 72.2 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Model": "AS-140",
+    "Part #": "AS-140-K",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1800 RPM",
+    "Airflow": "72.2 CFM",
+    "Noise Level": "24.9 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.65 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wQ26Mp/id-cooling-as-140-722-cfm-120-mm-fan-as-140-k"
+}

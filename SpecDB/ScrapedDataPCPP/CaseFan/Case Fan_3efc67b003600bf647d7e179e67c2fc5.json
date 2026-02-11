@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake Pure 129.63 CFM 200 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F016-PL20BU-A",
+    "Size": "200 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 RPM",
+    "Airflow": "129.63 CFM",
+    "Noise Level": "28.2 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.99 mmH₂O",
+    "Features": "[Started Voltage: 9.0 V, Rated Voltage: 12 V, Rated Current: 0.2 A, Power Input: 2.4 W, Max. Air Pressure: 0.996 mm-H2O, Bearing Type: Sleeve]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7Tdqqs/thermaltake-case-fan-clf016pl20bua"
+}

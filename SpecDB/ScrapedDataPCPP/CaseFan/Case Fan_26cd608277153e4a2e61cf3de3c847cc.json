@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li UNI FAN AL120 V2 77.3 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Lian Li",
+    "Model": "UNI FAN AL120 V2",
+    "Part #": "[AL120V2-3B, UF-AL120V2-3B, 12ALV2-3B, G99.12ALV23B.00]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 2000 RPM",
+    "Airflow": "77.3 CFM",
+    "Noise Level": "28.7 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM + 3-pin 5V Addressable RGB",
+    "Controller": "USB",
+    "Static Pressure": "2.97 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4FGhP6/lian-li-uni-fan-al120-v2-773-cfm-120-mm-fans-3-pack-al120v2-3b"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite SU2200RTXLCD2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU2200RTXLCD2U",
+    "Capacity (W)": "1800 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "[127 V AC, 110 V AC, 120 V AC, 115 V AC]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kkTrxr/tripp-lite-ups-su2200rtxlcd2u"
+}

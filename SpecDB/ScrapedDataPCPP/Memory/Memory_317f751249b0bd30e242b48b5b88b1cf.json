@@ -1,0 +1,15 @@
+{
+    "name": "GeIL EVO POTENZA 8 GB (2 x 4 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GPR48GB2133C15DC",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Red",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FW38TW/geil-memory-gpr48gb2133c15dc"
+}

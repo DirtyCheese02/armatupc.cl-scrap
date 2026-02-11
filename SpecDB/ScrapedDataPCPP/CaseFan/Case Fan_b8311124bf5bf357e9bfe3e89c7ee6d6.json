@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC S12038-4K 106 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Part #": "ACFAN00296A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 4000 RPM",
+    "Airflow": "106 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "11.45 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tgsMnQ/arctic-s12038-4k-106-cfm-120-mm-fan-acfan00296a"
+}

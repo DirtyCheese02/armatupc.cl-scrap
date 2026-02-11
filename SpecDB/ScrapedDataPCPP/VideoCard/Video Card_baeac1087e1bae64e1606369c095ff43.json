@@ -1,0 +1,23 @@
+{
+    "name": "Zotac GAMING Twin Edge GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-A30600E-10M",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1777 MHz",
+    "Effective Memory Clock": "15000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "224 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cBPQzy/zotac-geforce-rtx-3060-12-gb-gaming-twin-edge-video-card-zt-a30600e-10m"
+}

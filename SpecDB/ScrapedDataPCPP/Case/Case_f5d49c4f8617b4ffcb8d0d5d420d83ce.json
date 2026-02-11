@@ -1,0 +1,20 @@
+{
+    "name": "Lian Li PC-B12 ATX Mid Tower Case",
+    "Manufacturer": "Lian Li",
+    "Part #": "PC-B12B",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, Thin Mini ITX]",
+    "Maximum Video Card Length": "[360 mm, 14.173\"]",
+    "Drive Bays": "[2 x External 5.25\", 3 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm]",
+    "Dimensions": "[210 mm x 471 mm x 498 mm, 8.268\" x 18.543\" x 19.606\"]",
+    "Volume": "[49.257 L, 1.74 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TGQypg/lian-li-case-pcb12b"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "KFA2 (1-Click OC) GeForce RTX 3070 Ti 8 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "37ISM6MD4COK",
+    "Chipset": "GeForce RTX 3070 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1575 MHz",
+    "Boost Clock": "1785 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "254 mm",
+    "TDP": "290 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Hw3gXL/kfa2-geforce-rtx-3070-ti-8-gb-1-click-oc-video-card-37ism6md4cok"
+}

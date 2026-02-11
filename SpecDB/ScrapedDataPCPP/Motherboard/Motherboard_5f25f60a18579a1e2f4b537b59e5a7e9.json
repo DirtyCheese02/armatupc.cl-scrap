@@ -1,0 +1,23 @@
+{
+    "name": "ASRock AD525PV3 Mini ITX Atom D525 Motherboard",
+    "Manufacturer": "ASRock",
+    "Part #": "AD525PV3",
+    "Socket / CPU": "Integrated Atom D525",
+    "Form Factor": "Mini ITX",
+    "Chipset": "Intel NM10",
+    "Memory Max": "8 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "2",
+    "Memory Speed": "DDR3-800",
+    "Color": "Black / Blue",
+    "PCI Slots": "1",
+    "SATA 3.0 Gb/s Ports": "2",
+    "Onboard Ethernet": "1 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "2",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "No",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wmMFf7/asrock-motherboard-ad525pv3"
+}

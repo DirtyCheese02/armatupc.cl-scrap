@@ -1,0 +1,8 @@
+{
+    "name": "Syba SY-PEX24028 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SY-PEX24028",
+    "Interface": "PCIe x1",
+    "Features": "[Designed to Meet PCI Express Specification Revision 1.0a, Single-lane (or x1) PCI Express Throughput Supports Rate of 2.5Gbps, Fully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, 10/100/1000M Data Auto-negotiation, LEDs Indicate the Status of Data Transmission, Support Wake On Lan (WOL) Power Management (Optional), Full Duplex Mode Doubles the Network Connections Speed., OS: Windows 7 (32/64 bit), Vista (32/64 bit), Windows XP (32/64 bit), Mac OS X 10.5 or later]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fPw323/syba-sy-pex24028-pcie-x1-1-gbits-network-adapter-sy-pex24028"
+}

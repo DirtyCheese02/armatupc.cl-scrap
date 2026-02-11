@@ -1,0 +1,16 @@
+{
+    "name": "Avexir Core Series 16 GB (4 x 4 GB) DDR3-2800 CL12 Memory",
+    "Manufacturer": "Avexir",
+    "Model": "Core Series",
+    "Part #": "AVD3U28001204G-4CI",
+    "Speed": "DDR3-2800",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "8.571 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gfNp99/avexir-memory-avd3u28001204g4ci"
+}

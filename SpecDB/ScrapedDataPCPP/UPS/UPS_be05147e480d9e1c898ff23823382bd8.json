@@ -1,0 +1,20 @@
+{
+    "name": "APC SURTD6000RMXLP3U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTD6000RMXLP3U",
+    "Capacity (W)": "4200 W",
+    "Capacity (VA)": "6000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "4.40 Minutes",
+    "Backup/Run Time (Half Load)": "14.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[1 x NEMA 5-20R, 4 x NEMA L14-30R, 1 x NEMA L6-30R]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HM8H99/apc-ups-surtd6000rmxlp3u"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator GT 32 GB (4 x 8 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT32GX3M4X1866C9",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rs2kcf/corsair-memory-cmt32gx3m4x1866c9"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Xigmatek eXTREME SILENT 75 CFM 120 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XSF-F1252",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "75 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2.41 mmH₂O",
+    "Bearing Type": "Sleeve",
+    "Features": "[Higher airflow, static pressure and torque, Reduction for noise and power consumption, Additional output functions available, Optimized blade design for better performance, Lowest noise level, Air Pressure: 2.41 mmH2O [MAX.], Life Expectance: 30,000 hrs]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Xjdqqs/xigmatek-xsf-f1252-75-cfm-120-mm-fan-xsf-f1252"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-8150 3.6 GHz 8-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD8150FRGUWOX",
+    "Series": "AMD FX",
+    "Microarchitecture": "Bulldozer",
+    "Core Family": "Zambezi",
+    "Socket": "AM3+",
+    "Core Count": "8",
+    "Thread Count": "8",
+    "Performance Core Clock": "3.6 GHz",
+    "L2 Cache": "8 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "125 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DWphP6/amd-cpu-fd8150frguwox"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Cooler Master SickleFlow ARGB 102.8 CFM 200 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "MFX-B3DN-08NP2-R1",
+    "Size": "200 mm",
+    "Color": "Black / Translucent White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 102.8 CFM",
+    "Noise Level": "0 - 15.7 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.35 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KZgFf7/cooler-master-sickleflow-argb-1028-cfm-200-mm-fan-mfx-b3dn-08np2-r1"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Apevia CF12S-UBL 63.85 CFM 120 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF12S-UBL",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1700 RPM",
+    "Airflow": "63.85 CFM",
+    "Noise Level": "29.67 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.96 mmH₂O",
+    "Features": "[UV blue reactive material, Ultra quiet and powerful]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/94ckcf/apevia-cf12s-ubl-6385-cfm-120-mm-fan-cf12s-ubl"
+}

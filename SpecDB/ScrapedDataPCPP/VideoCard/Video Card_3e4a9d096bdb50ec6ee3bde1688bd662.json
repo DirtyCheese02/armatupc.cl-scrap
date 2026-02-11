@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor AX6750 1GBD5-LHG Radeon HD 6750 1 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AX6750 1GBD5-LHG",
+    "Chipset": "Radeon HD 6750",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1150 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "86 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KBV48d/powercolor-video-card-ax67501gbd5lhg"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Corsair ML Elite 58.1 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Part #": "CO-9050128-WW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "450 - 2000 RPM",
+    "Airflow": "14.86 - 58.1 CFM",
+    "Noise Level": "10 - 30.4 dB",
+    "PWM": "Yes",
+    "LED": "Blue",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.9 mmH₂O",
+    "Bearing Type": "Magnetic Levitation",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VyC48d/corsair-ml-elite-581-cfm-120-mm-fan-co-9050128-ww"
+}

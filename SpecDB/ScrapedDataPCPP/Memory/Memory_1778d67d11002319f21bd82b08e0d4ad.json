@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal DW100 RGB 48 GB (2 x 24 GB) DDR5-7200 CL36 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "B5DW100487236ER2G-CB010",
+    "Speed": "DDR5-7200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-46-46-115",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NHG2FT/biwin-black-opal-dw100-rgb-48-gb-2-x-24-gb-ddr5-7200-cl36-memory-b5dw100487236er2g-cb010"
+}

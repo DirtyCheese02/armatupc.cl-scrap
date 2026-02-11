@@ -1,0 +1,15 @@
+{
+    "name": "OCZ RM88 1.6 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Model": "RM88",
+    "Part #": "ZD4RM88-FH-1.6T",
+    "Capacity": "1.6 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x8",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2582",
+    "SSD NAND Flash Type": "MLC",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gfw323/ocz-internal-hard-drive-zd4rm88fh16t"
+}

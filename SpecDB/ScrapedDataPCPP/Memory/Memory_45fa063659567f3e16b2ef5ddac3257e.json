@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance RGB 96 GB (4 x 24 GB) DDR5-6000 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH96GX5M4B5600C40",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 24GB",
+    "Price / GB": "$12.489",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JZWJ7P/corsair-vengeance-rgb-96-gb-4-x-24-gb-ddr5-6000-cl40-memory-cmh96gx5m4b5600c40"
+}

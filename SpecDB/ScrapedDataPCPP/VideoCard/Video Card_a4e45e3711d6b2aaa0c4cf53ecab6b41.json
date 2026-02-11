@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D Twin X2 OC GeForce RTX 3080 10GB LHR 10 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N30802-106XX-1810VA34",
+    "Chipset": "GeForce RTX 3080 10GB LHR",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1725 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "274 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YgfnTW/inno3d-geforce-rtx-3080-10gb-lhr-10-gb-twin-x2-oc-video-card-n30802-106xx-1810va34"
+}

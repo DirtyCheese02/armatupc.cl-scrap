@@ -1,0 +1,21 @@
+{
+    "name": "MSI N8400GS-D512H/LP GeForce 8400 GS 512 MB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N8400GS-D512H/LP",
+    "Chipset": "GeForce 8400 GS",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "520 MHz",
+    "Effective Memory Clock": "666 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bvMFf7/msi-video-card-n8400gsd512hlp"
+}

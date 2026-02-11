@@ -1,0 +1,19 @@
+{
+    "name": "PNY VCQ4000MAC-PB Quadro 4000 2 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQ4000MAC-PB",
+    "Chipset": "Quadro 4000",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "TDP": "142 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T6w323/pny-video-card-vcq4000macpb"
+}

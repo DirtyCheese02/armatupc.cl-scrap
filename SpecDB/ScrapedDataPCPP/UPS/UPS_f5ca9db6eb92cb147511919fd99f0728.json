@@ -1,0 +1,18 @@
+{
+    "name": "APC SC620X565 UPS",
+    "Manufacturer": "APC",
+    "Part #": "SC620X565",
+    "Capacity (W)": "410 W",
+    "Capacity (VA)": "620 VA",
+    "Backup/Run Time (Full Load)": "5.40 Minutes",
+    "Backup/Run Time (Half Load)": "14.40 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "5 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zccMnQ/apc-ups-sc620x565"
+}

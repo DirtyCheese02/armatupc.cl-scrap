@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master JetFlo 95 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "R4-JFDP-20PB-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 - 2000 RPM",
+    "Airflow": "95 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "Yes",
+    "LED": "Blue",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "POM Bearing",
+    "Features": "[R4-JFDP-20PB-R1, 2 x Silent mode adapter(1600 RPM x 1, 1200 RPM x 1), 4 x Metal screw]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gx4gXL/cooler-master-case-fan-r4jfdp20pbr1"
+}

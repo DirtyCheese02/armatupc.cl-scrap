@@ -1,0 +1,12 @@
+{
+    "name": "StarTech USB150WN1X1 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "USB150WN1X1",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "WEP/WPA/TKIP/AES/WPS",
+    "Antenna": "Internal Antenna",
+    "Operating Range": "Indoor: Up to 100m, Outdoor: Up to 300m",
+    "Features": "[Chipset ID: Realtek RTL8188SU, Enclosure Type: Plastic, Antenna Configuration: 1x1:1 (TxR:S), Color: Black, Full Duplex Support: Yes, Backward compatible with IEEE 802.11b/g standards, for up to 11/54Mbps connections respectively, Wi-Fi Protected Setup (WPS) push button or software configuration, Infrastructure and Ad-Hoc network modes support]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/994gXL/startech-wireless-network-card-usb150wn1x1"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB Pro SL 32 GB (2 x 16 GB) DDR4-4000 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMH32GX4M2K4000C18",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-22-22-42",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DkH7YJ/corsair-vengeance-rgb-pro-sl-32-gb-2-x-16-gb-ddr4-4000-cl18-memory-cmh32gx4m2k4000c18"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Patriot Viper Elite II 32 GB (2 x 16 GB) DDR4-4000 CL20 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PVE2432G400C0K",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Red / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "20",
+    "Voltage": "1.4 V",
+    "Timing": "20-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dYXJ7P/patriot-viper-elite-ii-32-gb-2-x-16-gb-ddr4-4000-cl20-memory-pve2432g400c0k"
+}

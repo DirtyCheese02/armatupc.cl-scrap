@@ -1,0 +1,20 @@
+{
+    "name": "Lian Li PC-B25F ATX Mid Tower Case",
+    "Manufacturer": "Lian Li",
+    "Part #": "PC-B25F",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[290 mm, 11.417\"]",
+    "Drive Bays": "[3 x External 5.25\", 6 x Internal 3.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm]",
+    "Dimensions": "[494 mm x 209 mm x 489 mm, 19.449\" x 8.228\" x 19.252\"]",
+    "Volume": "[50.487 L, 1.783 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VvxfrH/lian-li-case-pcb25f"
+}

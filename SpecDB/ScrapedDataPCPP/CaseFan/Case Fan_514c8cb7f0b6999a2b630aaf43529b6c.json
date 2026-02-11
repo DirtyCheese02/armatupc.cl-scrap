@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master XtraFlo 93.74 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "R4-XFBL-22PR-R1",
+    "Size": "120 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2200 RPM",
+    "Airflow": "34.02 - 93.74 CFM",
+    "Noise Level": "15 - 38 dB",
+    "PWM": "Yes",
+    "LED": "Red",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CdnG3C/cooler-master-case-fan-r4xfbl22prr1"
+}

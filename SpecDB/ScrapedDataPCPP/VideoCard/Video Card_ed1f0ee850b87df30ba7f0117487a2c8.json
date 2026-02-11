@@ -1,0 +1,23 @@
+{
+    "name": "MSI VENTUS XS OC GeForce GTX 1660 SUPER 6 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GTX 1660 SUPER VENTUS XS OC, G166SVXSC, GeForce GTX 1660 SUPER VENTUS XS OC, V375-279R]",
+    "Chipset": "GeForce GTX 1660 SUPER",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1815 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "204 mm",
+    "TDP": "125 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z3wkcf/msi-geforce-gtx-1660-super-6-gb-ventus-xs-oc-video-card-gtx-1660-super-ventus-xs-oc"
+}

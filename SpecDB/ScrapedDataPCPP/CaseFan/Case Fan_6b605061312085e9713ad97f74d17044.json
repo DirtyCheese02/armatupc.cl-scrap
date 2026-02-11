@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master SickleFlow 120 ARGB 62 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "SickleFlow 120 ARGB",
+    "Part #": "MFX-B2DW-18NPA-R1",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 1800 RPM",
+    "Airflow": "62 CFM",
+    "Noise Level": "8 - 27 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.5 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/39VG3C/cooler-master-sickleflow-120-argb-62-cfm-120-mm-fan-mfx-b2dw-18npa-r1"
+}

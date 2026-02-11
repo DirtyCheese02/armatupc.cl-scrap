@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II 160u 1.8 GHz Single-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD160UEAK13GQ",
+    "Series": "AMD Athlon II",
+    "Microarchitecture": "K10",
+    "Core Family": "Sargas",
+    "Socket": "AM3",
+    "Core Count": "1",
+    "Thread Count": "1",
+    "Performance Core Clock": "1.8 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "20 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T32rxr/amd-cpu-ad160ueak13gq"
+}

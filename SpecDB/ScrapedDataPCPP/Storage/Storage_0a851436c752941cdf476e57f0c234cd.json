@@ -1,0 +1,13 @@
+{
+    "name": "Sabrent Rocket 1 TB M.2-2242 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Sabrent",
+    "Part #": "SB-1342-1TB",
+    "Capacity": "1 TB",
+    "Price / GB": "$0.120",
+    "Type": "SSD",
+    "Form Factor": "M.2-2242",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "TLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZhkWGX/sabrent-rocket-1-tb-m2-2242-nvme-solid-state-drive-sb-1342-1tb"
+}

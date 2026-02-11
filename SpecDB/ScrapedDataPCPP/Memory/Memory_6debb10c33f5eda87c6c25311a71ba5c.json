@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline Lumina 64 GB (2 x 32 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MLA4C300GJJM32GX2",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G8D7YJ/mushkin-redline-lumina-64-gb-2-x-32-gb-ddr4-3000-cl16-memory-mla4c300gjjm32gx2"
+}

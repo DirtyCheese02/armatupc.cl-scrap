@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC P PST 68.9 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Part #": "ACFAN00238A",
+    "Size": "140 mm",
+    "Color": "Black / Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "68.9 CFM",
+    "Noise Level": "0 - 68.9 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + 4-pin 12V RGB",
+    "Controller": "None",
+    "Static Pressure": "2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wx4Ycf/arctic-p-pst-689-cfm-140-mm-fan-acfan00238a"
+}

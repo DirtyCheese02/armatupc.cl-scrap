@@ -1,0 +1,22 @@
+{
+    "name": "Asus TUF GAMING OC GeForce RTX 5070 Ti 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[tuf-rtx5070ti-o16g-gaming, 90YV0MD0-M0NA00, 90YV0MD0-M0AA00]",
+    "Chipset": "GeForce RTX 5070 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2610 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "329 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ybjv6h/asus-tuf-gaming-oc-geforce-rtx-5070-ti-16-gb-video-card-tuf-rtx5070ti-o16g-gaming"
+}

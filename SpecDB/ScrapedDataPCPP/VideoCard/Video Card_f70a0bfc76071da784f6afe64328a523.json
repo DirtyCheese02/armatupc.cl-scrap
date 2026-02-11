@@ -1,0 +1,23 @@
+{
+    "name": "KFA2 (1-Click OC) GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "KFA2",
+    "Part #": "36NOL7MD1VOK",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1792 MHz",
+    "Effective Memory Clock": "15000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "258 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yRGbt6/kfa2-geforce-rtx-3060-12-gb-1-click-oc-video-card-36nol7md1vok"
+}

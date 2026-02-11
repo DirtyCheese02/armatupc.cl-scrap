@@ -1,0 +1,22 @@
+{
+    "name": "Lenovo 4X61K53577 RTX A5500 24 GB Video Card",
+    "Manufacturer": "Lenovo",
+    "Part #": "4X61K53577",
+    "Chipset": "RTX A5500",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1080 MHz",
+    "Boost Clock": "1665 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yfRwrH/lenovo-4x61k53577-rtx-a5500-24-gb-video-card-4x61k53577"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "AMD 100-505724 FirePro W7100 8 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "100-505724",
+    "Chipset": "FirePro W7100",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "824 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "279 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TNGj4D/amd-video-card-100505724"
+}

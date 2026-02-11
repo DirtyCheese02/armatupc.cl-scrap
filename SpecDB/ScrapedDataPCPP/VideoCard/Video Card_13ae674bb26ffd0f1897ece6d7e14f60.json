@@ -1,0 +1,20 @@
+{
+    "name": "Asus EAH4870/2DI/1GD5 Radeon HD 4870 1 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "EAH4870/2DI/1GD5",
+    "Chipset": "Radeon HD 4870",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "750 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hqn2FT/asus-video-card-eah48702di1gd5"
+}

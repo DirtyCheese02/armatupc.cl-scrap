@@ -1,0 +1,16 @@
+{
+    "name": "HP AF461A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF461A",
+    "Capacity (W)": "4500 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "5.70 Minutes",
+    "Backup/Run Time (Half Load)": "16 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "48 Hour",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9VYWGX/hp-ups-af461a"
+}

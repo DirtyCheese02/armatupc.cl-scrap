@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Aegis 5 16 GB (1 x 16 GB) DDR5-5200 CL36 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5200J3636C16GX1-IS",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Black / Red",
+    "First Word Latency": "13.846 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.2 V",
+    "Timing": "36-36-36-83",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9hxTwP/gskill-aegis-5-16-gb-1-x-16-gb-ddr5-5200-cl36-memory-f5-5200j3636c16gx1-is"
+}

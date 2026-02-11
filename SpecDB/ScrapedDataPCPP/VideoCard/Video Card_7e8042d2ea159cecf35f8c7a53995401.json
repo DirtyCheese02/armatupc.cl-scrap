@@ -1,0 +1,21 @@
+{
+    "name": "XFX HD-455X-ZAF2 Radeon HD 4550 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-455X-ZAF2",
+    "Chipset": "Radeon HD 4550",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "625 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "25 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "S-Video Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D2CwrH/xfx-video-card-hd455xzaf2"
+}

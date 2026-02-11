@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF GAMING GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "tuf-rtx3060ti-8gd6x-gaming",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1695 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "302 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8PbTwP/asus-tuf-gaming-geforce-rtx-3060-ti-8-gb-video-card-tuf-rtx3060ti-8gd6x-gaming"
+}

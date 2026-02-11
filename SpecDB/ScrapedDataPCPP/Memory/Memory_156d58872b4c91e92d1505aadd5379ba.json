@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Dark 8 GB (2 x 4 GB) DDR4-2400 CL14 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TDGED48G2400HC14DC01",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "Timing": "14-16-16-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/grnG3C/team-dark-8gb-2-x-4gb-ddr4-2400-memory-tdged48g2400hc14dc01"
+}

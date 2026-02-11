@@ -1,0 +1,23 @@
+{
+    "name": "Asus RX6700XT-12G Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "RX6700XT-12G",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Boost Clock": "2581 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "267 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4a Outputs": "1",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2rVmP6/asus-rx6700xt-12g-radeon-rx-6700-xt-12-gb-video-card-rx6700xt-12g"
+}

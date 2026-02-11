@@ -1,0 +1,17 @@
+{
+    "name": "Silverstone Shark Force 100 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-SF120B-ARGB",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "Airflow": "0 - 100 CFM",
+    "Noise Level": "0 - 41.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "4.66 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Pj4Zxr/silverstone-shark-force-100-cfm-120-mm-fan-sst-sf120b-argb"
+}

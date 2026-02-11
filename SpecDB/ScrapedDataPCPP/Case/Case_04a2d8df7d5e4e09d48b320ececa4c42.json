@@ -1,0 +1,20 @@
+{
+    "name": "KOLINK Observatory Z Mesh ATX Mid Tower Case",
+    "Manufacturer": "KOLINK",
+    "Part #": "[OBSERVATORY Z MESH, PGW-CH-KOL-074]",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Tempered Glass",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A, USB 2.0 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[380 mm, 14.961\"]",
+    "Drive Bays": "[2 x Internal 3.5\", 3 x Internal 2.5\"]",
+    "Expansion Slots": "[7 x Full-Height, 3 x Full-Height via Riser]",
+    "Fan Support": "[120 mm, 140 mm, 200 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm, 360 mm, 420 mm]",
+    "Dimensions": "[465 mm x 245 mm x 495 mm, 18.307\" x 9.646\" x 19.488\"]",
+    "Volume": "[56.393 L, 1.991 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LpLdnQ/kolink-observatory-z-mesh-atx-mid-tower-case-observatory-z-mesh"
+}

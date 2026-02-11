@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL OC Radeon RX 6750 XT 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RX6750XT-O12G, 90YV0HK0-M0NA00]",
+    "Chipset": "Radeon RX 6750 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2150 MHz",
+    "Boost Clock": "2618 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "295 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pRt9TW/asus-radeon-rx-6750-xt-12-gb-dual-oc-video-card-dual-rx6750xt-o12g"
+}

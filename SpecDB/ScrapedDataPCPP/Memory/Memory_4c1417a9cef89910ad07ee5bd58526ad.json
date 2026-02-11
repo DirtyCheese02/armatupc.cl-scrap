@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Xtreem 32 GB (4 x 8 GB) DDR4-3600 CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TXD432G3600HC16CQC01",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.889 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cVBTwP/team-t-force-xtreem-32gb-4-x-8gb-ddr4-3600-memory-txd432g3600hc16cqc01"
+}

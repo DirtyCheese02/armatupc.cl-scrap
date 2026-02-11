@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB Pro 16 GB (2 x 8 GB) DDR4-4000 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMW16GX4M2G4000C16",
+    "Speed": "DDR4-4000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "8 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PgrRsY/corsair-vengeance-rgb-pro-16-gb-2-x-8-gb-ddr4-4000-cl16-memory-cmw16gx4m2g4000c16"
+}

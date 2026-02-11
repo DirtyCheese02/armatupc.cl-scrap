@@ -1,0 +1,14 @@
+{
+    "name": "Kingston SSDNow V+200 120 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Kingston",
+    "Part #": "KR-S3120-3H",
+    "Capacity": "120 GB",
+    "Price / GB": "$1.333",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (asynchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CPCwrH/kingston-internal-hard-drive-krs31203h"
+}

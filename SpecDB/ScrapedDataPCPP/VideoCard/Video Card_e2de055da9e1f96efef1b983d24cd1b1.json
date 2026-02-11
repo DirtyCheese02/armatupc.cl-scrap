@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 2X 8GD6X GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "RTX 3060 Ti VENTUS 3X 8GD6X",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1665 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "232 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WqP8TW/msi-ventus-2x-8gd6x-geforce-rtx-3060-ti-8-gb-video-card-rtx-3060-ti-ventus-3x-8gd6x"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "CTCWD532G6400HC32ADC01",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$16.406",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.35 V",
+    "Timing": "32-39-39-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RBqrxr/teamgroup-t-create-expert-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-ctcwd532g6400hc32adc01"
+}

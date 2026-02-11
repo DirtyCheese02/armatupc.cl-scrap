@@ -1,0 +1,22 @@
+{
+    "name": "Cooler Master G750M 750 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Cooler Master",
+    "Model": "G750M",
+    "Part #": "RS750-AMAAB1-US",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "750 W",
+    "Length": "140 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "8",
+    "AMP/Molex 4-pin Connectors": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6btWGX/cooler-master-power-supply-rs750amaab1us"
+}

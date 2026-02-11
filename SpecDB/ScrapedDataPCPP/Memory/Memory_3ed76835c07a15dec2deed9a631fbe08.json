@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (4 x 4 GB) DDR3-2666 CL11 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX3M4A2666C11",
+    "Speed": "DDR3-2666",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Price / GB": "$20.239",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.252 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.65 V",
+    "Timing": "11-13-13-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ym9KHx/corsair-memory-cmd16gx3m4a2666c11"
+}

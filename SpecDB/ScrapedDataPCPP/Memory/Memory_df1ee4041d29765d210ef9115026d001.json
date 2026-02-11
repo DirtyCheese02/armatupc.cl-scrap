@@ -1,0 +1,16 @@
+{
+    "name": "GeIL EVO X 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GEX416GB3000C15ADC",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tgPzK8/geil-evo-x-16gb-2-x-8gb-ddr4-3000-memory-gex416gb3000c15adc"
+}

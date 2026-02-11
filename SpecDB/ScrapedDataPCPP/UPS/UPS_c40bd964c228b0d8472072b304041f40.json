@@ -1,0 +1,19 @@
+{
+    "name": "APC SMT2200US UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT2200US",
+    "Capacity (W)": "1980 W",
+    "Capacity (VA)": "2200 VA",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "22 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[8 x NEMA 5-15R, 2 x NEMA 5-20R]",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2wVBD3/apc-ups-smt2200us"
+}

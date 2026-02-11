@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SMART5000TEL3U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART5000TEL3U",
+    "Capacity (W)": "3750 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "10 Minutes",
+    "Backup/Run Time (Half Load)": "24 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[1 x NEMA L6-30R, 2 x NEMA L6-20R, 2 x NEMA 5-15R]",
+    "Switching Time": "8 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LCyxFT/tripp-lite-ups-smart5000tel3u"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-AC1900PCE 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-AC1900PCE",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "PCIe x1",
+    "Security": "Support 64 / 128-bit WEP, WPA-PSK / WPA2-PSK, 802.1x<br/>WPA (TKIP with IEEE 802.1x)<br/>WPA2 (AES with IEEE 802.1x)",
+    "Antenna": "3 x External antennas (dual band) <br/>Antenna Type: Omni Directional, Detachable (RP-SMA)<br/>Antenna Gain\t: 2 dBi for 2.4 GHz & 2 dBi for 5 GHz",
+    "Features": "[Next Generation Standard 802.11AC, compatible with 11 a/b/g/n, Up to 600 Mbps at 2.4 GHz, Up to 1300 Mbps at 5.0 GHz, Dual Band connections for lag-free HD video streaming and gaming, Beamforming Technology for Efficient Wifi WPA / WPA2 Encryptions - Advanced Security, Wireless Mode: Ad-Hoc / Infrastructure mode, PCI-Express Interface, Windows 8.1 Compatibility]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ML2rxr/rosewill-rnx-ac1900pce-none-wi-fi-adapter-rnx-ac1900pce"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Antec P183 V3 ATX Mid Tower Case",
+    "Manufacturer": "Antec",
+    "Part #": "P183 V3",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, Thin Mini ITX]",
+    "Maximum Video Card Length": "[394 mm, 15.512\"]",
+    "Drive Bays": "[4 x External 5.25\", 1 x External 3.5\", 6 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "120 mm",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[505 mm x 205 mm x 520 mm, 19.882\" x 8.071\" x 20.472\"]",
+    "Volume": "[53.833 L, 1.901 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2qzv6h/antec-case-p183v3"
+}

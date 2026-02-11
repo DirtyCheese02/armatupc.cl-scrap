@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Fury 32 GB (4 x 8 GB) DDR4-3200 CL16 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX432C16FB3K4/32",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cQ3mP6/kingston-hyperx-fury-32-gb-4-x-8-gb-ddr4-3200-cl16-memory-hx432c16fb3k432"
+}

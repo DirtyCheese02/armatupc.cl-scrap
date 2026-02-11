@@ -1,0 +1,17 @@
+{
+    "name": "Asus ROG STRIX XF 62.5 CFM 120 mm Fan",
+    "Manufacturer": "Asus",
+    "Part #": "[ROG STRIX XF 120, 90DA0010-B08000]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "62.5 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L2stt6/asus-rog-strix-xf-120-625-cfm-120-mm-fan-rog-strix-xf-120"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "EK Loop Fan FPT 140 D-RGB 118.01 CFM 140 mm Fan",
+    "Manufacturer": "EK",
+    "Model": "Loop Fan FPT 140 D-RGB",
+    "Part #": "[EK-LOOP-FPT-140-DRGB-BK, 3831109897621]",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2200 RPM",
+    "Airflow": "118.01 CFM",
+    "Noise Level": "44.56 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.57 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gMFmP6/ek-loop-fan-fpt-140-d-rgb-11801-cfm-140-mm-fan-ek-loop-fpt-140-drgb-bk"
+}

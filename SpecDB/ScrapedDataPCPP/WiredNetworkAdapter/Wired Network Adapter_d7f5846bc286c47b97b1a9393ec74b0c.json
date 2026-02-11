@@ -1,0 +1,8 @@
+{
+    "name": "Rosewill RNF-405U 100 Mb/s Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNF-405U",
+    "Interface": "USB Type-A 2.0",
+    "Features": "[Moschip MCS7832, Compliant with USB 1.1 and 2.0, Compliant with IEEE 802.3 (10Base-T) and 802.3u (100Base-TX), Support Full Duplex Operation in 10/100 Mbps Modes, Support USB Full and High Speed modes with bus power capacity, Upstream port: USB type A, Downstream port: RJ45, LEDs indicate the status of Power status and Ethernet connection, Support Windows 2000/XP/Vista/7/8 (32/64 bit) and 2003; (Win8 compatible with Win7 driver) Mac OS 10.5 or later; Windows CE 5.0, 6.0, Mobile 5, Mobile 6, FreeBSD; Android 1.x/2.x/3.0; and Linux Kernel up to 2.6.38]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MVxfrH/rosewill-wired-network-card-rnf405u"
+}

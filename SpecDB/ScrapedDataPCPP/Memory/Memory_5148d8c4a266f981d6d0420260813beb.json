@@ -1,0 +1,15 @@
+{
+    "name": "Panram Ninja-V 16 GB (4 x 4 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Panram",
+    "Part #": "PUD43000C154G4NJW",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "White / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.45 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pdmxFT/panram-memory-pud43000c154g4njw"
+}

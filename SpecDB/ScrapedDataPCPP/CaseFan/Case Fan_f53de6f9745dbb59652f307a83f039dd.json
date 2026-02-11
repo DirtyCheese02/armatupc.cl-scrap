@@ -1,0 +1,20 @@
+{
+    "name": "ID-COOLING TF-12025-PRO-ARGB 82.5 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "ID-COOLING",
+    "Model": "TF-12025-PRO-ARGB",
+    "Part #": "TF-12025-PRO-ARGB TRIO WHITE",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "82.5 CFM",
+    "Noise Level": "35.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.55 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rgcgXL/id-cooling-tf-12025-pro-argb-825-cfm-120-mm-fans-3-pack-tf-12025-pro-argb-trio-white"
+}

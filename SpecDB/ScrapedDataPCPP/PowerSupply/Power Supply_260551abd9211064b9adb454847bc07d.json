@@ -1,0 +1,23 @@
+{
+    "name": "Athena Power AP-MFATX50P8 500 W 80+ Silver Certified Flex ATX Power Supply",
+    "Manufacturer": "Athena Power",
+    "Part #": "AP-MFATX50P8",
+    "Type": "Flex ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "500 W",
+    "Length": "152 mm",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "2",
+    "Output": "+3.3V@18A    <br/>+5V@18A      <br/>+12V1@20A       <br/>+12V2@20A       <br/>-5V@0.5A        <br/>-12V@0.5A    <br/>+5V-SB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hGX2FT/athena-power-ap-mfatx50p8-500-w-80-silver-certified-flex-atx-power-supply-ap-mfatx50p8"
+}

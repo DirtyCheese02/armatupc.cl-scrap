@@ -1,0 +1,22 @@
+{
+    "name": "Acer Nitro OC Radeon RX 7800 XT 16 GB Video Card",
+    "Manufacturer": "Acer",
+    "Part #": "DP.Z37WW.P01",
+    "Chipset": "Radeon RX 7800 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1295 MHz",
+    "Boost Clock": "2565 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "279 mm",
+    "TDP": "263 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3YjRsY/acer-nitro-oc-radeon-rx-7800-xt-16-gb-video-card-dpz37wwp01"
+}

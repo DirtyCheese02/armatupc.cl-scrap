@@ -1,0 +1,14 @@
+{
+    "name": "TEAMGROUP Xtreem LV 8 GB (2 x 4 GB) DDR3-2400 CL10 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TXD38G2400HC10QDC01",
+    "Speed": "DDR3-2400",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "First Word Latency": "8.333 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4s9KHx/team-memory-txd38g2400hc10qdc01"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 1300 G2 1300 W 80+ Gold Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 1300 G2",
+    "Part #": "[120-G2-1300-XR, 120-G2-1300-X2, 120-G2-1300-X3]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "1300 W",
+    "Length": "200 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "6",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+3.3V@24A, +5V@24A, +12V@108.3A, +5VSB@3A, -12V@0.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8LMFf7/evga-supernova-1300-g2-1300-w-80-gold-certified-fully-modular-atx-power-supply-120-g2-1300-xr"
+}

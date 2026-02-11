@@ -1,0 +1,19 @@
+{
+    "name": "Corsair RS120 MAX 72 CFM 120 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "RS120 MAX",
+    "Part #": "CO-9050170-WW",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "16.5 - 72 CFM",
+    "Noise Level": "29.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.2 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XVvD4D/corsair-rs120-max-72-cfm-120-mm-fan-co-9050170-ww"
+}

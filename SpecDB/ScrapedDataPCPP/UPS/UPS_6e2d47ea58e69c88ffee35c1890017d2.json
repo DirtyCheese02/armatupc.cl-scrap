@@ -1,0 +1,20 @@
+{
+    "name": "APC BN700MC UPS",
+    "Manufacturer": "APC",
+    "Part #": "BN700MC",
+    "Capacity (W)": "420 W",
+    "Capacity (VA)": "700 VA",
+    "Backup/Run Time (Full Load)": "2 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Switching Time": "10 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DVYWGX/apc-ups-bn700mc"
+}

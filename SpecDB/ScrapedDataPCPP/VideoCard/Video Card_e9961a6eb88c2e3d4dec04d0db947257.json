@@ -1,0 +1,23 @@
+{
+    "name": "MSI R6770-MD1GD5 Radeon HD 6770 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "R6770-MD1GD5",
+    "Chipset": "Radeon HD 6770",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "800 MHz",
+    "Effective Memory Clock": "1100 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "108 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jcphP6/msi-video-card-r6770md1gd5"
+}

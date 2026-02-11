@@ -1,0 +1,23 @@
+{
+    "name": "Sparkle SXX5602048D5SMH GeForce GTX 560 2 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "SXX5602048D5SMH",
+    "Chipset": "GeForce GTX 560",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "822 MHz",
+    "Effective Memory Clock": "4008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "209 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R8Np99/sparkle-video-card-sxx5602048d5smh"
+}

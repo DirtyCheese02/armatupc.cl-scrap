@@ -1,0 +1,8 @@
+{
+    "name": "Intel PWLA8391GTBLK Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "Intel",
+    "Part #": "PWLA8391GTBLK",
+    "Interface": "PCI",
+    "Features": "[Processor:Intel 82541PI, ACPI support, Auto-negotiation, Flow control, Full duplex capability, Manageable, VLAN support, Wake on LAN (WOL), Remote management support DMI 2.0, SNMP, Compliant with BSMI CNS 13438 Class B, CE, FCC Class B certified, Plug and Play, VCCI Class B ITE]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yKzv6h/intel-wired-network-card-pwla8391gtblk"
+}

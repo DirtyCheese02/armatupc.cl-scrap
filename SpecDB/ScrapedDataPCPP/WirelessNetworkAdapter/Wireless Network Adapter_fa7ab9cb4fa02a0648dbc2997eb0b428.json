@@ -1,0 +1,11 @@
+{
+    "name": "Asus USB-AC53 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Asus",
+    "Part #": "USB-AC53",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64-bit WEP, 128-bit WEP, WPA2-PSK, WPA-PSK, WPS support",
+    "Antenna": "Internal Antenna",
+    "Features": "[Data Rate: 802.11ac: downlink up to 867Mbps, uplink up to 867Mbps(20/40MHz), Extra-fast 5th Generation Wi-Fi at up to 867Mbps/300Mbps, Selectable 5GHz/2.4GHz dual bands increase signal clarity for better HD multimedia, Powerful 2x2 embedded patch antennas (PIFA type) improve signal range while integrating into the attractive design, Exclusive NetClip and cradle accessories for convenient placement and better performance.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2p7wrH/asus-wireless-network-card-usbac53"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GV-R557OC-1GI Radeon HD 5570 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R557OC-1GI",
+    "Chipset": "Radeon HD 5570",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "670 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "39 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PPqdnQ/gigabyte-video-card-gvr557oc1gi"
+}

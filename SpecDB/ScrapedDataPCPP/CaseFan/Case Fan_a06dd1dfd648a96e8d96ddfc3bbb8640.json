@@ -1,0 +1,19 @@
+{
+    "name": "Prolimatech Vortex 127 CFM 140 mm Fan",
+    "Manufacturer": "Prolimatech",
+    "Part #": "PRO-ALUM-RD",
+    "Size": "140 mm",
+    "Color": "Black / Silver",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1600 RPM",
+    "Airflow": "65 - 127 CFM",
+    "Noise Level": "15 - 28 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Two Ball bearing",
+    "Features": "[Power: Rated Voltage: 12 VDC, Operating Voltage Range: 7~13.8 VDC, Rated Current: 0.45A, Rated Input Power: 5.4W, Thirteen ultra-thin, high precision alloy of aluminum fan blades., Overlapped fan blade design provides extreme high statistic pressure., For ruby red LED at the corners of fan frame., Finished Coating fan guard included for safety.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9dBv6h/prolimatech-case-fan-proalumrd"
+}

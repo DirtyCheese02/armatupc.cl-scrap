@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 8 GB (2 x 4 GB) DDR4-4266 CL19 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK8GX4M2B4266C19",
+    "Speed": "DDR4-4266",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "8.908 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "Timing": "19-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cDqbt6/corsair-memory-cmk8gx4m2b4266c19"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Palit GamingPro OC GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "Palit",
+    "Part #": "NED4070H19K9-1043A",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2595 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "329 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ct88TW/palit-gamingpro-oc-geforce-rtx-4070-12-gb-video-card-ned4070h19k9-1043a"
+}

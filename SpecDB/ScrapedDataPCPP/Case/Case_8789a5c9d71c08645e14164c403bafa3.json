@@ -1,0 +1,21 @@
+{
+    "name": "Thermaltake AX500 ATX Full Tower Case",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CA-11D-00F6WN-00",
+    "Type": "ATX Full Tower",
+    "Color": "White",
+    "Power Supply": "None",
+    "Side Panel": "Tempered Glass",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB]",
+    "Maximum Video Card Length": "[460 mm, 18.11\"]",
+    "Drive Bays": "5 x Internal 3.5\"",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[Front: 4 x 120 mm / 3 x 140 mm, Rear: 1 x 120 mm / 1 x 140 mm, Top: 3 x 120 mm / 3 x 140 mm, Motherboard Tray: 3 x 120 mm / 2 x 140 mm, PSU Shroud: 3 x 120 mm]",
+    "Included Fans": "[Front: 3 x 140 mm (PWM), Rear: 1 x 140 mm (PWM)]",
+    "Radiator Support": "[Front: 420 / 360 / 280 / 240 / 140 / 120 mm, Rear: 140 / 120 mm, Top: 420 / 360 / 280 / 240 / 140 / 120 mm]",
+    "Dimensions": "[548 mm x 248 mm x 550 mm, 21.575\" x 9.764\" x 21.654\"]",
+    "Volume": "[74.747 L, 2.64 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T9QwrH/thermaltake-ax500-atx-full-tower-case-ca-11d-00f6wn-00"
+}

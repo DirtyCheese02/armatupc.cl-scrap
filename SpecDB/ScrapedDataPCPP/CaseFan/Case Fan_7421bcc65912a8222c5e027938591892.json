@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake CT120 EX Reverse ARGB Sync 65.82 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Thermaltake",
+    "Model": "CT120 EX Reverse ARGB Sync",
+    "Part #": "CL-F198-PL12BU-A",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "65.82 CFM",
+    "Noise Level": "31.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.87 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3Yn9TW/thermaltake-ct120-ex-reverse-argb-sync-6582-cfm-120-mm-fans-3-pack-cl-f198-pl12bu-a"
+}

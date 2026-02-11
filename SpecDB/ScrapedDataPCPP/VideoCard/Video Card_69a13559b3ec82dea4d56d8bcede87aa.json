@@ -1,0 +1,21 @@
+{
+    "name": "MSI MECH 2X OC Radeon RX 6650 XT 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[Radeon RX 6650 XT MECH 2X 8G OC, RX 6650 XT MECH 2X 8G OC, V502-064R]",
+    "Chipset": "Radeon RX 6650 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2055 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "235 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rfLFf7/msi-radeon-rx-6650-xt-8-gb-mech-2x-oc-video-card-radeon-rx-6650-xt-mech-2x-8g-oc"
+}

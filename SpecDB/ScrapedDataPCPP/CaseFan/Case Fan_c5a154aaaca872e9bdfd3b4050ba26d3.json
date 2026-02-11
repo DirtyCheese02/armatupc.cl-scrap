@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker BlackSilentPro P-P 38.25 CFM 92 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "NB-BlackSilentPro PE-P",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "38.25 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XHPfrH/noiseblocker-nb-blacksilentpro-pe-p-3825-cfm-92-mm-fan-nb-blacksilentpro-pe-p"
+}

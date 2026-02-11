@@ -1,0 +1,19 @@
+{
+    "name": "Corsair RS120-R 65.82 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Corsair",
+    "Model": "RS120-R",
+    "Part #": "CO-9050197-WW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "420 - 2100 RPM",
+    "Airflow": "13.33 - 65.82 CFM",
+    "Noise Level": "10 - 34.6 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.81 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rm2j4D/corsair-rs120-r-6582-cfm-120-mm-fans-3-pack-co-9050197-ww"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "AMD A8-6500 3.5 GHz Quad-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD6500OKHLBOX",
+    "Series": "AMD A8",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Richland",
+    "Socket": "FM2",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.5 GHz",
+    "L2 Cache": "2 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 8570D",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nDtCmG/amd-cpu-ad6500okhlbox"
+}

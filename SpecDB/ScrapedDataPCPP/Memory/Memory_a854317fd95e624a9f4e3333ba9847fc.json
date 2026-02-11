@@ -1,0 +1,15 @@
+{
+    "name": "ADATA AD2U800B1G5-RHS 1 GB (1 x 1 GB) DDR2-800 CL5 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AD2U800B1G5-RHS",
+    "Speed": "DDR2-800",
+    "Form Factor": "240-pin DIMM (DDR2)",
+    "Modules": "1 x 1GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "5",
+    "Voltage": "2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vgW9TW/a-data-memory-ad2u800b1g5rhs"
+}

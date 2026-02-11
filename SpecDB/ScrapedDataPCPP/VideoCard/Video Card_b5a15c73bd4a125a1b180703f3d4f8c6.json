@@ -1,0 +1,23 @@
+{
+    "name": "HIS HS-57LR8SSNR Radeon RX 5700 8 GB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "HS-57LR8SSNR",
+    "Chipset": "Radeon RX 5700",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1465 MHz",
+    "Boost Clock": "1725 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "268 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RGcRsY/his-radeon-rx-5700-8-gb-video-card-hs-57lr8ssnr"
+}

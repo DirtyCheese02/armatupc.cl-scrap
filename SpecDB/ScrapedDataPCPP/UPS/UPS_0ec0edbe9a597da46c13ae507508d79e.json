@@ -1,0 +1,18 @@
+{
+    "name": "APC SUA5000R5TXFMR UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA5000R5TXFMR",
+    "Capacity (W)": "4000 W",
+    "Capacity (VA)": "5000 VA",
+    "Rack Height": "7U",
+    "Backup/Run Time (Full Load)": "9.40 Minutes",
+    "Backup/Run Time (Half Load)": "26.70 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Emergency Power OFF": "Optional",
+    "Input Voltage": "[110 V AC, 220 V AC]",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "208 V AC",
+    "Receptacles": "[12 x NEMA L6-30R, 2 x NEMA L6-20R, 1 x NEMA L6-30R, 12 x NEMA 5-20R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Lr648d/apc-ups-sua5000r5txfmr"
+}

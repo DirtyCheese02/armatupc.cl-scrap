@@ -1,0 +1,16 @@
+{
+    "name": "Avexir Raiden 16 GB (4 x 4 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD4UZ130001604G-4RD",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "White / Blue",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Vh7v6h/avexir-raiden-16gb-4-x-4gb-ddr4-3000-memory-avd4uz130001604g-4rd"
+}

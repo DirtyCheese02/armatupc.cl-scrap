@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG Gaming 16 GB (2 x 8 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AXDU1333GW8G9-2G",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/83TmP6/a-data-memory-axdu1333gw8g92g"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MSI MECH 2X CLASSIC OC Radeon RX 7600 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[RX 7600 MECH 2X CLASSIC 8G OC, Radeon RX 7600 MECH 2X CLASSIC 8G OC, V502-094R, 912-V502-094]",
+    "Chipset": "Radeon RX 7600",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1720 MHz",
+    "Boost Clock": "2695 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "235 mm",
+    "TDP": "165 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bZcgXL/msi-mech-2x-classic-oc-radeon-rx-7600-xt-8-gb-video-card-rx-7600-mech-2x-classic-8g-oc"
+}

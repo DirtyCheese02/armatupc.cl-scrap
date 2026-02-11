@@ -1,0 +1,21 @@
+{
+    "name": "Apevia ATX-CB600W 600 W ATX Power Supply",
+    "Manufacturer": "Apevia",
+    "Part #": "ATX-CB600W",
+    "Type": "ATX",
+    "Wattage": "600 W",
+    "Length": "135 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@34A, +5V@36A, +12V1@18A, +12V2@20A, -5V@0.8A, -12V@0.3A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vcK7YJ/apevia-600-w-atx-power-supply-atx-cb600w"
+}

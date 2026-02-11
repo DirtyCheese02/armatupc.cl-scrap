@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite INTERNET900U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "INTERNET900U",
+    "Capacity (W)": "480 W",
+    "Capacity (VA)": "900 VA",
+    "Backup/Run Time (Full Load)": "2.50 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Mini Desktop",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Black Out, Brownout]",
+    "Receptacles": "12 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6TH48d/tripp-lite-ups-internet900u"
+}

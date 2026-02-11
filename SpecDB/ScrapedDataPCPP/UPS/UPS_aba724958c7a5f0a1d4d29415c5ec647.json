@@ -1,0 +1,16 @@
+{
+    "name": "APC SMX1000I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMX1000I",
+    "Capacity (W)": "800 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NbjWGX/apc-ups-smx1000i"
+}

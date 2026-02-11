@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D iChill X3 RED GeForce RTX 3060 Ti 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "C306T3-08D6X-1671VA39",
+    "Chipset": "GeForce RTX 3060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1410 MHz",
+    "Boost Clock": "1725 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cnmFf7/inno3d-geforce-rtx-3060-ti-8-gb-ichill-x3-red-video-card-c306t3-08d6x-1671va39"
+}

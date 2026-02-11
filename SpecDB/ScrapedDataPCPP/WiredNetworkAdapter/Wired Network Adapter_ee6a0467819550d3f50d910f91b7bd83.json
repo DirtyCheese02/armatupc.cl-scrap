@@ -1,0 +1,8 @@
+{
+    "name": "StarTech ST1000SPEXD3 2 x Gigabit Ethernet PCIe x1 Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "ST1000SPEXD3",
+    "Interface": "PCIe x1",
+    "Features": "[Card Type: Standard Profile (LP bracket incl.), Chipset ID: Realtek RTL8111E & PLX PEX8608, Industry Standards: PCI Express Base Specification 2.0, Buffer Size: 48 KB, Auto MDIX: Yes, Full Duplex Support: Yes, OS Compatibility: Windows 8 (32/64bit), 7 (32/64), Vista(32/64), XP(32/64), 2000, Windows Server 2008 R2, 2003(32/64), Mac OS 10.4 - 10.8, Linux, Two 10/100/1000Mbps compatible RJ-45 Ethernet ports, Jumbo Frame support up to 9k bytes, Compatible with PCI Express Base Specification 2.0 (backward compatible with 1.0a/1.1), Realtek RTL8111 Rev. E chipset provides improved compatibility with Intel Series 6 chips, Fully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, and supports IEEE 802.1Q VLAN tagging, IEEE 802.1P Layer 2 Priority Encoding and IEEE 802.3x Full Duplex Flow Control, Supports Microsoft NDIS5 Checksum Offload (IP, TCP, UDP) and Large send Offload, Wake-on-LAN / Remote Wake-up support, Configured with standard profile bracket, low profile/half-height bracket included, Supports Pair Swap / Polarity / Skew Correction, Metal RJ45 connectors.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WvPfrH/startech-wired-network-card-st1000spexd3"
+}

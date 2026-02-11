@@ -1,0 +1,16 @@
+{
+    "name": "Klevv FIT V 16 GB (1 x 16 GB) DDR5-5600 CL30 Memory",
+    "Manufacturer": "Klevv",
+    "Part #": "KD5AGU880-56K300Q",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "White",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.25 V",
+    "Timing": "30-36-36-88",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MrTZxr/klevv-fit-v-16-gb-1-x-16-gb-ddr5-5600-cl30-memory-kd5agu880-56k300q"
+}

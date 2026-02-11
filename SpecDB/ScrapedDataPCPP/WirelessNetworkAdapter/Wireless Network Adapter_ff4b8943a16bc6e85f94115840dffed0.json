@@ -1,0 +1,11 @@
+{
+    "name": "Edimax EW-7722PnD 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Edimax",
+    "Part #": "EW-7722PnD",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128-bit WEP, WPA, WPA2; WPS",
+    "Antenna": "2 x detachable 3dBi dual-band antenna",
+    "Features": "[Complies with 802.11a/b/g/n wireless standards, 2.4GHz/5GHz dual-band wireless connectivity, Wireless data rates up to 300Mbps (2.4GHz) or 300Mbps (5GHz), Features EZmax multi-language setup wizard, Features a hardware WPS (Wi-Fi Protected Setup) button, Includes a low-profile bracket for small computers.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FVMFf7/edimax-wireless-network-card-ew7722pnd"
+}

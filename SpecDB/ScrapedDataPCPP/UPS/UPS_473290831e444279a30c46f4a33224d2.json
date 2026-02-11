@@ -1,0 +1,20 @@
+{
+    "name": "APC APC3IA UPS",
+    "Manufacturer": "APC",
+    "Part #": "APC3IA",
+    "Capacity (W)": "2250 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "5.60 Minutes",
+    "Backup/Run Time (Half Load)": "13.10 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[3 x IEC 320-C13, 8 x IEC 320-C19, 1]",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mzM323/apc-ups-apc3ia"
+}

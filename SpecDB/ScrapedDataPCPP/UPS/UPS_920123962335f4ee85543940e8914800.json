@@ -1,0 +1,17 @@
+{
+    "name": "HP AF449A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF449A",
+    "Capacity (W)": "670 W",
+    "Capacity (VA)": "1000 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "[240 V AC, 230 V AC]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2XH48d/hp-ups-af449a"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 32 GB (2 x 16 GB) DDR5-7000 CL32 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF3D532G7000HC32CDC01",
+    "Speed": "DDR5-7000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "9.143 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-42-42-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/szzXsY/teamgroup-t-force-delta-rgb-32-gb-2-x-16-gb-ddr5-7000-cl32-memory-ff3d532g7000hc32cdc01"
+}

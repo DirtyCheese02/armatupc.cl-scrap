@@ -1,0 +1,23 @@
+{
+    "name": "MSI Radeon RX 480 4G Radeon RX 480 4 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "Radeon RX 480 4G",
+    "Chipset": "Radeon RX 480",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1120 MHz",
+    "Boost Clock": "1266 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "FreeSync",
+    "Length": "242 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort 1.4 Outputs": "3",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fzMXsY/msi-radeon-rx-480-4g-radeon-rx-480-4-gb-video-card-radeon-rx-480-4g"
+}

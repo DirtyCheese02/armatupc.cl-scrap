@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQK5200-PB Quadro K5200 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQK5200-PB",
+    "Chipset": "Quadro K5200",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "667 MHz",
+    "Effective Memory Clock": "6000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/md8Zxr/pny-video-card-vcqk5200pb"
+}

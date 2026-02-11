@@ -1,0 +1,20 @@
+{
+    "name": "Lian Li PC-P50 ATX Mid Tower Case",
+    "Manufacturer": "Lian Li",
+    "Part #": "PC-P50",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[275 mm, 10.827\"]",
+    "Drive Bays": "[9 x External 5.25\", 3 x Internal 3.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 280 mm]",
+    "Dimensions": "[489 mm x 210 mm x 495 mm, 19.252\" x 8.268\" x 19.488\"]",
+    "Volume": "[50.832 L, 1.795 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tfBv6h/lian-li-case-pcp50"
+}

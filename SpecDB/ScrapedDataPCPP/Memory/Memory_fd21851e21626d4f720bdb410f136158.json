@@ -1,0 +1,15 @@
+{
+    "name": "OCZ Gold Edition 4 GB (2 x 2 GB) DDR3-1066 CL7 Memory",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZ3G10664GK",
+    "Speed": "DDR3-1066",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Black / Gold",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/23DwrH/ocz-memory-ocz3g10664gk"
+}

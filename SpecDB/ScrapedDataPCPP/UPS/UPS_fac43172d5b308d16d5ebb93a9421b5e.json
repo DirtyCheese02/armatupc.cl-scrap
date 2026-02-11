@@ -1,0 +1,22 @@
+{
+    "name": "APC SUA750RM1U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA750RM1U",
+    "Capacity (W)": "480 W",
+    "Capacity (VA)": "750 VA",
+    "Rack Height": "1U",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "7.10 Minutes",
+    "Backup/Run Time (Half Load)": "23.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "2 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sNNypg/apc-ups-sua750rm1u"
+}

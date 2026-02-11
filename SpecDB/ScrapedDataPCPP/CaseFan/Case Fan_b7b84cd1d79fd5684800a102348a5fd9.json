@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek Crystal 29.24 CFM 80 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "CLF-F8253",
+    "Size": "80 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "29.24 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "No",
+    "LED": "Green",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Performing max. Air flow and mini. amount of noise, Less power consumption, Optimal static pressure and torque, Reduce noise and power consumption, Quad LEDs and transparent frame and blades, Longer life bearing design, Reliable and outstanding performance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qTQypg/xigmatek-case-fan-clff8253"
+}

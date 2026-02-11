@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D Twin X2 OC GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N40702-126XX-185252N",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2505 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "250 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bQDQzy/inno3d-twin-x2-oc-geforce-rtx-4070-12-gb-video-card-n40702-126xx-185252n"
+}

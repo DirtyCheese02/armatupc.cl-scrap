@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Sniper X 32 GB (2 x 16 GB) DDR4-2400 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2400C17D-32GSXK",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Camo",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "Timing": "17-17-17-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y9CD4D/gskill-sniper-x-32gb-2-x-16gb-ddr4-2400-memory-f4-2400c17d-32gsxk"
+}

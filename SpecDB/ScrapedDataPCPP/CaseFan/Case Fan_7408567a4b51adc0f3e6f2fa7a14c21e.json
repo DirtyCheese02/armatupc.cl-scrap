@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Silent Wings 4 78.4 CFM 140 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL097",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1900 RPM",
+    "Airflow": "78.4 CFM",
+    "Noise Level": "29.3 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.36 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fXcG3C/be-quiet-silent-wings-4-784-cfm-140-mm-fan-bl097"
+}

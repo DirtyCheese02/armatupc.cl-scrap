@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks PH-F140D30 71.93 CFM 140 mm Fans 3-Pack",
+    "Manufacturer": "Phanteks",
+    "Model": "PH-F140D30",
+    "Part #": "PH-F140D30_DRGB_PWM_BK01_3P",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 1800 RPM",
+    "Airflow": "71.93 CFM",
+    "Noise Level": "29.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.32 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vFxxFT/phanteks-ph-f140d30-7193-cfm-140-mm-fans-3-pack-ph-f140d30_drgb_pwm_bk01_3p"
+}

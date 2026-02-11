@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link Archer T2U 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "[Archer T2U, TL-ARCHERT2U, ARCHER T2U V3]",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "USB Type-A 2.0",
+    "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x",
+    "Antenna": "Omnidirectional Antenna",
+    "Features": "[600 (433+150)Mbps wireless speed with 802.11ac, A tiny way to get speedy next generation Wi-Fi connections, Selectable Dual Band connections for lag-free HD video streaming and gaming, Advanced Security: Supports 64/128 WEP, WPA, PA2/WPA-PSK/WPA2-PSK (TKIP/AES), Supports Windows 8/7/XP]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/w3fp99/tp-link-wireless-network-card-archert2u"
+}

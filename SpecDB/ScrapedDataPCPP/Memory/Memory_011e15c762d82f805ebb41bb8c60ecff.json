@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP T-Force Vulcan 32 GB (2 x 16 GB) DDR4-2400 SODIMM CL15 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLRD432G2400HC15BDC-S01",
+    "Speed": "DDR4-2400",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/n7Nv6h/team-t-force-vulcan-32-gb-2-x-16-gb-ddr4-2400-memory-tlrd432g2400hc15bdc-s01"
+}

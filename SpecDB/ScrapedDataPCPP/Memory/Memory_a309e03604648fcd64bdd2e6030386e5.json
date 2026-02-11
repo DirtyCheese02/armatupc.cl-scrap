@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal Elite 16 GB (2 x 8 GB) DDR4-5333 CL22 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-5333C22D-16GTES",
+    "Speed": "DDR4-5333",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Silver",
+    "First Word Latency": "8.251 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.6 V",
+    "Timing": "22-32-32-52",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QVD7YJ/gskill-trident-z-royal-elite-16-gb-2-x-8-gb-ddr4-5333-cl22-memory-f4-5333c22d-16gtes"
+}

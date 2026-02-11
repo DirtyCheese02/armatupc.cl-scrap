@@ -1,0 +1,19 @@
+{
+    "name": "Enermax T.B. Silence 71.25 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTB12P",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "Airflow": "26.51 - 71.25 CFM",
+    "Noise Level": "8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Twister",
+    "Features": "[Performance cooling with a low-noise profile, Twister Bearing technology for longer lifetime and low noise, PWM speed control to keep your system silent and cool all the time, Batwing Blades design and Carved Halo Frame for extra 20 ~ 30% airflow, Unique Modular Frame with aluminum ring for enhanced stability of structure, Detachable fan blades for easy cleaning]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jwdqqs/enermax-uctb12p-7125-cfm-120-mm-fan-uctb12p"
+}

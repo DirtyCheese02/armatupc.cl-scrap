@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Royal 256 GB (8 x 32 GB) DDR4-2666 CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2666C18Q2-256GTRS",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 32GB",
+    "Color": "Silver",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3wDkcf/gskill-trident-z-royal-256-gb-8-x-32-gb-ddr4-2666-memory-f4-2666c18q2-256gtrs"
+}

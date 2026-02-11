@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker ELoop B 83.93 CFM 140 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "ITR-B14-PS-BL",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "83.93 CFM",
+    "Noise Level": "24 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kpYLrH/noiseblocker-nb-eloop-b14-ps-black-edition-839-cfm-140mm-fan-itr-b14-ps-bl"
+}

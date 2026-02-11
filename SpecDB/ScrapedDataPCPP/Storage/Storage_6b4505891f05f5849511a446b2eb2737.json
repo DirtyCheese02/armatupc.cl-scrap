@@ -1,0 +1,14 @@
+{
+    "name": "Samsung 960 Evo 500 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Samsung",
+    "Part #": "[MZ-V6E500, MZ-V6E500BW]",
+    "Capacity": "500 GB",
+    "Price / GB": "$0.500",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D V-NAND TLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ykbkcf/samsung-960-evo-500gb-m2-2280-solid-state-drive-mz-v6e500"
+}

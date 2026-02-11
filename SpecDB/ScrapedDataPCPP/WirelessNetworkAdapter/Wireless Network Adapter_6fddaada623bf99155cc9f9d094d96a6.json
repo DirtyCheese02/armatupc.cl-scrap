@@ -1,0 +1,11 @@
+{
+    "name": "TP-Link Archer T8E 802.11a/b/g/n/ac PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "TP-Link",
+    "Part #": "Archer T8E",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "PCIe x1",
+    "Security": "Support 64/128 bit WEP, WPA-PSK/WPA2-PSK, 802.1x",
+    "Antenna": "Omnidirectional Antenna",
+    "Features": "[Ultra-fast 1750 (1300+450)Mbps wireless speed with 802.11ac, Dual Band connections for lag-free HD video streaming and gaming, 3T3R MIMO technology provides robust high-bandwidth wireless transmission]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JdCrxr/tp-link-wireless-network-card-archert8e"
+}

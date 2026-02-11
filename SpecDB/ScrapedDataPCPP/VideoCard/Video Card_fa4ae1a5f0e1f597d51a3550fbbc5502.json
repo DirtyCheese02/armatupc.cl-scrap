@@ -1,0 +1,21 @@
+{
+    "name": "Gigabyte GV-N480D5-15I-B GeForce GTX 480 1.5 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N480D5-15I-B",
+    "Chipset": "GeForce GTX 480",
+    "Memory": "1.5 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "700 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pgW9TW/gigabyte-video-card-gvn480d515ib"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Belkin F9L1101 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Belkin",
+    "Part #": "F9L1101",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "WEP, WPA/WPA2, WPS",
+    "Antenna": "Internal Antenna",
+    "Features": "Wi-Fi Protected Setup (WPS) at the push of a button.",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YzKhP6/belkin-wireless-network-card-f9l1101"
+}

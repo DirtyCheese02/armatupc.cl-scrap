@@ -1,0 +1,21 @@
+{
+    "name": "LC-Power LC V2.31 400 W TFX Power Supply",
+    "Manufacturer": "LC-Power",
+    "Part #": "LC400TFX V2.31",
+    "Type": "TFX",
+    "Wattage": "400 W",
+    "Length": "175 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nTMMnQ/lc-power-lc-v231-400-w-tfx-power-supply-lc400tfx-v231"
+}

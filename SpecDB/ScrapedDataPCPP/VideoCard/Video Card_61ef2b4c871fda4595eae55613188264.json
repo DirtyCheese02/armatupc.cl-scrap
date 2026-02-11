@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 012-P3-2078-KR GeForce GTX 560 Ti 448 1.25 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "012-P3-2078-KR",
+    "Chipset": "GeForce GTX 560 Ti 448",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "3900 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "Length": "266 mm",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y9MFf7/evga-video-card-012p32078kr"
+}

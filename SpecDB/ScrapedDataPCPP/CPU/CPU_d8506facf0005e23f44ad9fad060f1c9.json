@@ -1,0 +1,23 @@
+{
+    "name": "AMD Phenom II X3 720 2.8 GHz Triple-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "HDX720WFGIBOX",
+    "Series": "AMD Phenom II X3",
+    "Microarchitecture": "K10",
+    "Core Family": "Heka",
+    "Socket": "AM3",
+    "Core Count": "3",
+    "Thread Count": "3",
+    "Performance Core Clock": "2.8 GHz",
+    "L2 Cache": "1.5 MB",
+    "L3 Cache": "6 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jF6BD3/amd-cpu-hdx720wfgibox"
+}

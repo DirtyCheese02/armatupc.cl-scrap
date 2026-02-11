@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum 16 GB (4 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMD16GX3M4A1600C7",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PbFPxr/corsair-memory-cmd16gx3m4a1600c7"
+}

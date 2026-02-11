@@ -1,0 +1,20 @@
+{
+    "name": "Noctua F12 industrialPPC-2000 71.69 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "F12 industrialPPC-2000",
+    "Part #": "[NF-F12 industrialPPC-2000, NF-F12 iPPC-2000]",
+    "Size": "120 mm",
+    "Color": "Brown / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "71.69 CFM",
+    "Noise Level": "29.7 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "3.94 mmH₂O",
+    "Bearing Type": "SSO2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GLW9TW/noctua-case-fan-nff12industrialppc2000"
+}

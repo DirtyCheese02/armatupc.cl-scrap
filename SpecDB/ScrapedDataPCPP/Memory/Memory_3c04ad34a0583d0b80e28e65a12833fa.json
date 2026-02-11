@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Blackline 12 GB (3 x 4 GB) DDR3-1600 CL10 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "998969",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "10",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B9xfrH/mushkin-memory-998969"
+}

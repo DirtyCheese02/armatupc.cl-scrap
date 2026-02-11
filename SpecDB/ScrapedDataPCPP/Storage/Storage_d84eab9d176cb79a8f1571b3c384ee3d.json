@@ -1,0 +1,11 @@
+{
+    "name": "Intel Optane 905P 1.5 TB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPED1D015TAX1",
+    "Capacity": "1.5 TB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wMBTwP/intel-optane-905p-15-tb-pci-e-solid-state-drive-ssdped1d015tax1"
+}

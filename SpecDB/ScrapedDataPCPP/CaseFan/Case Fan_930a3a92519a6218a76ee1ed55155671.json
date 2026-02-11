@@ -1,0 +1,19 @@
+{
+    "name": "Corsair iCUE QL120 41.8 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Corsair",
+    "Model": "iCUE QL120",
+    "Part #": "CO-9050104-WW",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "525 - 1500 RPM",
+    "Airflow": "41.8 CFM",
+    "Noise Level": "26 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "Manual",
+    "Static Pressure": "1.55 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TkqBD3/corsair-icue-ql120-rgb-418-cfm-120-mm-fans-3-pack-co-9050104-ww"
+}

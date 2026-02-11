@@ -1,0 +1,19 @@
+{
+    "name": "Antec BIGBOY200 134 CFM 200 mm Fan",
+    "Manufacturer": "Antec",
+    "Part #": "[BIGBOY200, 0-761345-75200-8]",
+    "Size": "200 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 RPM",
+    "Airflow": "134 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[Current: 0.3 A, Ground breaking 200mm design, provides more cooling at lower speeds than smaller fans., 3-speed switch lets you balance quiet performance with maximum cooling., Double ball-bearing design for longer life., 4-pin power connector provides convenient connection to your power supply]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CfQypg/antec-bigboy200-134-cfm-200-mm-fan-bigboy200"
+}

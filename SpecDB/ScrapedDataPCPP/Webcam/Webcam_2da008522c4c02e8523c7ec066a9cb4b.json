@@ -1,0 +1,17 @@
+{
+    "name": "Dell WB3023 Webcam",
+    "Manufacturer": "Dell",
+    "Model": "WB3023",
+    "Part #": "[WB3023-DDAO, WB3023]",
+    "Resolution": "[2k, 1080p, 720p]",
+    "Connection": "USB 2.0 Type-A",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X]",
+    "FOV Angle": "78°",
+    "F-Stop": "2.0X",
+    "Digital Zoom": "2X",
+    "Privacy Shutter": "Yes",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/csWmP6/dell-wb3023-webcam-wb3023-ddao"
+}

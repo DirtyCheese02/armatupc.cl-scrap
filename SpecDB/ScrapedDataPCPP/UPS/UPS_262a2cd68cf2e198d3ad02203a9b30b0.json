@@ -1,0 +1,16 @@
+{
+    "name": "APC BE550G-GR UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE550G-GR",
+    "Capacity (W)": "330 W",
+    "Capacity (VA)": "550 VA",
+    "Backup/Run Time (Full Load)": "3.20 Minutes",
+    "Backup/Run Time (Half Load)": "12.40 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-45",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "230 V AC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gHNypg/apc-ups-be550ggr"
+}

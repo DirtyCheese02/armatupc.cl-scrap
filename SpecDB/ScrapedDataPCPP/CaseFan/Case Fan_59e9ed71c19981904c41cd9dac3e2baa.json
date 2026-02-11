@@ -1,0 +1,17 @@
+{
+    "name": "Aerocool Centaurus I 26.8 CFM 80 mm Fan",
+    "Manufacturer": "Aerocool",
+    "Part #": "Centaurus I",
+    "Size": "80 mm",
+    "Color": "Silver",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "26.8 CFM",
+    "Noise Level": "21.6 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vmCD4D/aerocool-centaurus-i-268-cfm-80mm-fan-centaurus-i"
+}

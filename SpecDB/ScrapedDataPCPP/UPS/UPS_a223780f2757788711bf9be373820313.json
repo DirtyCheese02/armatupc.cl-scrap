@@ -1,0 +1,20 @@
+{
+    "name": "APC SRT5KRMXLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SRT5KRMXLI",
+    "Capacity (W)": "4500 W",
+    "Capacity (VA)": "5000 VA",
+    "Alarm": "Battery Failure",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Protection Type": "[Surge, Spike, Lightning]",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dhqbt6/apc-ups-srt5krmxli"
+}

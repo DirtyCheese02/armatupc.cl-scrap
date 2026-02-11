@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake Luna 50.44 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F017-PL12RE-A",
+    "Size": "120 mm",
+    "Color": "Black / Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "50.44 CFM",
+    "Noise Level": "20.7 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.32 mmH₂O",
+    "Features": "[Started Voltage: 9.0 V, Rated Voltage: 12 V, Rated Current: 0.16 A, Power Input: 1.92 W, Max. Air Pressure: 1.32 mm-H2O, Bearing Type: Sleeve]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sZg323/thermaltake-case-fan-clf017pl12rea"
+}

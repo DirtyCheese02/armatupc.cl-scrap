@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Trident Z 8 GB (2 x 4 GB) DDR4-4200 CL19 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4200C19D-8GTZ",
+    "Speed": "DDR4-4200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "9.048 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/29Nypg/gskill-memory-f44200c19d8gtz"
+}

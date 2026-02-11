@@ -1,0 +1,21 @@
+{
+    "name": "Phanteks F140XP 85.19 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F140XP",
+    "Part #": "PH-F140XP_BK",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1200 RPM",
+    "Airflow": "40.9 - 85.19 CFM",
+    "Noise Level": "19 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "0.77 mmH₂O",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "Features": "[Speed (RPM) with QSA: 300-900 +/- 250 rpm, Max Airflow with QSA: 49.14 CFM, Acoustical Noise with QSA: 17 dB (A), Static Pressure with QSA: 0.77mm H2O, Input Current: 0.14 A, Rate Voltage: DC 12V, Input Power: 1.8 W, MTBF: >150,000 h, Cable Length: 500mm]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NKW9TW/phanteks-case-fan-phf140xpbk"
+}

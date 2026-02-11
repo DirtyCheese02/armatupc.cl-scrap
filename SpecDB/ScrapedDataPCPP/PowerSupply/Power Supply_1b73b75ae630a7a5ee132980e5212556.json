@@ -1,0 +1,19 @@
+{
+    "name": "HEC XPOWER585 RETAIL 585 W ATX Power Supply",
+    "Manufacturer": "HEC",
+    "Part #": "XPOWER585 RETAIL",
+    "Type": "ATX",
+    "Wattage": "585 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "0",
+    "AMP/Molex 4-pin Connectors": "0",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Yzckcf/compucase-power-supply-xpower585retail"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "TEAMGROUP T-FORCE RT-S120 72.2 CFM 120 mm Fan",
+    "Manufacturer": "TEAMGROUP",
+    "Model": "T-FORCE RT-S120",
+    "Part #": "TF370501",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2000 RPM",
+    "Airflow": "53.4 - 72.2 CFM",
+    "Noise Level": "33.8 - 36.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WgdG3C/teamgroup-t-force-rt-s120-722-cfm-120-mm-fan-tf370501"
+}

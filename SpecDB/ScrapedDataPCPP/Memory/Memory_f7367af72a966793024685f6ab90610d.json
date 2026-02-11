@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline Lumina 32 GB (2 x 16 GB) DDR4-2800 CL17 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MLA4C280HHHH16GX2",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "12.143 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.25 V",
+    "Timing": "17-17-17-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fWFbt6/mushkin-redline-lumina-32-gb-2-x-16-gb-ddr4-2800-cl17-memory-mla4c280hhhh16gx2"
+}

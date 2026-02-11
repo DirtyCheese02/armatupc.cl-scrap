@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte AORUS XTREME WATERFORCE GeForce RTX 3090 Ti 24 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N309TAORUSX W-24GD",
+    "Chipset": "GeForce RTX 3090 Ti",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1560 MHz",
+    "Boost Clock": "1935 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "G-Sync",
+    "Length": "238 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "360 mm Radiator",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mYYmP6/gigabyte-geforce-rtx-3090-ti-24-gb-aorus-xtreme-waterforce-video-card-gv-n309taorusx-w-24gd"
+}

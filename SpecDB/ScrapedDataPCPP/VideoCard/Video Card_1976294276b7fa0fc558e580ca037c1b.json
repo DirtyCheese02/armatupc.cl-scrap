@@ -1,0 +1,22 @@
+{
+    "name": "Zotac ZT-98GES3M-FSL GeForce 9800 GT 512 MB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-98GES3M-FSL",
+    "Chipset": "GeForce 9800 GT",
+    "Memory": "0.5 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "550 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L2CwrH/zotac-video-card-zt98ges3mfsl"
+}

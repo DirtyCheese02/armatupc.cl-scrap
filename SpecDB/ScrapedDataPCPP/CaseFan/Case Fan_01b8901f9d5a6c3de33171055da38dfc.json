@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC F8 31 CFM 80 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F8",
+    "Part #": "[AFACO-080P2-GBA01, F8 PWM Rev. 2]",
+    "Size": "80 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "850 - 2000 RPM",
+    "Airflow": "31 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W9rcCJ/arctic-case-fan-afaco080p2gba01"
+}

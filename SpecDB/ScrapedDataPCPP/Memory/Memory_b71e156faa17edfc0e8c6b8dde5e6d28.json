@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6400J3239G16GX2-TZ5K",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$15.000",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.4 V",
+    "Timing": "32-39-39-102",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LxjBD3/gskill-trident-z5-32-gb-2-x-16-gb-ddr5-6400-cl32-memory-f5-6400j3239g16gx2-tz5k"
+}

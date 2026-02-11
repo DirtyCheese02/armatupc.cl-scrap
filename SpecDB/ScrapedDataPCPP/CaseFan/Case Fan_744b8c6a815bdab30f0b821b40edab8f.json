@@ -1,0 +1,20 @@
+{
+    "name": "Noctua F12 PWM 54.97 CFM 120 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "F12 PWM",
+    "Part #": "NF-F12 PWM",
+    "Size": "120 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1500 RPM",
+    "Airflow": "43.73 - 54.97 CFM",
+    "Noise Level": "18.6 - 22.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "SSO2-Bearing (second generation self-stabilising oil-pressure bearing)",
+    "Features": "[Focused Flow frame for pressure demanding applications such as heatsinks and radiators., Advanced aerodynamic design measures improve efficiency and make the fan's sound pattern more agreeable to the human ear., Integrated Anti-Vibration Pads minimise the transmission of minute vibrations., SSO2 Bearing and a metal bearing shell guarantee superior long-term stability., Low-Noise Adaptor reduces the maximum fan speed from 1500 to 1200rpm.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b2vRsY/noctua-nf-f12-pwm-5497-cfm-120-mm-fan-nf-f12-pwm"
+}

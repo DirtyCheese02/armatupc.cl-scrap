@@ -1,0 +1,21 @@
+{
+    "name": "AMD FirePro S9150 FirePro S9150 16 GB Video Card",
+    "Manufacturer": "AMD",
+    "Model": "FirePro S9150",
+    "Part #": "100-505884",
+    "Chipset": "FirePro S9150",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / White",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "235 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HRBrxr/amd-video-card-100505884"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "APC SURTA1000RMXL2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTA1000RMXL2U",
+    "Capacity (W)": "800 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Alarm": "[Overload, Low Battery, Fault]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "120 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Surge, Over Loading, Spike, Lightning]",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zTH48d/apc-ups-surta1000rmxl2u"
+}

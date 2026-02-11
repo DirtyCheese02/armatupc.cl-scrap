@@ -1,0 +1,23 @@
+{
+    "name": "NVIDIA Founders Edition GeForce RTX 3070 8 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "9001G1422510000",
+    "Chipset": "GeForce RTX 3070",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1730 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "242 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 12-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m8pmP6/nvidia-geforce-rtx-3070-8-gb-founders-edition-video-card-9001g1422510000"
+}

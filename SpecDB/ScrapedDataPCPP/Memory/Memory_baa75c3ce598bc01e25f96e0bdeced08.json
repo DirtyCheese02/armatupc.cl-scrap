@@ -1,0 +1,14 @@
+{
+    "name": "G.Skill Aegis 16 GB (2 x 8 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1333C9D-16GIS",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/srTmP6/gskill-aegis-16-gb-2-x-8-gb-ddr3-1333-cl9-memory-f3-1333c9d-16gis"
+}

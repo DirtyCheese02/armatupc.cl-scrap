@@ -1,0 +1,14 @@
+{
+    "name": "SanDisk EXTREME PRO 960 GB 2.5\" Solid State Drive",
+    "Manufacturer": "SanDisk",
+    "Part #": "SDSSDXPS-960G-G25",
+    "Capacity": "960 GB",
+    "Price / GB": "$0.312",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9187",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3b4gXL/sandisk-internal-hard-drive-sdssdxps960gg25"
+}

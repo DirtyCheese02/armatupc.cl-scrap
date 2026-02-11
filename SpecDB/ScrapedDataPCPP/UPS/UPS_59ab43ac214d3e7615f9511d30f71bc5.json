@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SU2200RTXL2UA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU2200RTXL2UA",
+    "Capacity (W)": "1600 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Dataline Protection": "RJ-45",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[6 x NEMA L5-20R, 1 x NEMA 5-15/20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xhqbt6/tripp-lite-ups-su2200rtxl2ua"
+}

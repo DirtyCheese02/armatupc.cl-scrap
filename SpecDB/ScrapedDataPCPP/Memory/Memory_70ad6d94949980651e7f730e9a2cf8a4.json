@@ -1,0 +1,15 @@
+{
+    "name": "Kingston Server Premier 32 GB (1 x 32 GB) Registered DDR4-3200 CL22 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KSM32RS4/32MFR",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 32GB",
+    "Price / GB": "$15.625",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xkQcCJ/kingston-server-premier-32-gb-1-x-32-gb-registered-ddr4-3200-cl22-memory-ksm32rs432mfr"
+}

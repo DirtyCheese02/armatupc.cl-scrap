@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline Lumina 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MLA5C600DDDM16GX2",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "12 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-36-36-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cLXV3C/mushkin-redline-lumina-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-mla5c600dddm16gx2"
+}

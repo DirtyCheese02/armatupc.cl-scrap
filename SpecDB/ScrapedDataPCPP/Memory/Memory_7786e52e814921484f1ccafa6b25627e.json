@@ -1,0 +1,15 @@
+{
+    "name": "Acer Predator Hermes RGB 48 GB (2 x 24 GB) DDR5-6400 CL28 Memory",
+    "Manufacturer": "Acer",
+    "Part #": "[BL.9BWWR.465, HERMES-48GB-6400-1R8-V1]",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "First Word Latency": "8.75 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.4 V",
+    "Timing": "28-39-39-102",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dcrp99/acer-predator-hermes-rgb-48-gb-2-x-24-gb-ddr5-6400-cl28-memory-bl9bwwr465"
+}

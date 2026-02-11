@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GA-E350N-USB3 Mini ITX E-Series E-350 Motherboard",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GA-E350N-USB3",
+    "Socket / CPU": "Integrated E-Series E-350",
+    "Form Factor": "Mini ITX",
+    "Chipset": "AMD Hudson M1",
+    "Memory Max": "8 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "2",
+    "Memory Speed": "[DDR3-1066, DDR3-1333]",
+    "Color": "Black / Blue",
+    "PCIe x16 Slots": "1",
+    "SATA 6.0 Gb/s Ports": "4",
+    "Onboard Ethernet": "1 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "2",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "No",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cgMFf7/gigabyte-motherboard-gae350nusb3"
+}

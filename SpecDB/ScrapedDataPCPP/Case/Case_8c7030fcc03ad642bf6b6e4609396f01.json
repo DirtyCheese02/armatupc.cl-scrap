@@ -1,0 +1,19 @@
+{
+    "name": "KOLINK KLA-003 ATX Mid Tower Case",
+    "Manufacturer": "KOLINK",
+    "Part #": "KLA-003",
+    "Type": "ATX Mid Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "[USB 3.2 Gen 1 Type-A, USB 2.0 Type-A]",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[335 mm, 13.189\"]",
+    "Drive Bays": "[1 x External 5.25\", 4 x Internal 2.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[80 mm, 120 mm]",
+    "Dimensions": "[365 mm x 175 mm x 410 mm, 14.37\" x 6.89\" x 16.142\"]",
+    "Volume": "[26.189 L, 0.925 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QKQKHx/kolink-kla-003-atx-full-tower-case-kla-003"
+}

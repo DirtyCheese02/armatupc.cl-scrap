@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-R9295X2-8GD-B Radeon R9 295X2 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R9295X2-8GD-B",
+    "Chipset": "Radeon R9 295X2",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "947 MHz",
+    "Boost Clock": "1018 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "500 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "120 mm Radiator + 2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "MiniDisplayPort Outputs": "4",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fZn2FT/gigabyte-video-card-gvr9295x28gdb"
+}

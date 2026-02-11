@@ -1,0 +1,22 @@
+{
+    "name": "MSI VENTUS 3X GeForce RTX 5070 Ti 16 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 5070 Ti 16G VENTUS 3X, G507T-16V3]",
+    "Chipset": "GeForce RTX 5070 Ti",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2467 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "G-Sync",
+    "Length": "303 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jx62FT/msi-ventus-3x-geforce-rtx-5070-ti-16-gb-video-card-geforce-rtx-5070-ti-16g-ventus-3x"
+}

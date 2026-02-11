@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-8015 28.4 CFM 80 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-8015",
+    "Size": "80 mm",
+    "Color": "Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "28.4 CFM",
+    "Noise Level": "23.3 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.25 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/b26NnQ/thermalright-tl-8015-284-cfm-80-mm-fan-tl-8015"
+}

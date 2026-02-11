@@ -1,0 +1,14 @@
+{
+    "name": "VisionTek Data Fusion 2-way 240 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "VisionTek",
+    "Model": "Data Fusion 2-way",
+    "Part #": "900600",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x2",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7PMFf7/visiontek-internal-hard-drive-900600"
+}

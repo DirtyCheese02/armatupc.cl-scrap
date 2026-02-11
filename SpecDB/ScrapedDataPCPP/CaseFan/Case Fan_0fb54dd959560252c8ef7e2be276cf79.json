@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker ELoop B 71.33 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "[NB-ELoop B12-3, ITR-B12-3]",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1900 RPM",
+    "Airflow": "71.33 CFM",
+    "Noise Level": "27 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LDPfrH/noiseblocker-nb-eloop-b12-3-7133-cfm-120-mm-fan-nb-eloop-b12-3"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Alpenföhn JetStream 55.326 CFM 120 mm Fan",
+    "Manufacturer": "Alpenföhn",
+    "Part #": "84000000217",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1600 RPM",
+    "Airflow": "55.326 CFM",
+    "Noise Level": "22.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.74 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/83wmP6/alpenfohn-jetstream-55326-cfm-120-mm-fan-84000000217"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Bitspower Notos 120 mm Fan",
+    "Manufacturer": "Bitspower",
+    "Part #": "BPTA-FX1812NT-1",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1800 RPM",
+    "Noise Level": "25 - 28 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9R2WGX/bitspower-notos-120-mm-fan-bpta-fx1812nt-1"
+}

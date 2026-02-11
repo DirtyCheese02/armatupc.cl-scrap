@@ -1,0 +1,22 @@
+{
+    "name": "CoolMax ZU-700B 700 W 80+ Bronze Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "CoolMax",
+    "Part #": "ZU-700B",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "700 W",
+    "Length": "165 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "5",
+    "AMP/Molex 4-pin Connectors": "5",
+    "Output": "+5V@25A, +3.3V@25A, +12V@59A, -12V@0.8A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hTLypg/coolmax-power-supply-zu700b"
+}

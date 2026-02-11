@@ -1,0 +1,22 @@
+{
+    "name": "XFX HD-645X-YNH2 Radeon HD 6450 512 MB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-645X-YNH2",
+    "Chipset": "Radeon HD 6450",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "625 MHz",
+    "Effective Memory Clock": "1066 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "None",
+    "Length": "181 mm",
+    "TDP": "27 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wx3RsY/xfx-video-card-hd645xynh2"
+}

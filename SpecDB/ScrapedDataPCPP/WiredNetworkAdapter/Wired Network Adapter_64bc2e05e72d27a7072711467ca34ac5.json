@@ -1,0 +1,8 @@
+{
+    "name": "Intel PWLA8391GT Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "Intel",
+    "Part #": "PWLA8391GT",
+    "Interface": "PCI",
+    "Features": "[Intel 82541PI Gigabit Controller, Compatible with Fast Ethernet and Ethernet, Peripheral Component Interconnect (PCI) 2.3 32-bit 33/66 MHz, Category-5 Cabling, Interrupt Moderation, Advanced Configuration and Power Interface (ACPI),Preboot Execution Environment (PXE), Simple Network Management Protocol (SNMP)/Desktop, Management Interface (DMI), Wired for Management (WfM), Meets IEEE 802.3ab Technology, Advanced Cable Diagnostics, Support for Many Network Operating Systems (NOSs)]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JMzv6h/intel-wired-network-card-pwla8391gt"
+}

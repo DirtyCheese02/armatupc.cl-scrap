@@ -1,0 +1,20 @@
+{
+    "name": "Silverstone SETA H2 ATX Full Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-SEH2-B",
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Mesh",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 2.0 Type-A]",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX, SSI CEB, SSI EEB]",
+    "Maximum Video Card Length": "[428.9 mm, 16.886\"]",
+    "Drive Bays": "[12 x Internal 3.5\", 2 x Internal 2.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm, 240 mm, 280 mm, 360 mm, 420 mm]",
+    "Dimensions": "[543.2 mm x 244.9 mm x 528.3 mm, 21.386\" x 9.642\" x 20.799\"]",
+    "Volume": "[70.28 L, 2.482 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HQ62FT/silverstone-seta-h2-atx-full-tower-case-sst-seh2-b"
+}

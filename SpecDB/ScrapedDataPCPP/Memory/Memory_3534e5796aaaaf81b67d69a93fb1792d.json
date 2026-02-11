@@ -1,0 +1,16 @@
+{
+    "name": "Kingston KVR800D2S6/1G 1 GB (1 x 1 GB) DDR2-800 SODIMM CL6 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR800D2S6/1G",
+    "Speed": "DDR2-800",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 1GB",
+    "Price / GB": "$18.540",
+    "Color": "Green",
+    "First Word Latency": "15 ns",
+    "CAS Latency": "6",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mJ3RsY/kingston-memory-kvr800d2s61g"
+}

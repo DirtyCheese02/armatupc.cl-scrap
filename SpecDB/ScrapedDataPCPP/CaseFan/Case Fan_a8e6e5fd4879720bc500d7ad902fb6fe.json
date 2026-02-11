@@ -1,0 +1,18 @@
+{
+    "name": "Silverstone FN 53.24 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FN121",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "53.24 CFM",
+    "Noise Level": "26.6 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Features": "[High efficiency system thermal solution, Higher airflow and less noise with 9-bladed design]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NXDwrH/silverstone-fn121-5324-cfm-120-mm-fan-fn121"
+}

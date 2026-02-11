@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire 100379NTOCSR Radeon R9 Fury 4 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100379NTOCSR",
+    "Chipset": "Radeon R9 Fury",
+    "Memory": "4 GB",
+    "Memory Type": "HBM",
+    "Core Clock": "1020 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "FreeSync",
+    "Length": "307 mm",
+    "TDP": "275 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KCzZxr/sapphire-video-card-100379ntocsr"
+}

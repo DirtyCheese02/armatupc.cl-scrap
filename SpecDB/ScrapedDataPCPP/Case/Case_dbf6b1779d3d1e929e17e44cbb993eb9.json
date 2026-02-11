@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone Milo 12 HTPC Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-ML12B",
+    "Type": "HTPC",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Mesh",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "Mini ITX",
+    "Maximum Video Card Length": "[345 mm, 13.583\"]",
+    "Drive Bays": "4 x Internal 2.5\"",
+    "Expansion Slots": "3 x Full-Height",
+    "Fan Support": "[80 mm, 140 mm]",
+    "Dimensions": "[378 mm x 105 mm x 393 mm, 14.882\" x 4.134\" x 15.472\"]",
+    "Volume": "[15.598 L, 0.551 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vmfnTW/silverstone-milo-12-htpc-case-sst-ml12b"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ADATA XPG GAMMIX D45 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "ADATA",
+    "Part #": "AX4U36008G18I-DCWHD45",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yb3gXL/adata-xpg-gammix-d45-16-gb-2-x-8-gb-ddr4-3600-cl18-memory-ax4u36008g18i-dcwhd45"
+}

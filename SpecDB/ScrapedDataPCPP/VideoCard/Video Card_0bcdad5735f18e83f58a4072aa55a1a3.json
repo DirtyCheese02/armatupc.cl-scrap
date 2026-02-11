@@ -1,0 +1,23 @@
+{
+    "name": "Asus EAH5850 DIRECTCU/2DIS/1GD5 Radeon HD 5850 1 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "EAH5850 DIRECTCU/2DIS/1GD5",
+    "Chipset": "Radeon HD 5850",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "725 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "151 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PsNp99/asus-video-card-eah5850directcu2dis1gd5"
+}

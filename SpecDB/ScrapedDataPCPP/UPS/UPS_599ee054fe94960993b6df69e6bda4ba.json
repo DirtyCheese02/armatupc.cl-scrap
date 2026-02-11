@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite ECO550UPS UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "ECO550UPS",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "550 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "[Desktop, Wall Mountable]",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "15 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[EMI / RFI, Brownout, Power Failure]",
+    "Receptacles": "8 x NEMA 5-15R",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hWX2FT/tripp-lite-ups-eco550ups"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "VDO360 2SEE Webcam",
+    "Manufacturer": "VDO360",
+    "Model": "2SEE",
+    "Part #": "VDOS4M",
+    "Resolution": "[1080p, 720p]",
+    "Connection": "USB 2.0 Type-A",
+    "Operating System": "[Windows, OS X, Linux, Android]",
+    "FOV Angle": "75°",
+    "Sensor Pixels": "2 MP",
+    "Privacy Shutter": "No",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TxqBD3/vdo360-2see-webcam-vdos4m"
+}

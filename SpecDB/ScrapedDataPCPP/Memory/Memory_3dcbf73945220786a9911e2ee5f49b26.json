@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX 128 GB (4 x 32 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX436C18PB3K4/128",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8z4BD3/kingston-hyperx-128-gb-4-x-32-gb-ddr4-3600-cl18-memory-hx436c18pb3k4128"
+}

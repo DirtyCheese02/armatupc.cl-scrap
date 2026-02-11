@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Quad Q6700 2.66 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "HH80562PH0678MK",
+    "Series": "Intel Core 2 Quad",
+    "Microarchitecture": "Core",
+    "Core Family": "Kentsfield",
+    "Socket": "LGA775",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.66 GHz",
+    "L2 Cache": "8 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "100 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Wgfp99/intel-cpu-hh80562ph0678mk"
+}

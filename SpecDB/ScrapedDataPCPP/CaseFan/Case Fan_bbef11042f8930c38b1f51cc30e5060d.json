@@ -1,0 +1,20 @@
+{
+    "name": "Phanteks F140TS 78.09 CFM 140 mm Fan",
+    "Manufacturer": "Phanteks",
+    "Model": "F140TS",
+    "Part #": "PH-F140TS_RD",
+    "Size": "140 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "750 - 1200 RPM",
+    "Airflow": "45.1 - 78.09 CFM",
+    "Noise Level": "13.4 - 19 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "UFB (Updraft Floating Balance)",
+    "Features": "[Power: Input Current: 0.15 A, Rate Voltage: DC 12V, Input Power: 1.8W, Blade Geometry: 9 blades design with M.V.B (Maelström Vortex Booster) Design, Cable Length: 400 mm]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ttvRsY/phanteks-ph-f140ts-7809-cfm-140-mm-fan-ph-f140ts_rd"
+}

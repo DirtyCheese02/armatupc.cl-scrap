@@ -1,0 +1,21 @@
+{
+    "name": "APC SUA1500-RF UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA1500-RF",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1440 VA",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "6.70 Minutes",
+    "Backup/Run Time (Half Load)": "23.90 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sYTrxr/apc-ups-sua1500rf"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "HP AF450A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF450A",
+    "Capacity (W)": "950 W",
+    "Capacity (VA)": "1400 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Sealed Valve-regulated Lead Acid (VRLA)",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "240 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6CyxFT/hp-ups-af450a"
+}

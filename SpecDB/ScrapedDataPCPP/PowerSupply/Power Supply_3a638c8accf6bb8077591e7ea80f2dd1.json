@@ -1,0 +1,21 @@
+{
+    "name": "Topower ZU-650W 650 W ATX Power Supply",
+    "Manufacturer": "Topower",
+    "Part #": "ZU-650W",
+    "Type": "ATX",
+    "Wattage": "650 W",
+    "Length": "158 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@30A,+5V@54A,+12V1@20A,+12V2@20A,-12V@0.8A,-5@0.5A,+5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HbJwrH/topower-zu-650w-650-w-atx-power-supply-zu-650w"
+}

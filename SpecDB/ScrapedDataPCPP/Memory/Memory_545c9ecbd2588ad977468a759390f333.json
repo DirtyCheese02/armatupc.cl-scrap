@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX 4 GB (1 x 4 GB) DDR3-1866 CL9 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1866C9D3/4G",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Blue / Silver",
+    "First Word Latency": "9.646 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/srkD4D/kingston-memory-khx1866c9d34g"
+}

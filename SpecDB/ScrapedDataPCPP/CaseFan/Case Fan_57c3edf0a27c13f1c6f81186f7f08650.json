@@ -1,0 +1,19 @@
+{
+    "name": "Fractal Design Venturi HP 61.4 CFM 120 mm Fan",
+    "Manufacturer": "Fractal Design",
+    "Part #": "FAN-VENT-HP12-PWM-WT",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "61.4 CFM",
+    "Noise Level": "31.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.3 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q9VG3C/fractal-design-venturi-hp-614-cfm-120-mm-fan-fan-vent-hp12-pwm-wt"
+}

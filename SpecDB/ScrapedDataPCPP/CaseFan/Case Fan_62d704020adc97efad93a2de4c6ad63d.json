@@ -1,0 +1,18 @@
+{
+    "name": "Jonsbo ZA-120B 62.4 CFM 120 mm Fan",
+    "Manufacturer": "Jonsbo",
+    "Part #": "ZA-120B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 2400 RPM",
+    "Airflow": "21.46 - 62.4 CFM",
+    "Noise Level": "21.3 - 37.3 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.46 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YKVfrH/jonsbo-za-120b-624-cfm-120-mm-fan-za-120b"
+}

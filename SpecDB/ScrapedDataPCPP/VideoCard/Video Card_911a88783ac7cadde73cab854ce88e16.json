@@ -1,0 +1,22 @@
+{
+    "name": "AMD 50th Anniversary Radeon RX 5700 XT 8 GB Video Card",
+    "Manufacturer": "AMD",
+    "Part #": "102-D18206",
+    "Chipset": "Radeon RX 5700 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1680 MHz",
+    "Boost Clock": "1980 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Gold / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "272 mm",
+    "TDP": "235 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xW4Zxr/amd-50th-anniversary-radeon-rx-5700-xt-8-gb-video-card-102-d18206"
+}

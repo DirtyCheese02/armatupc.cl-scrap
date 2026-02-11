@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake Level 10 ATX Full Tower Case",
+    "Manufacturer": "Thermaltake",
+    "Part #": "VL30001N1Z",
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "Yes",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX]",
+    "Maximum Video Card Length": "[360 mm, 14.173\"]",
+    "Drive Bays": "[3 x External 5.25\", 6 x Internal 3.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Dimensions": "[613 mm x 318 mm x 665 mm, 24.134\" x 12.52\" x 26.181\"]",
+    "Volume": "[129.631 L, 4.578 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BYGkcf/thermaltake-case-vl30001n1z"
+}

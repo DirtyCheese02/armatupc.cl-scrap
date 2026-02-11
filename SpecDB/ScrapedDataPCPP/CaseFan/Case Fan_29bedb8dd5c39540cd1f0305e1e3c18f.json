@@ -1,0 +1,18 @@
+{
+    "name": "be quiet! Pure Wings 2 26.3 CFM 80 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL037",
+    "Size": "80 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "450 - 1900 RPM",
+    "Airflow": "26.3 CFM",
+    "Noise Level": "19.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.65 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BWM323/be-quiet-pure-wings-2-263-cfm-80-mm-fan-bl037"
+}

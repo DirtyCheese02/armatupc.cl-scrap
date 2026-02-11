@@ -1,0 +1,23 @@
+{
+    "name": "Asus ENGT430/DI/1GD3(LP) GeForce GT 430 1 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "ENGT430/DI/1GD3(LP)",
+    "Chipset": "GeForce GT 430",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "160 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yfzv6h/asus-video-card-engt430di1gd3lp"
+}

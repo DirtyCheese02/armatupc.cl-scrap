@@ -1,0 +1,15 @@
+{
+    "name": "Crucial M550 512 GB mSATA Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT512M550SSD3",
+    "Capacity": "512 GB",
+    "Price / GB": "$0.582",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9189",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HvH323/crucial-internal-hard-drive-ct512m550ssd3"
+}

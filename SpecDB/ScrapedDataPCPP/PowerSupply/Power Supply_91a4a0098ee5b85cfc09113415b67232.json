@@ -1,0 +1,22 @@
+{
+    "name": "Thermaltake Toughpower XT 650 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Thermaltake",
+    "Part #": "W0227RU",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "650 W",
+    "Length": "139 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "2",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@30A, +5V@28A, +12V@52A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mkQypg/thermaltake-power-supply-w0227ru"
+}

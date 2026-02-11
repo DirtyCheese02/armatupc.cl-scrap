@@ -1,0 +1,18 @@
+{
+    "name": "APNX FP1 86.9 CFM 140 mm Fan",
+    "Manufacturer": "APNX",
+    "Part #": "[FP1-140 PWM ARGB BK, APF4-PF11217.11, FP1-140 BK]",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1300 RPM",
+    "Airflow": "86.9 CFM",
+    "Noise Level": "15.9 - 32.9 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.67 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GqV2FT/apnx-fp1-869-cfm-140-mm-fan-fp1-140-pwm-argb-bk"
+}

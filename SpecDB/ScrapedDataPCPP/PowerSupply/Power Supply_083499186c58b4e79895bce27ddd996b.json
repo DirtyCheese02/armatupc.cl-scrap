@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 650 P2 650 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 650 P2",
+    "Part #": "[220-P2-0650-X1, 220-P2-0650-X2, 220-P2-0650-X3, 220-P2-0650-X4]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "650 W",
+    "Length": "165 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@20A, +5V@20A, +12V@54.1A, +5VSB@2.5A, -12V@0.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6p8H99/evga-supernova-650-p2-650-w-80-platinum-certified-fully-modular-atx-power-supply-220-p2-0650-x1"
+}

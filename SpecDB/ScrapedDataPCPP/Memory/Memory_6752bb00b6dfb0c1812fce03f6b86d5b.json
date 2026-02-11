@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-4133 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-4133C17D-16GTZR",
+    "Speed": "DDR4-4133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "8.226 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.4 V",
+    "Timing": "17-17-17-37",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/42x2FT/gskill-trident-z-rgb-16gb-2-x-8gb-ddr4-4133-memory-f4-4133c17d-16gtzr"
+}

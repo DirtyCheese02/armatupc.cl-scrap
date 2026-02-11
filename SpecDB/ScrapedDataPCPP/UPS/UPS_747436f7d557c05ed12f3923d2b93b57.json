@@ -1,0 +1,17 @@
+{
+    "name": "CyberPower CP900EPFCLCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP900EPFCLCD",
+    "Capacity (W)": "540 W",
+    "Capacity (VA)": "900 VA",
+    "Backup/Run Time (Full Load)": "1 Minutes",
+    "Backup/Run Time (Half Load)": "7 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-11, RJ-45]",
+    "Form Factor": "Tower",
+    "Input Voltage": "230 V AC",
+    "Output Voltage": "230 V AC",
+    "Typical Battery Recharge Time": "8 Hour",
+    "Waveform Type": "Pure Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/McBzK8/cyberpower-cp900epfclcd-ups-cp900epfclcd"
+}

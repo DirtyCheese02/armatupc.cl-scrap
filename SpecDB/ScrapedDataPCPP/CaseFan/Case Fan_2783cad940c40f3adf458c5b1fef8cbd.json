@@ -1,0 +1,17 @@
+{
+    "name": "RAIJINTEK Iris 42.17 CFM 120 mm Fan",
+    "Manufacturer": "RAIJINTEK",
+    "Part #": "0R400041",
+    "Size": "120 mm",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1800 RPM",
+    "Airflow": "42.17 CFM",
+    "Noise Level": "26.5 dB",
+    "PWM": "Yes",
+    "LED": "Blue",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.7 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jr448d/raijintek-iris-12-blue-4217-cfm-120mm-fan-0r400041"
+}

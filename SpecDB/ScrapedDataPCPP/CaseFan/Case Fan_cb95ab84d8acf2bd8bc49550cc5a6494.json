@@ -1,0 +1,19 @@
+{
+    "name": "ID-COOLING TF-12025-BLACK 76.16 CFM 120 mm Fan",
+    "Manufacturer": "ID-COOLING",
+    "Part #": "TF-12025-BLACK",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1800 RPM",
+    "Airflow": "76.16 CFM",
+    "Noise Level": "15.2 - 35.2 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.16 mmH₂O",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HFvdnQ/id-cooling-tf-12025-black-7616-cfm-120-mm-fan-tf-12025-black"
+}

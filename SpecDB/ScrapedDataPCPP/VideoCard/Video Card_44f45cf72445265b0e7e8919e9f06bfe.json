@@ -1,0 +1,23 @@
+{
+    "name": "Asus DUAL OC Radeon RX 7900 XTX 24 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[DUAL-RX7900XTX-O24G, 90YV0IG2-M0NA00]",
+    "Chipset": "Radeon RX 7900 XTX",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2300 MHz",
+    "Boost Clock": "2615 MHz",
+    "Effective Memory Clock": "20000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "323 mm",
+    "TDP": "355 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WkQKHx/asus-dual-oc-radeon-rx-7900-xtx-24-gb-video-card-dual-rx7900xtx-o24g"
+}

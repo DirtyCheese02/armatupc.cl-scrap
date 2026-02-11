@@ -1,0 +1,22 @@
+{
+    "name": "Silverstone FX600 Platinum 600 W Flex ATX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Model": "FX600 Platinum",
+    "Part #": "SST-FX600-PT",
+    "Type": "Flex ATX",
+    "Wattage": "600 W",
+    "Length": "150 mm",
+    "Modular": "No",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HH6p99/silverstone-fx600-platinum-600-w-flex-atx-power-supply-sst-fx600-pt"
+}

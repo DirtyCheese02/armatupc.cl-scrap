@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle ELF Arc A310 4 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "[SA310E-4G, 1A1-S00401100G]",
+    "Chipset": "Arc A310",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1750 MHz",
+    "Boost Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue / Black",
+    "Frame Sync": "None",
+    "Length": "153 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.0 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PBxxFT/sparkle-elf-arc-a310-4-gb-video-card-sa310e-4g"
+}

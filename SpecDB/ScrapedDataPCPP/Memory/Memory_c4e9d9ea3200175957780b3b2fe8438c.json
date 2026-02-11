@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Flare X 32 GB (4 x 8 GB) DDR4-2933 CL14 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2933C14Q-32GFX",
+    "Speed": "DDR4-2933",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.547 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.35 V",
+    "Timing": "14-14-14-34",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hTMwrH/gskill-flare-x-32gb-4-x-8gb-ddr4-2933-memory-f4-2933c14q-32gfx"
+}

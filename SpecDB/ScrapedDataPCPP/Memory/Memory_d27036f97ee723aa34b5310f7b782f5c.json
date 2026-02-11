@@ -1,0 +1,16 @@
+{
+    "name": "Neo Forza FAYE 8 GB (1 x 8 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "Neo Forza",
+    "Part #": "NMUD480E82-3000DG10",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Silver / Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-17-17-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N4ddnQ/neo-forza-faye-8-gb-1-x-8-gb-ddr4-3000-cl15-memory-nmud480e82-3000dg10"
+}

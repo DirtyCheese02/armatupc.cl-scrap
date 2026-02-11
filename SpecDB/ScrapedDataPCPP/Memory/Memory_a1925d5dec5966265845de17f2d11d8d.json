@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator Platinum RGB 64 GB (8 x 8 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMT64GX4M8X3600C18",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "8 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "Timing": "18-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rx7v6h/corsair-dominator-platinum-rgb-64-gb-8-x-8-gb-ddr4-3600-memory-cmt64gx4m8x3600c18"
+}

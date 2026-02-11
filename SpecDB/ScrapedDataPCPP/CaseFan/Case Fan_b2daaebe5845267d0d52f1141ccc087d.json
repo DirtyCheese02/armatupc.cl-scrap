@@ -1,0 +1,21 @@
+{
+    "name": "Noctua A14 FLX 68 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A14 FLX",
+    "Part #": "NF-A14 FLX",
+    "Size": "140 mm",
+    "Color": "Brown",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "900 - 1200 RPM",
+    "Airflow": "52.2 - 68 CFM",
+    "Noise Level": "13.8 - 19.2 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.51 mmH₂O",
+    "Bearing Type": "SSO2-Bearing (Self-stabilising oil-presure bearing)",
+    "Features": "[Succeeding the award-winning NF-P14, Square 140mm frame, Flow Acceleration Channels, AAO Frame, Stepped Inlet Design, Inner Surface Microstructures, Integrated Anti-Vibration Pads, SSO2 Bearing, Metal bearing shell, Smooth Commutation Drive 2, 3 speed settings for full flexibility, Extensive cabling options, Ultra-Low Power Consumption]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q3Lypg/noctua-case-fan-nfa14flx"
+}

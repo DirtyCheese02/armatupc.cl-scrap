@@ -1,0 +1,15 @@
+{
+    "name": "Corsair XMS3 2 GB (2 x 1 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "TW3X2G1333C9A G",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 1GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4FkD4D/corsair-memory-tw3x2g1333c9ag"
+}

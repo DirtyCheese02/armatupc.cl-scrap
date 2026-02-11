@@ -1,0 +1,22 @@
+{
+    "name": "APC SUA1500RMI2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA1500RMI2U",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Alarm": "[Low Battery, On Battery]",
+    "Backup/Run Time (Full Load)": "7.40 Minutes",
+    "Backup/Run Time (Half Load)": "26.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[4 x IEC 320-C13, 2]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6Z8H99/apc-ups-sua1500rmi2u"
+}

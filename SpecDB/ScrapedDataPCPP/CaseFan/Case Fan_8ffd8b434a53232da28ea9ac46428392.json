@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek XAF 75.3 CFM 120 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XAF-F1251",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "75.3 CFM",
+    "Noise Level": "24 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Aeronautical Oil System Bearing",
+    "Features": "[Material: P.B.T., Voltage Rating: 12 V, Start Voltage: 9V, Weight: 122 g, Copper axis with long life sleeve bearing to provide long-term life and stability., Waveform and enhanced lubricant circuits to provide outstanding aerodynamic efficiency., Wave Shaped and small hub dimension generate extra high airflow., Wave Blade technology increases 25% of air flow and drops 10% noise.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Bwdqqs/xigmatek-xaf-f1251-753-cfm-120-mm-fan-xaf-f1251"
+}

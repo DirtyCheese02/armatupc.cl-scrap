@@ -1,0 +1,18 @@
+{
+    "name": "Tripp Lite SM1500XLNAFTA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SM1500XLNAFTA",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FfH48d/tripp-lite-ups-sm1500xlnafta"
+}

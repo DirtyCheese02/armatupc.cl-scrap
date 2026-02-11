@@ -1,0 +1,22 @@
+{
+    "name": "MSI GAMING Radeon RX 6650 XT 8 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "Radeon RX 6650 XT GAMING 8G",
+    "Chipset": "Radeon RX 6650 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2055 MHz",
+    "Boost Clock": "2635 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "278 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8wbTwP/msi-radeon-rx-6650-xt-8-gb-gaming-video-card-radeon-rx-6650-xt-gaming-8g"
+}

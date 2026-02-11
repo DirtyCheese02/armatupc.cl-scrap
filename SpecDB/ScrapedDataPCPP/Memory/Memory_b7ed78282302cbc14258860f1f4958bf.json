@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Aegis 16 GB (1 x 16 GB) DDR4-3000 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3000C16S-16GISB",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$10.117",
+    "Color": "Red / Black",
+    "First Word Latency": "10.667 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9x22FT/gskill-aegis-16gb-1-x-16gb-ddr4-3000-memory-f4-3000c16s-16gisb"
+}

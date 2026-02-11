@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-E12B V3 72.37 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-E12B V3",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "72.37 CFM",
+    "Noise Level": "27.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.87 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d3V2FT/thermalright-tl-e12b-v3-7237-cfm-120-mm-fan-tl-e12b-v3"
+}

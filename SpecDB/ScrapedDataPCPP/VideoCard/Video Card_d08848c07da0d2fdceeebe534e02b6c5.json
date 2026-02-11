@@ -1,0 +1,22 @@
+{
+    "name": "MSI GAMING TRIO GeForce RTX 4090 24 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "[GeForce RTX 4090 GAMING TRIO 24G, RTX 4090 GAMING TRIO 24G, V510-014R, G4090GT24]",
+    "Chipset": "GeForce RTX 4090",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2235 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "337 mm",
+    "TDP": "450 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8hVmP6/msi-gaming-trio-geforce-rtx-4090-24-gb-video-card-geforce-rtx-4090-gaming-trio-24g"
+}

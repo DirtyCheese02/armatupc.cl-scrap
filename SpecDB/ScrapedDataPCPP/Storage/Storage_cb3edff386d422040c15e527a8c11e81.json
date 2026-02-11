@@ -1,0 +1,14 @@
+{
+    "name": "Samsung 960 Pro 512 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Samsung",
+    "Part #": "[MZ-V6P512BW, MZ-V6P512]",
+    "Capacity": "512 GB",
+    "Price / GB": "$0.781",
+    "Type": "SSD",
+    "Cache": "512 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D V-NAND",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TstWGX/samsung-960-pro-512gb-m2-2280-solid-state-drive-mz-v6p512bw"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Inno3D Twin X2 GeForce RTX 4060 Ti 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N406T2-08D6-171153N",
+    "Chipset": "GeForce RTX 4060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2535 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gray",
+    "Frame Sync": "G-Sync",
+    "Length": "250 mm",
+    "TDP": "165 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CKV2FT/inno3d-twin-x2-geforce-rtx-4060-ti-8-gb-video-card-n406t2-08d6-171153n"
+}

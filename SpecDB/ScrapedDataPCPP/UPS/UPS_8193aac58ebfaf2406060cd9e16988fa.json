@@ -1,0 +1,17 @@
+{
+    "name": "Tripp Lite OMNIVS1500XLTAA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "OMNIVS1500XLTAA",
+    "Capacity (W)": "940 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "4.50 Minutes",
+    "Backup/Run Time (Half Load)": "13 Minutes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4.50 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[2 x NEMA 5-15R, 6 x NEMA 5-15R]",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fJVBD3/tripp-lite-ups-omnivs1500xltaa"
+}

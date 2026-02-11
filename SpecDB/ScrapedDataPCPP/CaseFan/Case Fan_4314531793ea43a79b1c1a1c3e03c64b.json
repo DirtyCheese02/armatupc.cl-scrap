@@ -1,0 +1,18 @@
+{
+    "name": "Iceberg Thermal IceGALE 29 CFM 80 mm Fan",
+    "Manufacturer": "Iceberg Thermal",
+    "Part #": "ICEGALE08-A0A",
+    "Size": "80 mm",
+    "Color": "Teal / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 2000 RPM",
+    "Airflow": "29 CFM",
+    "Noise Level": "0 - 26 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.54 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7sstt6/iceberg-thermal-icegale-29-cfm-80-mm-fan-icegale08-a0a"
+}

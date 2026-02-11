@@ -1,0 +1,17 @@
+{
+    "name": "YEYIAN Typhoon 38.5 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "YEYIAN",
+    "Part #": "YCF-3RGB-01",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "38.5 CFM",
+    "Noise Level": "23 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "Proprietary PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/trQKHx/yeyian-typhoon-385-cfm-120-mm-fans-3-pack-ycf-3rgb-01"
+}

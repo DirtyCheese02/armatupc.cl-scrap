@@ -1,0 +1,23 @@
+{
+    "name": "HIS H577FK1GD Radeon HD 5770 1 GB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "H577FK1GD",
+    "Chipset": "Radeon HD 5770",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "108 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YLmLrH/his-video-card-h577fk1gd"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Creator Radeon RX 7900 XT 20 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "RX7900XT CT 20G",
+    "Chipset": "Radeon RX 7900 XT",
+    "Memory": "20 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2000 MHz",
+    "Boost Clock": "2395 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "FreeSync",
+    "Length": "312 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W4Hqqs/asrock-creator-radeon-rx-7900-xt-20-gb-video-card-rx7900xt-ct-20g"
+}

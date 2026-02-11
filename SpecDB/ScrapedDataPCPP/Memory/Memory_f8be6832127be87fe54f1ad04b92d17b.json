@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance Pro 32 GB (4 x 8 GB) DDR3-2666 CL12 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMY32GX3M4A2666C12R",
+    "Speed": "DDR3-2666",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "9.002 ns",
+    "CAS Latency": "12",
+    "Voltage": "1.65 V",
+    "Timing": "12-13-13-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XLh9TW/corsair-memory-cmy32gx3m4a2666c12r"
+}

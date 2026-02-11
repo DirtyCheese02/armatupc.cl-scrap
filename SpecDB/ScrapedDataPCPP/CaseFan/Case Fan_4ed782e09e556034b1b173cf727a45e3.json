@@ -1,0 +1,19 @@
+{
+    "name": "NZXT F120 RGB 50.18 CFM 120 mm Fan",
+    "Manufacturer": "NZXT",
+    "Model": "F120 RGB",
+    "Part #": "RF-R12SF-W1",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "13.94 - 50.18 CFM",
+    "Noise Level": "17.2 - 27.5 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "2.7 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XxD7YJ/nzxt-f120-rgb-5018-cfm-120-mm-fan-rf-r12sf-w1"
+}

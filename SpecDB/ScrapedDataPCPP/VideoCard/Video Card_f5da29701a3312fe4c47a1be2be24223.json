@@ -1,0 +1,22 @@
+{
+    "name": "ONIX LUMI OC Arc B580 12 GB Video Card",
+    "Manufacturer": "ONIX",
+    "Part #": "8346-00278",
+    "Chipset": "Arc B580",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2670 MHz",
+    "Boost Clock": "2740 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White / Silver",
+    "Frame Sync": "None",
+    "Length": "260 mm",
+    "TDP": "203 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bwh2FT/onix-lumi-oc-arc-b580-12-gb-video-card-8346-00278"
+}

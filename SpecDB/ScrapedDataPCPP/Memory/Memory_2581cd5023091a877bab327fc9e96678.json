@@ -1,0 +1,16 @@
+{
+    "name": "GeIL SUPER LUCE RGB SYNC 16 GB (2 x 8 GB) DDR4-4133 CL19 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLS416GB4133C19DC",
+    "Speed": "DDR4-4133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.194 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.4 V",
+    "Timing": "19-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/n2smP6/geil-super-luce-rgb-sync-16-gb-2-x-8-gb-ddr4-4133-memory-gls416gb4133c19dc"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte EAGLE GeForce RTX 3050 8GB 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N3050EAGLE-8GD",
+    "Chipset": "GeForce RTX 3050 8GB",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1550 MHz",
+    "Boost Clock": "1777 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "213 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qy7G3C/gigabyte-geforce-rtx-3050-8gb-8-gb-eagle-video-card-gv-n3050eagle-8gd"
+}

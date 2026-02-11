@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte AORUS XTREME GeForce RTX 3080 Ti 12 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N308TAORUS X-12GD",
+    "Chipset": "GeForce RTX 3080 Ti",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1770 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "320 mm",
+    "TDP": "350 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vTmmP6/gigabyte-geforce-rtx-3080-ti-12-gb-aorus-xtreme-video-card-gv-n308taorus-x-12gd"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte WINDFORCE OC GeForce RTX 3060 Ti LHR 8 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N306TWF2OC-8GD",
+    "Chipset": "GeForce RTX 3060 Ti LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1665 MHz",
+    "Boost Clock": "1680 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "198 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "2",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XTJp99/gigabyte-windforce-oc-geforce-rtx-3060-ti-lhr-8-gb-video-card-gv-n306twf2oc-8gd"
+}

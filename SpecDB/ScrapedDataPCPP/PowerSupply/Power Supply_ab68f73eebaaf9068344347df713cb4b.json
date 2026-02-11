@@ -1,0 +1,22 @@
+{
+    "name": "Cooler Master M620 620 W 80+ Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Cooler Master",
+    "Model": "M620",
+    "Part #": "RS-620-ASAA-A1",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "620 W",
+    "Length": "150 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "1",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "10",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9Q8H99/cooler-master-real-power-620w-80-certified-semi-modular-atx-power-supply-rs-620-asaa-a1"
+}

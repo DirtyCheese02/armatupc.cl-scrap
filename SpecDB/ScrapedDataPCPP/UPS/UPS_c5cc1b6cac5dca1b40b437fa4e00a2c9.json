@@ -1,0 +1,18 @@
+{
+    "name": "APC BE350R UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE350R",
+    "Capacity (W)": "200 W",
+    "Capacity (VA)": "350 VA",
+    "Backup/Run Time (Full Load)": "2.30 Minutes",
+    "Backup/Run Time (Half Load)": "9.70 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "16 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4hqbt6/apc-ups-be350r"
+}

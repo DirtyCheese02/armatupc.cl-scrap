@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal DW100 RGB 48 GB (2 x 24 GB) DDR5-6800 CL34 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "B5DW100486834ER2G-CB009",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.35 V",
+    "Timing": "34-46-46-108",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fgBFf7/biwin-black-opal-dw100-rgb-48-gb-2-x-24-gb-ddr5-6800-cl34-memory-b5dw100486834er2g-cb009"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "EVGA XC BLACK GAMING GeForce GTX 1660 Ti 6 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "06G-P4-1261-KR",
+    "Chipset": "GeForce GTX 1660 Ti",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1770 MHz",
+    "Effective Memory Clock": "12000 MHz",
+    "Interface": "PCIe x16",
+    "Frame Sync": "G-Sync",
+    "Length": "190 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ychKHx/evga-geforce-gtx-1660-ti-6-gb-xc-black-gaming-video-card-06g-p4-1261-kr"
+}

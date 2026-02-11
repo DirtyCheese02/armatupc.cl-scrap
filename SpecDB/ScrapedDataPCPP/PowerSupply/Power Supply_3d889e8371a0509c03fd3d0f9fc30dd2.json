@@ -1,0 +1,20 @@
+{
+    "name": "Broadway Com Corp OKIA-BLACK-680 680 W ATX Power Supply",
+    "Manufacturer": "Broadway Com Corp",
+    "Part #": "OKIA-BLACK-680",
+    "Type": "ATX",
+    "Wattage": "680 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "3",
+    "Output": "+3.3V@40A, +5V@45A, +12V1@25A, +12V2@30A, -12V@1A, +5VSB@2A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NkBv6h/broadway-com-corp-power-supply-okiablack680"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Cougar Vortex 70.5 CFM 120 mm Fan",
+    "Manufacturer": "Cougar",
+    "Part #": "CF-V12HPB",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1500 RPM",
+    "Airflow": "70.5 CFM",
+    "Noise Level": "17.89 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2.2 mmH₂O",
+    "Bearing Type": "Hydro Dynamic",
+    "Features": "[PWM-FUNCTION, PWM stands for Pulse Width Modulation. The 4-Pin connector allows the mainboard to control the fan speed from 800-1500RPM., HIGH-VORTEX-AIRFLOW WITH TURBINE BLADE & FRAME DESIGN, Optimum airflow, air pressure & extremely silent performance, DIVERSION GROOVE BLADE DESIGN, Innovative blade design focus air flow & optimum cooling efficiency, ANTI-VIBRATION PAD DESIGN, Reduce the vibrations efficiently & silent operation, AERO-DYNAMICAL DESIGN, Air-inlet with optimal aero-dynamical design reducing noisy air turbulences, HYDRO-DYNAMIC-BEARING TECHNOLOGY, HDB runs more smoothly with no friction, make it quietly & durability (MTBF300,000hrs), TOOL-LESS FIXED PINS, Rubber fixed pins also reduces vibrations (fan run more quietly) and Tool-less makes it easy to mount, with no tools required]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TG9KHx/cougar-vortex-pwm-705-cfm-120-mm-fan-cf-v12hpb"
+}

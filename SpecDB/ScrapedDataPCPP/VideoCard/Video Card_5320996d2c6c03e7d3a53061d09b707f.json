@@ -1,0 +1,22 @@
+{
+    "name": "PNY VCNRTX4500ADA-PB RTX 4500 Ada Generation 24 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTX4500ADA-PB",
+    "Chipset": "RTX 4500 Ada Generation",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2070 MHz",
+    "Boost Clock": "2580 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "Frame Sync": "None",
+    "Length": "245 mm",
+    "TDP": "210 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FTbRsY/pny-vcnrtx4500ada-pb-rtx-4500-ada-generation-24-gb-video-card-vcnrtx4500ada-pb"
+}

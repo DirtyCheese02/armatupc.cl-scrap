@@ -1,0 +1,23 @@
+{
+    "name": "EVGA SuperNOVA 450 GM 450 W 80+ Gold Certified Fully Modular SFX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 450 GM",
+    "Part #": "[123-GM-0450-Y1, 123-GM-0450-Y2, 123-GM-0450-Y3]",
+    "Type": "SFX",
+    "Efficiency Rating": "80+ Gold",
+    "Wattage": "450 W",
+    "Length": "100 mm",
+    "Modular": "Full",
+    "Color": "Black",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "2",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KMQG3C/evga-supernova-450-gm-450-w-80-gold-certified-fully-modular-sfx-power-supply-123-gm-0450-y1"
+}

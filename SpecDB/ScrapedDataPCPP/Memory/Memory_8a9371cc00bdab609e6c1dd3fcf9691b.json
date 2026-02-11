@@ -1,0 +1,15 @@
+{
+    "name": "GeIL GV34GB1066C7DC 4 GB (2 x 2 GB) DDR3-1066 CL7 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GV34GB1066C7DC",
+    "Speed": "DDR3-1066",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Silver",
+    "First Word Latency": "13.133 ns",
+    "CAS Latency": "7",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BgW9TW/geil-memory-gv34gb1066c7dc"
+}

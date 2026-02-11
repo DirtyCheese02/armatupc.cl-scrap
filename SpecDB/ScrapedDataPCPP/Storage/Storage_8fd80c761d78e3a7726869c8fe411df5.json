@@ -1,0 +1,14 @@
+{
+    "name": "Crucial M550 128 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Crucial",
+    "Part #": "CT128M550SSD1",
+    "Capacity": "128 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Marvell 9189",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dj3RsY/crucial-internal-hard-drive-ct128m550ssd1"
+}

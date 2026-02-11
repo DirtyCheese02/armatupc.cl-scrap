@@ -1,0 +1,15 @@
+{
+    "name": "Mushkin Silverline 12 GB (3 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "999002",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 4GB",
+    "Color": "Gray / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hXw323/mushkin-memory-999002"
+}

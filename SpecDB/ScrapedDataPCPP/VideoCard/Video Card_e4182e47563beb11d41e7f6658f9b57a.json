@@ -1,0 +1,21 @@
+{
+    "name": "XFX HD-465X-ZDF2 Radeon HD 4650 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-465X-ZDF2",
+    "Chipset": "Radeon HD 4650",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "48 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rKmLrH/xfx-video-card-hd465xzdf2"
+}

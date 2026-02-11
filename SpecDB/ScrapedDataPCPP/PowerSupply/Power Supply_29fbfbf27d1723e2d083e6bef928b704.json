@@ -1,0 +1,23 @@
+{
+    "name": "Corsair AX1500i 1500 W 80+ Titanium Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Corsair",
+    "Model": "AX1500i",
+    "Part #": "[CP-9020057-NA, CP-9020057-UK, AX1500i, CMPSU-AX1500i, CP-9020057-EU]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Titanium",
+    "Wattage": "1500 W",
+    "Length": "225 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "10",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "20",
+    "AMP/Molex 4-pin Connectors": "12",
+    "Output": "+3.3V@30A, +5V@30A, +12V@125A, -12V@0.8A, +5Vsb@3.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cn3RsY/corsair-ax1500i-1500-w-80-titanium-certified-fully-modular-atx-power-supply-cp-9020057-na"
+}

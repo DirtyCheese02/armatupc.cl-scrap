@@ -1,0 +1,16 @@
+{
+    "name": "Kingston ValueRAM 1 GB (1 x 1 GB) DDR2-533 SODIMM CL4 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR533D2S4/1G",
+    "Speed": "DDR2-533",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 1GB",
+    "Price / GB": "$28.840",
+    "Color": "Green",
+    "First Word Latency": "15.009 ns",
+    "CAS Latency": "4",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WjrG3C/kingston-memory-kvr533d2s41g"
+}

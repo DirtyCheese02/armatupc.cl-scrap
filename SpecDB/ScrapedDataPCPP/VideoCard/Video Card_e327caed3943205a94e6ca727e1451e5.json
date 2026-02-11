@@ -1,0 +1,23 @@
+{
+    "name": "Asus EAH6670/DIS/1GD5 Radeon HD 6670 1 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "EAH6670/DIS/1GD5",
+    "Chipset": "Radeon HD 6670",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "167 mm",
+    "TDP": "66 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8xBv6h/asus-video-card-eah6670dis1gd5"
+}

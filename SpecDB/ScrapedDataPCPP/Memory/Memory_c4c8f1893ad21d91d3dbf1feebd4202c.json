@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 16 GB (4 x 4 GB) DDR4-3333 CL16 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK16GX4M4B3333C16",
+    "Speed": "DDR4-3333",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Yellow",
+    "First Word Latency": "9.601 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-16-16-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/T2VBD3/corsair-memory-cmk16gx4m4b3333c16"
+}

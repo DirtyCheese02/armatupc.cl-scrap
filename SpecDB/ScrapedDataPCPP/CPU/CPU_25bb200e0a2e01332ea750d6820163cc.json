@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i5-750 2.66 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80605I5750",
+    "Series": "Intel Core i5",
+    "Microarchitecture": "Nehalem",
+    "Core Family": "Lynnfield",
+    "Socket": "LGA1156",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.66 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CHFPxr/intel-cpu-bx80605i5750"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "StarTech ST1000SPEX4 4 x Gigabit Ethernet PCIe x4 Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "[ST1000SPEX4, C734A2YG]",
+    "Interface": "PCIe x4",
+    "Features": "[Chipset ID: Realtek - RTL8111C, Buffer Size: 48KB (On Chip), OS Compatibility: Windows 2000/ XP (32/64-bit)/ Vista (32/64-bit)/ Server 2003 (32/64-bit)/ Server 2008 R2/ 7 (32/64-bit)/ 8 (32/64-bit), Win CE 4.2/ 5.0, Mac OS X (Intel based, tested up to 10.8), Unix and Linux, Jumbo Frame support, Support for IEEE 802.1Q VLAN tagging and IEEE 802.1P Layer 2 Priority Encoding, Crossover Detection & Auto-Correction (Auto MDIX), Microsoft NDIS5 Checksum Offload (IP, TCP, UDP) and Large send Offload Support, On-chip 48KB Transmit/Receive Buffer, Wake-on-LAN and Remote Wake-up Support, Supports Full Duplex Flow Control (IEEE 802.3x), Supports Pair Swap/Polarity/Skew Correction, PCI Express base specification 1.1 compliant, Supports PCI Message Signaled Interrupt (MSI).]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/L2vRsY/startech-wired-network-card-st1000spex4"
+}

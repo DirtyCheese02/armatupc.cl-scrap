@@ -1,0 +1,19 @@
+{
+    "name": "GameMax KF300 44.35 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "GameMax",
+    "Model": "KF300",
+    "Part #": "KF300 BK",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1600 RPM",
+    "Airflow": "44.35 CFM",
+    "Noise Level": "31.21 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "Manual",
+    "Static Pressure": "1.42 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RyjRsY/gamemax-kf300-4435-cfm-120-mm-fans-3-pack-kf300-bk"
+}

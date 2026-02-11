@@ -1,0 +1,15 @@
+{
+    "name": "GeIL GPR416GB2800C16QC 16 GB (4 x 4 GB) DDR4-2800 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GPR416GB2800C16QC",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Tqqbt6/geil-memory-gpr416gb2800c16qc"
+}

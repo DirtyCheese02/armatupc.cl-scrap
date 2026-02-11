@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GV-R575OC-1GI Radeon HD 5750 1 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R575OC-1GI",
+    "Chipset": "Radeon HD 5750",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "740 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "86 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RG4gXL/gigabyte-video-card-gvr575oc1gi"
+}

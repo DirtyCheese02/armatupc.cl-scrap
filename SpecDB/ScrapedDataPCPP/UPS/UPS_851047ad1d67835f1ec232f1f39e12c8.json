@@ -1,0 +1,17 @@
+{
+    "name": "APC SUOL2000XLI UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUOL2000XLI",
+    "Capacity (W)": "1400 W",
+    "Capacity (VA)": "2000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "7.40 Minutes",
+    "Backup/Run Time (Half Load)": "19.70 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "[6 x IEC 320-C13, 3]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JWX2FT/apc-ups-suol2000xli"
+}

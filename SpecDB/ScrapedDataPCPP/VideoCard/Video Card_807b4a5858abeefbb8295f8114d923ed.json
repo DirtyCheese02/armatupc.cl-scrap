@@ -1,0 +1,21 @@
+{
+    "name": "Sapphire 100274HDMI Radeon HD 4350 1 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100274HDMI",
+    "Chipset": "Radeon HD 4350",
+    "Memory": "1 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "575 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BVK7YJ/sapphire-video-card-100274hdmi"
+}

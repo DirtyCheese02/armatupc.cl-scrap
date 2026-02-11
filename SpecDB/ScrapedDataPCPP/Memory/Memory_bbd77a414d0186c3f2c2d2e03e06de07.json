@@ -1,0 +1,15 @@
+{
+    "name": "HP V8 RGB 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory",
+    "Manufacturer": "HP",
+    "Part #": "8MG07AA#ABC",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Td7G3C/hp-v8-rgb-32-gb-2-x-16-gb-ddr4-3600-cl18-memory-8mg07aaabc"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Silverstone HELA 2050 W Fully Modular ATX Power Supply",
+    "Manufacturer": "Silverstone",
+    "Part #": "SST-HA2050-PT",
+    "Type": "ATX",
+    "Wattage": "2050 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Color": "Black / White",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "1",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "18",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "12",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GMkWGX/silverstone-hela-2050-w-fully-modular-atx-power-supply-sst-ha2050-pt"
+}

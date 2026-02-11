@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SUINT3000RTXL2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SUINT3000RTXL2U",
+    "Capacity (W)": "2500 W",
+    "Capacity (VA)": "3000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "4.80 Hour",
+    "Output Voltage": "[240 V AC, 208 V AC, 220 V AC, 230 V AC]",
+    "Receptacles": "10",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XXH48d/tripp-lite-ups-suint3000rtxl2u"
+}

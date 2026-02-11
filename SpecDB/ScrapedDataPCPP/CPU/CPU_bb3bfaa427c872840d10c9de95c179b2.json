@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Extreme QX6800 2.93 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "HH80562XH0778M",
+    "Series": "Intel Core 2 Extreme",
+    "Microarchitecture": "Core",
+    "Core Family": "Kentsfield",
+    "Socket": "LGA775",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.93 GHz",
+    "L2 Cache": "8 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "100 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "65 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/RDvRsY/intel-cpu-hh80562xh0778m"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Fractal Design Newton R3 600 W 80+ Platinum Certified Semi-modular ATX Power Supply",
+    "Manufacturer": "Fractal Design",
+    "Part #": "Newton R3 600W",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "600 W",
+    "Length": "165 mm",
+    "Modular": "Semi",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "1",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "4",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "9",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@20A, +5V@20A, +12V@50A, -12V@0.5A, +5VSB@2.5A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j7Qypg/fractal-design-power-supply-newtonr3600w"
+}

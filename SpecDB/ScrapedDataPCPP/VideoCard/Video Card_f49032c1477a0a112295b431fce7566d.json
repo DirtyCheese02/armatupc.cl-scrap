@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GAMING GeForce GTX 1660 SUPER 6 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N166SGAMING-6GD",
+    "Chipset": "GeForce GTX 1660 SUPER",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1530 MHz",
+    "Boost Clock": "1785 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "280 mm",
+    "TDP": "125 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LkmFf7/gigabyte-geforce-gtx-1660-super-6-gb-gaming-video-card-gv-n166sgaming-6gd"
+}

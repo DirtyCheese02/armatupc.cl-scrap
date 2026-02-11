@@ -1,0 +1,13 @@
+{
+    "name": "Intel 525 30 GB mSATA Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDMCEAC030B301",
+    "Capacity": "30 GB",
+    "Type": "SSD",
+    "Form Factor": "mSATA",
+    "Interface": "mSATA",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wr4gXL/intel-internal-hard-drive-ssdmceac030b301"
+}

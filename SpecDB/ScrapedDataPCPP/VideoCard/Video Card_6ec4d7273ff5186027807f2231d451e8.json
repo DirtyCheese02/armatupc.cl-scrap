@@ -1,0 +1,22 @@
+{
+    "name": "Biostar VA7906XM00 Radeon RX 7900 XT 20 GB Video Card",
+    "Manufacturer": "Biostar",
+    "Part #": "VA7906XM00",
+    "Chipset": "Radeon RX 7900 XT",
+    "Memory": "20 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "2394 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "320 mm",
+    "TDP": "300 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tycgXL/biostar-va7906xm00-radeon-rx-7900-xt-20-gb-video-card-va7906xm00"
+}

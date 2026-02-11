@@ -1,0 +1,15 @@
+{
+    "name": "Samsung MV-2S2G4/US 2 GB (1 x 2 GB) DDR2-800 SODIMM CL6 Memory",
+    "Manufacturer": "Samsung",
+    "Part #": "MV-2S2G4/US",
+    "Speed": "DDR2-800",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 2GB",
+    "Color": "Black",
+    "First Word Latency": "15 ns",
+    "CAS Latency": "6",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/bdh9TW/samsung-memory-mv2s2g4us"
+}

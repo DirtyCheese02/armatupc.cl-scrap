@@ -1,0 +1,18 @@
+{
+    "name": "Azza Prisma Digital 52.1 CFM 120 mm Fan",
+    "Manufacturer": "Azza",
+    "Part #": "FNAZ-12DRGB-011",
+    "Size": "120 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 1600 RPM",
+    "Airflow": "52.1 CFM",
+    "Noise Level": "31 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.7 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JhVmP6/azza-prisma-digital-521-cfm-120-mm-fan-fnaz-12drgb-011"
+}

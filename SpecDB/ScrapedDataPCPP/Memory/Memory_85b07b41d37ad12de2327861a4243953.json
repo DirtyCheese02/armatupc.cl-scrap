@@ -1,0 +1,16 @@
+{
+    "name": "IBM 00D4964 16 GB (1 x 16 GB) Registered DDR3-1333 CL9 Memory",
+    "Manufacturer": "IBM",
+    "Part #": "00D4964",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$5.812",
+    "Color": "Black / Green",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/79sKHx/ibm-memory-00d4964"
+}

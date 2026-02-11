@@ -1,0 +1,17 @@
+{
+    "name": "G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J3636F16GX2-TZ5RS",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$12.500",
+    "Color": "Silver / Black",
+    "First Word Latency": "12 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.35 V",
+    "Timing": "36-36-36-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VQ92FT/gskill-trident-z5-rgb-32-gb-2-x-16-gb-ddr5-6000-cl36-memory-f5-6000j3636f16gx2-tz5rs"
+}

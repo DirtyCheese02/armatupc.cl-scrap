@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 04G-P4-2649-KR GeForce GT 640 4 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "04G-P4-2649-KR",
+    "Chipset": "GeForce GT 640",
+    "Memory": "4 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "901 MHz",
+    "Effective Memory Clock": "1802 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "170 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9qtCmG/evga-video-card-04gp42649kr"
+}

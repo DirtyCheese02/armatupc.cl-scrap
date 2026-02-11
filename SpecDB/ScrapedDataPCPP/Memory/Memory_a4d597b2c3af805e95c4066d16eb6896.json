@@ -1,0 +1,17 @@
+{
+    "name": "TEAMGROUP T-Create Classic 32 GB (2 x 16 GB) DDR4-3200 CL22 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TTCCD432G3200HC22DC01",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$6.250",
+    "Color": "Silver",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "22",
+    "Voltage": "1.2 V",
+    "Timing": "22-22-22-52",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sKXJ7P/team-t-create-classic-32-gb-2-x-16-gb-ddr4-3200-cl22-memory-ttccd432g3200hc22dc01"
+}

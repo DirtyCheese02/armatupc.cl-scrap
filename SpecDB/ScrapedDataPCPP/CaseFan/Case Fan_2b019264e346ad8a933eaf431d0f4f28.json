@@ -1,0 +1,20 @@
+{
+    "name": "Noctua A14 industrialPPC-3000 PWM 158.5 CFM 140 mm Fan",
+    "Manufacturer": "Noctua",
+    "Model": "A14 industrialPPC-3000 PWM",
+    "Part #": "[NF-A14 industrialPPC-3000 PWM, NF-A14 iPPC-3000 PWM]",
+    "Size": "140 mm",
+    "Color": "Brown / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 3000 RPM",
+    "Airflow": "158.5 CFM",
+    "Noise Level": "41.3 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "6.58 mmH₂O",
+    "Bearing Type": "SSO2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ntXfrH/noctua-a14-industrialppc-3000-pwm-1585-cfm-140-mm-fan-nf-a14-industrialppc-3000-pwm"
+}

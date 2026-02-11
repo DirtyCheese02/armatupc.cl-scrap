@@ -1,0 +1,11 @@
+{
+    "name": "TRENDnet TEW-624UB 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "TRENDnet",
+    "Part #": "TEW-624UB",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP (Hex & ASCII), WPA/WPA2, WPA-PSK/WPA2-PSK",
+    "Antenna": "3 Built-in Internal Printed Antennas",
+    "Features": "[Supports Ad-Hoc(Peer to Peer) or Infrastructure (AP-Client) Mode, Maximum Reliability, Throughput and Connectivity with Automatic Data Rate Switching, Universal Wireless Connectivity for Seamless Roaming among 802.11b/g/n Networks, Low Interference and High Susceptibility Guarantee Reliable Performance, Compatible with Windows 2000/XP/Vista Operating Systems, Easy User Setup & Diagnostics Utilities]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rMzv6h/trendnet-wireless-network-card-tew624ub"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "NoiseBlocker Multiframe 58.85 CFM 120 mm Fan",
+    "Manufacturer": "NoiseBlocker",
+    "Part #": "NB-Multiframe M12-PS",
+    "Size": "120 mm",
+    "Color": "Translucent Gray",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "58.85 CFM",
+    "Noise Level": "23 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/f8phP6/noiseblocker-nb-multiframe-m12-ps-5885-cfm-120-mm-fan-nb-multiframe-m12-ps"
+}

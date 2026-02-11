@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance LPX 4 GB (1 x 4 GB) DDR4-2400 CL15 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK4GX4M1A2400C14R",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 4GB",
+    "Color": "Red",
+    "First Word Latency": "12.5 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HWX2FT/corsair-memory-cmk4gx4m1a2400c14r"
+}

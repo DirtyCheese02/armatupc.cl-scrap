@@ -1,0 +1,11 @@
+{
+    "name": "SIIG IC-710012-S2 24-bit 96 kHz Sound Card",
+    "Manufacturer": "SIIG",
+    "Part #": "IC-710012-S2",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "92 dB",
+    "Sample Rate": "96 kHz",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XNtCmG/siig-sound-card-ic710012s2"
+}

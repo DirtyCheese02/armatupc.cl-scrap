@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II X4 638 2.7 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD638XOJZ43GX",
+    "Series": "AMD Athlon II X4",
+    "Microarchitecture": "Lynx",
+    "Core Family": "Llano",
+    "Socket": "FM1",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.7 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ndNp99/amd-cpu-ad638xojz43gx"
+}

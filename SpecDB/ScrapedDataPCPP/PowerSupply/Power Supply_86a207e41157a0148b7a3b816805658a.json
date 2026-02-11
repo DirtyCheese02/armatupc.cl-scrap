@@ -1,0 +1,20 @@
+{
+    "name": "Apevia ATX-VN500W 500 W ATX Power Supply",
+    "Manufacturer": "Apevia",
+    "Part #": "ATX-VN500W",
+    "Type": "ATX",
+    "Wattage": "500 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "3",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Z2GnTW/apevia-500-w-atx-power-supply-atx-vn500w"
+}

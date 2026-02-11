@@ -1,0 +1,23 @@
+{
+    "name": "XFX Core Edition Radeon R9 295X2 8 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "R9-295X-8QFA",
+    "Chipset": "Radeon R9 295X2",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1018 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "305 mm",
+    "TDP": "500 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "120 mm Radiator + 1 Fan",
+    "External Power": "2 x PCIe 8-pin",
+    "MiniDisplayPort Outputs": "4",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KxDwrH/xfx-video-card-r9295x8qfa"
+}

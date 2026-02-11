@@ -1,0 +1,19 @@
+{
+    "name": "Enermax T.B. Vegas Single 75.98 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTVS12P-BL",
+    "Size": "120 mm",
+    "Color": "Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1800 RPM",
+    "Airflow": "20.42 - 75.98 CFM",
+    "Noise Level": "14 - 25 dB",
+    "PWM": "Yes",
+    "LED": "Blue",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Twister",
+    "Features": "[PWM speed control to keep your system cool and silent all the time, Smart APS (Adjustable Peak Speed) control providing 3 peak rpm options, Patented Circular Type LED with 18 diodes and 6 switchable modes, Patented Carved Halo Frame design for extra 20~30% airflow, Twister Bearing technology for long lifetime and low noise, Focus Blades centering the light to increase brightness, Detachable fan blades for easy cleaning, Isolator-mounts for shockproof and easy installation]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j7kD4D/enermax-case-fan-uctvs12pbl"
+}

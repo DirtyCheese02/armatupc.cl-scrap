@@ -1,0 +1,19 @@
+{
+    "name": "Fractal Design Venturi HF-12 83.4 CFM 120 mm Fan",
+    "Manufacturer": "Fractal Design",
+    "Model": "Venturi HF-12",
+    "Part #": "FD-FAN-VENT-HF12-BK",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1400 RPM",
+    "Airflow": "83.4 CFM",
+    "Noise Level": "25.3 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CzM323/fractal-design-case-fan-fdfanventhf12bk"
+}

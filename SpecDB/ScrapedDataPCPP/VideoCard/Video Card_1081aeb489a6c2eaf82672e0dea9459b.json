@@ -1,0 +1,23 @@
+{
+    "name": "ASRock Taichi X OC+ Radeon RX 5700 XT 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[RX 5700 XT TAICHI X 8G OC+, RX5700XTTAICHIXOC]",
+    "Chipset": "Radeon RX 5700 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1810 MHz",
+    "Boost Clock": "2025 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Gold",
+    "Frame Sync": "FreeSync",
+    "Length": "324 mm",
+    "TDP": "225 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "4",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/P6rYcf/asrock-radeon-rx-5700-xt-8-gb-taichi-x-oc-video-card-rx-5700-xt-taichi-x-8g-oc"
+}

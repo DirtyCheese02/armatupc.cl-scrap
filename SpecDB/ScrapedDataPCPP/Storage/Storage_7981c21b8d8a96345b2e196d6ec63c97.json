@@ -1,0 +1,12 @@
+{
+    "name": "Sabrent Rocket 4.0 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Sabrent",
+    "Part #": "SB-NVMe4-HTSK-2TB",
+    "Capacity": "2 TB",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 4.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "TLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fqmmP6/sabrent-rocket-40-2-tb-m2-2280-nvme-solid-state-drive-sb-nvme4-htsk-2tb"
+}

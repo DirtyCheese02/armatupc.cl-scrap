@@ -1,0 +1,19 @@
+{
+    "name": "be quiet! Silent Wings 2 50.5 CFM 120 mm Fan",
+    "Manufacturer": "be quiet!",
+    "Part #": "BL030",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "50.5 CFM",
+    "Noise Level": "16.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.63 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GHYXsY/be-quiet-case-fan-bl030"
+}

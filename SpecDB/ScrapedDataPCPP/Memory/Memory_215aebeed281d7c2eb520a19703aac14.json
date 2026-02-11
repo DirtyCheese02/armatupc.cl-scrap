@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z Neo 32 GB (4 x 8 GB) DDR4-3800 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3800C16Q-32GTZN",
+    "Speed": "DDR4-3800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 8GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "8.421 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.4 V",
+    "Timing": "16-19-19-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Kr3mP6/gskill-trident-z-neo-32-gb-4-x-8-gb-ddr4-3800-cl16-memory-f4-3800c16q-32gtzn"
+}

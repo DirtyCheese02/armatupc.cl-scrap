@@ -1,0 +1,18 @@
+{
+    "name": "Nanoxia Deep Silence 23.6 CFM 92 mm Fan",
+    "Manufacturer": "Nanoxia",
+    "Part #": "NDS92PWM-1400",
+    "Size": "92 mm",
+    "Color": "Black / Green",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 1400 RPM",
+    "Airflow": "23.6 CFM",
+    "Noise Level": "13.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Features": "This 92 mm model of the Deep Silence fan series is equipped with a 4-pin PWM connector for automatic adjustment of the fan speed. The rotary speed spectrum ranges from 400 to a maximum of 1,400 rounds per minute. The Deep Silence 92 mm PWM 1400 generates an air flow of up to 23.6 CFM at a noise level of not more than 13.7 dB(A). A set of fan shock absorbers as well as a set of fan screws is included.",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Gd4gXL/nanoxia-case-fan-nds92pwm1400"
+}

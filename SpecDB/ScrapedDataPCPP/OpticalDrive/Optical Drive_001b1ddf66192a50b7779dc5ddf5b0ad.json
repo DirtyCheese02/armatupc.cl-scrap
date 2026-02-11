@@ -1,0 +1,21 @@
+{
+    "name": "Sony BC-5500H-01 Blu-Ray Reader, DVD/CD Writer",
+    "Manufacturer": "Sony",
+    "Part #": "BC-5500H-01",
+    "Form Factor": "5.25\" Slim",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "4.5 MB",
+    "BD-ROM Speed": "4X",
+    "DVD-ROM Speed": "8X",
+    "CD-ROM Speed": "24X",
+    "DVD+R Speed": "8X",
+    "DVD+RW Speed": "4X",
+    "DVD+R Dual-Layer Speed": "4X",
+    "DVD-R Speed": "8X",
+    "DVD-RW Speed": "4X",
+    "DVD-R Dual-Layer Speed": "4X",
+    "DVD-RAM Speed": "5X",
+    "CD-R Speed": "16X",
+    "CD-RW Speed": "10X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PPphP6/sony-optical-drive-bc5500h01"
+}

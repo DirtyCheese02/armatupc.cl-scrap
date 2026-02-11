@@ -1,0 +1,15 @@
+{
+    "name": "Intel DC S3500 800 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSC2BB800G401",
+    "Capacity": "800 GB",
+    "Price / GB": "$0.240",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Intel PC29AS21CA",
+    "SSD NAND Flash Type": "MLC",
+    "Power Loss Protection": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wzmLrH/intel-internal-hard-drive-ssdsc2bb800g401"
+}

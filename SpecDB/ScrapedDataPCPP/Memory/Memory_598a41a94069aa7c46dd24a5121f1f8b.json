@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Proline 16 GB (1 x 16 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MPL4E213FF16G28",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Price / GB": "$7.562",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "Timing": "15-15-15-36",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KWFbt6/mushkin-proline-16-gb-1-x-16-gb-ddr4-2133-cl15-memory-mpl4e213ff16g28"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ECS H67H2-M4 Micro ATX LGA1155 Motherboard",
+    "Manufacturer": "ECS",
+    "Part #": "H67H2-M4",
+    "Socket / CPU": "LGA1155",
+    "Form Factor": "Micro ATX",
+    "Chipset": "Intel H67",
+    "Memory Max": "16 GB",
+    "Memory Type": "DDR3",
+    "Memory Slots": "4",
+    "Memory Speed": "[DDR3-1066, DDR3-1333]",
+    "PCIe x16 Slots": "1",
+    "PCIe x1 Slots": "3",
+    "SATA 3.0 Gb/s Ports": "4",
+    "SATA 6.0 Gb/s Ports": "2",
+    "Onboard Ethernet": "1 x 1 Gb/s Ports",
+    "Onboard Video": "Depends on CPU",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "Yes",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xzTmP6/ecs-motherboard-h67h2m4"
+}

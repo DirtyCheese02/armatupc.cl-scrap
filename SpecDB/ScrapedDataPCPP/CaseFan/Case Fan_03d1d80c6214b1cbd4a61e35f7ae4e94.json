@@ -1,0 +1,17 @@
+{
+    "name": "Scythe Slipstream 74.25 CFM 120 mm Fan",
+    "Manufacturer": "Scythe",
+    "Part #": "SY1225DB12M-P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 1300 RPM",
+    "Airflow": "9.8 - 74.25 CFM",
+    "Noise Level": "3 - 26.5 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3qp323/scythe-case-fan-sy1225db12mp"
+}

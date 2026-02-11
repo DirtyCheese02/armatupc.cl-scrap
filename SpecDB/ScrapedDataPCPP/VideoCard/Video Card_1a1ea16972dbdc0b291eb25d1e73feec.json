@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL V2 GeForce RTX 3070 LHR 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[dual-rtx3070-8g-v2, 90YV0FQD-M0NA00]",
+    "Chipset": "GeForce RTX 3070 LHR",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "1755 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "267 mm",
+    "TDP": "220 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sp3NnQ/asus-dual-v2-geforce-rtx-3070-lhr-8-gb-video-card-dual-rtx3070-8g-v2"
+}

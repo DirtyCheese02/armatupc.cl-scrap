@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core i3-2100 3.1 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80623I32100",
+    "Series": "Intel Core i3",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "2",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.1 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "3 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Intel HD Graphics 2000",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "Yes: Hyper-Threading",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8Bn2FT/intel-cpu-bx80623i32100"
+}

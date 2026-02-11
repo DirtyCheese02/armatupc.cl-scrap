@@ -1,0 +1,18 @@
+{
+    "name": "Silverstone ML04 Type-C HTPC Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "[SST-ML04B-C, ML04B-C]",
+    "Type": "HTPC",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "Mesh",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "[USB 3.2 Gen 2 Type-C, USB 3.2 Gen 1 Type-A]",
+    "Motherboard Form Factor": "[Micro ATX, Mini DTX, Mini ITX]",
+    "Drive Bays": "[1 x External 5.25\", 2 x Internal 3.5\", 1 x Internal 2.5\"]",
+    "Expansion Slots": "4 x Half-Height",
+    "Fan Support": "80 mm",
+    "Dimensions": "[104 mm x 439 mm x 350 mm, 4.094\" x 17.283\" x 13.78\"]",
+    "Volume": "[15.98 L, 0.564 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Yt7scf/silverstone-ml04-type-c-htpc-case-sst-ml04b-c"
+}

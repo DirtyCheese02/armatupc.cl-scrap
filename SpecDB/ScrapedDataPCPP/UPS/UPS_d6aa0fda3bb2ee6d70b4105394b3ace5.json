@@ -1,0 +1,23 @@
+{
+    "name": "CyberPower OL2200RTXL2U UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "OL2200RTXL2U",
+    "Capacity (W)": "1800 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "18 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "5 Hour",
+    "Output Voltage": "[125 V AC, 110 V AC, 120 V AC, 115 V AC]",
+    "Receptacles": "[1 x NEMA L5-20R, 6 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "Switching Time": "0 ns",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FvVBD3/cyberpower-ups-ol2200rtxl2u"
+}

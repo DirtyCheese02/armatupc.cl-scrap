@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N150UBE 802.11a/b/g/n USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N150UBE",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "USB Type-A 2.0",
+    "Security": "64/128-bit WEP (Hex & ASCII), WPA/WPA2, WPA(TKIP with IEEE 802.1x)/WPA2(AES with IEEE 802.1x), WPS",
+    "Antenna": "1 x External Detachable antenna",
+    "Features": "[Supports software WPS (WiFi Protected Setup) connection., Wireless Multimedia Enhancements Quality of Service support (QoS) / enhanced power saving for Dynamic Networking., Low Noise Amplifier(LNA) support, Support 20 MHz and 40 MHz bandwidth, Advanced power management for Low power consumption.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4rNp99/rosewill-wireless-network-card-rnxn150ube"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "PNY MN4096SD3-1600-LV 4 GB (1 x 4 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "PNY",
+    "Part #": "MN4096SD3-1600-LV",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 4GB",
+    "Color": "Black / Green",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/xr9KHx/pny-memory-mn4096sd31600lv"
+}

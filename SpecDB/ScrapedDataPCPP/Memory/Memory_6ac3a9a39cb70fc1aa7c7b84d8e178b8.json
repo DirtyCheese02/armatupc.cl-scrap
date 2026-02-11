@@ -1,0 +1,16 @@
+{
+    "name": "GeIL SUPER LUCE RGB 16 GB (2 x 8 GB) DDR4-2666 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GLS416GB2666C16ADC",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "12.003 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-36",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hfdxFT/geil-super-luce-rgb-16gb-2-x-8gb-ddr4-2666-memory-gls416gb2666c16adc"
+}

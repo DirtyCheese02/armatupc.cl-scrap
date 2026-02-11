@@ -1,0 +1,21 @@
+{
+    "name": "Tripp Lite SMART1500XL UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART1500XL",
+    "Capacity (W)": "980 W",
+    "Capacity (VA)": "1500 VA",
+    "Alarm": "[On Battery, Overload, Low Battery]",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KJVBD3/tripp-lite-ups-smart1500xl"
+}

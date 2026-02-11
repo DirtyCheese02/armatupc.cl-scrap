@@ -1,0 +1,19 @@
+{
+    "name": "Apevia CF12S-BK 57.67 CFM 120 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF12S-BK",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "57.67 CFM",
+    "Noise Level": "24.7 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.66 mmH₂O",
+    "Features": "[Material: Plastic, Static Air Pressure: 1.66mm-H2O, Life Expectation: 30,000 hours, Operation Voltage Range: 10.8 VDC ~ 13.2 VDC, Start-up Voltage: 6 VDC, Rated Voltage: 12 VDC]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tmw323/apevia-cf12s-bk-5767-cfm-120-mm-fan-cf12s-bk"
+}

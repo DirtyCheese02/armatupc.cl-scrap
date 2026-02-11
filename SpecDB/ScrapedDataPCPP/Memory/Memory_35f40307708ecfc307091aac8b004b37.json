@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL17 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3600C17D-16GVK",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "9.444 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PPVBD3/gskill-memory-f43600c17d16gvk"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Enermax T.B. Silence 53.02 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTB12N-R",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "53.02 CFM",
+    "Noise Level": "14 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Twister",
+    "Features": "[Performance cooling with a low-noise profile, Twister Bearing technology for longer lifetime and low noise, High brightness LED with a unique lightning effect, Batwing Blades design and Carved Halo Frame for extra 20%~30% airflow, Unique Modular Frame with aluminum ring for enhanced stability of structure, Detachable fan blades for easy cleaning]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kVkD4D/enermax-case-fan-uctb12nr"
+}

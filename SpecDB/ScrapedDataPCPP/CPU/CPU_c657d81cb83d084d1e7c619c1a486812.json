@@ -1,0 +1,23 @@
+{
+    "name": "AMD FX-4100 3.6 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "AMD",
+    "Part #": "FD4100WMW4KGU",
+    "Series": "AMD FX",
+    "Microarchitecture": "Bulldozer",
+    "Core Family": "Zambezi",
+    "Socket": "AM3+",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "3.6 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "8 MB",
+    "TDP": "95 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Tr9KHx/amd-cpu-fd4100wmw4kgu"
+}

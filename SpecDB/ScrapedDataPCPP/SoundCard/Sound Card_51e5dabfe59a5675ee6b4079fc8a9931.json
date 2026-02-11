@@ -1,0 +1,12 @@
+{
+    "name": "SIIG LP-000022-S2 24-bit 96 kHz Sound Card",
+    "Manufacturer": "SIIG",
+    "Part #": "LP-000022-S2",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "90 dB",
+    "Sample Rate": "96 kHz",
+    "Chipset": "VIA VT1723",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QvrG3C/siig-sound-card-lp000022s2"
+}

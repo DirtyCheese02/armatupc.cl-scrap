@@ -1,0 +1,13 @@
+{
+    "name": "Samsung 960 Evo 1 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Samsung",
+    "Part #": "[MZ-V6E1T0, MZ-V6E1T0BW]",
+    "Capacity": "1 TB",
+    "Type": "SSD",
+    "Cache": "1024 MB",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D V-NAND TLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4cyxFT/samsung-960-evo-1tb-m2-2280-solid-state-drive-mz-v6e1t0"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Trident Z5 Royal 48 GB (2 x 24 GB) DDR5-8200 CL40 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-8200J4052F24GX2-TR5S",
+    "Speed": "DDR5-8200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 24GB",
+    "Color": "Silver",
+    "First Word Latency": "9.756 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.35 V",
+    "Timing": "40-52-52-131",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zdcBD3/gskill-trident-z5-royal-48-gb-2-x-24-gb-ddr5-8200-cl40-memory-f5-8200j4052f24gx2-tr5s"
+}

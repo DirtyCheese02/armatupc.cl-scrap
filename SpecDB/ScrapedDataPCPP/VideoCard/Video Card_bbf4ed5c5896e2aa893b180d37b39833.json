@@ -1,0 +1,22 @@
+{
+    "name": "Asus Noctua OC GeForce RTX 4080 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[RTX4080-O16G-NOCTUA, 90YV0IB2-M0AA00, 90YV0IB2-M0NA00]",
+    "Chipset": "GeForce RTX 4080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2205 MHz",
+    "Boost Clock": "2625 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Brown / Beige",
+    "Frame Sync": "G-Sync",
+    "Length": "310 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "5",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FMcgXL/asus-noctua-oc-geforce-rtx-4080-16-gb-video-card-rtx4080-o16g-noctua"
+}

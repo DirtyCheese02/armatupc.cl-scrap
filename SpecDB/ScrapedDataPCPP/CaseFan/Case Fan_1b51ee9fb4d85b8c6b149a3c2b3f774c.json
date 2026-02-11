@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC ACF8 Pro 80 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Part #": "[ACF8 Pro PWM, AFACO-08PP0-GBA01]",
+    "Size": "80 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 2000 RPM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[80mm, PWM Sharing Technology Regulates Fan Speed Based on Load, 500-2000 RPM, High Variable Airflow/Static Pressure & Low Noise: 33 CFM at 22 dBA, Unique Ninja-Knife Impeller Design Increasing Airflow while Minimizing Fan Noise, Fluid Dynamic Bearing for Extended Service Life, Best Noise/Performance Radio Fan, Rubber Mount Absorbs Vibration.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QPw323/arctic-cooling-case-fan-acf8propwm"
+}

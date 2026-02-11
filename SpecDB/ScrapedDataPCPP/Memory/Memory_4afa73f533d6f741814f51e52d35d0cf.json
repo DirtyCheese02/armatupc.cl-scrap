@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance LPX 64 GB (4 x 16 GB) DDR4-2400 CL14 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK64GX4M4A2400C14",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Price / GB": "$8.203",
+    "Color": "Black / Yellow",
+    "First Word Latency": "11.667 ns",
+    "CAS Latency": "14",
+    "Voltage": "1.2 V",
+    "Timing": "14-16-16-31",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zfPzK8/corsair-memory-cmk64gx4m4a2400c14"
+}

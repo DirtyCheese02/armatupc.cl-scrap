@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Orion RGB AMD Edition 16 GB (1 x 16 GB) DDR4-4066 CL18 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GAOSR416GB4000C18BSC",
+    "Speed": "DDR4-4066",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "8.854 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.4 V",
+    "Timing": "18-24-24-44",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h7jBD3/geil-orion-rgb-amd-edition-16-gb-1-x-16-gb-ddr4-4066-cl18-memory-gaosr416gb4000c18bsc"
+}

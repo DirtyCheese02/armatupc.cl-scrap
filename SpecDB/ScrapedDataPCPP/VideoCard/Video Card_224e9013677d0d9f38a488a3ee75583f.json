@@ -1,0 +1,22 @@
+{
+    "name": "PNY VCNRTX4000ADA-PB RTX 4000 Ada Generation 20 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTX4000ADA-PB",
+    "Chipset": "RTX 4000 Ada Generation",
+    "Memory": "20 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1500 MHz",
+    "Boost Clock": "2175 MHz",
+    "Effective Memory Clock": "18000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "MiniDisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2vLdnQ/pny-vcnrtx4000ada-pb-rtx-4000-ada-generation-20-gb-video-card-vcnrtx4000ada-pb"
+}

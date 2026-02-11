@@ -1,0 +1,20 @@
+{
+    "name": "APC SMX1000 UPS",
+    "Manufacturer": "APC",
+    "Part #": "[SMX1000, SMX120RMBP2U]",
+    "Capacity (W)": "800 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "8.10 Minutes",
+    "Backup/Run Time (Half Load)": "24.20 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "8 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gM8H99/apc-ups-smx1000"
+}

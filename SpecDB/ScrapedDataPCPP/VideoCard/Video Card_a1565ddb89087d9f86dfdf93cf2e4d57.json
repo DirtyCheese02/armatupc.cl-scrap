@@ -1,0 +1,23 @@
+{
+    "name": "EVGA XC3 ULTRA HYBRID GAMING GeForce RTX 3080 10GB LHR 10 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "10G-P5-3888-KL",
+    "Chipset": "GeForce RTX 3080 10GB LHR",
+    "Memory": "10 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1440 MHz",
+    "Boost Clock": "1755 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "263 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "240 mm Radiator + 1 Fan",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gPcG3C/evga-geforce-rtx-3080-lhr-10-gb-xc3-ultra-hybrid-gaming-video-card-10g-p5-3888-kl"
+}

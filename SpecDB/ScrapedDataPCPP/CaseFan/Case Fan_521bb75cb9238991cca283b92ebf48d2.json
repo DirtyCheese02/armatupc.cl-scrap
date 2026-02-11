@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RASF-141213 54.55 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RASF-141213",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1600 RPM",
+    "Airflow": "54.55 CFM",
+    "Noise Level": "11 - 30.32 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Long Life Sleeve",
+    "Features": "[- PWM-FUNCTION, PWM (Pulse Width Modulation). The 4-Pin connector let the mainboard to control the fan speed from 600-1600RPM., -Slim design only 1.5cm in thickness. The perfect solution for tight space.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wxrcCJ/rosewill-case-fan-rasf141213"
+}

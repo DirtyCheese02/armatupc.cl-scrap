@@ -1,0 +1,20 @@
+{
+    "name": "VisionTek 900307 Radeon HD 4670 X2 2 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900307",
+    "Chipset": "Radeon HD 4670 X2",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "725 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "118 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "4",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nw2kcf/visiontek-video-card-900307"
+}

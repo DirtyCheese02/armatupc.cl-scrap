@@ -1,0 +1,15 @@
+{
+    "name": "GeIL Dragon RAM 16 GB (2 x 8 GB) DDR4-3200 CL15 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GWW416GB3200C15DC",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "White / Gold",
+    "First Word Latency": "9.375 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MwcMnQ/geil-memory-gww416gb3200c15dc"
+}

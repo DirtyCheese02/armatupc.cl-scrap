@@ -1,0 +1,21 @@
+{
+    "name": "In Win IP-S200DF1-0 200 W TFX Power Supply",
+    "Manufacturer": "In Win",
+    "Part #": "IP-S200DF1-0",
+    "Type": "TFX",
+    "Wattage": "200 W",
+    "Modular": "No",
+    "Color": "Silver",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "1",
+    "Output": "+12V1@14A, +5V@14A, +3.3V@13A, -12V@0.3A, +5VSB@2A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Hxzv6h/in-win-ip-s200df1-0-200-w-tfx-power-supply-ip-s200df1-0"
+}

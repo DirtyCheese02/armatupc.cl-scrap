@@ -1,0 +1,16 @@
+{
+    "name": "TEAMGROUP Elite 8 GB (2 x 4 GB) DDR4-2400 SODIMM CL16 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TED48G2400C16DC-S01",
+    "Speed": "DDR4-2400",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/jhMMnQ/teamgroup-elite-8-gb-2-x-4-gb-ddr4-2400-sodimm-cl16-memory-ted48g2400c16dc-s01"
+}

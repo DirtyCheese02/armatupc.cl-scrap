@@ -1,0 +1,22 @@
+{
+    "name": "Tripp Lite SU1500RTXL2U UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SU1500RTXL2U",
+    "Capacity (W)": "1200 W",
+    "Capacity (VA)": "1500 VA",
+    "Rack Height": "2U",
+    "Alarm": "[On Battery, Low Battery, Overload, UPS Fault, Remote Shutdown]",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Emergency Power OFF": "Optional",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "0 ns",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JvVBD3/tripp-lite-ups-su1500rtxl2u"
+}

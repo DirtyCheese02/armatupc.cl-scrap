@@ -1,0 +1,23 @@
+{
+    "name": "Intel Xeon E5-2603 1.8 GHz Quad-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80621E52603",
+    "Series": "Intel Xeon E5",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge-EP",
+    "Socket": "LGA2011",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "1.8 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "10 MB",
+    "TDP": "80 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "Yes",
+    "Includes Cooler": "No",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yrNp99/intel-cpu-bx80621e52603"
+}

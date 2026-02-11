@@ -1,0 +1,15 @@
+{
+    "name": "Lexar Ares RGB 32 GB (2 x 16 GB) DDR5-6800 CL34 Memory",
+    "Manufacturer": "Lexar",
+    "Part #": "LD5U16G68C34WA-RGD",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "34",
+    "Voltage": "1.4 V",
+    "Timing": "34-45-45-108",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LVjRsY/lexar-ares-rgb-32-gb-2-x-16-gb-ddr5-6800-cl34-memory-ld5u16g68c34wa-rgd"
+}

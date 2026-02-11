@@ -1,0 +1,19 @@
+{
+    "name": "Cooler Master MasterFan SF120R 59 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Model": "MasterFan SF120R",
+    "Part #": "MFX-B2DN-20NPA-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 2000 RPM",
+    "Airflow": "59 CFM",
+    "Noise Level": "8 - 30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.1 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GRL48d/cooler-master-masterfan-sf120r-argb-59-cfm-120-mm-fan-mfx-b2dn-20npa-r1"
+}

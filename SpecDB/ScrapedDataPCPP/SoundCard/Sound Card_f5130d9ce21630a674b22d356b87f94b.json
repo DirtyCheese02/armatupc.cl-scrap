@@ -1,0 +1,10 @@
+{
+    "name": "SIIG DP SoundWave Sound Card",
+    "Manufacturer": "SIIG",
+    "Model": "DP SoundWave",
+    "Part #": "IC-510211-S1",
+    "Channels": "5.1",
+    "Digital Audio": "24-bit",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vfH48d/siig-dp-soundwave-sound-card-ic-510211-s1"
+}

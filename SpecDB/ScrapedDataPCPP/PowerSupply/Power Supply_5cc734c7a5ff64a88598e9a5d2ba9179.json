@@ -1,0 +1,21 @@
+{
+    "name": "Raidmax RX-380K 380 W ATX Power Supply",
+    "Manufacturer": "Raidmax",
+    "Part #": "RX-380K",
+    "Type": "ATX",
+    "Wattage": "380 W",
+    "Length": "175 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "3",
+    "AMP/Molex 4-pin Connectors": "2",
+    "Output": "+3.3V@26A, +5V@29A, +12V@11A, -5V@0.5A, -12V@0.8A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/j9zv6h/raidmax-power-supply-rx380k"
+}

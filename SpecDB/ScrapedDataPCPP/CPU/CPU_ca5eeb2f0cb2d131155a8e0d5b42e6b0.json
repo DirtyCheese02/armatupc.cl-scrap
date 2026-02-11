@@ -1,0 +1,23 @@
+{
+    "name": "AMD Athlon II X2 221 2.8 GHz Dual-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD221XOJGXBOX",
+    "Series": "AMD Athlon II X2",
+    "Microarchitecture": "Lynx",
+    "Core Family": "Llano",
+    "Socket": "FM1",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.8 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YLW9TW/amd-cpu-ad221xojgxbox"
+}

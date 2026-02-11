@@ -1,0 +1,16 @@
+{
+    "name": "Thermaltake Pure A12 56.45 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F109-PL12WT-B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1500 RPM",
+    "PWM": "Yes",
+    "LED": "White",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.59 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WjmFf7/thermaltake-pure-a12-5645-cfm-120-mm-fan-cl-f109-pl12wt-b"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Xion Alphawing 51.02 CFM 120 mm Fan",
+    "Manufacturer": "Xion",
+    "Part #": "AXP-GF120_LEDR",
+    "Size": "120 mm",
+    "Color": "Translucent Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "51.02 CFM",
+    "Noise Level": "19.6 - 25.2 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hybrid Sleeves Bearing ( H.S.B )",
+    "Features": "[Voltage Range: 12V, Blade Geometry: 7 Vortex Blades, Anti-acoustic low Noise level designed, Driving Powerful air flow up to 51.02 CFM, operating at 1200 RPM, Best Wire Management and 3 to 4 pins Adaptor included, LED colors provided brilliant illumination while operating]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kxphP6/xion-case-fan-axpgf120ledr"
+}

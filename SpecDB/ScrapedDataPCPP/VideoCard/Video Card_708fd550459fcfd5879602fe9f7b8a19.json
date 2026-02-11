@@ -1,0 +1,21 @@
+{
+    "name": "MSI TWIN FROZR II GeForce GTX 470 1.25 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N470GTX Twin Frozr II",
+    "Chipset": "GeForce GTX 470",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "607 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fVK7YJ/msi-video-card-n470gtxtwinfrozrii"
+}

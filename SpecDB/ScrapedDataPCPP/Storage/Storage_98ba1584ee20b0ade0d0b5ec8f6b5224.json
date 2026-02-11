@@ -1,0 +1,11 @@
+{
+    "name": "Intel Optane 905P 960 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDPED1D960GAX1",
+    "Capacity": "960 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QLx2FT/intel-optane-905p-series-960gb-pci-e-solid-state-drive-ssdped1d960gax1"
+}

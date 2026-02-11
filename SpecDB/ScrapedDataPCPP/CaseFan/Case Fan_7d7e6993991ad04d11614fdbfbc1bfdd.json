@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RFA-80-RL 33.21 CFM 80 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFA-80-RL",
+    "Size": "80 mm",
+    "Color": "Red",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2500 RPM",
+    "Airflow": "33.21 CFM",
+    "Noise Level": "22.41 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "4 Red LEDs implemented for bright glowing result",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9xphP6/rosewill-case-fan-rfa80rl"
+}

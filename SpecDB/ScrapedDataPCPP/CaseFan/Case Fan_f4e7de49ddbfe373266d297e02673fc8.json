@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-H12-X28-R9 98.2 CFM 120 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-H12-X28-R9",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2400 RPM",
+    "Airflow": "98.2 CFM",
+    "Noise Level": "32.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.48 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tRXMnQ/thermalright-tl-h12-x28-r9-982-cfm-120-mm-fan-tl-h12-x28-r9"
+}

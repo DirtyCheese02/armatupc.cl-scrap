@@ -1,0 +1,17 @@
+{
+    "name": "Patriot Viper Elite 5 Ultra RGB 64 GB (2 x 32 GB) DDR5-6000 CL28 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "VEUR564G6028K",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$15.625",
+    "Color": "Black",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.4 V",
+    "Timing": "28-40-40-100",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/33dMnQ/patriot-viper-elite-5-ultra-rgb-64-gb-2-x-32-gb-ddr5-6000-cl28-memory-veur564g6028k"
+}

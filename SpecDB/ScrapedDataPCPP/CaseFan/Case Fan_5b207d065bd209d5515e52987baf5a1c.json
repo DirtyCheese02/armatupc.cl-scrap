@@ -1,0 +1,19 @@
+{
+    "name": "Xigmatek XLF 29.2 CFM 80 mm Fan",
+    "Manufacturer": "Xigmatek",
+    "Part #": "XLF-F8253",
+    "Size": "80 mm",
+    "Color": "Orange",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "29.2 CFM",
+    "Noise Level": "25 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Circulative Bearing",
+    "Features": "[Higher airflow, static pressure and torque, Reduce noise and power consumption, 4 pcs White LEDs and transparent colorific blade and frame, Low noise level, Longer life bearing design, Optimized blade design to create cooling performance]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PR7wrH/xigmatek-case-fan-xlff8253"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws 16 GB (1 x 16 GB) DDR4-3200 SODIMM CL18 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C18S-16GRS",
+    "Speed": "DDR4-3200",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.2 V",
+    "Timing": "18-18-18-43",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kF448d/gskill-16gb-1-x-16gb-ddr4-3200-memory-f4-3200c18s-16grs"
+}

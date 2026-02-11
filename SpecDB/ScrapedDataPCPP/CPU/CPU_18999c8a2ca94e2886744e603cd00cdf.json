@@ -1,0 +1,23 @@
+{
+    "name": "AMD A4-4000 3 GHz Dual-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "AD4000OKHLBOX",
+    "Series": "AMD A4",
+    "Microarchitecture": "Piledriver",
+    "Core Family": "Richland",
+    "Socket": "FM2",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "3 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "Radeon HD 7480D",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pJh9TW/amd-cpu-ad4000okhlbox"
+}

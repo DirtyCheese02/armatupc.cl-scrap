@@ -1,0 +1,12 @@
+{
+    "name": "IOGEAR GWU735 802.11a/b/g/n/ac USB Type-A Wi-Fi Adapter",
+    "Manufacturer": "IOGEAR",
+    "Part #": "GWU735",
+    "Protocol": "Wi-Fi 5",
+    "Interface": "USB Type-A 3.2 Gen 1",
+    "Security": "64/128-bit WEP , WPA, WPA2, WPS",
+    "Antenna": "2T2R",
+    "Operating Range": "300 meters in free space",
+    "Features": "[USB 3.0 Wi-Fi 802.11ac wireless dual-band adapter, Supports speeds of up to 867Mbps on 5GHz and 300Mbps on 2.4GHz networks, Supports WEP, WPA, WPA2, TKIP, and AES encryption, Push-button Wi-Fi Protected Setup? (WPS) simplifies secure connections to existing Wi-Fi networks, Works with 802.11a/b/g/n routers and access points, Backwards compatible with USB 2.0, Convenient LED status indicator]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wv648d/iogear-wireless-network-card-gwu735"
+}

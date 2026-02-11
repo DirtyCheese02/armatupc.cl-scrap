@@ -1,0 +1,21 @@
+{
+    "name": "XClio GreatPower 600 W 80+ Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "XClio",
+    "Part #": "X14S4P4 600W",
+    "Type": "ATX",
+    "Efficiency Rating": "80+",
+    "Wattage": "600 W",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "2",
+    "SATA Connectors": "4",
+    "AMP/Molex 4-pin Connectors": "7",
+    "Output": "+3.3V@30A, +5V@28A, +12V1@18A, +12V2@18A, +12V3@18A, +12V4@18A, -12V@0.8A, +5VSB@3.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R9mLrH/xclio-greatpower-600-w-80-certified-fully-modular-atx-power-supply-x14s4p4-600w"
+}

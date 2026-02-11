@@ -1,0 +1,17 @@
+{
+    "name": "CyberPower PR3000LCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "PR3000LCD",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Alarm": "[Low Battery, On Battery, Overload]",
+    "Backup/Run Time (Full Load)": "6 Minutes",
+    "Backup/Run Time (Half Load)": "16.80 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[2 x NEMA 5-20R, 8 x NEMA 5-15R]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/G9Wrxr/cyberpower-ups-pr3000lcd"
+}

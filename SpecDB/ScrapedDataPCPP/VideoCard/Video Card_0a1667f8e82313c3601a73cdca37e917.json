@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 02G-P4-6338-KR GeForce GT 1030 2 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "02G-P4-6338-KR",
+    "Chipset": "GeForce GT 1030",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1290 MHz",
+    "Boost Clock": "1544 MHz",
+    "Effective Memory Clock": "6008 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Gray",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-D Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mVqbt6/evga-geforce-gt-1030-2gb-video-card-02g-p4-6338-kr"
+}

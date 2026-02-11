@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake DuraMax 78 CFM 120 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "AF0060",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "78 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[Rated Voltage: 12 V, Started Voltage: 6 V, Rated Current: 0.38 A, Power Input: 4.56 W]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hVMFf7/thermaltake-case-fan-af0060"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire Vapor-X Radeon HD 7970 GHz Edition 3 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100351VXSR",
+    "Chipset": "Radeon HD 7970 GHz Edition",
+    "Memory": "3 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "285 mm",
+    "TDP": "270 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "1",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mhfp99/sapphire-video-card-100351vxsr"
+}

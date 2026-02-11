@@ -1,0 +1,20 @@
+{
+    "name": "Gigabyte GV-N295-18I-B GeForce GTX 295 1.75 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N295-18I-B",
+    "Chipset": "GeForce GTX 295",
+    "Memory": "1.75 GB",
+    "Memory Type": "GDDR3",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "289 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sYGkcf/gigabyte-video-card-gvn29518ib"
+}

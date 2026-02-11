@@ -1,0 +1,18 @@
+{
+    "name": "Montech HP 95.61 CFM 140 mm Fan",
+    "Manufacturer": "Montech",
+    "Part #": "[HP140W, HP140 ARGB PWM (W)]",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1600 RPM",
+    "Airflow": "95.61 CFM",
+    "Noise Level": "29.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.95 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/k3sMnQ/montech-hp-9561-cfm-140-mm-fan-hp140w"
+}

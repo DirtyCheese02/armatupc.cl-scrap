@@ -1,0 +1,17 @@
+{
+    "name": "TEAMGROUP T-Force Delta RGB 96 GB (2 x 48 GB) DDR5-6800 CL36 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "FF3D596G6800HC36DDC01",
+    "Speed": "DDR5-6800",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 48GB",
+    "Price / GB": "$8.750",
+    "Color": "Black",
+    "First Word Latency": "10.588 ns",
+    "CAS Latency": "36",
+    "Voltage": "1.4 V",
+    "Timing": "36-46-46-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MPFmP6/teamgroup-t-force-delta-rgb-96-gb-2-x-48-gb-ddr5-6800-cl36-memory-ff3d596g6800hc36ddc01"
+}

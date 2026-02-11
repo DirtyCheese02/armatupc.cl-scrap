@@ -1,0 +1,20 @@
+{
+    "name": "CRYORIG XF140 76 CFM 140 mm Fan",
+    "Manufacturer": "CRYORIG",
+    "Model": "XF140",
+    "Part #": "CR-XFA",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1300 RPM",
+    "Airflow": "76 CFM",
+    "Noise Level": "23 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "HPLN Bearing",
+    "Features": "HPLN Low Noise Bearing, Integrated Acoustic Vibration Absorbers, Static Pressure and Air Flow Optimized Fan Blade, PWM Fan Control",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/V3fp99/cryorig-case-fan-crxfa"
+}

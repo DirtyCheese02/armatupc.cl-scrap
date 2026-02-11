@@ -1,0 +1,17 @@
+{
+    "name": "Crucial Pro 32 GB (2 x 16 GB) DDR5-6400 CL38 Memory",
+    "Manufacturer": "Crucial",
+    "Part #": "CP2K16G64C38U5B",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Price / GB": "$9.156",
+    "Color": "Black",
+    "First Word Latency": "11.875 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.35 V",
+    "Timing": "38-40-40-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TQjRsY/crucial-pro-32-gb-2-x-16-gb-ddr5-6400-cl38-memory-cp2k16g64c38u5b"
+}

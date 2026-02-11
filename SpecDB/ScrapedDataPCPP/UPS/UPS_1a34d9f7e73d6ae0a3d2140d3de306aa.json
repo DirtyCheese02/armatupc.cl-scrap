@@ -1,0 +1,21 @@
+{
+    "name": "APC SUA1000RM1U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA1000RM1U",
+    "Capacity (W)": "640 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "1U",
+    "Alarm": "[On Battery, Low Battery]",
+    "Backup/Run Time (Full Load)": "5.40 Minutes",
+    "Backup/Run Time (Half Load)": "14.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "2 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VRGj4D/apc-ups-sua1000rm1u"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle R-SPI600ACH5B 600 W 80+ Silver Certified ATX Power Supply",
+    "Manufacturer": "Sparkle",
+    "Part #": "R-SPI600ACH5B",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Silver",
+    "Wattage": "600 W",
+    "Length": "139 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "1",
+    "PCIe 6-pin Connectors": "1",
+    "SATA Connectors": "6",
+    "AMP/Molex 4-pin Connectors": "0",
+    "Output": "+3.3V@24A, +5V@24A, +12V1@18A, +12V2@18A, +12V3@18A, +12V4@18A, -12V@0.5A, +5VSB@1.25A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8J4gXL/sparkle-power-supply-rspi600ach5b"
+}

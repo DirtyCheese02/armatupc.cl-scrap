@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GAMING OC V2 GeForce RTX 4070 12 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N4070GAMING OCV2-12GD",
+    "Chipset": "GeForce RTX 4070",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "1920 MHz",
+    "Boost Clock": "2565 MHz",
+    "Effective Memory Clock": "21000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BWhv6h/gigabyte-gaming-oc-v2-geforce-rtx-4070-12-gb-video-card-gv-n4070gaming-ocv2-12gd"
+}

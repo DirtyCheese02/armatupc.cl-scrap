@@ -1,0 +1,19 @@
+{
+    "name": "Titan TFD-9515M12ZP 52.95 CFM 95 mm Fan",
+    "Manufacturer": "Titan",
+    "Part #": "TFD-9515M12ZP",
+    "Size": "95 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "150 - 1500 RPM",
+    "Airflow": "52.95 CFM",
+    "Noise Level": "5 - 28.6 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Z-AXIS",
+    "Features": "[extreme silent, extreme minimum speed, extreme low power consumption, Silent operation with minimum 150RPM, Precise speed control reduces power consumption, 60,000 Hours life time, 4-PIN PWM function]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QZsKHx/titan-tfd-9515m12zp-5295-cfm-95-mm-fan-tfd-9515m12zp"
+}

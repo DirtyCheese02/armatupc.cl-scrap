@@ -1,0 +1,22 @@
+{
+    "name": "Asus DUAL OC GeForce RTX 5050 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[dual-rtx5050-o8g, 90YV0N72-M0NA00]",
+    "Chipset": "GeForce RTX 5050",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2317 MHz",
+    "Boost Clock": "2677 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "203 mm",
+    "TDP": "130 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rh2j4D/asus-dual-oc-geforce-rtx-5050-8-gb-video-card-dual-rtx5050-o8g"
+}

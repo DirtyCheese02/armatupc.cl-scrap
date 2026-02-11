@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX4200S2LL/2G 2 GB (1 x 2 GB) DDR2-533 SODIMM CL3 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX4200S2LL/2G",
+    "Speed": "DDR2-533",
+    "Form Factor": "200-pin SODIMM (DDR2)",
+    "Modules": "1 x 2GB",
+    "Color": "Blue / White",
+    "First Word Latency": "11.257 ns",
+    "CAS Latency": "3",
+    "Voltage": "1.8 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KNbp99/kingston-memory-khx4200s2ll2g"
+}

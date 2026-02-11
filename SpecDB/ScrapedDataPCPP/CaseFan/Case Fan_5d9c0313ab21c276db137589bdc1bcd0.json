@@ -1,0 +1,19 @@
+{
+    "name": "StarTech FANBOX 39.35 CFM 92 mm Fan",
+    "Manufacturer": "StarTech",
+    "Part #": "FANBOX92",
+    "Size": "92 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2200 RPM",
+    "Airflow": "39.35 CFM",
+    "Noise Level": "26 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Ball",
+    "Features": "Ball bearings in the motor provide dependable operation and a long service life",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7Pw323/startech-fanbox92-3935-cfm-92-mm-fan-fanbox92"
+}

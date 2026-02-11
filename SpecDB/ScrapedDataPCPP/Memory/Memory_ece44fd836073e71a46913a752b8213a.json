@@ -1,0 +1,15 @@
+{
+    "name": "GOODRAM IRDM RGB 64 GB (2 x 32 GB) DDR5-6400 CL32 Memory",
+    "Manufacturer": "GOODRAM",
+    "Part #": "IRG-64D5L32/64GDC",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "32",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/g4JBD3/goodram-irdm-rgb-64-gb-2-x-32-gb-ddr5-6400-cl32-memory-irg-64d5l3264gdc"
+}

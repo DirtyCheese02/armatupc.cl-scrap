@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill N600PCE 802.11a/b/g/n PCIe x1 Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "N600PCE",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCIe x1",
+    "Security": "64/128 bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK (TKIP/AES)",
+    "Antenna": "2 x 3dBi External Dual Band Antenna",
+    "Features": "[Maximum throughput for 2.4GHz or 5 GHz support up to 300Mbps, Supports dual-band, 2.4GHz or 5GHz, Seamlessly compatible with 802.11a/b/g/n products, Experience better video streaming and online gaming enjoyment by choosing 5GHz band for seamless wireless connections, Supports 64/128 WEP, WPA /WPA2/WPA-PSK/WPA2-PSK(TKIP/AES), supports IEEE 802.1X, Supports Windows XP 32/64bit, Vista 32/64bit, Windows 7 32/64bit, Supports One-Click button WPS (Wi-Fi Protected Setup) connection., Supports Wi-Fi Direct - Connecting Wireless Devices without AP*, Supports 3 mode - Client Mode, AP mode, AP+ Client Mode (AP+ Client Mode Win7 only), *Wi-Fi Direct requires compatible devices.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GrNp99/rosewill-wireless-network-card-n600pce"
+}

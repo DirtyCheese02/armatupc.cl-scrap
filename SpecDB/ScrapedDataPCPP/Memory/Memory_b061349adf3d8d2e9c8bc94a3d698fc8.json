@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal HX100 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "B5HX100326030ER2G-BS001",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Silver",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-38-38-76",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MQPv6h/biwin-black-opal-hx100-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-b5hx100326030er2g-bs001"
+}

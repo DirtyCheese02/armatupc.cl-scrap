@@ -1,0 +1,15 @@
+{
+    "name": "Kingston FURY 64 GB (4 x 16 GB) DDR5-5200 CL40 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KF552C40BWAK4-64",
+    "Speed": "DDR5-5200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 16GB",
+    "Color": "White",
+    "First Word Latency": "15.385 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tBLdnQ/kingston-fury-64-gb-4-x-16-gb-ddr5-5200-cl40-memory-kf552c40bwak4-64"
+}

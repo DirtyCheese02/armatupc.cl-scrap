@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KVR18R13S4/8 8 GB (1 x 8 GB) Registered DDR3-1866 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR18R13S4/8",
+    "Speed": "DDR3-1866",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 8GB",
+    "Color": "Green",
+    "First Word Latency": "13.934 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GwGkcf/kingston-memory-kvr18r13s48"
+}

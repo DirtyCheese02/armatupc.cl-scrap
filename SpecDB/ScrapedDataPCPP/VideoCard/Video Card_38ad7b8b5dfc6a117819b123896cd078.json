@@ -1,0 +1,22 @@
+{
+    "name": "Asus TUF GAMING OC Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[TUF-RX6700XT-O12G-GAMING, 90YV0G80-M0NA00]",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "322 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mL2WGX/asus-radeon-rx-6700-xt-12-gb-tuf-gaming-oc-video-card-tuf-rx6700xt-o12g-gaming"
+}

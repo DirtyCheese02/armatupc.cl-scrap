@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite SMART1500LCDT UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART1500LCDT",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "1.60 Minutes",
+    "Backup/Run Time (Half Load)": "10 Minutes",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "[Brownout, Over Voltage]",
+    "Receptacles": "5 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "Switching Time": "2 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gRGj4D/tripp-lite-ups-smart1500lcdt"
+}

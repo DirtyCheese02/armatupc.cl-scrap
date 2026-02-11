@@ -1,0 +1,15 @@
+{
+    "name": "Avexir Blitz1.1 16 GB (2 x 8 GB) DDR4-2800 CL15 Memory",
+    "Manufacturer": "Avexir",
+    "Part #": "AVD4UZ128001508G-2BZ",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10.714 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VkX2FT/avexir-memory-avd4uz128001508g2bz"
+}

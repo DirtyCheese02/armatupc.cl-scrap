@@ -1,0 +1,22 @@
+{
+    "name": "Asus PRIME Radeon RX 9070 XT 16 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[PRIME-RX9070XT-16G, 90YV0L72-M0AA00]",
+    "Chipset": "Radeon RX 9070 XT",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2460 MHz",
+    "Boost Clock": "2990 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "312 mm",
+    "TDP": "304 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "3 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c7pD4D/asus-prime-radeon-rx-9070-xt-16-gb-video-card-prime-rx9070xt-16g"
+}

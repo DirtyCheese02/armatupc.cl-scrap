@@ -1,0 +1,20 @@
+{
+    "name": "CyberPower CP1500PFCLCDTAA UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP1500PFCLCDTAA",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Backup/Run Time (Full Load)": "1.98 Minutes",
+    "Backup/Run Time (Half Load)": "10.98 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RG-6, RJ-11]",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "10 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mXH48d/cyberpower-ups-cp1500pfclcdtaa"
+}

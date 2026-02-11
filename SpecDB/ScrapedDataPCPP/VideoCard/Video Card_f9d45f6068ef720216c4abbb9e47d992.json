@@ -1,0 +1,22 @@
+{
+    "name": "ASRock Challenger OC Arc A580 8 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "[A580 CL 8GO, 90-GA3JZZ-00UANF]",
+    "Chipset": "Arc A580",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1700 MHz",
+    "Boost Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "271 mm",
+    "TDP": "175 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort 2.0 Outputs": "3",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VzCZxr/asrock-challenger-oc-arc-a580-8-gb-video-card-a580-cl-8go"
+}

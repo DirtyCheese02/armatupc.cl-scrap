@@ -1,0 +1,19 @@
+{
+    "name": "Apevia CF4SL-4C 25.64 CFM 80 mm Fan",
+    "Manufacturer": "Apevia",
+    "Part #": "CF4SL-4C",
+    "Size": "80 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "25.64 CFM",
+    "Noise Level": "22.05 dB",
+    "PWM": "No",
+    "LED": "Multicolor",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.64 mmH₂O",
+    "Features": "[Highly transparent 8cm crystal fan, multi color super bright LED lights, Ultra quiet and powerful]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r2JwrH/apevia-cf4sl-4c-2564-cfm-80-mm-fan-cf4sl-4c"
+}

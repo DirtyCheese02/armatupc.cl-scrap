@@ -1,0 +1,16 @@
+{
+    "name": "APC SMT3000RMI2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT3000RMI2U",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "11 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r8KhP6/apc-ups-smt3000rmi2u"
+}

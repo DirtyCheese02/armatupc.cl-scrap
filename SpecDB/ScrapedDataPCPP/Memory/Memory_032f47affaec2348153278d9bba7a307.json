@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-2800 CL16 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-2800C16D-16GVG",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "11.429 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pfPzK8/gskill-memory-f42800c16d16gvg"
+}

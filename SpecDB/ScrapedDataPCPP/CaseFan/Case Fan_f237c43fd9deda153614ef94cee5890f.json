@@ -1,0 +1,19 @@
+{
+    "name": "Xion Alphawing 59.6 CFM 140 mm Fan",
+    "Manufacturer": "Xion",
+    "Part #": "AXP-GF140_WT",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "59.6 CFM",
+    "Noise Level": "18.6 - 23.3 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hybrid Sleeves Bearing ( H.S.B )",
+    "Features": "[Voltage Range: 12V, Blade Geometry: 7 Vortex Blades, Anti-acoustic low Noise level designed, Best Wire Management and 3 to 4 pins Adaptor included]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/x7Qypg/xion-axp-gf140_wt-596-cfm-140-mm-fan-axp-gf140_wt"
+}

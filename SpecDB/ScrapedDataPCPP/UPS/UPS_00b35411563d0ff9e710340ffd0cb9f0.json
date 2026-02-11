@@ -1,0 +1,21 @@
+{
+    "name": "APC SUA3000I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA3000I",
+    "Capacity (W)": "2700 W",
+    "Capacity (VA)": "3000 VA",
+    "Alarm": "[On Battery, Low Battery, Configurable Delay]",
+    "Backup/Run Time (Full Load)": "5.50 Minutes",
+    "Backup/Run Time (Half Load)": "13.60 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Output Voltage": "[240 V AC, 230 V AC]",
+    "Receptacles": "[8 x IEC 320-C13, 1 x IEC 320-C19, 3]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "Waveform Type": "Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/qM8H99/apc-ups-sua3000i"
+}

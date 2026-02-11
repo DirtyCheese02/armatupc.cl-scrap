@@ -1,0 +1,14 @@
+{
+    "name": "Silicon Power SP008GBSFU240N22 8 GB (2 x 4 GB) DDR4-2400 SODIMM CL17 Memory",
+    "Manufacturer": "Silicon Power",
+    "Part #": "SP008GBSFU240N22",
+    "Speed": "DDR4-2400",
+    "Form Factor": "260-pin SODIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "First Word Latency": "14.167 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YyGbt6/silicon-power-sp008gbsfu240n22-8-gb-2-x-4-gb-ddr4-2400-sodimm-cl17-memory-sp008gbsfu240n22"
+}

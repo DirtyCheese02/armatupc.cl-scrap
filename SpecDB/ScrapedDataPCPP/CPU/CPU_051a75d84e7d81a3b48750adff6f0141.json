@@ -1,0 +1,23 @@
+{
+    "name": "AMD Sempron X2 198 2.5 GHz Dual-Core Processor",
+    "Manufacturer": "AMD",
+    "Part #": "SD198XOJGXBOX",
+    "Series": "AMD Sempron",
+    "Microarchitecture": "Lynx",
+    "Core Family": "Llano",
+    "Socket": "FM1",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.5 GHz",
+    "L2 Cache": "1 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wYphP6/amd-cpu-sd198xojgxbox"
+}

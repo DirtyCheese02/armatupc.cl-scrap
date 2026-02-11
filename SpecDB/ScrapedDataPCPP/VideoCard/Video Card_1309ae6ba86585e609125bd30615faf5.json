@@ -1,0 +1,22 @@
+{
+    "name": "Inno3D Twin X2 GeForce RTX 4060 8 GB Video Card",
+    "Manufacturer": "Inno3D",
+    "Part #": "N40602-08D6-173051N",
+    "Chipset": "GeForce RTX 4060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1830 MHz",
+    "Boost Clock": "2460 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "250 mm",
+    "TDP": "115 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4XkH99/inno3d-twin-x2-geforce-rtx-4060-8-gb-video-card-n40602-08d6-173051n"
+}

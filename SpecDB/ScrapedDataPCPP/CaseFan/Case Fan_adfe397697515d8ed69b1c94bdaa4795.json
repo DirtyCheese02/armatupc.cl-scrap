@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC F12 53 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F12",
+    "Part #": "ACFAN00201A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1350 RPM",
+    "Airflow": "53 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W4fxFT/arctic-f12-53-cfm-120-mm-fan-acfan00201a"
+}

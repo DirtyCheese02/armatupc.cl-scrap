@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone Air Penetrator 130 CFM 180 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "AP181",
+    "Size": "180 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1200 RPM",
+    "Airflow": "80 - 130 CFM",
+    "Noise Level": "18 - 34 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Industry leading air channeling fan, Wide fan blades for reducing air resistance, Integrated air channeling grille double as fan guard to reduce overall size, Low power consumption]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/H6JwrH/silverstone-ap181-130-cfm-180-mm-fan-ap181"
+}

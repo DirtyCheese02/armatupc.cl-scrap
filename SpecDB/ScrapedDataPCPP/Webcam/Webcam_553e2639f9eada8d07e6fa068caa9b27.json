@@ -1,0 +1,17 @@
+{
+    "name": "Logitech BRIO Ultra HD Pro Webcam",
+    "Manufacturer": "Logitech",
+    "Model": "BRIO Ultra HD Pro",
+    "Part #": "960-001105",
+    "Resolution": "[4k, 1080p, 720p]",
+    "Connection": "USB 3.2 Gen 1 Type-A",
+    "Focus Type": "Auto",
+    "Operating System": "[Windows, OS X, ChromeOS]",
+    "FOV Angle": "82°",
+    "Digital Zoom": "5X",
+    "Privacy Shutter": "Yes",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "Supports Windows Hello": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zxqBD3/logitech-brio-ultra-hd-pro-webcam-960-001105"
+}

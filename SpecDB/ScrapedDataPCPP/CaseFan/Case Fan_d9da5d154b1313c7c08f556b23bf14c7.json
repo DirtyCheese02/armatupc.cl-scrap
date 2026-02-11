@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill ROCF-13002 38.2 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "ROCF-13002",
+    "Size": "120 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "38.2 CFM",
+    "Noise Level": "22 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "long life sleeve",
+    "Features": "[120mm, 7 blades, 1200RPM ± 10%0RPM / 38.2CFM, Long life sleeve, Transparent frame with blue LED,2 pack]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pn3RsY/rosewill-case-fan-rocf13002"
+}

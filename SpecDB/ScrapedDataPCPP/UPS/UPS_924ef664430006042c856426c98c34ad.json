@@ -1,0 +1,13 @@
+{
+    "name": "Tripp Lite SMT1500LCDT UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMT1500LCDT",
+    "Capacity (W)": "900 W",
+    "Capacity (VA)": "1500 VA",
+    "Dataline Protection": "[RJ-11, RJ-45, RG-6]",
+    "Form Factor": "Tower",
+    "Protection Type": "[Brownout, Surge]",
+    "Receptacles": "10 x AC Power",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/vhqbt6/tripp-lite-ups-smt1500lcdt"
+}

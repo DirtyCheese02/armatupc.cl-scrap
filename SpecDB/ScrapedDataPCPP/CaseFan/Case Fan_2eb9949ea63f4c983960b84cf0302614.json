@@ -1,0 +1,17 @@
+{
+    "name": "ARCTIC F PST CO 74 CFM 140 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Part #": "ACFAN00220A",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "200 - 1350 RPM",
+    "Airflow": "74 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.3 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TBwypg/arctic-f-pst-co-74-cfm-140-mm-fan-acfan00220a"
+}

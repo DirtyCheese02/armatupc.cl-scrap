@@ -1,0 +1,17 @@
+{
+    "name": "Azza Hurricane 47 CFM 120 mm Fan",
+    "Manufacturer": "Azza",
+    "Part #": "FNAZ-12RGB-B212",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "47 CFM",
+    "Noise Level": "28.7 dB",
+    "PWM": "No",
+    "LED": "RGB",
+    "Connector": "3-pin + 4-pin 12V RGB",
+    "Controller": "Manual",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8hKcCJ/azza-hurricane-rgb-47-cfm-120-mm-fan-fnaz-12rgb-b212"
+}

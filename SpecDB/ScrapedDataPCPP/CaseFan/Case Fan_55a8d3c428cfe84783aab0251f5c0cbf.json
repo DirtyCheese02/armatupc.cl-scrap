@@ -1,0 +1,20 @@
+{
+    "name": "Thermaltake Blue-Eye 32.92 CFM 80 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "AF0025",
+    "Size": "80 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1300 - 2500 RPM",
+    "Airflow": "32.92 CFM",
+    "Noise Level": "17 - 28 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "2.85 mmH₂O",
+    "Bearing Type": "1 Ball, 1 Sleeve",
+    "Features": "[Fan Speed Control: Speed Control Knob, Max. Air Pressure: 2.85 mmH2O, Rated Voltage: 12 V, Started Voltage: <= 9 V, Rated Current: 0.18 A, Power Input: 2.16 W, Weight: 59.2 g]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Rq38TW/thermaltake-case-fan-af0025"
+}

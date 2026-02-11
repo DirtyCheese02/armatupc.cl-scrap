@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Quad Q9550S 2.83 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "AT80569AJ073N",
+    "Series": "Intel Core 2 Quad",
+    "Microarchitecture": "Yorkfield",
+    "Core Family": "Yorkfield",
+    "Socket": "LGA775",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.83 GHz",
+    "L2 Cache": "12 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HPkD4D/intel-cpu-at80569aj073n"
+}

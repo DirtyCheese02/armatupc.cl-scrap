@@ -1,0 +1,19 @@
+{
+    "name": "APC BE550G-CN UPS",
+    "Manufacturer": "APC",
+    "Part #": "BE550G-CN",
+    "Capacity (W)": "330 W",
+    "Capacity (VA)": "550 VA",
+    "Backup/Run Time (Full Load)": "3.30 Minutes",
+    "Backup/Run Time (Half Load)": "13.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Desktop",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "4 x NEMA 5-15R",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QYrcCJ/apc-ups-be550gcn"
+}

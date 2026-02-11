@@ -1,0 +1,15 @@
+{
+    "name": "Kingston ValueRAM 32 GB (2 x 16 GB) DDR4-2133 CL15 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KVR21E15D8K2/32I",
+    "Speed": "DDR4-2133",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Green",
+    "First Word Latency": "14.065 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZYZ2FT/kingston-valueram-32gb-2-x-16gb-ddr4-2133-memory-kvr21e15d8k232i"
+}

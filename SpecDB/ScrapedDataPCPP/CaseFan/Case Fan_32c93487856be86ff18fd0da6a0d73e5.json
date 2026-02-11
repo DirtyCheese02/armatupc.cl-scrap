@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FQ 62 CFM 140 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "FQ141",
+    "Size": "140 mm",
+    "Color": "White / Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1000 RPM",
+    "Airflow": "31.4 - 62 CFM",
+    "Noise Level": "15.1 - 20.7 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "P.C.F. bearing (Powder Copper Fluid Bearing)",
+    "Features": "[PWM design allows 500~1000rpm fan speed control by motherboard, Optimum airflow, pressure and extremely silent performance, Innovative blade design focuses airflow with maximum efficiency, Air-inlet with optimized aerodynamic design reduces noisy air turbulence, Anti-vibration rubber pads included for additional noise dampening]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DJx9TW/silverstone-case-fan-fq141"
+}

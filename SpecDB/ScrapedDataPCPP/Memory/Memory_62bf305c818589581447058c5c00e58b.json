@@ -1,0 +1,15 @@
+{
+    "name": "TEAMGROUP Vulcan 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "TLRED416G3000HC15ADC01",
+    "Speed": "DDR4-3000",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Red",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cLs8TW/team-memory-tlred416g3000hc15adc01"
+}

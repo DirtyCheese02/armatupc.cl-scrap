@@ -1,0 +1,22 @@
+{
+    "name": "Gigabyte GV-N730D5-2GL GeForce GT 730 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N730D5-2GL",
+    "Chipset": "GeForce GT 730",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "902 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "150 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BYdxFT/gigabyte-geforce-gt-730-2gb-video-card-gv-n730d5-2gl"
+}

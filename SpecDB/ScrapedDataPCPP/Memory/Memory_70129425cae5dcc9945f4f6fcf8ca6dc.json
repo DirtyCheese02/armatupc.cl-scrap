@@ -1,0 +1,16 @@
+{
+    "name": "Corsair CM3X8GSDKIT1066 8 GB (2 x 4 GB) DDR3-1066 SODIMM CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CM3X8GSDKIT1066",
+    "Speed": "DDR3-1066",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 4GB",
+    "Color": "Black / Green",
+    "First Word Latency": "16.886 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/R6X2FT/corsair-memory-cm3x8gsdkit1066"
+}

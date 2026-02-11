@@ -1,0 +1,23 @@
+{
+    "name": "Tripp Lite SMART550USB UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SMART550USB",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "550 VA",
+    "Alarm": "On Battery",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Dataline Protection": "RJ-11",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Protection Type": "Surge",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "Waveform Type": "Pulse-width Modulated Sine Wave",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cZ8H99/tripp-lite-ups-smart550usb"
+}

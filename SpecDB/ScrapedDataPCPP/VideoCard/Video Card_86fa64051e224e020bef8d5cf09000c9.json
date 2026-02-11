@@ -1,0 +1,22 @@
+{
+    "name": "PNY RTX A-Series RTX A5000 24 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCNRTXA5000-PB",
+    "Chipset": "RTX A5000",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1170 MHz",
+    "Boost Clock": "1695 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "230 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B2ddnQ/pny-rtx-a5000-24-gb-rtx-a-series-video-card-vcnrtxa5000-pb"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "ARCTIC P12 Silent 24.1 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "P12 Silent",
+    "Part #": "ACFAN00130A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1050 RPM",
+    "Airflow": "24.1 CFM",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.5 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pBbCmG/arctic-p12-silent-241-cfm-120-mm-fan-acfan00130a"
+}

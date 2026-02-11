@@ -1,0 +1,18 @@
+{
+    "name": "APC SURTD2200XLIM UPS",
+    "Manufacturer": "APC",
+    "Part #": "SURTD2200XLIM",
+    "Capacity (W)": "1540 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "3U",
+    "Backup/Run Time (Full Load)": "21 Minutes",
+    "Backup/Run Time (Half Load)": "48 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "2.50 Hour",
+    "Output Voltage": "240 V AC",
+    "Serial Port": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YKZ2FT/apc-ups-surtd2200xlim"
+}

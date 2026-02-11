@@ -1,0 +1,19 @@
+{
+    "name": "Phanteks D30-120 64.3 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Phanteks",
+    "Model": "D30-120",
+    "Part #": "PH-F120D30_DRGB_PWM_BK01_3P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Standard",
+    "RPM": "250 - 2000 RPM",
+    "Airflow": "64.3 CFM",
+    "Noise Level": "30.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.01 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/PDxxFT/phanteks-d30-120-643-cfm-120-mm-fans-3-pack-ph-f120d30_drgb_pwm_bk01_3p"
+}

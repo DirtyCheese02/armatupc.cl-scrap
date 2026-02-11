@@ -1,0 +1,15 @@
+{
+    "name": "AMD Entertainment Edition 2 GB (1 x 2 GB) DDR3-1600 SODIMM CL11 Memory",
+    "Manufacturer": "AMD",
+    "Part #": "AE32G1601S1-U",
+    "Speed": "DDR3-1600",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "1 x 2GB",
+    "Color": "Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/MP4gXL/amd-memory-ae32g1601s1u"
+}

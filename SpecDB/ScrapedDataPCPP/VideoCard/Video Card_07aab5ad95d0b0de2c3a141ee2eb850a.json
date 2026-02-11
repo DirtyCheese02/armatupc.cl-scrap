@@ -1,0 +1,23 @@
+{
+    "name": "Asus HD7970-DC2-3GD5 Radeon HD 7970 3 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "HD7970-DC2-3GD5",
+    "Chipset": "Radeon HD 7970",
+    "Memory": "3 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "925 MHz",
+    "Effective Memory Clock": "1375 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "Length": "279 mm",
+    "TDP": "250 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "2 x PCIe 8-pin",
+    "DisplayPort Outputs": "4",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rNMFf7/asus-video-card-hd7970dc23gd5"
+}

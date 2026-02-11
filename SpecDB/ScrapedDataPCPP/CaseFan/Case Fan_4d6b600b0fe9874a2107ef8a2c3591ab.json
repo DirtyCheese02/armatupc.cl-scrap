@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RFTL-131209R 59.8 CFM 120 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFTL-131209R",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2000 RPM",
+    "Airflow": "59.8 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "No",
+    "LED": "Red",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[120mm, 9 blades, 2000RPM ± 10%0RPM / 59.8CFM, FDB bearing, Transparent frame with red LED]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/DsR48d/rosewill-case-fan-rftl131209r"
+}

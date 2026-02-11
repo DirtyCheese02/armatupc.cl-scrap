@@ -1,0 +1,22 @@
+{
+    "name": "GALAX EX White GeForce RTX 4060 Ti 8 GB Video Card",
+    "Manufacturer": "GALAX",
+    "Part #": "46ISL8MD8BWE",
+    "Chipset": "GeForce RTX 4060 Ti",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2310 MHz",
+    "Boost Clock": "2655 MHz",
+    "Interface": "PCIe x16",
+    "Color": "White",
+    "Frame Sync": "G-Sync",
+    "Length": "251 mm",
+    "TDP": "165 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1a Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7288TW/galax-ex-white-geforce-rtx-4060-ti-8-gb-video-card-46isl8md8bwe"
+}

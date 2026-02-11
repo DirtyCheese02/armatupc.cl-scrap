@@ -1,0 +1,23 @@
+{
+    "name": "XFX HD-645X-ZQHP Radeon HD 6450 1 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-645X-ZQHP",
+    "Chipset": "Radeon HD 6450",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR3",
+    "Core Clock": "625 MHz",
+    "Effective Memory Clock": "1066 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "181 mm",
+    "TDP": "27 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/QNcMnQ/xfx-video-card-hd645xzqhp"
+}

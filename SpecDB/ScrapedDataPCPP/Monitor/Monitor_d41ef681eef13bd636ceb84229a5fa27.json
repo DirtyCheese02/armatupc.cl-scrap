@@ -1,0 +1,23 @@
+{
+    "name": "ViewSonic VX2880ml 28.0\" 3840 x 2160 30 Hz Monitor",
+    "Manufacturer": "ViewSonic",
+    "Part #": "VX2880ml",
+    "Screen Size": "28\"",
+    "Resolution": "3840 x 2160",
+    "Refresh Rate": "30 Hz",
+    "Response Time (G2G)": "5 ms",
+    "Panel Type": "TN",
+    "Aspect Ratio": "16:9",
+    "Brightness": "300 cd/m²",
+    "Pixel Pitch": "0.161 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "Yes",
+    "VESA Mounting": "100 x 100",
+    "Viewing Angle": "170° H x 160° V",
+    "Display Colors": "16700000",
+    "Contrast Ratio": "1,000:1",
+    "Inputs": "[1 x DisplayPort, 1 x Mini-DisplayPort, 1 x HDMI]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GzmLrH/viewsonic-monitor-vx2880ml"
+}

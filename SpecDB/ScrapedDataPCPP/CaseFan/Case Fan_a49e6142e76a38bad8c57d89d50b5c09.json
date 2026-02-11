@@ -1,0 +1,18 @@
+{
+    "name": "Montech Metal Pro 76.2 CFM 120 mm Fan",
+    "Manufacturer": "Montech",
+    "Part #": "METALPRO12B",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2200 RPM",
+    "Airflow": "76.2 CFM",
+    "Noise Level": "29.1 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "3.81 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pJtkcf/montech-metal-pro-762-cfm-120-mm-fan-metalpro12b"
+}

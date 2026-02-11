@@ -1,0 +1,19 @@
+{
+    "name": "Tripp Lite TE1200 UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "TE1200",
+    "Capacity (W)": "940 W",
+    "Capacity (VA)": "1200 VA",
+    "Alarm": "On Battery",
+    "Backup/Run Time (Full Load)": "7 Minutes",
+    "Backup/Run Time (Half Load)": "16 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6MZ2FT/tripp-lite-ups-te1200"
+}

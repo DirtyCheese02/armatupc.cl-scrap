@@ -1,0 +1,23 @@
+{
+    "name": "Asus TUF Gaming X3 OC Radeon RX 5700 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "TUF 3-RX5700-O8G-GAMING",
+    "Chipset": "Radeon RX 5700",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1565 MHz",
+    "Boost Clock": "1750 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "269 mm",
+    "TDP": "180 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tFGnTW/asus-radeon-rx-5700-8-gb-tuf-gaming-x3-oc-video-card-tuf-3-rx5700-o8g-gaming"
+}

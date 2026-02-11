@@ -1,0 +1,23 @@
+{
+    "name": "Zotac GAMING AMP GeForce RTX 5060 8 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-B50600F-10M",
+    "Chipset": "GeForce RTX 5060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2280 MHz",
+    "Boost Clock": "2550 MHz",
+    "Effective Memory Clock": "28000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "220 mm",
+    "TDP": "155 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1b Outputs": "3",
+    "HDMI 2.1b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7LwD4D/zotac-gaming-amp-geforce-rtx-5060-8-gb-video-card-zt-b50600f-10m"
+}

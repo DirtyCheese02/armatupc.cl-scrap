@@ -1,0 +1,22 @@
+{
+    "name": "NVIDIA Founders Edition GeForce RTX 4080 16 GB Video Card",
+    "Manufacturer": "NVIDIA",
+    "Part #": "[900-1G136-2560-000, 9001G13625600CA]",
+    "Chipset": "GeForce RTX 4080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2210 MHz",
+    "Boost Clock": "2510 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "304 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "3",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/6nWzK8/nvidia-founders-edition-geforce-rtx-4080-16-gb-video-card-900-1g136-2560-000"
+}

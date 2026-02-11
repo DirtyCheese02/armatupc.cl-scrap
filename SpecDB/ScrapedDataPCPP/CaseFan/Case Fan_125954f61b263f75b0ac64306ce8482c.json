@@ -1,0 +1,19 @@
+{
+    "name": "Corsair iCUE SP140 RGB Elite 68.11 CFM 140 mm Fan",
+    "Manufacturer": "Corsair",
+    "Model": "iCUE SP140 RGB Elite",
+    "Part #": "CO-9050138-WW",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "23.07 - 68.11 CFM",
+    "Noise Level": "18 - 26.8 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "4-pin PWM + Proprietary RGB",
+    "Controller": "None",
+    "Static Pressure": "1.66 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/d9NxFT/corsair-icue-sp140-rgb-elite-6811-cfm-140-mm-fan-co-9050138-ww"
+}

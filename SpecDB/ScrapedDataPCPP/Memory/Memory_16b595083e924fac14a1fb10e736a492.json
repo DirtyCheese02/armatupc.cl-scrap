@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws M5 Neo RGB 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-6000J3038F16GX2-RM5NRK",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.35 V",
+    "Timing": "30-38-38-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YGfV3C/gskill-ripjaws-m5-neo-rgb-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-f5-6000j3038f16gx2-rm5nrk"
+}

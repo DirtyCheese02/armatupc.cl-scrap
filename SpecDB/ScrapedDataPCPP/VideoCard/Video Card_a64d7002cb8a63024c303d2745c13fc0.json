@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCGGT7301D3LXPB-BB GeForce GT 730 1 GB PCIe x8 Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCGGT7301D3LXPB-BB",
+    "Chipset": "GeForce GT 730",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "400 MHz",
+    "Effective Memory Clock": "6000 MHz",
+    "Interface": "PCIe x8",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "127 mm",
+    "TDP": "49 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ygPKHx/pny-geforce-gt-730-1gb-video-card-vcggt7301d3lxpb-bb"
+}

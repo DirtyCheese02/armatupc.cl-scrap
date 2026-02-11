@@ -1,0 +1,23 @@
+{
+    "name": "Sapphire NITRO+ Radeon RX 6700 XT 12 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "11306-01-20G",
+    "Chipset": "Radeon RX 6700 XT",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2321 MHz",
+    "Boost Clock": "2622 MHz",
+    "Effective Memory Clock": "16000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Silver / Black",
+    "Frame Sync": "FreeSync",
+    "Length": "310 mm",
+    "TDP": "260 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin + 1 x PCIe 6-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tCLFf7/sapphire-radeon-rx-6700-xt-12-gb-nitro-video-card-11306-01-20g"
+}

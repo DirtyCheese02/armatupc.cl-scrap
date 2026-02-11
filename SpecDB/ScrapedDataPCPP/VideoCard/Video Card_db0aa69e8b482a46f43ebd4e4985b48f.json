@@ -1,0 +1,23 @@
+{
+    "name": "PNY XLR8 Gaming VERTO EPIC-X RGB OC GeForce RTX 4080 16 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG408016TFXXPB1-O",
+    "Chipset": "GeForce RTX 4080",
+    "Memory": "16 GB",
+    "Memory Type": "GDDR6X",
+    "Core Clock": "2205 MHz",
+    "Boost Clock": "2550 MHz",
+    "Effective Memory Clock": "23000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "332 mm",
+    "TDP": "320 W",
+    "Case Expansion Slot Width": "3",
+    "Total Slot Width": "4",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 16-pin 12VHPWR",
+    "DisplayPort 1.4a Outputs": "3",
+    "HDMI 2.1 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Ppytt6/pny-xlr8-gaming-verto-epic-x-rgb-oc-geforce-rtx-4080-16-gb-video-card-vcg408016tfxxpb1-o"
+}

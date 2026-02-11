@@ -1,0 +1,22 @@
+{
+    "name": "Xigmatek NRP-MC802 800 W 80+ Bronze Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "Xigmatek",
+    "Part #": "NRP-MC802",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Bronze",
+    "Wattage": "800 W",
+    "Length": "180 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "3",
+    "PCIe 6-pin Connectors": "3",
+    "SATA Connectors": "10",
+    "AMP/Molex 4-pin Connectors": "6",
+    "Output": "+3.3V@30A, +5V@30A, +12V@64A, -12V@0.5A, +5VSB@3A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/sCXfrH/xigmatek-nrp-mc802-800-w-80-bronze-certified-fully-modular-atx-power-supply-nrp-mc802"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Elgato FACECAM MK.2 Webcam",
+    "Manufacturer": "Elgato",
+    "Model": "FACECAM MK.2",
+    "Part #": "10WAC9901",
+    "Resolution": "[1080p, 720p]",
+    "Connection": "USB 3.2 Gen 1 Type-C",
+    "Focus Type": "Fixed",
+    "Operating System": "[Windows, OS X]",
+    "FOV Angle": "84°",
+    "F-Stop": "2.4X",
+    "Focal Length": "24 mm",
+    "Privacy Shutter": "Yes",
+    "Built-In Lighting": "No",
+    "Automatic Lighting Adjust": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Cbgrxr/elgato-facecam-mk2-webcam-10wac9901"
+}

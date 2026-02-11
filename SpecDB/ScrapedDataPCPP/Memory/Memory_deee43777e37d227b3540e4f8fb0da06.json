@@ -1,0 +1,15 @@
+{
+    "name": "Panram Ninja-V 8 GB (2 x 4 GB) DDR4-3466 CL17 Memory",
+    "Manufacturer": "Panram",
+    "Part #": "PUD43466C174G2NJR",
+    "Speed": "DDR4-3466",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 4GB",
+    "Color": "Red / Silver",
+    "First Word Latency": "9.81 ns",
+    "CAS Latency": "17",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8DcMnQ/panram-memory-pud43466c174g2njr"
+}

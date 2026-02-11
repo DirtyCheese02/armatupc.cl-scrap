@@ -1,0 +1,19 @@
+{
+    "name": "Lian Li PC-B70 ATX Full Tower Case",
+    "Manufacturer": "Lian Li",
+    "Part #": "PC-B70",
+    "Type": "ATX Full Tower",
+    "Color": "Black",
+    "Power Supply": "None",
+    "Side Panel": "None",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 2.0 Type-A",
+    "Motherboard Form Factor": "[ATX, EATX, Micro ATX, Mini ITX]",
+    "Drive Bays": "[5 x External 5.25\", 1 x External 3.5\", 10 x Internal 3.5\"]",
+    "Expansion Slots": "7 x Full-Height",
+    "Fan Support": "[120 mm, 140 mm]",
+    "Radiator Support": "[120 mm, 140 mm]",
+    "Dimensions": "[590 mm x 219 mm x 595 mm, 23.228\" x 8.622\" x 23.425\"]",
+    "Volume": "[76.88 L, 2.715 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yCh9TW/lian-li-case-pcb70"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gainward 426018336-3828 GeForce GTX 1050 Ti 4 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "426018336-3828",
+    "Chipset": "GeForce GTX 1050 Ti",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1290 MHz",
+    "Boost Clock": "1392 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "G-Sync",
+    "Length": "161 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort 1.4 Outputs": "1",
+    "HDMI 2.0 Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7nCCmG/gainward-426018336-3828-geforce-gtx-1050-ti-4-gb-video-card-426018336-3828"
+}

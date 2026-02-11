@@ -1,0 +1,17 @@
+{
+    "name": "Fractal Design Prisma AL 85.71 CFM 120 mm Fan",
+    "Manufacturer": "Fractal Design",
+    "Part #": "FD-FAN-PRI-AL12-PWM-WT",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2000 RPM",
+    "Airflow": "20.68 - 85.71 CFM",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.78 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WDkH99/fractal-design-prisma-al-8571-cfm-120-mm-fan-fd-fan-pri-al12-pwm-wt"
+}

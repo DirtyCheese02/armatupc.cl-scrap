@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC F9 Pro 57 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "F9 Pro",
+    "Part #": "AFACO-12PP0-GBA01",
+    "Size": "120 mm",
+    "Color": "White / Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "57 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[120mm, PWM Sharing Technology Regulates Fan Speed Based on Load, 500-1500 RPM, High Variable Airflow/Static Pressure & Low Noise: 54 CFM at 24 dBA, Unique Ninja-Knife Impeller Design Increasing Airflow while Minimizing Fan Noise, Fluid Dynamic Bearing for Extended Service Life, Best Noise/Performance Radio Fan, Rubber Mount Absorbs Vibration.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dMqdnQ/arctic-cooling-case-fan-afaco12pp0gba01"
+}

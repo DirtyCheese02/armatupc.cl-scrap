@@ -1,0 +1,21 @@
+{
+    "name": "Sunbeam PSU-HUSH580-US-BL 580 W ATX Power Supply",
+    "Manufacturer": "Sunbeam",
+    "Part #": "PSU-HUSH580-US-BL",
+    "Type": "ATX",
+    "Wattage": "580 W",
+    "Length": "140 mm",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "2",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@30A, +5V@36A, +12V@25A, -12V@0.8A, +5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zYDwrH/sunbeam-power-supply-psuhush580usbl"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Dominator 16 GB (2 x 8 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMP16GX3M2A1600C11",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black / Blue",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "Timing": "9-9-9-24",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/q37wrH/corsair-memory-cmp16gx3m2a1600c11"
+}

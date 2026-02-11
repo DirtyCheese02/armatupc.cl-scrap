@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Pristine 16 GB (1 x 16 GB) DDR4-2400 CL16 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GP416GB2400C16SC",
+    "Speed": "DDR4-2400",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "13.333 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "Timing": "16-16-16-39",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tCrmP6/geil-pristine-16gb-1-x-16gb-ddr4-2400-memory-gp416gb2400c16sc"
+}

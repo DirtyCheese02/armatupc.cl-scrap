@@ -1,0 +1,19 @@
+{
+    "name": "EK Loop Fan FPT 120 77 CFM 120 mm Fan",
+    "Manufacturer": "EK",
+    "Model": "Loop Fan FPT 120",
+    "Part #": "[EK-LOOP-FPT-120-BK, 3831109900000]",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "550 - 2300 RPM",
+    "Airflow": "77 CFM",
+    "Noise Level": "36 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.7 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hzvD4D/ek-loop-fan-fpt-120-77-cfm-120-mm-fan-ek-loop-fpt-120-bk"
+}

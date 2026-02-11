@@ -1,0 +1,23 @@
+{
+    "name": "LG BU40N Blu-Ray/DVD/CD Writer",
+    "Manufacturer": "LG",
+    "Part #": "BU40N",
+    "Form Factor": "5.25\" Slim",
+    "Interface": "SATA 6.0 Gb/s",
+    "Buffer Cache": "4 MB",
+    "Color": "Black",
+    "BD-R Speed": "6X",
+    "BD-R Dual-Layer Speed": "6X",
+    "BD-RE Speed": "2X",
+    "BD-RE Dual-Layer Speed": "6X",
+    "DVD+R Speed": "8X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "6X",
+    "DVD-R Speed": "8X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "6X",
+    "DVD-RAM Speed": "5X",
+    "CD-R Speed": "24X",
+    "CD-RW Speed": "16X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WCmNnQ/lg-bu40n-blu-raydvdcd-writer-bu40n"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "GeIL Polaris RGB 32 GB (2 x 16 GB) DDR5-5600 CL38 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GOSR532GB5600C38ADC",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Red",
+    "First Word Latency": "13.571 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.25 V",
+    "Timing": "38-44-44-84",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wmcG3C/geil-polaris-rgb-32-gb-2-x-16-gb-ddr5-5600-cl38-memory-gosr532gb5600c38adc"
+}

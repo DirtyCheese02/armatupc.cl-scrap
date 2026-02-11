@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 01G-P3-2621-KR GeForce GT 620 1 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "01G-P3-2621-KR",
+    "Chipset": "GeForce GT 620",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "700 MHz",
+    "Effective Memory Clock": "1400 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "Frame Sync": "None",
+    "Length": "144 mm",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HfW9TW/evga-video-card-01gp32621kr"
+}

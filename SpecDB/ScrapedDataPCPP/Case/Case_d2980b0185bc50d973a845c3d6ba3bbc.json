@@ -1,0 +1,20 @@
+{
+    "name": "Silverstone PS06B-W ATX Mid Tower Case",
+    "Manufacturer": "Silverstone",
+    "Part #": "PS06B-W",
+    "Type": "ATX Mid Tower",
+    "Color": "Black / Blue",
+    "Power Supply": "None",
+    "Side Panel": "Acrylic",
+    "Power Supply Shroud": "No",
+    "Front Panel USB": "USB 3.2 Gen 1 Type-A",
+    "Motherboard Form Factor": "[ATX, Micro ATX, Mini ITX, SSI CEB]",
+    "Maximum Video Card Length": "[309 mm, 12.165\"]",
+    "Drive Bays": "[5 x External 5.25\", 4 x Internal 3.5\"]",
+    "Expansion Slots": "8 x Full-Height",
+    "Fan Support": "[120 mm, 180 mm]",
+    "Radiator Support": "120 mm",
+    "Dimensions": "[519 mm x 210 mm x 525 mm, 20.433\" x 8.268\" x 20.669\"]",
+    "Volume": "[57.22 L, 2.021 ft³]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ftGkcf/silverstone-case-ps06bw"
+}

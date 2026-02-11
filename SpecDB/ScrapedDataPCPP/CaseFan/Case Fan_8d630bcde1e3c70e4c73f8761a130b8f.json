@@ -1,0 +1,18 @@
+{
+    "name": "Nexus D12SL-12BL 36.86 CFM 120 mm Fan",
+    "Manufacturer": "Nexus",
+    "Part #": "D12SL-12BL",
+    "Size": "120 mm",
+    "Color": "Clear",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "36.86 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Features": "with 4 blue LED's",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hnxfrH/nexus-case-fan-d12sl12bl"
+}

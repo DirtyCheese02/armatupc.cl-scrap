@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-R725XOC-2GI Radeon R7 250X 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R725XOC-2GI",
+    "Chipset": "Radeon R7 250X",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1050 MHz",
+    "Effective Memory Clock": "4500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "95 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "HDMI Outputs": "1",
+    "DVI-D Dual Link Outputs": "2",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wysKHx/gigabyte-video-card-gvr725xoc2gi"
+}

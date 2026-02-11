@@ -1,0 +1,21 @@
+{
+    "name": "Asus ROG STRIX GAMING OC V2 GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[ROG-STRIX-RTX3060-O12G-V2-GAMING, 90YV0GC2-M0NA10]",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Boost Clock": "1912 MHz",
+    "Effective Memory Clock": "15000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "G-Sync",
+    "Length": "300 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "3",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JNddnQ/asus-geforce-rtx-3060-12-gb-rog-strix-gaming-oc-v2-video-card-rog-strix-rtx3060-o12g-v2-gaming"
+}

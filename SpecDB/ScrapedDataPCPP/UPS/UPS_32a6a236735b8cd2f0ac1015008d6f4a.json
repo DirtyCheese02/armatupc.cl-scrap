@@ -1,0 +1,20 @@
+{
+    "name": "CyberPower CP850AVRLCD UPS",
+    "Manufacturer": "CyberPower",
+    "Part #": "CP850AVRLCD",
+    "Capacity (W)": "510 W",
+    "Capacity (VA)": "850 VA",
+    "Backup/Run Time (Full Load)": "1 Minute",
+    "Backup/Run Time (Half Load)": "7 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RG-6, RJ-45, RJ-11]",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "8 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[5 x NEMA 5-15R, 4 x NEMA 5-15R]",
+    "Serial Port": "Yes",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Zpbkcf/cyberpower-ups-cp850avrlcd"
+}

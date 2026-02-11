@@ -1,0 +1,16 @@
+{
+    "name": "Corsair Vengeance RGB RT 32 GB (2 x 16 GB) DDR4-4600 CL18 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMN32GX4M2Z4600C18",
+    "Speed": "DDR4-4600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "7.826 ns",
+    "CAS Latency": "18",
+    "Voltage": "1.5 V",
+    "Timing": "18-26-26-46",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Bm2WGX/corsair-vengeance-rgb-rt-32-gb-2-x-16-gb-ddr4-4600-cl18-memory-cmn32gx4m2z4600c18"
+}

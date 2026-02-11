@@ -1,0 +1,20 @@
+{
+    "name": "Sparkle ATX-300PN-B204 300 W ATX Power Supply",
+    "Manufacturer": "Sparkle",
+    "Part #": "ATX-300PN-B204",
+    "Type": "ATX",
+    "Wattage": "300 W",
+    "Modular": "No",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "1",
+    "EPS 8-pin Connectors": "0",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "0",
+    "PCIe 6-pin Connectors": "0",
+    "SATA Connectors": "1",
+    "AMP/Molex 4-pin Connectors": "4",
+    "Output": "+3.3V@20A,+5V@20A,+12V1@16A,+12V2@16A,-12V@0.8A,+5VSB@2.0A",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/FbPfrH/sparkle-power-supply-atx300pnb204"
+}

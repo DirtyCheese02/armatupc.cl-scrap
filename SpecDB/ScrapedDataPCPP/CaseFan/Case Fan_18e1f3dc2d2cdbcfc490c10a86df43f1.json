@@ -1,0 +1,20 @@
+{
+    "name": "BitFenix Spectre 47.7 CFM 140 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-BLF-14025W-RP",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "47.7 CFM",
+    "Noise Level": "20 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "0.6 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[Silent Operation, Enhanced Airflow, On-the-Fly Light Switching, Aggressive Looks Both On and Off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NR7wrH/bitfenix-case-fan-bffblf14025wrp"
+}

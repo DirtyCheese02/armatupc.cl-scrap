@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone FHS 140X 222.95 CFM 140 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Model": "FHS 140X",
+    "Part #": "[SST-FHS140X, FHS140X]",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "800 - 3400 RPM",
+    "Airflow": "222.95 CFM",
+    "Noise Level": "50 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "10 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/TPnXsY/silverstone-fhs-140x-22295-cfm-140-mm-fan-sst-fhs140x"
+}

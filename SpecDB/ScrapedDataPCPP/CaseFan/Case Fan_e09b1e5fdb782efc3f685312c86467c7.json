@@ -1,0 +1,18 @@
+{
+    "name": "Thermalright TL-C14C-S 75.8 CFM 140 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-C14C-S",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "75.8 CFM",
+    "Noise Level": "26.4 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.93 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/HQxxFT/thermalright-tl-c14c-s-758-cfm-140-mm-fan-tl-c14c-s"
+}

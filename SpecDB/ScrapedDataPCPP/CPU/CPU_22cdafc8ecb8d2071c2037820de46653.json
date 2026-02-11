@@ -1,0 +1,23 @@
+{
+    "name": "Intel Pentium G640T 2.4 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80623G640T",
+    "Series": "Intel Pentium",
+    "Microarchitecture": "Sandy Bridge",
+    "Core Family": "Sandy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.4 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "3 MB",
+    "TDP": "35 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "32 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zVV48d/intel-cpu-bx80623g640t"
+}

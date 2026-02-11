@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQK4200-PB Quadro K4200 4 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQK4200-PB",
+    "Chipset": "Quadro K4200",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "771 MHz",
+    "Effective Memory Clock": "5400 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "[4-way SLI Capable, 3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "108 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "2",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7DCwrH/pny-video-card-vcqk4200pb"
+}

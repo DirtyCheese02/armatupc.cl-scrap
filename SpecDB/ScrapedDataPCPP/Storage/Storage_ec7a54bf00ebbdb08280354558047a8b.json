@@ -1,0 +1,14 @@
+{
+    "name": "VisionTek Data Fusion 2-way 480 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "VisionTek",
+    "Model": "Data Fusion 2-way",
+    "Part #": "900601",
+    "Capacity": "480 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x2",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VnZQzy/visiontek-internal-hard-drive-900601"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "XFX THICC II Pro Radeon RX 5600 XT 6 GB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "RX-56XT6DF46",
+    "Chipset": "Radeon RX 5600 XT",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1247 MHz",
+    "Boost Clock": "1620 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "280 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Dk7p99/xfx-radeon-rx-5600-xt-6-gb-thicc-ii-pro-video-card-rx-56xt6df46"
+}

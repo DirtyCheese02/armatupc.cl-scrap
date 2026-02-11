@@ -1,0 +1,13 @@
+{
+    "name": "Seagate Barracuda Compute 2 TB 3.5\" 7200 RPM Internal Hard Drive",
+    "Manufacturer": "Seagate",
+    "Part #": "[ST2000DMZ08/DM008, ST2000DMZ08]",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.035",
+    "Type": "7200 RPM",
+    "Cache": "256 MB",
+    "Form Factor": "3.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/BcQG3C/seagate-barracuda-compute-2-tb-35-7200rpm-internal-hard-drive-st2000dmz08dm008"
+}

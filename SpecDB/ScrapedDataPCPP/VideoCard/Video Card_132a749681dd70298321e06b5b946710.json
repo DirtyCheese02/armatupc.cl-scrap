@@ -1,0 +1,22 @@
+{
+    "name": "MSI N440GT-MD1GD3/LP GeForce GT 440 1 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N440GT-MD1GD3/LP",
+    "Chipset": "GeForce GT 440",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9xJwrH/msi-video-card-n440gtmd1gd3lp"
+}

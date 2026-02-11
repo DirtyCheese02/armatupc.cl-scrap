@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 02G-P4-2651-KR GeForce GTX 650 2 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "02G-P4-2651-KR",
+    "Chipset": "GeForce GTX 650",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1058 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "152 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "DVI-D Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tPCwrH/evga-video-card-02gp42651kr"
+}

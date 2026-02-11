@@ -1,0 +1,12 @@
+{
+    "name": "APC BH500INET UPS",
+    "Manufacturer": "APC",
+    "Part #": "BH500INET",
+    "Capacity (W)": "300 W",
+    "Capacity (VA)": "500 VA",
+    "Alarm": "[On Battery, Low Battery, Overload]",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Dataline Protection": "[RJ-45, RJ-11]",
+    "Hot Swappable": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nJVBD3/apc-ups-bh500inet"
+}

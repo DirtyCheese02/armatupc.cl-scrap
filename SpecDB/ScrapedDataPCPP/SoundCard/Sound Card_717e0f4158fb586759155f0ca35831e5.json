@@ -1,0 +1,11 @@
+{
+    "name": "Asus STRIX RAID DLX 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Asus",
+    "Part #": "[STRIX RAID DLX, 90YB00H0-M0UA00, 90YB00H0-M1UA00]",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "124 dB",
+    "Sample Rate": "192 kHz",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4sL7YJ/asus-sound-card-strixraiddlx"
+}

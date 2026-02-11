@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline Lumina 32 GB (2 x 16 GB) DDR5-5600 CL28 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MLA5C5609CCM16GX2",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "10 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.35 V",
+    "Timing": "28-34-34-30",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CWTZxr/mushkin-redline-lumina-32-gb-2-x-16-gb-ddr5-5600-cl28-memory-mla5c5609ccm16gx2"
+}

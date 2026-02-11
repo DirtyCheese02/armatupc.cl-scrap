@@ -1,0 +1,19 @@
+{
+    "name": "Logisys SF140 71.8 CFM 140 mm Fan",
+    "Manufacturer": "Logisys",
+    "Part #": "SF140",
+    "Size": "140 mm",
+    "Color": "Black / Blue",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1200 RPM",
+    "Airflow": "71.8 CFM",
+    "Noise Level": "17.6 - 26.7 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "2 Ball",
+    "Features": "[Rated Voltage: 12VDC, Operating Voltage: 10.8~13.2VDC, Starting Voltage: 7VDC, Net Weight: 167g, Strong plastic frame with soft and elastic TPE cover to absorb operating vibration maximally, Special fan blade design to offer a unique visual effect when operating, 2 ball bearing to offer smooth rotation and long lifetime, Super silent and big airflow.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KJckcf/logisys-sf140-718-cfm-140-mm-fan-sf140"
+}

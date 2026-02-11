@@ -1,0 +1,21 @@
+{
+    "name": "Zotac ZT-40407-10P GeForce GTX 460 1 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-40407-10P",
+    "Chipset": "GeForce GTX 460",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "710 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Orange",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "3",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r8Bv6h/zotac-video-card-zt4040710p"
+}

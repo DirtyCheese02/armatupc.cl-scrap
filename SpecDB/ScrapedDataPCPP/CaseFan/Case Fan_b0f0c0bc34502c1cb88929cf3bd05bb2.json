@@ -1,0 +1,18 @@
+{
+    "name": "Jonsbo ZA-140W 73.82 CFM 140 mm Fan",
+    "Manufacturer": "Jonsbo",
+    "Part #": "ZA-140W",
+    "Size": "140 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1800 RPM",
+    "Airflow": "33.7 - 73.82 CFM",
+    "Noise Level": "18.3 - 32.2 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.94 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/B6ZWGX/jonsbo-za-140w-7382-cfm-140-mm-fan-za-140w"
+}

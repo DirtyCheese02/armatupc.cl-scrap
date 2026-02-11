@@ -1,0 +1,14 @@
+{
+    "name": "GeIL EVO VELOCE 16 GB (4 x 4 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "GeIL",
+    "Part #": "GEV316GB1600C9QC",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3sTmP6/geil-memory-gev316gb1600c9qc"
+}

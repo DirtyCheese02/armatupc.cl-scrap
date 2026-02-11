@@ -1,0 +1,22 @@
+{
+    "name": "Sparkle GENIE Arc A380 6 GB Video Card",
+    "Manufacturer": "Sparkle",
+    "Part #": "[SA380G-6G, 1A1-S00401700G]",
+    "Chipset": "Arc A380",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2000 MHz",
+    "Boost Clock": "2000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Blue",
+    "Frame Sync": "None",
+    "Length": "145 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "2",
+    "HDMI 2.0 Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N2NYcf/sparkle-genie-arc-a380-6-gb-video-card-sa380g-6g"
+}

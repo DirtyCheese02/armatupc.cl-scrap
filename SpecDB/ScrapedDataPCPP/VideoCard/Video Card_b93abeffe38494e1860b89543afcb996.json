@@ -1,0 +1,20 @@
+{
+    "name": "Sapphire 100369LP Radeon R7 240 2 GB Video Card",
+    "Manufacturer": "Sapphire",
+    "Part #": "100369LP",
+    "Chipset": "Radeon R7 240",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "780 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "30 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7D6BD3/sapphire-video-card-100369lp"
+}

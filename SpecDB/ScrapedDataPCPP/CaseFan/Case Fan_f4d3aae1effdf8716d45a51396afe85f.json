@@ -1,0 +1,17 @@
+{
+    "name": "SilentiumPC Sigma Pro 140 78.6 CFM 140 mm Fan",
+    "Manufacturer": "SilentiumPC",
+    "Model": "Sigma Pro 140",
+    "Part #": "SPC137",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 1400 RPM",
+    "Airflow": "78.6 CFM",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/y8CFf7/silentiumpc-sigma-pro-140-786-cfm-140-mm-fan-spc137"
+}

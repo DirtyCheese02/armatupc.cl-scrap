@@ -1,0 +1,16 @@
+{
+    "name": "Biwin Black Opal DW100 RGB 32 GB (2 x 16 GB) DDR5-8200 CL38 Memory",
+    "Manufacturer": "Biwin",
+    "Part #": "BXL53282DW1-D38GW",
+    "Speed": "DDR5-8200",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "9.268 ns",
+    "CAS Latency": "38",
+    "Voltage": "1.45 V",
+    "Timing": "38-48-48-126",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zwgZxr/biwin-black-opal-dw100-rgb-32-gb-2-x-16-gb-ddr5-8200-cl38-memory-bxl53282dw1-d38gw"
+}

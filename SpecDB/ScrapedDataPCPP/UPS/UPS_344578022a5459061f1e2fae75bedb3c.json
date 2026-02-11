@@ -1,0 +1,18 @@
+{
+    "name": "HP AF468A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF468A",
+    "Capacity (W)": "3000 W",
+    "Capacity (VA)": "3300 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "4 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Tower/Rack Mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "48 Hour",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/p7hj4D/hp-ups-af468a"
+}

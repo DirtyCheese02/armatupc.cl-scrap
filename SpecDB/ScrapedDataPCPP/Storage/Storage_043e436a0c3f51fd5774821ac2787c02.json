@@ -1,0 +1,13 @@
+{
+    "name": "OCZ Vertex 3 – MAX IOPS Edition 240 GB 2.5\" Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "VTX3MI-25SAT3-240G",
+    "Capacity": "240 GB",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (toggle)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/cpPfrH/ocz-internal-hard-drive-vtx3mi25sat3240g"
+}

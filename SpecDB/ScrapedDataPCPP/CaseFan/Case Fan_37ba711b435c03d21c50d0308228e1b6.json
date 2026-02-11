@@ -1,0 +1,19 @@
+{
+    "name": "Silverstone Air Penetrator 42.58 CFM 120 mm Fan",
+    "Manufacturer": "Silverstone",
+    "Part #": "AP122",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "42.58 CFM",
+    "Noise Level": "19.7 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Sleeve",
+    "Features": "[Industry leading air channeling fan, Standard 120mm frame for maximum compatibility with CPU coolers, Integrated air channeling grille double as fan guard to reduce overall size, Low power consumption, Higher airflow and less noise with 9-bladed design]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yD9KHx/silverstone-ap122-4258-cfm-120-mm-fan-ap122"
+}

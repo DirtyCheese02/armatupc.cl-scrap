@@ -1,0 +1,19 @@
+{
+    "name": "HP AF448A UPS",
+    "Manufacturer": "HP",
+    "Part #": "AF448A",
+    "Capacity (W)": "670 W",
+    "Capacity (VA)": "1000 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "15 Minutes",
+    "Battery Chemistry": "Sealed Valve-regulated Lead Acid (VRLA)",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "24 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rZ8H99/hp-ups-af448a"
+}

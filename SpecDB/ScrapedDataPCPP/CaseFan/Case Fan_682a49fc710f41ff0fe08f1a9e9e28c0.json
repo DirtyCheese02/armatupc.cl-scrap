@@ -1,0 +1,18 @@
+{
+    "name": "Cooler Master SickleFlow 62 CFM 120 mm Fan",
+    "Manufacturer": "Cooler Master",
+    "Part #": "MFX-B2DN-18NPR-R1",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "650 - 1800 RPM",
+    "Airflow": "62 CFM",
+    "Noise Level": "8 - 27 dB",
+    "PWM": "Yes",
+    "LED": "Red",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "2.5 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dXpmP6/cooler-master-sickleflow-120-red-led-62-cfm-120-mm-fan-mfx-b2dn-18npr-r1"
+}

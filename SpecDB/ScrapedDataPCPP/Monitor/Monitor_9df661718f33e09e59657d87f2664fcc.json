@@ -1,0 +1,23 @@
+{
+    "name": "Asus PB287Q 28.0\" 3840 x 2160 60 Hz Monitor",
+    "Manufacturer": "Asus",
+    "Part #": "[PB287Q, 90LM00R0-B02170]",
+    "Screen Size": "28\"",
+    "Resolution": "3840 x 2160",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "1 ms",
+    "Panel Type": "TN",
+    "Aspect Ratio": "16:9",
+    "Brightness": "300 cd/m²",
+    "Pixel Pitch": "0.161 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "Yes",
+    "VESA Mounting": "100 x 100",
+    "Viewing Angle": "170° H x 160° V",
+    "Display Colors": "1070000000",
+    "Contrast Ratio": "100,000,000:1",
+    "Inputs": "[1 x DisplayPort, 2 x HDMI]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/r9h9TW/asus-monitor-pb287q"
+}

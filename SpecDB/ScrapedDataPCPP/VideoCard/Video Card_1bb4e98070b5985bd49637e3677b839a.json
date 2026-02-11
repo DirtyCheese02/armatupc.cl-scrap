@@ -1,0 +1,23 @@
+{
+    "name": "PNY VCQM5000-PB Quadro M5000 8 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCQM5000-PB",
+    "Chipset": "Quadro M5000",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "861 MHz",
+    "Boost Clock": "1038 MHz",
+    "Effective Memory Clock": "6612 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Green",
+    "SLI/CrossFire": "[4-way SLI Capable, 3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "267 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "2 x PCIe 6-pin",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/dDqbt6/pny-video-card-vcqm5000pb"
+}

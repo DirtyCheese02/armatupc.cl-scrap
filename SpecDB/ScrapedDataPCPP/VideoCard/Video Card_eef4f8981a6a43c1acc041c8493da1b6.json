@@ -1,0 +1,22 @@
+{
+    "name": "VisionTek SFF Radeon HD 7750 2 GB Video Card",
+    "Manufacturer": "VisionTek",
+    "Part #": "900942",
+    "Chipset": "Radeon HD 7750",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "800 MHz",
+    "Effective Memory Clock": "4500 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "Length": "130 mm",
+    "TDP": "55 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N7WBD3/visiontek-radeon-hd-7750-2-gb-sff-video-card-900942"
+}

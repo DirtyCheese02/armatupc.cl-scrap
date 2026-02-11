@@ -1,0 +1,15 @@
+{
+    "name": "EVGA SSC 16 GB (4 x 4 GB) DDR4-2800 CL16 Memory",
+    "Manufacturer": "EVGA",
+    "Part #": "16G-D4-2800-MR",
+    "Speed": "DDR4-2800",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 4GB",
+    "Color": "Black",
+    "First Word Latency": "11.429 ns",
+    "CAS Latency": "16",
+    "Voltage": "1.2 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nVYWGX/evga-memory-16gd42800mr"
+}

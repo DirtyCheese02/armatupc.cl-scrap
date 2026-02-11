@@ -1,0 +1,15 @@
+{
+    "name": "TEAMGROUP R-DIMM 32 GB (1 x 32 GB) Registered DDR3-1333 CL9 Memory",
+    "Manufacturer": "TEAMGROUP",
+    "Part #": "T2F2R04H4202401",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "1 x 32GB",
+    "Color": "Silver",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Registered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2ycMnQ/team-memory-t2f2r04h4202401"
+}

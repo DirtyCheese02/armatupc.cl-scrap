@@ -1,0 +1,23 @@
+{
+    "name": "PowerColor AP5450 512MD2-SH Radeon HD 5450 512 MB PCI Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AP5450 512MD2-SH",
+    "Chipset": "Radeon HD 5450",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "650 MHz",
+    "Effective Memory Clock": "333 MHz",
+    "Interface": "PCI",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way CrossFire Capable",
+    "Frame Sync": "None",
+    "TDP": "19 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/WKtCmG/powercolor-video-card-ap5450512md2sh"
+}

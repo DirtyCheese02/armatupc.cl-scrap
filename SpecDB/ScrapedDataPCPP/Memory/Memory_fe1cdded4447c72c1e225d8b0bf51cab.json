@@ -1,0 +1,15 @@
+{
+    "name": "Kingston KHX1866C11S3P1K2/4G 4 GB (2 x 2 GB) DDR3-1866 SODIMM CL11 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "KHX1866C11S3P1K2/4G",
+    "Speed": "DDR3-1866",
+    "Form Factor": "204-pin SODIMM (DDR3)",
+    "Modules": "2 x 2GB",
+    "Color": "Gray / Silver",
+    "First Word Latency": "11.79 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LjrG3C/kingston-memory-khx1866c11s3p1k24g"
+}

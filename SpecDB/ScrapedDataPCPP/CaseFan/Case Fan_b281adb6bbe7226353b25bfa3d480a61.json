@@ -1,0 +1,17 @@
+{
+    "name": "Thermalright TY 130 CFM 140 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TY-143",
+    "Size": "140 mm",
+    "Color": "Orange",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 2500 RPM",
+    "Airflow": "31.4 - 130 CFM",
+    "Noise Level": "21 - 45 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/gjtCmG/thermalright-case-fan-ty143"
+}

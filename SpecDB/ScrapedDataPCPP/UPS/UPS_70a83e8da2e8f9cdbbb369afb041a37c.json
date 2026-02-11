@@ -1,0 +1,15 @@
+{
+    "name": "APC SMT750I UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT750I",
+    "Capacity (W)": "500 W",
+    "Capacity (VA)": "750 VA",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "16 Minutes",
+    "Battery Chemistry": "Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Output Voltage": "230 V AC",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4LDzK8/apc-ups-smt750i"
+}

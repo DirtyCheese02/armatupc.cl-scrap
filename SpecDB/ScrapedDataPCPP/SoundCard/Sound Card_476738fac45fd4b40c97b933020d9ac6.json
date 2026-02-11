@@ -1,0 +1,12 @@
+{
+    "name": "Asus Essence STX II 24-bit 192 kHz Sound Card",
+    "Manufacturer": "Asus",
+    "Part #": "[Essence STX II, Xonar Essence STX II]",
+    "Channels": "2.0",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "124 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "ASUS AV100",
+    "Interface": "PCIe x1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2rH48d/asus-essence-stx-ii-24-bit-192-khz-sound-card-essencestxii"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "OCZ Blade 6 GB (3 x 2 GB) DDR3-2000 CL9 Memory",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZ3B2000C9LV6GK",
+    "Speed": "DDR3-2000",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 2GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "9 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.65 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/rHg323/ocz-memory-ocz3b2000c9lv6gk"
+}

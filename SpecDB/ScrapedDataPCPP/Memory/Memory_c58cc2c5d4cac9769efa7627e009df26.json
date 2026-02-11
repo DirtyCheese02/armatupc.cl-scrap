@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ripjaws 16 GB (1 x 16 GB) DDR5-4800 SODIMM CL40 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-4800S4039A16GX1-RS",
+    "Speed": "DDR5-4800",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "1 x 16GB",
+    "Color": "Black",
+    "First Word Latency": "16.667 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/h8qNnQ/gskill-ripjaws-16-gb-1-x-16-gb-ddr5-4800-sodimm-cl40-memory-f5-4800s4039a16gx1-rs"
+}

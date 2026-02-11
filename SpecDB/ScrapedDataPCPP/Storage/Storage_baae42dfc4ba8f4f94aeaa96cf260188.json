@@ -1,0 +1,13 @@
+{
+    "name": "OCZ RevoDrive 80 GB PCIe NVME Solid State Drive",
+    "Manufacturer": "OCZ",
+    "Part #": "OCZSSDPX-1RVD0080",
+    "Capacity": "80 GB",
+    "Type": "SSD",
+    "Form Factor": "PCIe",
+    "Interface": "PCIe x4",
+    "NVME": "Yes",
+    "SSD Controller": "Sandforce SF-1222",
+    "SSD NAND Flash Type": "MLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hb9KHx/ocz-internal-hard-drive-oczssdpx1rvd0080"
+}

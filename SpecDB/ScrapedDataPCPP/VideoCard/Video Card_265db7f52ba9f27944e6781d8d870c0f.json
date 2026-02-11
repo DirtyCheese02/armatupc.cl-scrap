@@ -1,0 +1,21 @@
+{
+    "name": "PNY XLR8 Gaming REVEL EPIC-X RGB GeForce RTX 3060 12GB 12 GB Video Card",
+    "Manufacturer": "PNY",
+    "Part #": "VCG306012SFXPPB",
+    "Chipset": "GeForce RTX 3060 12GB",
+    "Memory": "12 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1320 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "170 mm",
+    "TDP": "170 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4m8bt6/pny-geforce-rtx-3060-12-gb-xlr8-gaming-revel-epic-x-rgb-video-card-vcg306012sfxppb"
+}

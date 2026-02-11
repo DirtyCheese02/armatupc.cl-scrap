@@ -1,0 +1,19 @@
+{
+    "name": "Corsair iCUE LINK LX120-R RGB 70 CFM 120 mm Fans 3-Pack",
+    "Manufacturer": "Corsair",
+    "Model": "iCUE LINK LX120-R RGB",
+    "Part #": "CO-9051054-WW",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "3-Pack",
+    "Flow Direction": "Reverse",
+    "RPM": "2400 RPM",
+    "Airflow": "70 CFM",
+    "Noise Level": "35.1 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "USB",
+    "Static Pressure": "3.8 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/NFJp99/corsair-icue-link-lx120-r-rgb-70-cfm-120-mm-fans-3-pack-co-9051054-ww"
+}

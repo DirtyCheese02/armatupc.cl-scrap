@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill Ripjaws 64 GB (2 x 32 GB) DDR5-5600 SODIMM CL40 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F5-5600S4040A32GX2-RS",
+    "Speed": "DDR5-5600",
+    "Form Factor": "262-pin SODIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Price / GB": "$14.843",
+    "Color": "Black",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.1 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XQgrxr/gskill-ripjaws-64-gb-2-x-32-gb-ddr5-5600-sodimm-cl40-memory-f5-5600s4040a32gx2-rs"
+}

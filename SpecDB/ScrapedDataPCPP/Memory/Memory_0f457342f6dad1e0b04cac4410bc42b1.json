@@ -1,0 +1,16 @@
+{
+    "name": "V-Color Manta XSky RGB 32 GB (2 x 16 GB) DDR5-6000 CL28 Memory",
+    "Manufacturer": "V-Color",
+    "Part #": "TMXSAL1660828WWK",
+    "Speed": "DDR5-6000",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 16GB",
+    "Color": "White",
+    "First Word Latency": "9.333 ns",
+    "CAS Latency": "28",
+    "Voltage": "1.4 V",
+    "Timing": "28-36-36-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Nqy8TW/v-color-manta-xsky-rgb-32-gb-2-x-16-gb-ddr5-6000-cl28-memory-tmxsal1660828wwk"
+}

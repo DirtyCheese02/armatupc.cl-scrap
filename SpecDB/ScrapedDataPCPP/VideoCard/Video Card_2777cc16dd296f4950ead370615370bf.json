@@ -1,0 +1,23 @@
+{
+    "name": "MSI N650-2GD5/OC GeForce GTX 650 2 GB Video Card",
+    "Manufacturer": "MSI",
+    "Part #": "N650-2GD5/OC",
+    "Chipset": "GeForce GTX 650",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "1071 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "145 mm",
+    "TDP": "64 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nD9KHx/msi-video-card-n6502gd5oc"
+}

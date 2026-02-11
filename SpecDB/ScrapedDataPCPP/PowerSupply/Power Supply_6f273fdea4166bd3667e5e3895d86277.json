@@ -1,0 +1,22 @@
+{
+    "name": "EVGA SuperNOVA 1600 P2 1600 W 80+ Platinum Certified Fully Modular ATX Power Supply",
+    "Manufacturer": "EVGA",
+    "Model": "SuperNOVA 1600 P2",
+    "Part #": "[220-P2-1600-X1, 220-P2-1600-X3, 220-P2-1600-X4, 220-P2-1600-X2]",
+    "Type": "ATX",
+    "Efficiency Rating": "80+ Platinum",
+    "Wattage": "1600 W",
+    "Length": "220 mm",
+    "Modular": "Full",
+    "Fanless": "No",
+    "ATX 4-pin Connectors": "0",
+    "EPS 8-pin Connectors": "2",
+    "PCIe 16-pin 12VHPWR/12V-2x6 Connectors": "0",
+    "PCIe 12-pin Connectors": "0",
+    "PCIe 8-pin Connectors": "0",
+    "PCIe 6+2-pin Connectors": "9",
+    "PCIe 6-pin Connectors": "5",
+    "SATA Connectors": "14",
+    "AMP/Molex 4-pin Connectors": "5",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LbtWGX/evga-supernova-1600-p2-1600-w-80-platinum-certified-fully-modular-atx-power-supply-220-p2-1600-x1"
+}

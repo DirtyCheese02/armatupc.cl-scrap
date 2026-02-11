@@ -1,0 +1,22 @@
+{
+    "name": "Gainward Ghost GeForce GTX 1630 4 GB Video Card",
+    "Manufacturer": "Gainward",
+    "Part #": "NE6163001BG6-1175B",
+    "Chipset": "GeForce GTX 1630",
+    "Memory": "4 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1740 MHz",
+    "Boost Clock": "1785 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "170 mm",
+    "TDP": "75 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "2",
+    "HDMI 2.0b Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/c8t9TW/gainward-geforce-gtx-1630-4-gb-ghost-video-card-ne6163001bg6-1175b"
+}

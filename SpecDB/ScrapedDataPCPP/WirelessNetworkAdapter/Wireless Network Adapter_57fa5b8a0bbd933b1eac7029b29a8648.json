@@ -1,0 +1,11 @@
+{
+    "name": "Rosewill RNX-N300X 802.11a/b/g/n PCI Wi-Fi Adapter",
+    "Manufacturer": "Rosewill",
+    "Part #": "RNX-N300X",
+    "Protocol": "Wi-Fi 4",
+    "Interface": "PCI",
+    "Security": "64/128-Bit WEP, WPA PSK and WPA2 PSK (TKIP and AES)",
+    "Antenna": "3 detachable 2dbi antennas (SMA connector)",
+    "Features": "[Chipset: RT2860T, MIMO technology for Ralink 2 Transmit antenna 3 Receive antenna solution., Multiple BSSID and WMM, WMM-PS support.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fNdqqs/rosewill-wireless-network-card-rnxn300x"
+}

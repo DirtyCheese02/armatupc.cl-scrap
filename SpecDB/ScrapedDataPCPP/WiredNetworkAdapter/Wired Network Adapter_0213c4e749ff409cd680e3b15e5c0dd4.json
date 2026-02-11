@@ -1,0 +1,8 @@
+{
+    "name": "Syba SY-ADA24029 Gigabit Ethernet USB Type-A Network Adapter",
+    "Manufacturer": "Syba",
+    "Part #": "SY-ADA24029",
+    "Interface": "USB Type-A 2.0",
+    "Features": "[Compliant with Universal Serial Bus 3.0 Specification, Revision 1.0, Compatible with USB Specification, Revision 2.0, Supports Full Duplex Operation with IEEE 802.3x Flow Control and Half Duplex Operation with Back-pressure Flow Control, Supports IEEE 802.3az (Energy Efficient Ethernet), Supports Crossover Detection and Auto-correction, Supports Advanced Link Down Power Saving When Ethernet Cable is Unplugged, Supports Wake-on-LAN, Adapter Cable Length: 19\"]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YgvRsY/syba-wired-network-card-syada24029"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Lexar NM620 256 GB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive",
+    "Manufacturer": "Lexar",
+    "Part #": "[LNM620X256G-RNNNG, LNM620X256G-RNNNU]",
+    "Capacity": "256 GB",
+    "Price / GB": "$0.292",
+    "Type": "SSD",
+    "Form Factor": "M.2-2280",
+    "Interface": "M.2 PCIe 3.0 X4",
+    "NVME": "Yes",
+    "SSD NAND Flash Type": "3D TLC",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8mTp99/lexar-nm620-256-gb-m2-2280-pcie-30-x4-nvme-solid-state-drive-lnm620x256g-rnnng"
+}

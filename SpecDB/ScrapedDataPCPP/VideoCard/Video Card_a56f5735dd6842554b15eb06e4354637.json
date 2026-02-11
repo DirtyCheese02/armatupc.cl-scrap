@@ -1,0 +1,22 @@
+{
+    "name": "Zotac ZT-60603-20L GeForce GT 610 2 GB Video Card",
+    "Manufacturer": "Zotac",
+    "Part #": "ZT-60603-20L",
+    "Chipset": "GeForce GT 610",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "1066 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Silver",
+    "Frame Sync": "None",
+    "Length": "145 mm",
+    "TDP": "29 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mMsKHx/zotac-video-card-zt6060320l"
+}

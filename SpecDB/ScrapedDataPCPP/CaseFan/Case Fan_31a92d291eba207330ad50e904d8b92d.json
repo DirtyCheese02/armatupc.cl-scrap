@@ -1,0 +1,20 @@
+{
+    "name": "BitFenix Spectre 51.3 CFM 120 mm Fan",
+    "Manufacturer": "BitFenix",
+    "Part #": "BFF-SCF-P12025WW-RP",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1800 RPM",
+    "Airflow": "51.3 CFM",
+    "Noise Level": "22.5 dB",
+    "PWM": "No",
+    "LED": "None",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Static Pressure": "1.88 mmH₂O",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[PWM Technology, Silent Operation, Enhanced Airflow, Aggressive Looks Both On and Off]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yvXfrH/bitfenix-spectre-pwm-513-cfm-120-mm-fan-bff-scf-p12025ww-rp"
+}

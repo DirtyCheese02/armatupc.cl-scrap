@@ -1,0 +1,15 @@
+{
+    "name": "Wintec One 6 GB (3 x 2 GB) DDR3-1600 CL9 Memory",
+    "Manufacturer": "Wintec",
+    "Part #": "3OH16009U9H-6GT",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "3 x 2GB",
+    "Color": "Black / Silver",
+    "First Word Latency": "11.25 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/XJ3RsY/wintec-memory-3oh16009u9h6gt"
+}

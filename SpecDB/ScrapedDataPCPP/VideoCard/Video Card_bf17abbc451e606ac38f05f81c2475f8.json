@@ -1,0 +1,23 @@
+{
+    "name": "ATI FirePro V3900 FirePro V3900 1 GB Video Card",
+    "Manufacturer": "ATI",
+    "Model": "FirePro V3900",
+    "Part #": "100-505860",
+    "Chipset": "FirePro V3900",
+    "Memory": "1 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "650 MHz",
+    "Effective Memory Clock": "1800 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "168 mm",
+    "TDP": "50 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DisplayPort Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wyw323/ati-video-card-100505860"
+}

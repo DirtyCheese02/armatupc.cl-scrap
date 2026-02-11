@@ -1,0 +1,16 @@
+{
+    "name": "Mushkin Redline ST 64 GB (2 x 32 GB) DDR5-6400 CL30 Memory",
+    "Manufacturer": "Mushkin",
+    "Part #": "MRF5U640A77P32GX2",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 32GB",
+    "Color": "Black",
+    "First Word Latency": "9.375 ns",
+    "CAS Latency": "30",
+    "Voltage": "1.4 V",
+    "Timing": "30-37-37-96",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7bQKHx/mushkin-redline-st-64-gb-2-x-32-gb-ddr5-6400-cl30-memory-mrf5u640a77p32gx2"
+}

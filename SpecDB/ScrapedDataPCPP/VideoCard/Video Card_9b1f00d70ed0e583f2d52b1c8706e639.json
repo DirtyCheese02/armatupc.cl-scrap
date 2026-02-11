@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte GV-R667D3-2GI Radeon HD 6670 2 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-R667D3-2GI",
+    "Chipset": "Radeon HD 6670",
+    "Memory": "2 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "800 MHz",
+    "Effective Memory Clock": "1600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Blue",
+    "Frame Sync": "None",
+    "Length": "211 mm",
+    "TDP": "66 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tX6BD3/gigabyte-video-card-gvr667d32gi"
+}

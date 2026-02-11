@@ -1,0 +1,16 @@
+{
+    "name": "G.Skill F4-3200C15Q-64GTZSW 64 GB (4 x 16 GB) DDR4-3200 CL15 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F4-3200C15Q-64GTZSW",
+    "Speed": "DDR4-3200",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "4 x 16GB",
+    "Color": "Gray / White",
+    "First Word Latency": "9.375 ns",
+    "CAS Latency": "15",
+    "Voltage": "1.35 V",
+    "Timing": "15-15-15-35",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Tk2WGX/gskill-f4-3200c15q-64gtzsw-64-gb-4-x-16-gb-ddr4-3200-cl15-memory-f4-3200c15q-64gtzsw"
+}

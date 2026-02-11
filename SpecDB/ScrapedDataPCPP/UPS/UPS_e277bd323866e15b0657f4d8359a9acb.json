@@ -1,0 +1,18 @@
+{
+    "name": "APC SMT1000RMI2U UPS",
+    "Manufacturer": "APC",
+    "Part #": "SMT1000RMI2U",
+    "Capacity (W)": "700 W",
+    "Capacity (VA)": "1000 VA",
+    "Rack Height": "2U",
+    "Backup/Run Time (Full Load)": "9 Minutes",
+    "Backup/Run Time (Half Load)": "31 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/W7hj4D/apc-ups-smt1000rmi2u"
+}

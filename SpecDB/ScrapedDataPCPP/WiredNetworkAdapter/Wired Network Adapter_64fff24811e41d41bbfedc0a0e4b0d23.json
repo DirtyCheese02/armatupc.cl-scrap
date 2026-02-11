@@ -1,0 +1,8 @@
+{
+    "name": "StarTech ST1000BT32 Gigabit Ethernet PCI Network Adapter",
+    "Manufacturer": "StarTech",
+    "Part #": "ST1000BT32",
+    "Interface": "PCI",
+    "Features": "[IEEE 802.1Q VLAN tagging for up to 64 VLANs, IEEE 802.3x compliant flow control for full duplex and backpressure for half duplex, LED indicator shows network link/activity and 10/100/1000Mbits/sec selection, One RJ-45 connector supports 10/100/1000Mbits/sec network speeds and Auto-MDI/MDI-X, Supports 32-bit 33/66MHz PCI Local Bus Master for high-speed operation]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/whh9TW/startech-wired-network-card-st1000bt32"
+}

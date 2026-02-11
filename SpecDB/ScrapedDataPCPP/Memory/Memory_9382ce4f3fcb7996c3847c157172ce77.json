@@ -1,0 +1,17 @@
+{
+    "name": "Corsair Vengeance 128 GB (2 x 64 GB) DDR5-6400 CL42 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMK128GX5M2B6400C42",
+    "Speed": "DDR5-6400",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "2 x 64GB",
+    "Price / GB": "$12.492",
+    "Color": "Black",
+    "First Word Latency": "13.125 ns",
+    "CAS Latency": "42",
+    "Voltage": "1.35 V",
+    "Timing": "42-52-52-104",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/LPvscf/corsair-vengeance-128-gb-2-x-64-gb-ddr5-6400-cl42-memory-cmk128gx5m2b6400c42"
+}

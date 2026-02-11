@@ -1,0 +1,19 @@
+{
+    "name": "Thermaltake Riing 51.15 CFM 140 mm Fan",
+    "Manufacturer": "Thermaltake",
+    "Part #": "CL-F043-PL14SW-A",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1100 - 1400 RPM",
+    "Airflow": "51.15 CFM",
+    "Noise Level": "19 - 28.1 dB",
+    "PWM": "Yes",
+    "LED": "RGB",
+    "Connector": "Proprietary PWM",
+    "Controller": "Manual",
+    "Bearing Type": "Hydraulic",
+    "Features": "[Patented Circular LED Ring, RGB LED with 256 unique colors, High Static Pressure for Case/Radiator Applications, Concentrated Compression Blade Design, Hydraulic Bearing for Low noise/Longer Lifespan, LNC (Low Noise Cable) Included to Reduced Noise, Anti-vibration Mounting System]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8htWGX/thermaltake-riing-14-rgb-5115-cfm-140-mm-fan-cl-f043-pl14sw-a"
+}

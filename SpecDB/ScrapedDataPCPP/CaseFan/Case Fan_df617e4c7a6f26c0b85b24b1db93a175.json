@@ -1,0 +1,19 @@
+{
+    "name": "Rosewill RFTL-131411B 48.7 CFM 140 mm Fan",
+    "Manufacturer": "Rosewill",
+    "Part #": "RFTL-131411B",
+    "Size": "140 mm",
+    "Color": "Transparent",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1200 RPM",
+    "Airflow": "48.7 CFM",
+    "Noise Level": "23 dB",
+    "PWM": "No",
+    "LED": "Blue",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Fluid Dynamic",
+    "Features": "[140mm, 11 blades, 1200RPM ± 10%0RPM / 48.7CFM, FBD bearing, Transparent frame with blue LED]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/JfK7YJ/rosewill-case-fan-rftl131411b"
+}

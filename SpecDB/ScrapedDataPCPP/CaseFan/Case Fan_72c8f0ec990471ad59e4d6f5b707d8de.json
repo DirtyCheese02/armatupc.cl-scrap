@@ -1,0 +1,19 @@
+{
+    "name": "ARCTIC BioniX P120 A-RGB 48 CFM 120 mm Fan",
+    "Manufacturer": "ARCTIC",
+    "Model": "BioniX P120 A-RGB",
+    "Part #": "ACFAN00146A",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "400 - 2300 RPM",
+    "Airflow": "48 CFM",
+    "Noise Level": "30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "2.1 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hKpzK8/arctic-bionix-p120-a-rgb-48-cfm-120-mm-fan-acfan00146a"
+}

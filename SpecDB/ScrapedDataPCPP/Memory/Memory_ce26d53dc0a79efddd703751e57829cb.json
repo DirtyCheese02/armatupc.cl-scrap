@@ -1,0 +1,15 @@
+{
+    "name": "Kingston HyperX Savage 8 GB (1 x 8 GB) DDR4-2666 CL13 Memory",
+    "Manufacturer": "Kingston",
+    "Part #": "HX426C13SB/8",
+    "Speed": "DDR4-2666",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "1 x 8GB",
+    "Color": "Black / White",
+    "First Word Latency": "9.752 ns",
+    "CAS Latency": "13",
+    "Voltage": "1.35 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9V7CmG/kingston-memory-hx426c13sb8"
+}

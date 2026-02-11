@@ -1,0 +1,23 @@
+{
+    "name": "Intel Celeron G1630 2.8 GHz Dual-Core Processor",
+    "Manufacturer": "Intel",
+    "Part #": "BX80637G1630",
+    "Series": "Intel Celeron",
+    "Microarchitecture": "Ivy Bridge",
+    "Core Family": "Ivy Bridge",
+    "Socket": "LGA1155",
+    "Core Count": "2",
+    "Thread Count": "2",
+    "Performance Core Clock": "2.8 GHz",
+    "L2 Cache": "0.5 MB",
+    "L3 Cache": "2 MB",
+    "TDP": "55 W",
+    "Integrated Graphics": "Intel HD Graphics",
+    "ECC Support": "No",
+    "Includes Cooler": "Yes",
+    "Packaging": "Boxed",
+    "Lithography": "22 nm",
+    "Includes CPU Cooler": "Yes",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/z2h9TW/intel-cpu-bx80637g1630"
+}

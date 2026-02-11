@@ -1,0 +1,18 @@
+{
+    "name": "Cougar CFD 73.18 CFM 140 mm Fan",
+    "Manufacturer": "Cougar",
+    "Part #": "CFD14HBW",
+    "Size": "140 mm",
+    "Color": "Black / White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1000 RPM",
+    "Airflow": "73.18 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Hydraulic",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Y9Jkcf/cougar-case-fan-cfd14hbw"
+}

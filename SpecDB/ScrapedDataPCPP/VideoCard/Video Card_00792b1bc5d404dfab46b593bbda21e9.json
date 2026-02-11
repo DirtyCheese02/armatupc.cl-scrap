@@ -1,0 +1,23 @@
+{
+    "name": "Gigabyte OC GeForce RTX 2060 6 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N2060OC-6GD",
+    "Chipset": "GeForce RTX 2060",
+    "Memory": "6 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1365 MHz",
+    "Boost Clock": "1755 MHz",
+    "Effective Memory Clock": "14000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "226 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/KX66Mp/gigabyte-geforce-rtx-2060-6-gb-oc-video-card-gv-n2060oc-6gd"
+}

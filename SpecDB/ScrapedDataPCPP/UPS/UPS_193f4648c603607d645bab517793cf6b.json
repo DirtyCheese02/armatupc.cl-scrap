@@ -1,0 +1,21 @@
+{
+    "name": "IBM 53959KX UPS",
+    "Manufacturer": "IBM",
+    "Part #": "53959KX",
+    "Capacity (W)": "10000 W",
+    "Capacity (VA)": "11000 VA",
+    "Rack Height": "5U",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "14 Minutes",
+    "Battery Chemistry": "Valve-regulated Lead Acid (VRLA)",
+    "Emergency Power OFF": "Yes",
+    "Form Factor": "Rack-mountable",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "220 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "230 V AC",
+    "Receptacles": "8 x IEC 60320 C19",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/hCyxFT/ibm-ups-53959kx"
+}

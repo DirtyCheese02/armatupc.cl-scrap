@@ -1,0 +1,19 @@
+{
+    "name": "CRYORIG XT140 65 CFM 140 mm Fan",
+    "Manufacturer": "CRYORIG",
+    "Model": "XT140",
+    "Part #": "CR-XTA",
+    "Size": "140 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "700 - 1300 RPM",
+    "Airflow": "65 CFM",
+    "Noise Level": "24 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Features": "Slim Vortex High Efficiency Fan Blades, HPLN Low Noise Bearing, Integrated Acoustic Vibration Absorbers, Static Pressure and Air Flow Optimized Fan Blade, PWM Fan Control",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/7YphP6/cryorig-case-fan-crxta"
+}

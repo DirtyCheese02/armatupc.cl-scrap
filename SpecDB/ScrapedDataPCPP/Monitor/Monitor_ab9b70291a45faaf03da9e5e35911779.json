@@ -1,0 +1,23 @@
+{
+    "name": "NEC EA244UHD-BK 24.0\" 3840 x 2160 60 Hz Monitor",
+    "Manufacturer": "NEC",
+    "Part #": "EA244UHD-BK",
+    "Screen Size": "24\"",
+    "Resolution": "3840 x 2160",
+    "Refresh Rate": "60 Hz",
+    "Response Time (G2G)": "6 ms",
+    "Panel Type": "IPS",
+    "Aspect Ratio": "16:9",
+    "Brightness": "350 cd/m²",
+    "Pixel Pitch": "0.138 mm",
+    "Widescreen": "Yes",
+    "Curved Screen": "No",
+    "Frame Sync": "None",
+    "Built-in Speakers": "Yes",
+    "VESA Mounting": "100 x 100",
+    "Viewing Angle": "178° H x 178° V",
+    "Display Colors": "1070000000",
+    "Contrast Ratio": "1,000:1",
+    "Inputs": "[2 x DisplayPort, 2 x DVI, 1 x HDMI]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/M2qdnQ/nec-monitor-ea244uhdbk"
+}

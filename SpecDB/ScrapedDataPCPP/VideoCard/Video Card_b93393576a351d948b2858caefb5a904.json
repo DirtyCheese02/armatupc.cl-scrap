@@ -1,0 +1,21 @@
+{
+    "name": "EVGA 512-P3-1153-TR GeForce GTS 250 512 MB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "512-P3-1153-TR",
+    "Chipset": "GeForce GTS 250",
+    "Memory": "0.5 GB",
+    "Memory Type": "DDR3",
+    "Core Clock": "738 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "SLI/CrossFire": "2-way SLI Capable",
+    "Frame Sync": "None",
+    "TDP": "28 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "S-Video Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/8YGkcf/evga-video-card-512p31153tr"
+}

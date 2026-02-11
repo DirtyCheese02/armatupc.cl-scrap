@@ -1,0 +1,20 @@
+{
+    "name": "Tripp Lite BCPERSONAL450 UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "BCPERSONAL450",
+    "Capacity (W)": "280 W",
+    "Capacity (VA)": "450 VA",
+    "Alarm": "On Battery",
+    "Backup/Run Time (Full Load)": "5 Minutes",
+    "Backup/Run Time (Half Load)": "17 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Battery Life": "6 Year",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/yJVBD3/tripp-lite-ups-bcpersonal450"
+}

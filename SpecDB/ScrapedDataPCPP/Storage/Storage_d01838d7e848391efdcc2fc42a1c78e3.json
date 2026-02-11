@@ -1,0 +1,14 @@
+{
+    "name": "Intel 520 120 GB 2.5\" Solid State Drive",
+    "Manufacturer": "Intel",
+    "Part #": "SSDSC2CW120A310",
+    "Capacity": "120 GB",
+    "Price / GB": "$2.250",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "SSD Controller": "Sandforce SF-2281",
+    "SSD NAND Flash Type": "MLC (synchronous)",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/wHH323/intel-internal-hard-drive-ssdsc2cw120a310"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "G.Skill Ares 16 GB (4 x 4 GB) DDR3-1333 CL9 Memory",
+    "Manufacturer": "G.Skill",
+    "Part #": "F3-1333C9Q-16GAO",
+    "Speed": "DDR3-1333",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "4 x 4GB",
+    "Color": "Black / Orange",
+    "First Word Latency": "13.503 ns",
+    "CAS Latency": "9",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/CvMFf7/gskill-memory-f31333c9q16gao"
+}

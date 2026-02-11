@@ -1,0 +1,21 @@
+{
+    "name": "HP J3G93AT FirePro W7100 8 GB Video Card",
+    "Manufacturer": "HP",
+    "Part #": "J3G93AT",
+    "Chipset": "FirePro W7100",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "920 MHz",
+    "Effective Memory Clock": "5000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black / Red",
+    "Frame Sync": "None",
+    "Length": "241 mm",
+    "TDP": "150 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "1",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 6-pin",
+    "DisplayPort Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/pNNypg/hp-video-card-j3g93at"
+}

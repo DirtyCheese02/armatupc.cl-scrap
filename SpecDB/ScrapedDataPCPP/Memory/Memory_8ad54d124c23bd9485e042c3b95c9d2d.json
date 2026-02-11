@@ -1,0 +1,17 @@
+{
+    "name": "Corsair WS 128 GB (4 x 32 GB) Registered DDR5-5600 CL40 Memory",
+    "Manufacturer": "Corsair",
+    "Part #": "CMA128GX5M4B5600Z40",
+    "Speed": "DDR5-5600",
+    "Form Factor": "288-pin DIMM (DDR5)",
+    "Modules": "4 x 32GB",
+    "Price / GB": "$9.375",
+    "Color": "Black / Green",
+    "First Word Latency": "14.286 ns",
+    "CAS Latency": "40",
+    "Voltage": "1.25 V",
+    "Timing": "40-40-40-77",
+    "ECC / Registered": "ECC / Registered",
+    "Heat Spreader": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/kzTZxr/corsair-ws-128-gb-4-x-32-gb-registered-ddr5-5600-cl40-memory-cma128gx5m4b5600z40"
+}

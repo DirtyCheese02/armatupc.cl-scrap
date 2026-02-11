@@ -1,0 +1,18 @@
+{
+    "name": "GAMDIAS AEOLus M1 45.2 CFM 120 mm Fan",
+    "Manufacturer": "GAMDIAS",
+    "Part #": "AEOLus M1-1201",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "45.2 CFM",
+    "Noise Level": "31 dB",
+    "PWM": "No",
+    "LED": "RGB",
+    "Connector": "3-pin + Proprietary RGB",
+    "Controller": "Manual",
+    "Static Pressure": "1.05 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Q47p99/gamdias-aeolus-m1-452-cfm-120-mm-fan-aeolus-m1-1201"
+}

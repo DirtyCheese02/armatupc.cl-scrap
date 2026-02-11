@@ -1,0 +1,18 @@
+{
+    "name": "APC Back-UPS Pro 700VA UPS",
+    "Manufacturer": "APC",
+    "Model": "Back-UPS Pro 700VA",
+    "Part #": "BR700G",
+    "Capacity (W)": "420 W",
+    "Capacity (VA)": "700 VA",
+    "Backup/Run Time (Full Load)": "3 Minutes",
+    "Backup/Run Time (Half Load)": "12 Minutes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "3 x NEMA 5-15R",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zxYWGX/apc-back-ups-pro-700va-ups-br700g"
+}

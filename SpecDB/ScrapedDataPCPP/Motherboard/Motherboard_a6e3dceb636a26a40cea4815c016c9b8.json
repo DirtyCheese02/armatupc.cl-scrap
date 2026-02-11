@@ -1,0 +1,23 @@
+{
+    "name": "Zotac GF8200-C-E Mini ITX AM2+/AM2 Motherboard",
+    "Manufacturer": "Zotac",
+    "Part #": "GF8200-C-E",
+    "Socket / CPU": "AM2+/AM2",
+    "Form Factor": "Mini ITX",
+    "Chipset": "NVIDIA GeForce 8200",
+    "Memory Max": "8 GB",
+    "Memory Type": "DDR2",
+    "Memory Slots": "2",
+    "Memory Speed": "DDR2-1066",
+    "Color": "Black / Red",
+    "PCIe x1 Slots": "1",
+    "SATA 3.0 Gb/s Ports": "4",
+    "Onboard Ethernet": "1 x 1 Gb/s Ports",
+    "Onboard Video": "Yes",
+    "USB 2.0 Headers": "2",
+    "Supports ECC": "No",
+    "Wireless Networking": "None",
+    "RAID Support": "No",
+    "Uses Back-Connect Connectors": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/mmckcf/zotac-motherboard-gf8200ce"
+}

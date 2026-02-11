@@ -1,0 +1,17 @@
+{
+    "name": "Thermalright TL-15R 42.58 CFM 92 mm Fan",
+    "Manufacturer": "Thermalright",
+    "Part #": "TL-9015R",
+    "Size": "92 mm",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "2700 RPM",
+    "Airflow": "42.58 CFM",
+    "Noise Level": "22.4 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "1.33 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zgHqqs/thermalright-tl-15r-4258-cfm-92-mm-fan-tl-9015r"
+}

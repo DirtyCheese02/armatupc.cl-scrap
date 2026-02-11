@@ -1,0 +1,23 @@
+{
+    "name": "EVGA 01G-P3-2632-KR GeForce GT 630 1 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "01G-P3-2632-KR",
+    "Chipset": "GeForce GT 630",
+    "Memory": "1 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "810 MHz",
+    "Effective Memory Clock": "3200 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "144 mm",
+    "TDP": "65 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/tFjG3C/evga-video-card-01gp32632kr"
+}

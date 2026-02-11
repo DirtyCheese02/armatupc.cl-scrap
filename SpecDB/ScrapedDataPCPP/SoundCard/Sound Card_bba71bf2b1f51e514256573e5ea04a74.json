@@ -1,0 +1,12 @@
+{
+    "name": "HT Omega CLARO II 24-bit 192 kHz Sound Card",
+    "Manufacturer": "HT Omega",
+    "Part #": "CLARO II",
+    "Channels": "7.1",
+    "Digital Audio": "24-bit",
+    "Signal-To-Noise Ratio": "120 dB",
+    "Sample Rate": "192 kHz",
+    "Chipset": "C-Media CMI8788",
+    "Interface": "PCI",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/J2PfrH/ht-omega-sound-card-claroii"
+}

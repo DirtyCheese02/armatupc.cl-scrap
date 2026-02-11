@@ -1,0 +1,22 @@
+{
+    "name": "Samsung 850 Pro 2 TB 2.5\" Solid State Drive",
+    "Manufacturer": "Samsung",
+    "Part #": "MZ-7KE2T0BW",
+    "Capacity": "2 TB",
+    "Price / GB": "$0.200",
+    "Type": "SSD",
+    "Form Factor": "2.5\"",
+    "Interface": "SATA 6.0 Gb/s",
+    "NVME": "No",
+    "Full Disk Write Throughput": "[]",
+    "Full Disk Write Throughput (Lowest 10 Seconds)": "[]",
+    "Random Read Throughput QD1": "[]",
+    "Random Read Throughput QD32": "[]",
+    "Random Write Throughput QD1": "[]",
+    "Random Write Throughput QD32": "[]",
+    "Sequential Read Throughput QD1": "[]",
+    "Sequential Read Throughput QD4": "[]",
+    "Sequential Write Throughput QD1": "[]",
+    "Sequential Write Throughput QD4": "[]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/2TCrxr/samsung-internal-hard-drive-mz7ke2t0bw"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "XFX HD-435X-UAH2 Radeon HD 4350 256 MB Video Card",
+    "Manufacturer": "XFX",
+    "Part #": "HD-435X-UAH2",
+    "Chipset": "Radeon HD 4350",
+    "Memory": "0.25 GB",
+    "Memory Type": "DDR2",
+    "Core Clock": "600 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "TDP": "20 W",
+    "Case Expansion Slot Width": "1",
+    "Total Slot Width": "2",
+    "Cooling": "Fanless",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "1",
+    "S-Video Outputs": "1",
+    "VGA Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/9zTmP6/xfx-video-card-hd435xuah2"
+}

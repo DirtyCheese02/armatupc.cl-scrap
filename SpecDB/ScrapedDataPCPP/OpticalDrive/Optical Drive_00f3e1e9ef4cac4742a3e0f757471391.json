@@ -1,0 +1,20 @@
+{
+    "name": "Archgon CB-5021-GD DVD/CD Writer",
+    "Manufacturer": "Archgon",
+    "Part #": "CB-5021-GD",
+    "Form Factor": "5.25\"",
+    "Interface": "SATA 3.0 Gb/s",
+    "Buffer Cache": "1 MB",
+    "DVD-ROM Speed": "8X",
+    "CD-ROM Speed": "24X",
+    "DVD+R Speed": "8X",
+    "DVD+RW Speed": "8X",
+    "DVD+R Dual-Layer Speed": "6X",
+    "DVD-R Speed": "8X",
+    "DVD-RW Speed": "6X",
+    "DVD-R Dual-Layer Speed": "6X",
+    "DVD-RAM Speed": "5X",
+    "CD-R Speed": "24X",
+    "CD-RW Speed": "24X",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/D6YXsY/archgon-optical-drive-cb5021gd"
+}

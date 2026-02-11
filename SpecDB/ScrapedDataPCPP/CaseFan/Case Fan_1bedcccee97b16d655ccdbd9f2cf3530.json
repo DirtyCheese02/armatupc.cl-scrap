@@ -1,0 +1,20 @@
+{
+    "name": "EVGA 400-HY-FX12-KR 74.81 CFM 120 mm Fan",
+    "Manufacturer": "EVGA",
+    "Part #": "400-HY-FX12-KR",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "500 - 2400 RPM",
+    "Airflow": "74.81 CFM",
+    "Noise Level": "16 - 39.9 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "Static Pressure": "4.04 mmH₂O",
+    "Bearing Type": "Teflon Nano-Steel",
+    "Features": "[Variable controlled fans allow dynamic fan speed based on GPU temperature, and the water cooling efficiency means very low noise fans., Quietest High Performance / High Pressure Fan In Its Class: The FX's unique curved housing reduces turbulence caused by airflow reflected off surfaces, resulting in better airflow, static pressure and reduced noise., Designed for Chassis and Radiator: The FX fans were designed to excell at both high airflow and high static pressure. These fans perform equally well to the task, regardless of being installed in a chassis or on a radiator., Teflon Nano-Steel Bearings allow for quiet and long-lasting performance., PWM 4-Pin connector allows you to control the fan via PWM signal, ensuring that the fans spin exactly the way you want!, Tapered EVGA Fan Blade improves airflow and creates a unique look while spinning.]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zk66Mp/evga-400-hy-fx12-kr-748-cfm-120mm-fan-400-hy-fx12-kr"
+}

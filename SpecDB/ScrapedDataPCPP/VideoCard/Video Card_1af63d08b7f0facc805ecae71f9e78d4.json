@@ -1,0 +1,22 @@
+{
+    "name": "EVGA 03G-P3-1595-AR GeForce GTX 580 3 GB Video Card",
+    "Manufacturer": "EVGA",
+    "Part #": "03G-P3-1595-AR",
+    "Chipset": "GeForce GTX 580",
+    "Memory": "3 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "900 MHz",
+    "Effective Memory Clock": "4212 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "SLI/CrossFire": "[4-way SLI Capable, 3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "Length": "279 mm",
+    "TDP": "244 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Dz3RsY/evga-video-card-03gp31595ar"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "APC SUA2200XL UPS",
+    "Manufacturer": "APC",
+    "Part #": "SUA2200XL",
+    "Capacity (W)": "1850 W",
+    "Capacity (VA)": "2200 VA",
+    "Rack Height": "5U",
+    "Backup/Run Time (Full Load)": "10.40 Minutes",
+    "Backup/Run Time (Half Load)": "28.50 Minutes",
+    "Battery Chemistry": "Sealed Lead Acid",
+    "Emergency Power OFF": "Optional",
+    "Form Factor": "Tower",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "3 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "[9 x NEMA 5-15R, 2 x NEMA 5-20R]",
+    "Serial Port": "Yes",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GCyxFT/apc-ups-sua2200xl"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "OLOy WarHawk RGB 32 GB (2 x 16 GB) DDR4-3600 CL19 Memory",
+    "Manufacturer": "OLOy",
+    "Part #": "MD4U163619BEDA",
+    "Speed": "DDR4-3600",
+    "Form Factor": "288-pin DIMM (DDR4)",
+    "Modules": "2 x 16GB",
+    "Color": "Black / White",
+    "First Word Latency": "10.556 ns",
+    "CAS Latency": "19",
+    "Voltage": "1.35 V",
+    "Timing": "19-20-20-40",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/GxrYcf/oloy-warhawk-rgb-32-gb-2-x-16-gb-ddr4-3600-memory-md4u163619beda"
+}

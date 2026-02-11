@@ -1,0 +1,20 @@
+{
+    "name": "Gigabyte GV-N470OC-13I REV2.0 GeForce GTX 470 1.25 GB Video Card",
+    "Manufacturer": "Gigabyte",
+    "Part #": "GV-N470OC-13I REV2.0",
+    "Chipset": "GeForce GTX 470",
+    "Memory": "1.25 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "630 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[3-way SLI Capable, 2-way SLI Capable]",
+    "Frame Sync": "None",
+    "TDP": "215 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "None",
+    "Mini-HDMI Outputs": "1",
+    "DVI-I Dual Link Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/VQW9TW/gigabyte-video-card-gvn470oc13irev20"
+}

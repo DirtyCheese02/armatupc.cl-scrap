@@ -1,0 +1,23 @@
+{
+    "name": "Intel Core 2 Quad Q8400S 2.66 GHz Quad-Core OEM/Tray Processor",
+    "Manufacturer": "Intel",
+    "Part #": "AT80580AJ0674ML",
+    "Series": "Intel Core 2 Quad",
+    "Microarchitecture": "Yorkfield",
+    "Core Family": "Yorkfield",
+    "Socket": "LGA775",
+    "Core Count": "4",
+    "Thread Count": "4",
+    "Performance Core Clock": "2.66 GHz",
+    "L2 Cache": "4 MB",
+    "L3 Cache": "0 MB",
+    "TDP": "65 W",
+    "Integrated Graphics": "None",
+    "ECC Support": "No",
+    "Includes Cooler": "No",
+    "Packaging": "OEM/Tray",
+    "Lithography": "45 nm",
+    "Includes CPU Cooler": "No",
+    "Simultaneous Multithreading": "No",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/N8ckcf/intel-cpu-at80580aj0674ml"
+}

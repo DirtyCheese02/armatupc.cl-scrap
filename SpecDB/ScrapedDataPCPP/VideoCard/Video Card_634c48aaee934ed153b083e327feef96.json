@@ -1,0 +1,22 @@
+{
+    "name": "PowerColor Fighter Radeon RX 6600 XT 8 GB Video Card",
+    "Manufacturer": "PowerColor",
+    "Part #": "AXRX 6600XT 8GBD6-3DH",
+    "Chipset": "Radeon RX 6600 XT",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "1968 MHz",
+    "Boost Clock": "2589 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "FreeSync",
+    "Length": "200 mm",
+    "TDP": "160 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "2 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort Outputs": "3",
+    "HDMI Outputs": "1",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nyH7YJ/powercolor-radeon-rx-6600-xt-8-gb-fighter-video-card-6600xt-8gbd6-3dh"
+}

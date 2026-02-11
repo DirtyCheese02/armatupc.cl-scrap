@@ -1,0 +1,18 @@
+{
+    "name": "Tripp Lite SM1050NAFTA UPS",
+    "Manufacturer": "Tripp Lite",
+    "Part #": "SM1050NAFTA",
+    "Capacity (W)": "705 W",
+    "Capacity (VA)": "1050 VA",
+    "Backup/Run Time (Full Load)": "8 Minutes",
+    "Backup/Run Time (Half Load)": "23 Minutes",
+    "Form Factor": "Tower",
+    "Hot Swappable": "Yes",
+    "Input Voltage": "110 V AC",
+    "Maximum Battery Recharge Time": "4 Hour",
+    "Output Voltage": "120 V AC",
+    "Receptacles": "6 x NEMA 5-15R",
+    "Switching Time": "4 ms",
+    "USB": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/3ccMnQ/tripp-lite-ups-sm1050nafta"
+}

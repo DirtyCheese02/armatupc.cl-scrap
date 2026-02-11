@@ -1,0 +1,19 @@
+{
+    "name": "Enermax UCCL12N 71.25 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCCL12N",
+    "Size": "120 mm",
+    "Color": "White",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "1500 RPM",
+    "Airflow": "71.25 CFM",
+    "Noise Level": "18 dB",
+    "PWM": "No",
+    "LED": "White",
+    "Connector": "3-pin",
+    "Controller": "None",
+    "Bearing Type": "Twister",
+    "Features": "[\"TWISTER\" Bearing Technology for long lifetime and low noise, BATWING Blade Design and Carved HALO Frame for extra 20 ~ 30% airflow, Modular Frame with aluminium ring for enhanced stablity of structure, High brightness LED with a unique lightning effect, Detachable fan blades for easy cleaning]",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/m6JwrH/enermax-case-fan-uccl12n"
+}

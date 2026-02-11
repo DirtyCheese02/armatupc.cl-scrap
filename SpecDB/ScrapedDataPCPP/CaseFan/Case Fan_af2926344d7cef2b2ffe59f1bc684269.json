@@ -1,0 +1,17 @@
+{
+    "name": "Cougar Vortex 43.54 CFM 120 mm Fan",
+    "Manufacturer": "Cougar",
+    "Part #": "CF-V12HB-RGB",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "600 - 1500 RPM",
+    "Airflow": "43.54 CFM",
+    "Noise Level": "26 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/fdfhP6/cougar-cf-v12hb-rgb-4354-cfm-120-mm-fan-cf-v12hb-rgb"
+}

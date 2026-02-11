@@ -1,0 +1,15 @@
+{
+    "name": "Patriot Signature 16 GB (2 x 8 GB) DDR3-1600 CL11 Memory",
+    "Manufacturer": "Patriot",
+    "Part #": "PSD316G1600KH",
+    "Speed": "DDR3-1600",
+    "Form Factor": "240-pin DIMM (DDR3)",
+    "Modules": "2 x 8GB",
+    "Color": "Black",
+    "First Word Latency": "13.75 ns",
+    "CAS Latency": "11",
+    "Voltage": "1.5 V",
+    "ECC / Registered": "Non-ECC / Unbuffered",
+    "Heat Spreader": "Yes",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/4nbp99/patriot-memory-psd316g1600kh"
+}

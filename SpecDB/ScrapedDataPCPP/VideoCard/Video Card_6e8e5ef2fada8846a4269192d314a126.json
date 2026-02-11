@@ -1,0 +1,20 @@
+{
+    "name": "HIS H587F2G6DG Radeon HD 5870 2 GB Video Card",
+    "Manufacturer": "HIS",
+    "Part #": "H587F2G6DG",
+    "Chipset": "Radeon HD 5870",
+    "Memory": "2 GB",
+    "Memory Type": "GDDR5",
+    "Core Clock": "850 MHz",
+    "Effective Memory Clock": "1200 MHz",
+    "Interface": "PCIe x16",
+    "SLI/CrossFire": "[4-way CrossFire Capable, 3-way CrossFire Capable, 2-way CrossFire Capable]",
+    "Frame Sync": "None",
+    "TDP": "188 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "None",
+    "MiniDisplayPort Outputs": "6",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/YQH323/his-video-card-h587f2g6dg"
+}

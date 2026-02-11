@@ -1,0 +1,17 @@
+{
+    "name": "Enermax T.B. Silence Adv 63.89 CFM 120 mm Fan",
+    "Manufacturer": "Enermax",
+    "Part #": "UCTBA12P",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Standard",
+    "RPM": "300 - 1500 RPM",
+    "Airflow": "63.89 CFM",
+    "Noise Level": "7 - 15.8 dB",
+    "PWM": "Yes",
+    "LED": "None",
+    "Connector": "4-pin PWM",
+    "Controller": "None",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/zbc48d/enermax-uctba12p-639-cfm-120mm-fan-uctba12p"
+}
