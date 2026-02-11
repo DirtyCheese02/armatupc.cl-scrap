@@ -242,7 +242,13 @@ def main() -> int:
             retry_result["headless"] = False
             retry_result["used_headful_retry"] = True
             retry_result["json_count"] = _count_json_files(output_dir)
-            result = retry_result
+            if retry_result["success"] and (retry_result["json_count"] or 0) > 0:
+                result = retry_result
+            else:
+                result["headful_retry_attempted"] = True
+                result["headful_retry_success"] = retry_result["success"]
+                result["headful_retry_return_code"] = retry_result["return_code"]
+                result["headful_retry_json_count"] = retry_result["json_count"]
 
         scraper_results.append(result)
 
