@@ -7,7 +7,7 @@ from pydoll.browser.options import ChromiumOptions
 import hashlib
 
 
-MAX_CONCURRENT_TABS_COLLECTOR = 8  # Pestañas para buscar links
+MAX_CONCURRENT_TABS_COLLECTOR = 6  # Pestañas para buscar links
 MAX_CONCURRENT_TABS_SCRAPER = 6    # Pestañas para scrapear productos
 
 CATEGORY_URL_MAP = {
@@ -38,7 +38,7 @@ async def process_category_links(sem, browser, category_name, category_url, link
         page = await browser.new_tab()
         try:
             await page.go_to(category_url)
-            await asyncio.sleep(6) 
+            await asyncio.sleep(8) 
 
             total_pages = await getPagination(page)
             print(f"   📄 {category_name}: {total_pages} páginas detectadas.")
@@ -53,7 +53,7 @@ async def process_category_links(sem, browser, category_name, category_url, link
                             connector = "?"
                         next_page_url = f"{category_url}{connector}page={i}"
                         await page.go_to(next_page_url)
-                        await asyncio.sleep(6)
+                        await asyncio.sleep(8)
                     except Exception as e:
                         print(f"   ❌ Error paginando {category_name}: {e}")                  
                         break

@@ -40,7 +40,7 @@ async def process_category_links(sem, browser, category_name, category_url, link
         page = await browser.new_tab()
         try:
             await page.go_to(category_url)
-            await asyncio.sleep(5) 
+            await asyncio.sleep(6) 
 
             total_pages = await getPagination(page)
             print(f"   📄 {category_name}: {total_pages} páginas detectadas.")
@@ -104,11 +104,10 @@ async def scrape_product_details(sem, browser, url, category_name):
             found = False
             await page.go_to(url)
             
-            await asyncio.sleep(5)
+            await asyncio.sleep(6)
 
-    
-            # 2. Nombre del Producto           
-            try:                           
+            # 2. Nombre del Producto
+            try:
                 product_name = await page.query("//h1[@itemprop='name']/b")
                 product_name = await product_name.text
                     
