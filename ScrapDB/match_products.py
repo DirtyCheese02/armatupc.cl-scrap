@@ -52,7 +52,8 @@ CATEGORY_TO_TABLE = {
     "WirelessNetworkAdapter": "WirelessNetworkAdapterSpecifications",
     "CPU_CPUCooler_ThermalCompound": ["CPUSpecifications", "CpuCoolerSpecifications", "ThermalPasteSpecifications"],
     "Mouse_Keyboard": ["MouseSpecifications", "KeyboardSpecifications"],
-    "Storage_ExternalStorage": ["InternalStorageSpecifications", "ExternalStorageSpecifications"]
+    "Storage_ExternalStorage": ["InternalStorageSpecifications", "ExternalStorageSpecifications"],
+    "CPUCooler_ThermalCompound": ["CpuCoolerSpecifications", "ThermalPasteSpecifications"]
 }
 
 
