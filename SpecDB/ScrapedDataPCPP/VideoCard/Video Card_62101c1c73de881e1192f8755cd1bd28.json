@@ -1,0 +1,22 @@
+{
+    "name": "ASRock B60 CT 24G Arc Pro B60 24 GB Video Card",
+    "Manufacturer": "ASRock",
+    "Part #": "B60 CT 24G",
+    "Chipset": "Arc Pro B60",
+    "Memory": "24 GB",
+    "Memory Type": "GDDR6",
+    "Core Clock": "2000 MHz",
+    "Boost Clock": "2400 MHz",
+    "Effective Memory Clock": "19000 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "None",
+    "Length": "271 mm",
+    "TDP": "200 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "1 Fan",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1 Outputs": "4",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/Hm7MnQ/asrock-b60-ct-24g-arc-pro-b60-24-gb-video-card-b60-ct-24g"
+}

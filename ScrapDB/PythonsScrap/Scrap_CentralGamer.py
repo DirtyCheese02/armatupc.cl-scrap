@@ -4,6 +4,7 @@ import os
 import json
 from pydoll.browser import Chrome
 from pydoll.browser.options import ChromiumOptions
+from pydoll.exceptions import FailedToStartBrowser
 import hashlib
 
 
@@ -163,24 +164,59 @@ async def scrape_product_details(sem, browser, url, category_name):
             await page.close()
             
 async def main():
-    options = ChromiumOptions()
-    options.headless = os.environ.get("SCRAP_HEADLESS", "1").lower() not in ("0", "false", "no")
-    options.start_timeout = int(os.environ.get("SCRAP_BROWSER_START_TIMEOUT", "45"))
+    headless = os.environ.get("SCRAP_HEADLESS", "1").lower() not in ("0", "false", "no")
+    start_timeout = int(os.environ.get("SCRAP_BROWSER_START_TIMEOUT", "90"))
     chrome_binary = os.environ.get("CHROME_BINARY_PATH")
+
+    def _build_options(use_binary: bool, force_headless_new: bool):
+        options = ChromiumOptions()
+        options.headless = headless
+        options.start_timeout = start_timeout
+        if use_binary and chrome_binary:
+            options.binary_location = chrome_binary
+        options.add_argument("--window-size=1280,720")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--disable-gpu")
+        if options.headless and force_headless_new:
+            options.add_argument("--headless=new")
+        return options
+
+    attempts = [
+        ("configured", True, True),
+        ("configured-no-headless-new", True, False),
+    ]
     if chrome_binary:
-        options.binary_location = chrome_binary
-    options.add_argument("--window-size=1280,720")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-gpu")
-    print(
-        f"[Browser] headless={options.headless} "
-        f"binary={'auto' if not chrome_binary else chrome_binary} "
-        f"start_timeout={options.start_timeout}s"
-    )
-    
-    browser = Chrome(options=options)
-    await browser.start()
+        attempts.extend([
+            ("no-binary", False, True),
+            ("no-binary-no-headless-new", False, False),
+        ])
+
+    browser = None
+    last_error = None
+    for label, use_binary, force_headless_new in attempts:
+        options = _build_options(use_binary=use_binary, force_headless_new=force_headless_new)
+        print(
+            f"[Browser] attempt={label} headless={options.headless} "
+            f"binary={'auto' if not use_binary or not chrome_binary else chrome_binary} "
+            f"start_timeout={options.start_timeout}s"
+        )
+        candidate = Chrome(options=options)
+        try:
+            await candidate.start()
+            browser = candidate
+            break
+        except FailedToStartBrowser as e:
+            last_error = e
+            print(f"[Browser] startup failed on attempt={label}")
+        except Exception as e:
+            last_error = e
+            print(f"[Browser] unexpected startup error on attempt={label}: {e}")
+
+    if browser is None:
+        if last_error:
+            raise last_error
+        raise RuntimeError("Browser failed to start for unknown reason.")
 
     # Limpieza inicial de carpeta
     output_dir = "ScrapDB/Outputs/CentralGamer"

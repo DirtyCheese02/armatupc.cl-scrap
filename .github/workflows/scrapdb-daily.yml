@@ -54,7 +54,9 @@ jobs:
           SCRAP_HEADLESS: "1"
           SCRAP_USE_XVFB: "1"
           SCRAPER_RETRY_ON_EMPTY: "1"
-          SCRAP_BROWSER_START_TIMEOUT: "45"
+          SCRAPER_RETRY_HEADFUL_ON_FAIL: "1"
+          SCRAPER_HEADFUL: "Scrap_CentralGamer.py"
+          SCRAP_BROWSER_START_TIMEOUT: "90"
           CHROME_BINARY_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
           SCRAPER_TIMEOUT_MINUTES: "90"
           MATCH_TIMEOUT_MINUTES: "60"

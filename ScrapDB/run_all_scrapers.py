@@ -190,6 +190,7 @@ def main() -> int:
     default_headless = _parse_bool(os.environ.get("SCRAP_HEADLESS"), True)
     use_xvfb = _parse_bool(os.environ.get("SCRAP_USE_XVFB"), True)
     retry_on_empty = _parse_bool(os.environ.get("SCRAPER_RETRY_ON_EMPTY"), True)
+    retry_headful_on_fail = _parse_bool(os.environ.get("SCRAPER_RETRY_HEADFUL_ON_FAIL"), True)
     headful_scrapers = _parse_csv_env("SCRAPER_HEADFUL")
     headless_scrapers = _parse_csv_env("SCRAPER_HEADLESS")
 
@@ -221,6 +222,29 @@ def main() -> int:
         result["headless"] = script_headless
         result["used_headful_retry"] = False
         result["json_count"] = _count_json_files(output_dir)
+
+        if retry_headful_on_fail and script_headless and not result["success"]:
+            print(
+                f"[{index}/{len(scrapers)}] {script_name} failed in headless. "
+                "Retrying in headful mode..."
+            )
+            retry_result = _run_python_script(
+                script_path=scraper_path,
+                log_path=run_dir / f"{scraper_path.stem}_headful_retry.log",
+                timeout_minutes=scraper_timeout_minutes,
+                extra_env={"SCRAP_HEADLESS": "0"},
+                use_xvfb=use_xvfb,
+            )
+            retry_result["headless"] = False
+            retry_result["used_headful_retry"] = True
+            retry_result["json_count"] = _count_json_files(output_dir)
+            if retry_result["success"]:
+                result = retry_result
+            else:
+                result["headful_retry_attempted"] = True
+                result["headful_retry_success"] = retry_result["success"]
+                result["headful_retry_return_code"] = retry_result["return_code"]
+                result["headful_retry_json_count"] = retry_result["json_count"]
 
         if (
             retry_on_empty
