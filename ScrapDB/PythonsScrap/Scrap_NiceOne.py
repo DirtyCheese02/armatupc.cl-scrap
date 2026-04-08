@@ -200,15 +200,15 @@ async def main():
     chrome_binary = os.environ.get("CHROME_BINARY_PATH")
     if chrome_binary:
         options.binary_location = chrome_binary
-    #options.add_argument("--window-size=1280,720")
-    #options.add_argument("--no-sandbox")
-    #options.add_argument("--disable-dev-shm-usage")
-    #options.add_argument("--disable-gpu")
-    #print(
-    #    f"[Browser] headless={options.headless} "
-    #    f"binary={'auto' if not chrome_binary else chrome_binary} "
-    #    f"start_timeout={options.start_timeout}s"
-    #)
+    options.add_argument("--window-size=1280,720")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    print(
+        f"[Browser] headless={options.headless} "
+        f"binary={'auto' if not chrome_binary else chrome_binary} "
+        f"start_timeout={options.start_timeout}s"
+    )
     
     browser = Chrome(options=options)
     await browser.start()
