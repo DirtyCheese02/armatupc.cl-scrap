@@ -35,7 +35,7 @@ async def process_category_links(sem, browser, category_name, category_url, link
         page = await browser.new_tab()
         try:
             await page.go_to(category_url)
-            await asyncio.sleep(6) 
+            await asyncio.sleep(8) 
 
             total_pages = await getPagination(page)
             print(f"   📄 {category_name}: {total_pages} páginas detectadas.")

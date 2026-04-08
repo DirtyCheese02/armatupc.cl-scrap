@@ -108,7 +108,7 @@ async def scrape_product_details(sem, browser, url, category_name):
             found = False
             await page.go_to(url)
             
-            await asyncio.sleep(6)
+            await asyncio.sleep(8)
 
             # 2. Nombre del Producto
             try:
