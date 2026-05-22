@@ -55,6 +55,7 @@ jobs:
           SCRAP_USE_XVFB: "1"
           SCRAPER_RETRY_ON_EMPTY: "1"
           SCRAPER_RETRY_HEADFUL_ON_FAIL: "1"
+          SCRAPER_REQUIRE_NON_EMPTY: "Scrap_Centrale.py"
           SCRAPER_HEADFUL: "Scrap_CentralGamer.py"
           SCRAP_BROWSER_START_TIMEOUT: "90"
           CHROME_BINARY_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}

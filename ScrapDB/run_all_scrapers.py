@@ -193,6 +193,7 @@ def main() -> int:
     retry_headful_on_fail = _parse_bool(os.environ.get("SCRAPER_RETRY_HEADFUL_ON_FAIL"), True)
     headful_scrapers = _parse_csv_env("SCRAPER_HEADFUL")
     headless_scrapers = _parse_csv_env("SCRAPER_HEADLESS")
+    required_non_empty_scrapers = _parse_csv_env("SCRAPER_REQUIRE_NON_EMPTY")
 
     scrapers = _discover_scrapers()
     print(f"Discovered {len(scrapers)} scraper(s) in {SCRAPERS_DIR}.")
@@ -273,6 +274,14 @@ def main() -> int:
                 result["headful_retry_success"] = retry_result["success"]
                 result["headful_retry_return_code"] = retry_result["return_code"]
                 result["headful_retry_json_count"] = retry_result["json_count"]
+
+        if script_name_l in required_non_empty_scrapers and result["json_count"] == 0:
+            result["success"] = False
+            result["failure_reason"] = "empty_output_required"
+            print(
+                f"[{index}/{len(scrapers)}] {script_name} is required to produce JSON "
+                "but finished with 0 files."
+            )
 
         scraper_results.append(result)
 
