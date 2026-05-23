@@ -1,6 +1,15 @@
 from __future__ import annotations
 
-from api_scraper_utils import exit_code_from_count, run_prestashop_xhr_store
+from api_scraper_utils import (
+    absolute_url,
+    build_query_page_url,
+    exit_code_from_count,
+    normalize_price,
+    pick_part_number,
+    run_prestashop_xhr_store,
+    selected_attr,
+    selected_text,
+)
 
 
 CATEGORY_URL_MAP = {
@@ -23,6 +32,62 @@ CATEGORY_URL_MAP = {
 }
 
 
+def parse_mybox_product(soup, url: str, category_name: str, base_url: str):
+    name = selected_text(
+        soup,
+        (
+            "h1[itemprop='name'] span",
+            "h1[itemprop='name']",
+            "h1.h1",
+            "h1",
+        ),
+    )
+    if not name:
+        return None
+
+    sku = selected_text(
+        soup,
+        (
+            "span[itemprop='sku']",
+            ".product-reference span",
+            ".product-reference",
+        ),
+    )
+    part_number = pick_part_number([sku], [name], allow_name_fallback=False) or "N/A"
+    image = selected_attr(
+        soup,
+        (
+            "div.swiper-slide-active img",
+            ".product-cover img",
+            "img.js-qv-product-cover",
+            ".images-container img",
+            "img[itemprop='image']",
+        ),
+        "src",
+    )
+
+    return {
+        "store_name": "MyBox",
+        "scraped_name": name,
+        "scraped_brand": "N/A",
+        "type": category_name,
+        "part #": part_number,
+        "price": normalize_price(
+            selected_text(
+                soup,
+                (
+                    "span.product-price",
+                    ".current-price span[itemprop='price']",
+                    ".current-price .product-price",
+                    ".product-prices .price",
+                ),
+            )
+        ),
+        "url": url,
+        "image_url": absolute_url(base_url, image),
+    }
+
+
 def main() -> int:
     output_dir = "ScrapDB/Outputs/MyBox"
     saved_count = run_prestashop_xhr_store(
@@ -31,6 +96,22 @@ def main() -> int:
         category_url_map=CATEGORY_URL_MAP,
         output_dir=output_dir,
         output_prefix="MyB",
+        html_fallback_config={
+            "product_link_selectors": (
+                "div.products div.product a.product-thumbnail",
+                "article.product-miniature a.product-thumbnail",
+                "a.thumbnail.product-thumbnail",
+                ".product-miniature a[href]",
+            ),
+            "pagination_selectors": (
+                "nav.pagination a",
+                "ul.page-list a",
+                "a.js-search-link",
+            ),
+            "page_url_builder": lambda url, page: build_query_page_url(url, page, "page"),
+            "parse_product": parse_mybox_product,
+            "product_url_pattern": r"\.html(?:$|\?)",
+        },
     )
     return exit_code_from_count(saved_count)
 

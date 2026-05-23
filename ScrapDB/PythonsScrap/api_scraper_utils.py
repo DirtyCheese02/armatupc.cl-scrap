@@ -8,7 +8,7 @@ import os
 import re
 import time
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 from urllib.parse import parse_qs, unquote, urlencode, urljoin, urlparse, urlunparse
 
 import requests
@@ -143,6 +143,18 @@ def write_product_json(output_dir: str | Path, prefix: str, url: str, data: dict
 def html_to_text(value: Any) -> str:
     if value is None:
         return ""
+    if hasattr(value, "get_text"):
+        text = value.get_text(" ", strip=True)
+        if not text and getattr(value, "string", None) is not None:
+            text = str(value.string)
+        if not text and hasattr(value, "descendants"):
+            text = " ".join(
+                str(descendant)
+                for descendant in value.descendants
+                if getattr(descendant, "name", None) is None and str(descendant).strip()
+            )
+        return re.sub(r"\s+", " ", html.unescape(text).replace("\xa0", " ")).strip()
+
     text = html.unescape(str(value)).replace("\xa0", " ")
     if "<" in text and ">" in text:
         text = BeautifulSoup(text, "lxml").get_text(" ")
@@ -233,6 +245,177 @@ def absolute_url(base_url: str, value: Any) -> str:
     return urljoin(base_url, html.unescape(str(value)).strip())
 
 
+def selectors_list(selectors: str | list[str] | tuple[str, ...]) -> tuple[str, ...]:
+    if isinstance(selectors, str):
+        return (selectors,)
+    return tuple(selectors)
+
+
+def selected_text(root: Any, selectors: str | list[str] | tuple[str, ...]) -> str:
+    for selector in selectors_list(selectors):
+        element = root.select_one(selector)
+        text = html_to_text(element)
+        if text:
+            return text
+    return ""
+
+
+def selected_attr(root: Any, selectors: str | list[str] | tuple[str, ...], attr: str) -> str:
+    for selector in selectors_list(selectors):
+        element = root.select_one(selector)
+        if element is None:
+            continue
+        value = element.get(attr)
+        if value:
+            return html.unescape(str(value)).strip()
+        if attr == "src":
+            value = element.get("data-src") or element.get("data-full-size-image-url")
+            if value:
+                return html.unescape(str(value)).strip()
+    return ""
+
+
+def fetch_text_with_referer(session: requests.Session, url: str, referer: str | None = None) -> str:
+    old_accept = session.headers.get("Accept")
+    if referer:
+        session.headers["Referer"] = referer
+    session.headers["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    try:
+        return fetch_text(session, url)
+    finally:
+        if old_accept is None:
+            session.headers.pop("Accept", None)
+        else:
+            session.headers["Accept"] = old_accept
+
+
+def build_woocommerce_page_url(url: str, page: int) -> str:
+    if page <= 1:
+        return url
+    parsed = urlparse(url)
+    path = re.sub(r"/page/\d+/?$", "/", parsed.path).rstrip("/")
+    return urlunparse(parsed._replace(path=f"{path}/page/{page}/"))
+
+
+def build_query_page_url(url: str, page: int, param: str = "pagina") -> str:
+    if page <= 1:
+        return url
+    return add_or_replace_query_params(url, {param: page})
+
+
+def page_numbers_from_soup(
+    soup: BeautifulSoup,
+    selectors: str | list[str] | tuple[str, ...],
+) -> list[int]:
+    numbers: set[int] = set()
+    for selector in selectors_list(selectors):
+        for element in soup.select(selector):
+            text = html_to_text(element)
+            if text.isdigit():
+                numbers.add(int(text))
+            href = element.get("href")
+            if href:
+                for match in re.finditer(r"(?:/page/|[?&](?:page|p|pagina)=)(\d+)", href):
+                    numbers.add(int(match.group(1)))
+    return sorted(number for number in numbers if number > 0)
+
+
+def product_links_from_soup(
+    soup: BeautifulSoup,
+    base_url: str,
+    selectors: str | list[str] | tuple[str, ...],
+    *,
+    url_pattern: str | None = None,
+) -> list[str]:
+    links: list[str] = []
+    seen: set[str] = set()
+    pattern = re.compile(url_pattern) if url_pattern else None
+    for selector in selectors_list(selectors):
+        for element in soup.select(selector):
+            href = element.get("href")
+            if not href:
+                continue
+            full_url = absolute_url(base_url, href)
+            if pattern and not pattern.search(full_url):
+                continue
+            if full_url not in seen:
+                seen.add(full_url)
+                links.append(full_url)
+    return links
+
+
+def scrape_html_listing_categories(
+    *,
+    session: requests.Session,
+    store_name: str,
+    base_url: str,
+    category_url_map: dict[str, Any],
+    output_path: str | Path,
+    output_prefix: str,
+    product_link_selectors: str | list[str] | tuple[str, ...],
+    pagination_selectors: str | list[str] | tuple[str, ...],
+    page_url_builder: Callable[[str, int], str],
+    parse_product: Callable[[BeautifulSoup, str, str, str], dict[str, Any] | None],
+    seen: set[tuple[str, str]] | None = None,
+    product_url_pattern: str | None = None,
+) -> int:
+    saved_count = 0
+    seen = seen if seen is not None else set()
+    request_delay = float(os.environ.get("HTML_REQUEST_DELAY_SECONDS", "0.25"))
+
+    for category_name, raw_urls in category_url_map.items():
+        urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
+        for category_url in urls:
+            try:
+                first_html = fetch_text_with_referer(session, category_url, base_url)
+                first_soup = BeautifulSoup(first_html, "html.parser")
+                page_numbers = page_numbers_from_soup(first_soup, pagination_selectors)
+                total_pages = max(page_numbers) if page_numbers else 1
+
+                for page in range(1, total_pages + 1):
+                    page_url = page_url_builder(category_url, page)
+                    if page == 1:
+                        soup = first_soup
+                    else:
+                        html_content = fetch_text_with_referer(session, page_url, category_url)
+                        soup = BeautifulSoup(html_content, "html.parser")
+
+                    links = product_links_from_soup(
+                        soup,
+                        base_url,
+                        product_link_selectors,
+                        url_pattern=product_url_pattern,
+                    )
+                    print(
+                        f"{store_name} {category_name} HTML page {page}/{total_pages}: "
+                        f"{len(links)} product links"
+                    )
+
+                    for url in links:
+                        identity = (category_name, url)
+                        if identity in seen:
+                            continue
+                        seen.add(identity)
+
+                        try:
+                            product_html = fetch_text_with_referer(session, url, page_url)
+                            product_soup = BeautifulSoup(product_html, "html.parser")
+                            data = parse_product(product_soup, url, category_name, base_url)
+                            if not data:
+                                continue
+                            write_product_json(output_path, output_prefix, url, data)
+                            saved_count += 1
+                        except Exception as exc:
+                            print(f"{store_name} {category_name}: error scraping product {url}: {exc}")
+
+                    if request_delay:
+                        time.sleep(request_delay)
+            except Exception as exc:
+                print(f"{store_name} {category_name}: HTML fallback failed for {category_url}: {exc}")
+
+    return saved_count
+
+
 def first_image_from_wc(product: dict[str, Any]) -> str:
     images = product.get("images") or []
     if not images:
@@ -266,6 +449,8 @@ def run_woocommerce_store(
     category_queries: dict[str, list[dict[str, Any]]],
     output_dir: str,
     output_prefix: str,
+    category_listing_urls: dict[str, Any] | None = None,
+    html_fallback_config: dict[str, Any] | None = None,
 ) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(base_url)
@@ -275,62 +460,98 @@ def run_woocommerce_store(
     seen: set[tuple[str, str]] = set()
 
     for category_name, query_list in category_queries.items():
-        for query in query_list:
-            page = 1
-            while True:
-                params = {"per_page": 100, "page": page, **query}
-                products, response = fetch_json(session, api_url, params=params)
-                if not isinstance(products, list):
-                    raise RuntimeError(f"Unexpected WooCommerce response for {store_name}: {products!r}")
+        category_saved_before = saved_count
+        api_failed = False
+        listing_urls = category_listing_urls or {}
+        first_listing_url = listing_urls.get(category_name)
+        if isinstance(first_listing_url, list):
+            first_listing_url = first_listing_url[0] if first_listing_url else None
 
-                total_pages = int(response.headers.get("X-WP-TotalPages", "1") or "1")
-                print(f"{store_name} {category_name} page {page}/{total_pages}: {len(products)} products")
+        if first_listing_url:
+            try:
+                fetch_text_with_referer(session, first_listing_url, base_url)
+                session.headers["Referer"] = first_listing_url
+            except Exception as exc:
+                print(f"{store_name} {category_name}: warmup failed for {first_listing_url}: {exc}")
 
-                for product in products:
-                    url = product.get("permalink") or ""
-                    name = html_to_text(product.get("name"))
-                    if not url or not name:
-                        continue
+        try:
+            for query in query_list:
+                page = 1
+                while True:
+                    params = {"per_page": 100, "page": page, **query}
+                    products, response = fetch_json(session, api_url, params=params)
+                    if not isinstance(products, list):
+                        raise RuntimeError(f"Unexpected WooCommerce response for {store_name}: {products!r}")
 
-                    identity = (category_name, url)
-                    if identity in seen:
-                        continue
-                    seen.add(identity)
+                    total_pages = int(response.headers.get("X-WP-TotalPages", "1") or "1")
+                    print(f"{store_name} {category_name} page {page}/{total_pages}: {len(products)} products")
 
-                    images = product.get("images") or []
-                    image_texts = []
-                    for image in images:
-                        image_texts.extend([image.get("alt"), image.get("name")])
-                    part_number = pick_part_number(
-                        [product.get("sku")],
-                        [
-                            *image_texts,
-                            product.get("short_description"),
-                            product.get("description"),
-                            name,
-                        ],
-                    )
-                    if not part_number:
-                        skipped_without_part += 1
-                        continue
+                    for product in products:
+                        url = product.get("permalink") or ""
+                        name = html_to_text(product.get("name"))
+                        if not url or not name:
+                            continue
 
-                    prices = product.get("prices") or {}
-                    data = {
-                        "store_name": store_name,
-                        "scraped_name": name,
-                        "scraped_brand": brand_from_wc(product),
-                        "type": category_name,
-                        "part #": part_number,
-                        "price": normalize_price(prices.get("price")),
-                        "url": url,
-                        "image_url": first_image_from_wc(product),
-                    }
-                    write_product_json(output_path, output_prefix, url, data)
-                    saved_count += 1
+                        identity = (category_name, url)
+                        if identity in seen:
+                            continue
+                        seen.add(identity)
 
-                if page >= total_pages:
-                    break
-                page += 1
+                        images = product.get("images") or []
+                        image_texts = []
+                        for image in images:
+                            image_texts.extend([image.get("alt"), image.get("name")])
+                        part_number = pick_part_number(
+                            [product.get("sku")],
+                            [
+                                *image_texts,
+                                product.get("short_description"),
+                                product.get("description"),
+                                name,
+                            ],
+                        )
+                        if not part_number:
+                            skipped_without_part += 1
+                            continue
+
+                        prices = product.get("prices") or {}
+                        data = {
+                            "store_name": store_name,
+                            "scraped_name": name,
+                            "scraped_brand": brand_from_wc(product),
+                            "type": category_name,
+                            "part #": part_number,
+                            "price": normalize_price(prices.get("price")),
+                            "url": url,
+                            "image_url": first_image_from_wc(product),
+                        }
+                        write_product_json(output_path, output_prefix, url, data)
+                        saved_count += 1
+
+                    if page >= total_pages:
+                        break
+                    page += 1
+        except Exception as exc:
+            if not html_fallback_config:
+                raise
+            api_failed = True
+            print(f"{store_name} {category_name}: API failed, trying HTML fallback: {exc}")
+
+        if html_fallback_config and category_listing_urls and (
+            api_failed or saved_count == category_saved_before
+        ):
+            fallback_urls = category_listing_urls.get(category_name)
+            if fallback_urls:
+                saved_count += scrape_html_listing_categories(
+                    session=session,
+                    store_name=store_name,
+                    base_url=base_url,
+                    category_url_map={category_name: fallback_urls},
+                    output_path=output_path,
+                    output_prefix=output_prefix,
+                    seen=seen,
+                    **html_fallback_config,
+                )
 
     print(
         f"{store_name} scraping finished. Saved {saved_count} JSON files; "
@@ -511,6 +732,7 @@ def run_prestashop_xhr_store(
     category_url_map: dict[str, Any],
     output_dir: str,
     output_prefix: str,
+    html_fallback_config: dict[str, Any] | None = None,
 ) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(base_url)
@@ -522,6 +744,7 @@ def run_prestashop_xhr_store(
         }
     )
     saved_count = 0
+    seen: set[tuple[str, str]] = set()
 
     for category_name, raw_urls in category_url_map.items():
         urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
@@ -530,60 +753,91 @@ def run_prestashop_xhr_store(
                 next_urls = [build_prestashop_xhr_url(category_url)]
                 visited_pages: set[str] = set()
                 page_number = 1
+                url_saved_before = saved_count
+                xhr_failed = False
 
-                while next_urls:
-                    page_url = next_urls.pop(0)
-                    if page_url in visited_pages:
-                        continue
-                    visited_pages.add(page_url)
+                try:
+                    fetch_text_with_referer(session, category_url, base_url)
+                    session.headers["Referer"] = category_url
+                except Exception as exc:
+                    print(f"{store_name} {category_name}: warmup failed for {category_url}: {exc}")
 
-                    payload, _ = fetch_json(session, page_url)
-                    products = payload.get("products") or []
-                    pagination = payload.get("pagination") or {}
-                    total_pages = int(pagination.get("pages_count") or page_number)
-                    print(
-                        f"{store_name} {category_name} page {page_number}/{total_pages}: "
-                        f"{len(products)} products"
+                try:
+                    while next_urls:
+                        page_url = next_urls.pop(0)
+                        if page_url in visited_pages:
+                            continue
+                        visited_pages.add(page_url)
+
+                        payload, _ = fetch_json(session, page_url)
+                        products = payload.get("products") or []
+                        pagination = payload.get("pagination") or {}
+                        total_pages = int(pagination.get("pages_count") or page_number)
+                        print(
+                            f"{store_name} {category_name} page {page_number}/{total_pages}: "
+                            f"{len(products)} products"
+                        )
+
+                        for product in products:
+                            url = product.get("url") or product.get("canonical_url") or ""
+                            name = html_to_text(product.get("name"))
+                            if not url or not name:
+                                continue
+
+                            identity = (category_name, url)
+                            if identity in seen:
+                                continue
+                            seen.add(identity)
+
+                            part_number = pick_part_number(
+                                [product.get("reference")],
+                                [product.get("description_short"), name],
+                            ) or "N/A"
+                            price_value = product.get("price_amount")
+                            if price_value is None:
+                                price_value = product.get("price")
+                            data = {
+                                "store_name": store_name,
+                                "scraped_name": name,
+                                "scraped_brand": html_to_text(
+                                    product.get("manufacturer_name") or product.get("manufacturer")
+                                ) or "N/A",
+                                "type": category_name,
+                                "part #": part_number,
+                                "price": normalize_price(price_value),
+                                "url": url,
+                                "image_url": image_from_prestashop(product),
+                            }
+                            write_product_json(output_path, output_prefix, url, data)
+                            saved_count += 1
+
+                        pages = pagination.get("pages") or {}
+                        page_iter = pages.values() if isinstance(pages, dict) else pages
+                        for page in page_iter:
+                            if not page.get("clickable") or page.get("current"):
+                                continue
+                            next_url = page.get("url")
+                            if next_url:
+                                next_urls.append(build_prestashop_xhr_url(next_url))
+
+                        page_number += 1
+                except Exception as exc:
+                    if not html_fallback_config:
+                        raise
+                    xhr_failed = True
+                    print(f"{store_name} {category_name}: XHR failed, trying HTML fallback: {exc}")
+
+                if html_fallback_config and (xhr_failed or saved_count == url_saved_before):
+                    saved_count += scrape_html_listing_categories(
+                        session=session,
+                        store_name=store_name,
+                        base_url=base_url,
+                        category_url_map={category_name: category_url},
+                        output_path=output_path,
+                        output_prefix=output_prefix,
+                        seen=seen,
+                        **html_fallback_config,
                     )
-
-                    for product in products:
-                        url = product.get("url") or product.get("canonical_url") or ""
-                        name = html_to_text(product.get("name"))
-                        if not url or not name:
-                            continue
-
-                        part_number = pick_part_number(
-                            [product.get("reference")],
-                            [product.get("description_short"), name],
-                        ) or "N/A"
-                        price_value = product.get("price_amount")
-                        if price_value is None:
-                            price_value = product.get("price")
-                        data = {
-                            "store_name": store_name,
-                            "scraped_name": name,
-                            "scraped_brand": html_to_text(
-                                product.get("manufacturer_name") or product.get("manufacturer")
-                            ) or "N/A",
-                            "type": category_name,
-                            "part #": part_number,
-                            "price": normalize_price(price_value),
-                            "url": url,
-                            "image_url": image_from_prestashop(product),
-                        }
-                        write_product_json(output_path, output_prefix, url, data)
-                        saved_count += 1
-
-                    pages = pagination.get("pages") or {}
-                    page_iter = pages.values() if isinstance(pages, dict) else pages
-                    for page in page_iter:
-                        if not page.get("clickable") or page.get("current"):
-                            continue
-                        next_url = page.get("url")
-                        if next_url:
-                            next_urls.append(build_prestashop_xhr_url(next_url))
-
-                    page_number += 1
             except Exception as exc:
                 print(f"{store_name} {category_name}: error scraping {category_url}: {exc}")
 
