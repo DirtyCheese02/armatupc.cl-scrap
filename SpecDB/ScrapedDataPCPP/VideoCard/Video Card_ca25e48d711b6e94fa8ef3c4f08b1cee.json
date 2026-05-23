@@ -1,0 +1,22 @@
+{
+    "name": "Asus LP BRK OC GeForce RTX 5060 8 GB Video Card",
+    "Manufacturer": "Asus",
+    "Part #": "[RTX5060-O8G-LP-BRK, 90yv0n90-m0aa00, 90YV0N90-M0NA00]",
+    "Chipset": "GeForce RTX 5060",
+    "Memory": "8 GB",
+    "Memory Type": "GDDR7",
+    "Core Clock": "2280 MHz",
+    "Boost Clock": "2580 MHz",
+    "Interface": "PCIe x16",
+    "Color": "Black",
+    "Frame Sync": "G-Sync",
+    "Length": "176 mm",
+    "TDP": "145 W",
+    "Case Expansion Slot Width": "2",
+    "Total Slot Width": "2",
+    "Cooling": "3 Fans",
+    "External Power": "1 x PCIe 8-pin",
+    "DisplayPort 2.1a Outputs": "1",
+    "HDMI 2.1 Outputs": "2",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/ZngZxr/asus-lp-brk-oc-geforce-rtx-5060-8-gb-video-card-rtx5060-o8g-lp-brk"
+}

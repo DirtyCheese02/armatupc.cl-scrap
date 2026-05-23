@@ -55,8 +55,8 @@ jobs:
           SCRAP_USE_XVFB: "1"
           SCRAPER_RETRY_ON_EMPTY: "1"
           SCRAPER_RETRY_HEADFUL_ON_FAIL: "1"
-          SCRAPER_REQUIRE_NON_EMPTY: "Scrap_Centrale.py"
-          SCRAPER_HEADFUL: "Scrap_CentralGamer.py"
+          SCRAPER_REQUIRE_NON_EMPTY: "Scrap_Centrale.py,Scrap_CentralGamer.py,Scrap_ETChile.py,Scrap_NotebooksYa.py,Scrap_MyShop.py,Scrap_SandosStore.py,Scrap_MyBox.py,Scrap_NiceOne.py"
+          SPHINX_REQUEST_DELAY_SECONDS: "1.0"
           SCRAP_BROWSER_START_TIMEOUT: "90"
           CHROME_BINARY_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
           SCRAPER_TIMEOUT_MINUTES: "90"

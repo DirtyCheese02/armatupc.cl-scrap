@@ -1,0 +1,18 @@
+{
+    "name": "Chillblast Cryo Blast Z1 52 CFM 120 mm Fan",
+    "Manufacturer": "Chillblast",
+    "Part #": "CB-Z1-120R-FAN",
+    "Size": "120 mm",
+    "Color": "Black",
+    "Quantity": "Single",
+    "Flow Direction": "Reverse",
+    "RPM": "600 - 1800 RPM",
+    "Airflow": "52 CFM",
+    "Noise Level": "15 - 30 dB",
+    "PWM": "Yes",
+    "LED": "Addressable RGB",
+    "Connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+    "Controller": "None",
+    "Static Pressure": "1.64 mmH₂O",
+    "pcpartpicker_url": "https://pcpartpicker.com/product/nNCCmG/chillblast-cryo-blast-z1-52-cfm-120-mm-fan-cb-z1-120r-fan"
+}

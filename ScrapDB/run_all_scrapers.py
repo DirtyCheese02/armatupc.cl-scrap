@@ -149,6 +149,7 @@ def _run_python_script(
         else:
             env = os.environ.copy()
             env.setdefault("PYTHONUNBUFFERED", "1")
+            env.setdefault("PYTHONIOENCODING", "utf-8")
             if extra_env:
                 env.update(extra_env)
 
