@@ -55,7 +55,10 @@ jobs:
           SCRAP_USE_XVFB: "1"
           SCRAPER_RETRY_ON_EMPTY: "1"
           SCRAPER_RETRY_HEADFUL_ON_FAIL: "1"
-          SCRAPER_REQUIRE_NON_EMPTY: "Scrap_Centrale.py,Scrap_CentralGamer.py,Scrap_ETChile.py,Scrap_NotebooksYa.py,Scrap_MyShop.py,Scrap_SandosStore.py,Scrap_MyBox.py,Scrap_NiceOne.py,Scrap_TecnoMas.py"
+          SCRAPER_HEADFUL: "Scrap_MyBox.py,Scrap_NotebooksYa.py"
+          SCRAPER_REQUIRE_NON_EMPTY: "Scrap_Centrale.py,Scrap_CentralGamer.py,Scrap_ETChile.py,Scrap_NotebooksYa.py,Scrap_MyShop.py,Scrap_SandosStore.py,Scrap_MyBox.py,Scrap_NiceOne.py,Scrap_TecnoMas.py,Scrap_TruluStore.py,Scrap_DazbogStore.py,Scrap_TecnoMaster.py"
+          BROWSER_FALLBACK_COLLECTOR_CONCURRENCY: "2"
+          BROWSER_FALLBACK_SCRAPER_CONCURRENCY: "2"
           SPHINX_REQUEST_DELAY_SECONDS: "1.0"
           SCRAP_BROWSER_START_TIMEOUT: "90"
           CHROME_BINARY_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
