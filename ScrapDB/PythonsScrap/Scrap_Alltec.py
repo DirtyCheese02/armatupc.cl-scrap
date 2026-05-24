@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import os
+
 from api_scraper_utils import (
     absolute_url,
     build_query_page_url,
@@ -12,6 +14,7 @@ from api_scraper_utils import (
     selected_attr,
     selected_text,
 )
+from browser_fallback_utils import browser_fallback_enabled, run_browser_fallback_store
 
 
 BASE_URL = "https://www.alltec.cl"
@@ -94,25 +97,82 @@ def parse_alltec_product(soup, url: str, category_name: str, base_url: str) -> d
     }
 
 
+def clean_alltec_part_number(value: str) -> str:
+    return pick_part_number([value], (), allow_name_fallback=False) or ""
+
+
 def main() -> int:
     output_dir = "ScrapDB/Outputs/Alltec"
-    output_path = clean_output_dir(output_dir)
-    saved_count = scrape_html_listing_categories(
-        session=make_session(BASE_URL),
-        store_name="Alltec",
-        base_url=BASE_URL,
-        category_url_map=CATEGORY_URL_MAP,
-        output_path=output_path,
-        output_prefix="ALT",
-        product_link_selectors=(
-            "#center_column ul.product_list a.product-name",
-            "#center_column .product-container a.product-name",
-        ),
-        pagination_selectors=("#pagination a", "ul.pagination a", ".pagination a"),
-        page_url_builder=lambda url, page: build_query_page_url(url, page, "p"),
-        parse_product=parse_alltec_product,
-        product_url_pattern=r"/[^/]+/\d+-",
-    )
+    force_browser = os.environ.get("SCRAPER_FORCE_BROWSER_FALLBACK", "").strip().lower() in {
+        "1",
+        "true",
+        "yes",
+        "on",
+    }
+    running_headful = os.environ.get("SCRAP_HEADLESS", "1").strip().lower() in {
+        "0",
+        "false",
+        "no",
+        "off",
+    }
+
+    if force_browser or running_headful:
+        saved_count = 0
+        print("Alltec requests path skipped; browser fallback will be used.")
+    else:
+        output_path = clean_output_dir(output_dir)
+        saved_count = scrape_html_listing_categories(
+            session=make_session(BASE_URL),
+            store_name="Alltec",
+            base_url=BASE_URL,
+            category_url_map=CATEGORY_URL_MAP,
+            output_path=output_path,
+            output_prefix="ALT",
+            product_link_selectors=(
+                "#center_column ul.product_list a.product-name",
+                "#center_column .product-container a.product-name",
+            ),
+            pagination_selectors=("#pagination a", "ul.pagination a", ".pagination a"),
+            page_url_builder=lambda url, page: build_query_page_url(url, page, "p"),
+            parse_product=parse_alltec_product,
+            product_url_pattern=r"/[^/]+/\d+-",
+        )
+        print(f"Alltec requests path saved {saved_count} JSON files.")
+
+    if browser_fallback_enabled(saved_count):
+        print("Alltec starting browser fallback.")
+        saved_count = run_browser_fallback_store(
+            store_name="Alltec",
+            category_url_map=CATEGORY_URL_MAP,
+            output_dir=output_dir,
+            output_prefix="ALT",
+            listing_config={
+                "link_selector": (
+                    "//div[@id='center_column']//ul[contains(@class,'product_list')]"
+                    "//a[contains(@class,'product-name')]"
+                ),
+                "pagination_selector": (
+                    "//div[@id='pagination']//a|//ul[contains(@class,'pagination')]//a"
+                ),
+                "page_url_builder": lambda url, page: build_query_page_url(url, page, "p"),
+                "ready_selectors": (
+                    "//div[@id='center_column']//ul[contains(@class,'product_list')]",
+                    "//div[@id='center_column']//a[contains(@class,'product-name')]",
+                ),
+            },
+            product_config={
+                "ready_selectors": ("//h1[@itemprop='name']", "//p[@id='product_reference']"),
+                "name_selectors": ("//h1[@itemprop='name']", "//h1"),
+                "part_selectors": ("//p[@id='product_reference']//span[@itemprop='sku']",),
+                "price_selectors": ("//*[@id='our_price_display']", "//*[contains(@class,'price')]"),
+                "image_selectors": ("//*[@id='bigpic']", "//*[@id='image-block']//img", "//img[@itemprop='image']"),
+                "brand_selectors": (),
+                "clean_part_number": clean_alltec_part_number,
+                "clean_price": normalize_price,
+            },
+        )
+        print(f"Alltec browser fallback saved {saved_count} JSON files.")
+
     print(f"Alltec scraping finished. Saved {saved_count} JSON files.")
     return exit_code_from_count(saved_count)
 

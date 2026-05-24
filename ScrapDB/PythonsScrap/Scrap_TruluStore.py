@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import json
 import os
 import re
+from pathlib import Path
 
 from api_scraper_utils import (
     build_woocommerce_page_url,
@@ -69,9 +71,55 @@ CATEGORY_LISTING_URLS = {
     "Webcam": "https://trulustore.cl/categoria-producto/perifericos/camaras-web/",
 }
 
+SKU_PREFIX_TAGS = {
+    "ACC",
+    "AU",
+    "AUD",
+    "CBL",
+    "CPU",
+    "FAN",
+    "GAB",
+    "GPU",
+    "MB",
+    "MEM",
+    "MIC",
+    "MON",
+    "MOU",
+    "PSU",
+    "REF",
+    "SSD",
+    "SW",
+    "TCL",
+    "WC",
+}
+
 
 def clean_trulu_part_number(value: str) -> str:
-    return pick_part_number([value], (), allow_name_fallback=False) or ""
+    part_number = pick_part_number([value], (), allow_name_fallback=False) or ""
+    match = re.match(r"^([A-Z]{2,8})-(.+)$", part_number)
+    if match and match.group(1).upper() in SKU_PREFIX_TAGS:
+        return match.group(2).strip()
+    return part_number
+
+
+def normalize_trulu_output_parts(output_dir: str) -> int:
+    changed_count = 0
+    for file_path in Path(output_dir).glob("*.json"):
+        try:
+            data = json.loads(file_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+
+        original_part = data.get("part #")
+        cleaned_part = clean_trulu_part_number(str(original_part or ""))
+        if not cleaned_part or cleaned_part == original_part:
+            continue
+
+        data["part #"] = cleaned_part
+        file_path.write_text(json.dumps(data, ensure_ascii=False, indent=4), encoding="utf-8")
+        changed_count += 1
+
+    return changed_count
 
 
 def clean_trulu_price(value: str) -> str:
@@ -141,6 +189,10 @@ def main() -> int:
             },
         )
         print(f"TruluStore browser fallback saved {saved_count} JSON files.")
+
+    normalized_count = normalize_trulu_output_parts(output_dir)
+    if normalized_count:
+        print(f"TruluStore normalized {normalized_count} prefixed SKU values.")
 
     return exit_code_from_count(saved_count)
 
