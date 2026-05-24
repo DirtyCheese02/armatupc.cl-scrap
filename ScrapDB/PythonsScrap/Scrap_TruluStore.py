@@ -1,6 +1,16 @@
 from __future__ import annotations
 
-from api_scraper_utils import exit_code_from_count, run_woocommerce_store
+import os
+import re
+
+from api_scraper_utils import (
+    build_woocommerce_page_url,
+    exit_code_from_count,
+    normalize_price,
+    pick_part_number,
+    run_woocommerce_store,
+)
+from browser_fallback_utils import browser_fallback_enabled, run_browser_fallback_store
 
 
 CATEGORY_QUERIES = {
@@ -21,16 +31,117 @@ CATEGORY_QUERIES = {
     "Webcam": [{"category": 31}],
 }
 
+CATEGORY_LISTING_URLS = {
+    "OperatingSystem": "https://trulustore.cl/categoria-producto/software/",
+    "Headphones": "https://trulustore.cl/categoria-producto/perifericos/audifonos-y-accesorios/",
+    "Mouse_Keyboard": [
+        "https://trulustore.cl/categoria-producto/perifericos/mouse/",
+        "https://trulustore.cl/categoria-producto/perifericos/teclados/",
+    ],
+    "Storage": [
+        "https://trulustore.cl/categoria-producto/componentes-pc/almacenamiento/",
+        "https://trulustore.cl/categoria-producto/componentes-pc/almacenamiento/disco-ssd-2-5/",
+        "https://trulustore.cl/categoria-producto/componentes-pc/almacenamiento/disco-ssd-m-2/",
+    ],
+    "Monitor": "https://trulustore.cl/categoria-producto/monitores-gamer/",
+    "CPUCooler": [
+        "https://trulustore.cl/categoria-producto/componentes-pc/refrigeracion/refrigeracion-aire/",
+        "https://trulustore.cl/categoria-producto/componentes-pc/refrigeracion/refrigeracion-liquida/",
+    ],
+    "CaseFan": "https://trulustore.cl/categoria-producto/componentes-pc/refrigeracion/ventiladores/",
+    "ThermalCompound": "https://trulustore.cl/categoria-producto/componentes-pc/refrigeracion/pastas-disipadora/",
+    "PowerSupply": "https://trulustore.cl/categoria-producto/componentes-pc/fuentes-de-poder/",
+    "Case": "https://trulustore.cl/categoria-producto/componentes-pc/gabinetes/",
+    "Memory": [
+        "https://trulustore.cl/categoria-producto/componentes-pc/memoria-ram/",
+        "https://trulustore.cl/categoria-producto/componentes-pc/memoria-ram/ddr4/",
+        "https://trulustore.cl/categoria-producto/componentes-pc/memoria-ram/ddr5/",
+    ],
+    "CPU": [
+        "https://trulustore.cl/categoria-producto/componentes-pc/procesadores/amd-procesadores/",
+        "https://trulustore.cl/categoria-producto/componentes-pc/procesadores/intel-procesadores/",
+    ],
+    "VideoCard": "https://trulustore.cl/categoria-producto/componentes-pc/tarjetas-de-video/",
+    "Motherboard": [
+        "https://trulustore.cl/categoria-producto/componentes-pc/placas-madre/amd/",
+        "https://trulustore.cl/categoria-producto/componentes-pc/placas-madre/intel/",
+    ],
+    "Webcam": "https://trulustore.cl/categoria-producto/perifericos/camaras-web/",
+}
+
+
+def clean_trulu_part_number(value: str) -> str:
+    return pick_part_number([value], (), allow_name_fallback=False) or ""
+
+
+def clean_trulu_price(value: str) -> str:
+    match = re.search(r"\$\s*([\d.]+)", value or "")
+    if match:
+        return normalize_price(match.group(1))
+    return normalize_price(value)
+
 
 def main() -> int:
     output_dir = "ScrapDB/Outputs/TruluStore"
-    saved_count = run_woocommerce_store(
-        store_name="TruluStore",
-        base_url="https://trulustore.cl",
-        category_queries=CATEGORY_QUERIES,
-        output_dir=output_dir,
-        output_prefix="TS",
-    )
+    force_browser = os.environ.get("SCRAPER_FORCE_BROWSER_FALLBACK", "").strip().lower() in {
+        "1",
+        "true",
+        "yes",
+        "on",
+    }
+
+    if force_browser:
+        saved_count = 0
+        print("TruluStore requests path skipped because SCRAPER_FORCE_BROWSER_FALLBACK is enabled.")
+    else:
+        try:
+            saved_count = run_woocommerce_store(
+                store_name="TruluStore",
+                base_url="https://trulustore.cl",
+                category_queries=CATEGORY_QUERIES,
+                output_dir=output_dir,
+                output_prefix="TS",
+            )
+        except Exception as exc:
+            saved_count = 0
+            print(f"TruluStore requests path failed, browser fallback will be tried: {exc}")
+    print(f"TruluStore requests path saved {saved_count} JSON files.")
+
+    if browser_fallback_enabled(saved_count):
+        print("TruluStore starting browser fallback.")
+        saved_count = run_browser_fallback_store(
+            store_name="TruluStore",
+            category_url_map=CATEGORY_LISTING_URLS,
+            output_dir=output_dir,
+            output_prefix="TS",
+            listing_config={
+                "link_selector": "//a[contains(@class,'woocommerce-loop-product__link') or contains(@class,'woocommerce-LoopProduct-link')]",
+                "pagination_selector": "//ul[contains(@class,'page-numbers')]/li",
+                "page_url_builder": build_woocommerce_page_url,
+                "ready_selectors": (
+                    "//a[contains(@class,'woocommerce-loop-product__link') or contains(@class,'woocommerce-LoopProduct-link')]",
+                    "//ul[contains(@class,'products')]",
+                ),
+            },
+            product_config={
+                "ready_selectors": ("//span[contains(@class,'sku')]", "//h1[contains(@class,'product_title')]"),
+                "name_selectors": ("//h1[contains(@class,'product_title')]", "//h1[contains(@class,'entry-title')]", "//h1"),
+                "part_selectors": ("//span[contains(@class,'sku')]",),
+                "price_selectors": (
+                    "//p[contains(@class,'price')]",
+                    "//div[contains(@class,'summary')]//*[contains(@class,'price')]",
+                ),
+                "image_selectors": (
+                    "//div[contains(@class,'woocommerce-product-gallery__image')]//img",
+                    "//img[contains(@class,'wp-post-image')]",
+                ),
+                "brand_selectors": ("//span[contains(@class,'posted_in') and contains(., 'Marca:')]/a[1]",),
+                "clean_part_number": clean_trulu_part_number,
+                "clean_price": clean_trulu_price,
+            },
+        )
+        print(f"TruluStore browser fallback saved {saved_count} JSON files.")
+
     return exit_code_from_count(saved_count)
 
 
