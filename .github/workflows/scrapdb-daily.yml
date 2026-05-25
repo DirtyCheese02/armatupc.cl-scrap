@@ -156,7 +156,38 @@ jobs:
         with:
           pattern: scrapdb-outputs-*
           merge-multiple: true
-          path: .
+          path: _downloaded_outputs
+
+      - name: Normalize downloaded outputs
+        run: |
+          mkdir -p ScrapDB/Outputs
+
+          if [ -d "_downloaded_outputs/ScrapDB/Outputs" ]; then
+            cp -R _downloaded_outputs/ScrapDB/Outputs/. ScrapDB/Outputs/
+          fi
+
+          shopt -s nullglob dotglob
+          for item in _downloaded_outputs/*; do
+            name="$(basename "$item")"
+            if [ "$name" = "ScrapDB" ]; then
+              continue
+            fi
+            if [ -d "$item" ]; then
+              cp -R "$item" ScrapDB/Outputs/
+            elif [ "${item##*.}" = "json" ]; then
+              mkdir -p ScrapDB/Outputs/_root
+              cp "$item" ScrapDB/Outputs/_root/
+            fi
+          done
+
+          json_count="$(find ScrapDB/Outputs -type f -name '*.json' | wc -l | tr -d ' ')"
+          echo "Downloaded JSON count: ${json_count}"
+          find ScrapDB/Outputs -mindepth 1 -maxdepth 2 | head -100
+
+          if [ "$json_count" -eq 0 ]; then
+            echo "::error::No JSON outputs found after downloading shard artifacts."
+            exit 1
+          fi
 
       - name: Run product matching
         env:
