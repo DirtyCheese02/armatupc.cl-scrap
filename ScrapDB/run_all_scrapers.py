@@ -50,9 +50,35 @@ def _parse_csv_env(env_name: str) -> set[str]:
     return {item.strip().lower() for item in raw.split(",") if item.strip()}
 
 
+def _parse_timeout_overrides(env_name: str) -> dict[str, int]:
+    raw = os.environ.get(env_name, "")
+    overrides: dict[str, int] = {}
+    for item in raw.split(","):
+        if not item.strip():
+            continue
+        if "=" not in item:
+            print(f"[WARN] Ignoring invalid {env_name} item {item!r}. Expected name=minutes.")
+            continue
+        name, value = item.split("=", 1)
+        name = name.strip().lower()
+        if not name:
+            continue
+        try:
+            minutes = int(value.strip())
+        except ValueError:
+            print(f"[WARN] Ignoring invalid timeout override {item!r}.")
+            continue
+        if minutes <= 0:
+            print(f"[WARN] Ignoring non-positive timeout override {item!r}.")
+            continue
+        overrides[name] = minutes
+    return overrides
+
+
 def _discover_scrapers() -> list[Path]:
     excluded_raw = os.environ.get("SCRAPER_EXCLUDE", "")
-    excluded = {name.strip() for name in excluded_raw.split(",") if name.strip()}
+    excluded = {name.strip().lower() for name in excluded_raw.split(",") if name.strip()}
+    included = _parse_csv_env("SCRAPER_INCLUDE")
     scraper_name_pattern = re.compile(r"^scrap_.*\.py$", re.IGNORECASE)
 
     scrapers = []
@@ -63,7 +89,10 @@ def _discover_scrapers() -> list[Path]:
             continue
         if script.name.startswith("__"):
             continue
-        if script.name in excluded:
+        script_name_l = script.name.lower()
+        if included and script_name_l not in included:
+            continue
+        if script_name_l in excluded:
             continue
         scrapers.append(script)
 
@@ -188,12 +217,15 @@ def main() -> int:
 
     scraper_timeout_minutes = _parse_timeout_minutes("SCRAPER_TIMEOUT_MINUTES", 90)
     match_timeout_minutes = _parse_timeout_minutes("MATCH_TIMEOUT_MINUTES", 60)
+    scraper_timeout_overrides = _parse_timeout_overrides("SCRAPER_TIMEOUT_OVERRIDES")
+    run_match_products = _parse_bool(os.environ.get("RUN_MATCH_PRODUCTS"), True)
     default_headless = _parse_bool(os.environ.get("SCRAP_HEADLESS"), True)
     use_xvfb = _parse_bool(os.environ.get("SCRAP_USE_XVFB"), True)
     retry_on_empty = _parse_bool(os.environ.get("SCRAPER_RETRY_ON_EMPTY"), True)
     retry_headful_on_fail = _parse_bool(os.environ.get("SCRAPER_RETRY_HEADFUL_ON_FAIL"), True)
     headful_scrapers = _parse_csv_env("SCRAPER_HEADFUL")
     headless_scrapers = _parse_csv_env("SCRAPER_HEADLESS")
+    no_headful_retry_scrapers = _parse_csv_env("SCRAPER_NO_HEADFUL_RETRY")
     required_non_empty_scrapers = _parse_csv_env("SCRAPER_REQUIRE_NON_EMPTY")
 
     scrapers = _discover_scrapers()
@@ -209,15 +241,16 @@ def main() -> int:
         if script_name_l in headless_scrapers:
             script_headless = True
 
+        script_timeout_minutes = scraper_timeout_overrides.get(script_name_l, scraper_timeout_minutes)
         output_dir = _infer_output_dir(scraper_path)
         print(
             f"[{index}/{len(scrapers)}] Running {script_name} "
-            f"(headless={'1' if script_headless else '0'})..."
+            f"(headless={'1' if script_headless else '0'}, timeout={script_timeout_minutes}m)..."
         )
         result = _run_python_script(
             script_path=scraper_path,
             log_path=run_dir / f"{scraper_path.stem}.log",
-            timeout_minutes=scraper_timeout_minutes,
+            timeout_minutes=script_timeout_minutes,
             extra_env={"SCRAP_HEADLESS": "1" if script_headless else "0"},
             use_xvfb=use_xvfb and (not script_headless),
         )
@@ -225,7 +258,9 @@ def main() -> int:
         result["used_headful_retry"] = False
         result["json_count"] = _count_json_files(output_dir)
 
-        if retry_headful_on_fail and script_headless and not result["success"]:
+        retry_headful_allowed = script_name_l not in no_headful_retry_scrapers
+
+        if retry_headful_on_fail and retry_headful_allowed and script_headless and not result["success"]:
             print(
                 f"[{index}/{len(scrapers)}] {script_name} failed in headless. "
                 "Retrying in headful mode..."
@@ -233,7 +268,7 @@ def main() -> int:
             retry_result = _run_python_script(
                 script_path=scraper_path,
                 log_path=run_dir / f"{scraper_path.stem}_headful_retry.log",
-                timeout_minutes=scraper_timeout_minutes,
+                timeout_minutes=script_timeout_minutes,
                 extra_env={"SCRAP_HEADLESS": "0"},
                 use_xvfb=use_xvfb,
             )
@@ -250,6 +285,7 @@ def main() -> int:
 
         if (
             retry_on_empty
+            and retry_headful_allowed
             and script_headless
             and result["success"]
             and result["json_count"] == 0
@@ -261,7 +297,7 @@ def main() -> int:
             retry_result = _run_python_script(
                 script_path=scraper_path,
                 log_path=run_dir / f"{scraper_path.stem}_headful_retry.log",
-                timeout_minutes=scraper_timeout_minutes,
+                timeout_minutes=script_timeout_minutes,
                 extra_env={"SCRAP_HEADLESS": "0"},
                 use_xvfb=use_xvfb,
             )
@@ -292,23 +328,36 @@ def main() -> int:
             f"(return_code={result['return_code']}, duration={result['duration_seconds']}s)"
         )
 
-    print("Running match_products.py...")
-    match_result = _run_python_script(
-        script_path=MATCH_SCRIPT,
-        log_path=run_dir / "match_products.log",
-        timeout_minutes=match_timeout_minutes,
-    )
+    if run_match_products:
+        print("Running match_products.py...")
+        match_result = _run_python_script(
+            script_path=MATCH_SCRIPT,
+            log_path=run_dir / "match_products.log",
+            timeout_minutes=match_timeout_minutes,
+        )
 
-    if match_result["success"]:
-        print(
-            f"match_products.py => OK "
-            f"(return_code={match_result['return_code']}, duration={match_result['duration_seconds']}s)"
-        )
+        if match_result["success"]:
+            print(
+                f"match_products.py => OK "
+                f"(return_code={match_result['return_code']}, duration={match_result['duration_seconds']}s)"
+            )
+        else:
+            print(
+                f"match_products.py => FAILED "
+                f"(return_code={match_result['return_code']}, duration={match_result['duration_seconds']}s)"
+            )
     else:
-        print(
-            f"match_products.py => FAILED "
-            f"(return_code={match_result['return_code']}, duration={match_result['duration_seconds']}s)"
-        )
+        print("Skipping match_products.py because RUN_MATCH_PRODUCTS=0.")
+        match_result = {
+            "name": MATCH_SCRIPT.name,
+            "path": str(MATCH_SCRIPT),
+            "skipped": True,
+            "success": True,
+            "return_code": 0,
+            "timed_out": False,
+            "duration_seconds": 0,
+            "log_file": None,
+        }
 
     scraper_failures = [item for item in scraper_results if not item["success"]]
 
@@ -326,7 +375,9 @@ def main() -> int:
         "run_finished_at_utc": run_finished.isoformat(),
         "run_duration_seconds": round((run_finished - run_started).total_seconds(), 2),
         "scraper_timeout_minutes": scraper_timeout_minutes,
+        "scraper_timeout_overrides": scraper_timeout_overrides,
         "match_timeout_minutes": match_timeout_minutes,
+        "run_match_products": run_match_products,
         "scraper_count": len(scrapers),
         "scraper_failures": len(scraper_failures),
         "scraper_results": scraper_results,

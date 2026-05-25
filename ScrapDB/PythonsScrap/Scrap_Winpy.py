@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import json
 import os
+import re
 from typing import Any
 from urllib.parse import urljoin, urlsplit, urlunsplit
 
@@ -13,6 +14,26 @@ from browser_fallback_utils import _env_int, _make_browser_options
 
 
 BASE_URL = "https://www.winpy.cl"
+EMPTY_PART_VALUES = {"", "N/A", "NA", "NONE", "NULL", "SIN SKU", "SKU NO INFORMADO"}
+GENERIC_PART_PREFIXES = (
+    "DDR",
+    "GDDR",
+    "USB",
+    "SATA",
+    "PCIE",
+    "PCI-E",
+    "NVME",
+    "HDMI",
+    "ARGB",
+    "RGB",
+    "ATX",
+    "MATX",
+    "M-ATX",
+    "ITX",
+    "AM4",
+    "AM5",
+    "LGA",
+)
 
 CATEGORY_URL_MAP = {
     "OperatingSystem": "https://www.winpy.cl/software/sistemas-operativos/",
@@ -52,6 +73,30 @@ def _value(result: dict[str, Any] | None) -> str:
     return (((result or {}).get("result") or {}).get("result") or {}).get("value") or ""
 
 
+def _clean_winpy_part_number(value: Any) -> str | None:
+    part_number = clean_part_number(value)
+    if not part_number:
+        return None
+
+    part_number = re.sub(r"\s+", " ", part_number).strip(" \t\r\n,;|()[]{}")
+    if part_number.upper() in EMPTY_PART_VALUES:
+        return None
+
+    compact = re.sub(r"[^A-Za-z0-9]", "", part_number)
+    if len(compact) < 3 or compact.isdigit():
+        return None
+    if not any(char.isalpha() for char in compact) or not any(char.isdigit() for char in compact):
+        return None
+
+    normalized = part_number.upper().replace(" ", "")
+    if normalized.startswith(GENERIC_PART_PREFIXES):
+        return None
+    if re.fullmatch(r"\d+\s*(?:gb|tb|mb|w|hz|mhz|ghz|dpi|mm|cm|in|inch|p)", part_number, re.IGNORECASE):
+        return None
+
+    return part_number
+
+
 async def _json_from_page(page: Any, script: str) -> Any:
     raw_value = _value(await page.execute_script(script))
     return json.loads(raw_value or "null")
@@ -88,7 +133,11 @@ async def _wait_for_product(page: Any, timeout_seconds: int) -> bool:
             r"""
 return JSON.stringify({
   hasName: Boolean(document.querySelector("h1[itemprop='name'], h1")),
-  hasSku: Boolean(document.querySelector("span[itemprop='sku'], span.sku")),
+  hasSku: Boolean(
+    document.querySelector("span[itemprop='sku'], span.sku, #info-product") ||
+    document.querySelector("[data-flix-mpn]") ||
+    /SKU\s*:/i.test(document.body?.innerText || "")
+  ),
   hasPrice: Boolean(document.querySelector(".price-oferta h2, [itemprop='lowPrice'], .price-normal h3"))
 });
 """,
@@ -240,7 +289,21 @@ const name = clean(document.querySelector("h1[itemprop='name']")?.textContent ||
 const brand =
   clean(document.querySelector("img[src*='/logos/']")?.alt) ||
   clean(document.querySelector("[itemprop='brand']")?.textContent);
-const sku = clean(document.querySelector("span[itemprop='sku']")?.textContent || document.querySelector("span.sku")?.textContent);
+const textSku = (text) => {
+  const match = clean(text).match(/\bSKU\s*:\s*([^|]+?)(?:\s+WhatsApp|$)/i);
+  return clean(match?.[1] || "");
+};
+const scripts = [...document.scripts].map((script) => script.textContent || "").join("\n");
+const itemIdMatch = scripts.match(/item_id\s*:\s*["']([^"']+)["']/i);
+const sku = clean(
+  document.querySelector("span[itemprop='sku']")?.textContent ||
+  document.querySelector("#info-product span.sku")?.textContent ||
+  document.querySelector("span.sku")?.textContent ||
+  document.querySelector("[data-flix-mpn]")?.getAttribute("data-flix-mpn") ||
+  textSku(document.querySelector("#info-product")?.textContent) ||
+  itemIdMatch?.[1] ||
+  ""
+);
 const namePrefix = name.slice(0, 30).toLowerCase();
 const image =
   [...document.querySelectorAll("img[src*='/files/']")]
@@ -257,12 +320,7 @@ def _part_from_title(product_name: str, page_title: str) -> str | None:
     if "|" not in page_title:
         return None
     candidate = page_title.rsplit("|", 1)[-1]
-    cleaned = clean_part_number(candidate)
-    if not cleaned:
-        return None
-    if cleaned.lower() in product_name.lower():
-        return None
-    return cleaned
+    return _clean_winpy_part_number(candidate)
 
 
 async def _scrape_product(
@@ -282,7 +340,7 @@ async def _scrape_product(
             title = _value(await page.execute_script("return document.title || ''"))
 
             name = detail.get("name") or product.get("name") or ""
-            part_number = clean_part_number(detail.get("sku"))
+            part_number = _clean_winpy_part_number(detail.get("sku"))
             if not part_number:
                 part_number = _part_from_title(name, title)
             if not name or not part_number:
@@ -316,8 +374,8 @@ async def _scrape_winpy_async() -> int:
     browser = Chrome(options=options)
     await browser.start()
     try:
-        collector_concurrency = _env_int("WINPY_COLLECTOR_CONCURRENCY", 2)
-        scraper_concurrency = _env_int("WINPY_SCRAPER_CONCURRENCY", 3)
+        collector_concurrency = _env_int("WINPY_COLLECTOR_CONCURRENCY", 1)
+        scraper_concurrency = _env_int("WINPY_SCRAPER_CONCURRENCY", 1)
         ready_timeout = _env_int("WINPY_PAGE_READY_TIMEOUT", 45)
         products_to_scrape: list[dict[str, str]] = []
         seen: set[tuple[str, str]] = set()

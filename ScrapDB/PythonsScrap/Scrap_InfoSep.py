@@ -8,6 +8,7 @@ from urllib.parse import urljoin
 
 from api_scraper_utils import (
     brand_from_wc,
+    build_woocommerce_page_url,
     clean_output_dir,
     clean_part_number,
     exit_code_from_count,
@@ -18,6 +19,7 @@ from api_scraper_utils import (
     normalize_price,
     write_product_json,
 )
+from browser_fallback_utils import browser_fallback_enabled, run_browser_fallback_store
 
 
 BASE_URL = "https://infosep.cl"
@@ -40,6 +42,67 @@ CATEGORY_QUERIES = {
     "Motherboard": [{"category": "208,415"}],
     "Webcam": [{"category": 215}],
     "NetworkAdapter": [{"category": "458,214"}],
+}
+CATEGORY_URL_MAP = {
+    "OperatingSystem": "https://infosep.cl/categoria-producto/software/windows-server-2022-std-rock-ams-hp/",
+    "UPS": "https://infosep.cl/categoria-producto/partes-y-piezas/ups-respaldo-de-energia/",
+    "Headphones": [
+        "https://infosep.cl/categoria-producto/accesorios/audifonos/",
+        "https://infosep.cl/categoria-producto/gamer/audifonos-gamer/",
+    ],
+    "Mouse": [
+        "https://infosep.cl/categoria-producto/partes-y-piezas/mouse-2/",
+        "https://infosep.cl/categoria-producto/gamer/mouse-gamer/",
+    ],
+    "Keyboard": [
+        "https://infosep.cl/categoria-producto/accesorios/accesorios-de-escritorio/teclado/",
+        "https://infosep.cl/categoria-producto/gamer/teclado-gamer/",
+    ],
+    "Mouse_Keyboard": [
+        "https://infosep.cl/categoria-producto/partes-y-piezas/kit-teclado-y-mouse/",
+        "https://infosep.cl/categoria-producto/gamer/teclado-y-mouse-gamer/",
+    ],
+    "Storage": [
+        "https://infosep.cl/categoria-producto/partes-y-piezas/almacenamiento/disco-interno/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/disco-hdd/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/discos-ssd/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/discos-ssd-m2/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/almacenamiento/disco-vigilancia/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/memorias-sd/",
+    ],
+    "ExternalStorage": [
+        "https://infosep.cl/categoria-producto/partes-y-piezas/almacenamiento/disco-externo/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/discos-externos-25/",
+    ],
+    "Monitor": [
+        "https://infosep.cl/categoria-producto/monitores/",
+        "https://infosep.cl/categoria-producto/gamer/monitor-gamer/",
+    ],
+    "CPUCooler": [
+        "https://infosep.cl/categoria-producto/partes-y-piezas/partes-de-computador/tarjeta-madre/cooler-liquido/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/partes-de-computador/tarjeta-madre/ventilador-de-cpu/",
+    ],
+    "ThermalCompound": "https://infosep.cl/categoria-producto/accesorios/pasta-disipadora/",
+    "PowerSupply": [
+        "https://infosep.cl/categoria-producto/partes-y-piezas/fuente-de-poder-pc/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/partes-de-computador/fuentes-de-poder/",
+        "https://infosep.cl/categoria-producto/gamer/fuentes-gamer/",
+    ],
+    "Case": [
+        "https://infosep.cl/categoria-producto/partes-y-piezas/gabinetes/",
+        "https://infosep.cl/categoria-producto/gamer/gabinetes-gamer/",
+    ],
+    "Memory": "https://infosep.cl/categoria-producto/partes-y-piezas/memorias-pc-notebook/",
+    "CPU": "https://infosep.cl/categoria-producto/partes-y-piezas/procesadores/",
+    "Motherboard": [
+        "https://infosep.cl/categoria-producto/partes-y-piezas/placas-madres/",
+        "https://infosep.cl/categoria-producto/partes-y-piezas/partes-de-computador/tarjeta-madre/tarjeta-madre-asus/",
+    ],
+    "Webcam": "https://infosep.cl/categoria-producto/accesorios/camara-web/",
+    "NetworkAdapter": [
+        "https://infosep.cl/categoria-producto/servidores/redes-servidores/adaptador-de-red/",
+        "https://infosep.cl/categoria-producto/accesorios/adaptadores/",
+    ],
 }
 
 
@@ -95,8 +158,7 @@ def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, 
     }
 
 
-def scrape_infosep() -> int:
-    output_dir = "ScrapDB/Outputs/InfoSep"
+def scrape_infosep_requests(output_dir: str) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(BASE_URL)
     api_url = urljoin(BASE_URL, "/wp-json/wc/store/v1/products")
@@ -151,7 +213,72 @@ def scrape_infosep() -> int:
 
 
 def main() -> int:
-    return exit_code_from_count(scrape_infosep())
+    output_dir = "ScrapDB/Outputs/InfoSep"
+    force_browser = os.environ.get("SCRAPER_FORCE_BROWSER_FALLBACK", "").strip().lower() in {
+        "1",
+        "true",
+        "yes",
+        "on",
+    }
+    running_headful = os.environ.get("SCRAP_HEADLESS", "1").strip().lower() in {
+        "0",
+        "false",
+        "no",
+        "off",
+    }
+
+    if force_browser or running_headful:
+        saved_count = 0
+        print("InfoSep requests path skipped; browser fallback will be used.")
+    else:
+        try:
+            saved_count = scrape_infosep_requests(output_dir)
+            print(f"InfoSep requests path saved {saved_count} JSON files.")
+        except Exception as exc:
+            saved_count = 0
+            print(f"InfoSep requests path failed, browser fallback will be tried: {exc}")
+
+    if browser_fallback_enabled(saved_count):
+        print("InfoSep starting browser fallback.")
+        saved_count = run_browser_fallback_store(
+            store_name="InfoSep",
+            category_url_map=CATEGORY_URL_MAP,
+            output_dir=output_dir,
+            output_prefix="IS",
+            listing_config={
+                "link_selector": (
+                    ".products .product a.product-image-link[href*='/producto/'], "
+                    ".products .product .wd-entities-title a[href*='/producto/']"
+                ),
+                "pagination_selector": (
+                    "nav.woocommerce-pagination a, ul.page-numbers a, .page-numbers a"
+                ),
+                "page_url_builder": build_woocommerce_page_url,
+                "ready_selectors": (
+                    ".products .product",
+                    ".product-grid-item",
+                    "a.product-image-link[href*='/producto/']",
+                ),
+            },
+            product_config={
+                "ready_selectors": ("h1.product_title", "h1.entry-title", ".sku_wrapper .sku", "span.sku"),
+                "name_selectors": ("h1.product_title", "h1.entry-title", "h1"),
+                "part_selectors": (".sku_wrapper .sku", "span.sku", ".product_meta .sku"),
+                "price_selectors": ("p.price", ".summary .price", ".price"),
+                "image_selectors": (
+                    ".woocommerce-product-gallery__image img",
+                    "img.wp-post-image",
+                    ".product-image-summary img",
+                ),
+                "brand_selectors": (),
+                "clean_part_number": clean_infosep_part_number,
+                "clean_price": normalize_price,
+            },
+        )
+        print(f"InfoSep browser fallback saved {saved_count} JSON files.")
+
+    print(f"InfoSep scraping finished. Saved {saved_count} JSON files.")
+    return exit_code_from_count(saved_count)
 
 
 if __name__ == "__main__":
