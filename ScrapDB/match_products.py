@@ -20,6 +20,8 @@ SPECIFICATIONS_SCHEMA = "specifications"
 
 SCRAP_OUTPUT_DIR = BASE_DIR / "Outputs"
 LOG_FILE = BASE_DIR / "unmatched_log.txt"
+MAX_DB_INTEGER = 2_147_483_647
+MAX_REASONABLE_CLP_PRICE = 100_000_000
 
 # Mapeo de categorías a tablas
 CATEGORY_TO_TABLE = {
@@ -74,6 +76,62 @@ def parse_part_numbers(raw_val):
                 parts.append(clean_p)
         return parts
     return [s]
+
+def _valid_price_candidate(digits):
+    if not digits:
+        return None
+    digits = re.sub(r"\D", "", str(digits))
+    if not digits:
+        return None
+    try:
+        price = int(digits)
+    except ValueError:
+        return None
+    if price <= 0 or price > MAX_DB_INTEGER or price > MAX_REASONABLE_CLP_PRICE:
+        return None
+    return price
+
+def _prices_from_long_digit_run(digits):
+    candidates = []
+    if len(set(digits)) == 1:
+        return candidates
+
+    # Some scraper price blocks can collapse into strings like
+    # 165000165000147990147990. Recover adjacent repeated prices first.
+    for size in range(4, 9):
+        pattern = re.compile(rf"(\d{{{size}}})\1")
+        for match in pattern.finditer(digits):
+            candidate = _valid_price_candidate(match.group(1))
+            if candidate is not None:
+                candidates.append(candidate)
+
+    return candidates
+
+def parse_price_to_int(raw_price):
+    if raw_price is None:
+        return None
+    if isinstance(raw_price, (int, float)):
+        return _valid_price_candidate(str(int(raw_price)))
+
+    text = str(raw_price).strip()
+    if not text:
+        return None
+
+    candidates = []
+    for currency_match in re.finditer(r"\$\s*([0-9][0-9.\s,]*)", text):
+        candidate = _valid_price_candidate(currency_match.group(1))
+        if candidate is not None:
+            candidates.append(candidate)
+
+    for token in re.findall(r"\d[\d.,]*", text):
+        digits = re.sub(r"\D", "", token)
+        candidate = _valid_price_candidate(digits)
+        if candidate is not None:
+            candidates.append(candidate)
+        elif len(digits) > 10:
+            candidates.extend(_prices_from_long_digit_run(digits))
+
+    return min(candidates) if candidates else None
 
 def get_or_create_store(store_name):
     res = supabase.table("Stores").select("Id").eq("Name", store_name).execute()
@@ -270,9 +328,8 @@ def process_daily_scraps():
             spec_id, found_table = find_spec_id(target_tables, part_num)
             
             if spec_id and found_table:
-                try:
-                    price_int = int(price)
-                except:
+                price_int = parse_price_to_int(price)
+                if price_int is None:
                     continue
 
                 # LÓGICA DE PRECIO MÍNIMO:

@@ -135,6 +135,26 @@ def clean_infosep_part_number(value: Any) -> str | None:
     return part_number
 
 
+def normalize_infosep_price(value: Any) -> str:
+    text = html_to_text(value)
+    if not text:
+        return "N/A"
+
+    prices: list[int] = []
+    for match in re.finditer(r"\$\s*([0-9][0-9.\s,]*)", text):
+        digits = re.sub(r"\D", "", match.group(1))
+        if not digits:
+            continue
+        price = int(digits)
+        if 0 < price < 100_000_000:
+            prices.append(price)
+
+    if prices:
+        return str(min(prices))
+
+    return normalize_price(value)
+
+
 def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, Any] | None:
     url = product.get("permalink") or ""
     name = html_to_text(product.get("name"))
@@ -152,7 +172,7 @@ def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, 
         "scraped_brand": brand_from_wc(product),
         "type": category_name,
         "part #": part_number,
-        "price": normalize_price(prices.get("price")),
+        "price": normalize_infosep_price(prices.get("price")),
         "url": url,
         "image_url": first_image_from_wc(product),
     }
@@ -264,7 +284,16 @@ def main() -> int:
                 "ready_selectors": ("h1.product_title", "h1.entry-title", ".sku_wrapper .sku", "span.sku"),
                 "name_selectors": ("h1.product_title", "h1.entry-title", "h1"),
                 "part_selectors": (".sku_wrapper .sku", "span.sku", ".product_meta .sku"),
-                "price_selectors": ("p.price", ".summary .price", ".price"),
+                "price_selectors": (
+                    "p.price ins .woocommerce-Price-amount",
+                    "p.price ins",
+                    ".summary .price ins .woocommerce-Price-amount",
+                    ".summary .price ins",
+                    "p.price .woocommerce-Price-amount",
+                    "p.price",
+                    ".summary .price",
+                    ".price",
+                ),
                 "image_selectors": (
                     ".woocommerce-product-gallery__image img",
                     "img.wp-post-image",
@@ -272,7 +301,7 @@ def main() -> int:
                 ),
                 "brand_selectors": (),
                 "clean_part_number": clean_infosep_part_number,
-                "clean_price": normalize_price,
+                "clean_price": normalize_infosep_price,
             },
         )
         print(f"InfoSep browser fallback saved {saved_count} JSON files.")
