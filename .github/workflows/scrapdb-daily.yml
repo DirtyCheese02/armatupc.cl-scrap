@@ -132,6 +132,7 @@ jobs:
     name: match-products
     runs-on: ubuntu-latest
     needs: scrape-shards
+    if: ${{ always() }}
     timeout-minutes: 90
 
     steps:
