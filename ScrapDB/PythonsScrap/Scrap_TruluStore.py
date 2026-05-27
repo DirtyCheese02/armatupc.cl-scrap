@@ -123,9 +123,15 @@ def normalize_trulu_output_parts(output_dir: str) -> int:
 
 
 def clean_trulu_price(value: str) -> str:
-    match = re.search(r"\$\s*([\d.]+)", value or "")
-    if match:
-        return normalize_price(match.group(1))
+    prices = []
+    for match in re.finditer(r"\$\s*([\d.]+)", value or ""):
+        normalized = normalize_price(match.group(1))
+        if normalized != "N/A":
+            prices.append(int(normalized))
+
+    if prices:
+        return str(min(prices))
+
     return normalize_price(value)
 
 
@@ -176,6 +182,10 @@ def main() -> int:
                 "name_selectors": ("//h1[contains(@class,'product_title')]", "//h1[contains(@class,'entry-title')]", "//h1"),
                 "part_selectors": ("//span[contains(@class,'sku')]",),
                 "price_selectors": (
+                    "//p[contains(@class,'price')]//ins//span[contains(@class,'woocommerce-Price-amount')]",
+                    "//p[contains(@class,'price')]//ins",
+                    "//div[contains(@class,'summary')]//*[contains(@class,'price')]//ins//span[contains(@class,'woocommerce-Price-amount')]",
+                    "//div[contains(@class,'summary')]//*[contains(@class,'price')]//ins",
                     "//p[contains(@class,'price')]",
                     "//div[contains(@class,'summary')]//*[contains(@class,'price')]",
                 ),

@@ -14,27 +14,7 @@ from browser_fallback_utils import _env_int, _make_browser_options
 
 
 BASE_URL = "https://www.winpy.cl"
-EMPTY_PART_VALUES = {"", "N/A", "NA", "NONE", "NULL", "SIN SKU", "SKU NO INFORMADO"}
-GENERIC_PART_PREFIXES = (
-    "DDR",
-    "GDDR",
-    "USB",
-    "SATA",
-    "PCIE",
-    "PCI-E",
-    "NVME",
-    "HDMI",
-    "ARGB",
-    "RGB",
-    "ATX",
-    "MATX",
-    "M-ATX",
-    "ITX",
-    "AM4",
-    "AM5",
-    "LGA",
-)
-
+EMPTY_PART_VALUES = {"", "N/A", "NA", "NONE", "NULL", "SIN SKU", "SKU NO INFORMADO", "NO INFORMADO"}
 CATEGORY_URL_MAP = {
     "OperatingSystem": "https://www.winpy.cl/software/sistemas-operativos/",
     "UPS": "https://www.winpy.cl/energia/ups/",
@@ -80,18 +60,6 @@ def _clean_winpy_part_number(value: Any) -> str | None:
 
     part_number = re.sub(r"\s+", " ", part_number).strip(" \t\r\n,;|()[]{}")
     if part_number.upper() in EMPTY_PART_VALUES:
-        return None
-
-    compact = re.sub(r"[^A-Za-z0-9]", "", part_number)
-    if len(compact) < 3 or compact.isdigit():
-        return None
-    if not any(char.isalpha() for char in compact) or not any(char.isdigit() for char in compact):
-        return None
-
-    normalized = part_number.upper().replace(" ", "")
-    if normalized.startswith(GENERIC_PART_PREFIXES):
-        return None
-    if re.fullmatch(r"\d+\s*(?:gb|tb|mb|w|hz|mhz|ghz|dpi|mm|cm|in|inch|p)", part_number, re.IGNORECASE):
         return None
 
     return part_number
@@ -301,6 +269,7 @@ const sku = clean(
   document.querySelector("span.sku")?.textContent ||
   document.querySelector("[data-flix-mpn]")?.getAttribute("data-flix-mpn") ||
   textSku(document.querySelector("#info-product")?.textContent) ||
+  textSku(document.body?.innerText) ||
   itemIdMatch?.[1] ||
   ""
 );
@@ -332,8 +301,9 @@ async def _scrape_product(
     ready_timeout: int,
 ) -> bool:
     async with sem:
-        page = await browser.new_tab()
+        page = None
         try:
+            page = await browser.new_tab()
             await page.go_to(product["url"])
             await _wait_for_product(page, ready_timeout)
             detail = await _product_detail(page)
@@ -363,7 +333,11 @@ async def _scrape_product(
             print(f"[Winpy] product error {product.get('url')}: {exc}")
             return False
         finally:
-            await page.close()
+            if page is not None:
+                try:
+                    await page.close()
+                except Exception as exc:
+                    print(f"[Winpy] page close warning {product.get('url')}: {exc}")
 
 
 async def _scrape_winpy_async() -> int:
@@ -419,15 +393,23 @@ async def _scrape_winpy_async() -> int:
                         ready_timeout=ready_timeout,
                     )
                     for product in chunk
-                ]
+                ],
+                return_exceptions=True,
             )
-            saved_count += sum(1 for result in results if result)
+            for result in results:
+                if isinstance(result, Exception):
+                    print(f"[Winpy] product task error: {result}")
+                elif result:
+                    saved_count += 1
             print(f"[Winpy] saved {saved_count} JSON files so far.")
 
         print(f"[Winpy] scraping finished. Saved {saved_count} JSON files.")
         return saved_count
     finally:
-        await browser.stop()
+        try:
+            await browser.stop()
+        except Exception as exc:
+            print(f"[Winpy] browser stop warning: {exc}")
 
 
 def main() -> int:

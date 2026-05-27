@@ -267,37 +267,55 @@ def main() -> int:
             output_prefix="IS",
             listing_config={
                 "link_selector": (
-                    ".products .product a.product-image-link[href*='/producto/'], "
-                    ".products .product .wd-entities-title a[href*='/producto/']"
+                    "//a[contains(@href,'/producto/') and "
+                    "(contains(concat(' ', normalize-space(@class), ' '), ' product-image-link ') or "
+                    "ancestor::h3[contains(concat(' ', normalize-space(@class), ' '), ' wd-entities-title ')])]"
                 ),
                 "pagination_selector": (
-                    "nav.woocommerce-pagination a, ul.page-numbers a, .page-numbers a"
+                    "//nav[contains(@class,'woocommerce-pagination')]//a|"
+                    "//ul[contains(@class,'page-numbers')]//a|"
+                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' page-numbers ')]//a"
                 ),
                 "page_url_builder": build_woocommerce_page_url,
                 "ready_selectors": (
-                    ".products .product",
-                    ".product-grid-item",
-                    "a.product-image-link[href*='/producto/']",
+                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' products ')]"
+                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' product ')]",
+                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' product-grid-item ')]",
+                    "//a[contains(@href,'/producto/') and contains(concat(' ', normalize-space(@class), ' '), ' product-image-link ')]",
                 ),
             },
             product_config={
-                "ready_selectors": ("h1.product_title", "h1.entry-title", ".sku_wrapper .sku", "span.sku"),
-                "name_selectors": ("h1.product_title", "h1.entry-title", "h1"),
-                "part_selectors": (".sku_wrapper .sku", "span.sku", ".product_meta .sku"),
+                "ready_selectors": (
+                    "//h1[contains(@class,'product_title')]",
+                    "//h1[contains(@class,'entry-title')]",
+                    "//span[contains(concat(' ', normalize-space(@class), ' '), ' sku ')]",
+                ),
+                "name_selectors": (
+                    "//h1[contains(@class,'product_title')]",
+                    "//h1[contains(@class,'entry-title')]",
+                    "//h1",
+                ),
+                "part_selectors": (
+                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' sku_wrapper ')]"
+                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' sku ')]",
+                    "//span[contains(concat(' ', normalize-space(@class), ' '), ' sku ')]",
+                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' product_meta ')]"
+                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' sku ')]",
+                ),
                 "price_selectors": (
-                    "p.price ins .woocommerce-Price-amount",
-                    "p.price ins",
-                    ".summary .price ins .woocommerce-Price-amount",
-                    ".summary .price ins",
-                    "p.price .woocommerce-Price-amount",
-                    "p.price",
-                    ".summary .price",
-                    ".price",
+                    "//p[contains(@class,'price')]//ins//*[contains(@class,'woocommerce-Price-amount')]",
+                    "//p[contains(@class,'price')]//ins",
+                    "//*[contains(@class,'summary')]//*[contains(@class,'price')]//ins//*[contains(@class,'woocommerce-Price-amount')]",
+                    "//*[contains(@class,'summary')]//*[contains(@class,'price')]//ins",
+                    "//p[contains(@class,'price')]//*[contains(@class,'woocommerce-Price-amount')]",
+                    "//p[contains(@class,'price')]",
+                    "//*[contains(@class,'summary')]//*[contains(@class,'price')]",
+                    "//*[contains(@class,'price')]",
                 ),
                 "image_selectors": (
-                    ".woocommerce-product-gallery__image img",
-                    "img.wp-post-image",
-                    ".product-image-summary img",
+                    "//*[contains(@class,'woocommerce-product-gallery__image')]//img",
+                    "//img[contains(@class,'wp-post-image')]",
+                    "//*[contains(@class,'product-image-summary')]//img",
                 ),
                 "brand_selectors": (),
                 "clean_part_number": clean_infosep_part_number,
