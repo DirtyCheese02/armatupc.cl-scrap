@@ -3,20 +3,29 @@ from __future__ import annotations
 import html
 import os
 import re
+import time
 from typing import Any
 from urllib.parse import urljoin
 
+from bs4 import BeautifulSoup
+
 from api_scraper_utils import (
+    absolute_url,
     brand_from_wc,
     build_woocommerce_page_url,
     clean_output_dir,
     clean_part_number,
     exit_code_from_count,
     fetch_json,
+    fetch_text_with_referer,
     first_image_from_wc,
     html_to_text,
     make_session,
     normalize_price,
+    page_numbers_from_soup,
+    product_links_from_soup,
+    selected_attr,
+    selected_text,
     write_product_json,
 )
 from browser_fallback_utils import browser_fallback_enabled, run_browser_fallback_store
@@ -178,6 +187,137 @@ def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, 
     }
 
 
+def parse_infosep_html_product(
+    soup: BeautifulSoup,
+    url: str,
+    category_name: str,
+    base_url: str,
+) -> dict[str, Any] | None:
+    name = selected_text(soup, ("h1.product_title", "h1.entry-title", "h1"))
+    if not name:
+        return None
+
+    sku = selected_text(soup, (".sku_wrapper .sku", "span.sku", ".product_meta .sku"))
+    part_number = clean_infosep_part_number(sku)
+    if not part_number:
+        return None
+
+    price = selected_text(
+        soup,
+        (
+            "p.price ins .woocommerce-Price-amount",
+            "p.price ins",
+            ".summary .price ins .woocommerce-Price-amount",
+            ".summary .price ins",
+            "p.price .woocommerce-Price-amount",
+            "p.price",
+            ".summary .price",
+            ".price",
+        ),
+    )
+    image = selected_attr(
+        soup,
+        (
+            ".woocommerce-product-gallery__image img",
+            "img.wp-post-image",
+            ".product-image-summary img",
+        ),
+        "src",
+    )
+
+    return {
+        "store_name": "InfoSep",
+        "scraped_name": name,
+        "scraped_brand": "N/A",
+        "type": category_name,
+        "part #": part_number,
+        "price": normalize_infosep_price(price),
+        "url": url,
+        "image_url": absolute_url(base_url, image),
+    }
+
+
+def scrape_infosep_html(output_dir: str) -> int:
+    output_path = clean_output_dir(output_dir)
+    session = make_session(BASE_URL)
+    max_products = configured_max_products()
+    saved_count = 0
+    seen: set[tuple[str, str]] = set()
+    request_delay = float(os.environ.get("HTML_REQUEST_DELAY_SECONDS", "0.25"))
+    link_selectors = (
+        "a.product-image-link[href*='/producto/']",
+        "h3.wd-entities-title a[href*='/producto/']",
+        ".product-grid-item a[href*='/producto/']",
+    )
+    pagination_selectors = (
+        "nav.woocommerce-pagination a",
+        "ul.page-numbers a",
+        ".page-numbers a",
+    )
+
+    for category_name, raw_urls in CATEGORY_URL_MAP.items():
+        urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
+        for category_url in urls:
+            try:
+                first_html = fetch_text_with_referer(session, category_url, BASE_URL)
+                first_soup = BeautifulSoup(first_html, "html.parser")
+                page_numbers = page_numbers_from_soup(first_soup, pagination_selectors)
+                total_pages = max(page_numbers) if page_numbers else 1
+
+                for page in range(1, total_pages + 1):
+                    page_url = build_woocommerce_page_url(category_url, page)
+                    if page == 1:
+                        soup = first_soup
+                    else:
+                        page_html = fetch_text_with_referer(session, page_url, category_url)
+                        soup = BeautifulSoup(page_html, "html.parser")
+
+                    links = product_links_from_soup(
+                        soup,
+                        BASE_URL,
+                        link_selectors,
+                        url_pattern=r"/producto/",
+                    )
+                    print(
+                        f"InfoSep {category_name} HTML page {page}/{total_pages}: "
+                        f"{len(links)} product links"
+                    )
+
+                    for url in links:
+                        identity = (category_name, url)
+                        if identity in seen:
+                            continue
+                        seen.add(identity)
+
+                        try:
+                            product_html = fetch_text_with_referer(session, url, page_url)
+                            product_soup = BeautifulSoup(product_html, "html.parser")
+                            data = parse_infosep_html_product(
+                                product_soup,
+                                url,
+                                category_name,
+                                BASE_URL,
+                            )
+                            if not data:
+                                continue
+
+                            write_product_json(output_path, "IS", url, data)
+                            saved_count += 1
+
+                            if max_products and saved_count >= max_products:
+                                print(f"InfoSep reached INFOSEP_MAX_PRODUCTS={max_products}; stopping early.")
+                                return saved_count
+                        except Exception as exc:
+                            print(f"InfoSep {category_name}: error scraping product {url}: {exc}")
+
+                    if request_delay:
+                        time.sleep(request_delay)
+            except Exception as exc:
+                print(f"InfoSep {category_name}: HTML fallback failed for {category_url}: {exc}")
+
+    return saved_count
+
+
 def scrape_infosep_requests(output_dir: str) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(BASE_URL)
@@ -240,23 +380,25 @@ def main() -> int:
         "yes",
         "on",
     }
-    running_headful = os.environ.get("SCRAP_HEADLESS", "1").strip().lower() in {
-        "0",
-        "false",
-        "no",
-        "off",
-    }
 
-    if force_browser or running_headful:
+    if force_browser:
         saved_count = 0
-        print("InfoSep requests path skipped; browser fallback will be used.")
+        print("InfoSep requests and HTML paths skipped; browser fallback will be used.")
     else:
         try:
             saved_count = scrape_infosep_requests(output_dir)
             print(f"InfoSep requests path saved {saved_count} JSON files.")
         except Exception as exc:
             saved_count = 0
-            print(f"InfoSep requests path failed, browser fallback will be tried: {exc}")
+            print(f"InfoSep requests path failed, HTML fallback will be tried: {exc}")
+
+        if saved_count == 0:
+            try:
+                saved_count = scrape_infosep_html(output_dir)
+                print(f"InfoSep HTML fallback saved {saved_count} JSON files.")
+            except Exception as exc:
+                saved_count = 0
+                print(f"InfoSep HTML fallback failed, browser fallback will be tried: {exc}")
 
     if browser_fallback_enabled(saved_count):
         print("InfoSep starting browser fallback.")
