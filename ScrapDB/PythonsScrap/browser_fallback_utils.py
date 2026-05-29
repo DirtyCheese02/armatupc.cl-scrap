@@ -146,8 +146,9 @@ async def _collect_category_links(
     seen_links: set[tuple[str, str]],
 ) -> None:
     async with sem:
-        page = await browser.new_tab()
+        page = None
         try:
+            page = await browser.new_tab()
             print(f"[BrowserFallback] {store_name} collector starting: {category_name}")
             await page.go_to(category_url)
             await _wait_for_any(page, ready_selectors, timeout_seconds=20)
@@ -184,7 +185,11 @@ async def _collect_category_links(
         except Exception as exc:
             print(f"[BrowserFallback] {store_name} collector error {category_name}: {exc}")
         finally:
-            await page.close()
+            if page is not None:
+                try:
+                    await page.close()
+                except Exception as exc:
+                    print(f"[BrowserFallback] {store_name} collector close warning {category_name}: {exc}")
 
 
 async def _scrape_product(
@@ -199,8 +204,9 @@ async def _scrape_product(
     product_config: dict[str, Any],
 ) -> bool:
     async with sem:
-        page = await browser.new_tab()
+        page = None
         try:
+            page = await browser.new_tab()
             await page.go_to(url)
             await _wait_for_any(page, tuple(product_config["ready_selectors"]), timeout_seconds=20)
 
@@ -235,7 +241,11 @@ async def _scrape_product(
             print(f"[BrowserFallback] {store_name} product error {url}: {exc}")
             return False
         finally:
-            await page.close()
+            if page is not None:
+                try:
+                    await page.close()
+                except Exception as exc:
+                    print(f"[BrowserFallback] {store_name} product close warning {url}: {exc}")
 
 
 async def _run_browser_fallback_async(
@@ -281,7 +291,10 @@ async def _run_browser_fallback_async(
                         seen_links=seen_links,
                     )
                 )
-        await asyncio.gather(*collect_tasks)
+        collect_results = await asyncio.gather(*collect_tasks, return_exceptions=True)
+        for result in collect_results:
+            if isinstance(result, Exception):
+                print(f"[BrowserFallback] {store_name} collector task error: {result}")
         print(f"[BrowserFallback] {store_name}: collected {len(links_to_scrape)} product links")
 
         max_products = int(os.environ.get("BROWSER_FALLBACK_MAX_PRODUCTS", "0") or "0")
@@ -307,13 +320,20 @@ async def _run_browser_fallback_async(
                 )
                 for category_name, url in chunk
             ]
-            results = await asyncio.gather(*scrape_tasks)
-            saved_count += sum(1 for item in results if item)
+            results = await asyncio.gather(*scrape_tasks, return_exceptions=True)
+            for result in results:
+                if isinstance(result, Exception):
+                    print(f"[BrowserFallback] {store_name} product task error: {result}")
+                elif result:
+                    saved_count += 1
             print(f"[BrowserFallback] {store_name}: saved {saved_count} JSON so far")
 
         return saved_count
     finally:
-        await browser.stop()
+        try:
+            await browser.stop()
+        except Exception as exc:
+            print(f"[BrowserFallback] {store_name} browser stop warning: {exc}")
 
 
 def run_browser_fallback_store(

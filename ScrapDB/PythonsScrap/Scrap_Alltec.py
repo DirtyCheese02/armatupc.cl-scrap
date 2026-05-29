@@ -109,38 +109,38 @@ def main() -> int:
         "yes",
         "on",
     }
-    running_headful = os.environ.get("SCRAP_HEADLESS", "1").strip().lower() in {
-        "0",
-        "false",
-        "no",
-        "off",
-    }
 
-    if force_browser or running_headful:
+    if force_browser:
         saved_count = 0
         print("Alltec requests path skipped; browser fallback will be used.")
     else:
-        output_path = clean_output_dir(output_dir)
-        saved_count = scrape_html_listing_categories(
-            session=make_session(BASE_URL),
-            store_name="Alltec",
-            base_url=BASE_URL,
-            category_url_map=CATEGORY_URL_MAP,
-            output_path=output_path,
-            output_prefix="ALT",
-            product_link_selectors=(
-                "#center_column ul.product_list a.product-name",
-                "#center_column .product-container a.product-name",
-            ),
-            pagination_selectors=("#pagination a", "ul.pagination a", ".pagination a"),
-            page_url_builder=lambda url, page: build_query_page_url(url, page, "p"),
-            parse_product=parse_alltec_product,
-            product_url_pattern=r"/[^/]+/\d+-",
-        )
-        print(f"Alltec requests path saved {saved_count} JSON files.")
+        try:
+            output_path = clean_output_dir(output_dir)
+            saved_count = scrape_html_listing_categories(
+                session=make_session(BASE_URL),
+                store_name="Alltec",
+                base_url=BASE_URL,
+                category_url_map=CATEGORY_URL_MAP,
+                output_path=output_path,
+                output_prefix="ALT",
+                product_link_selectors=(
+                    "#center_column ul.product_list a.product-name",
+                    "#center_column .product-container a.product-name",
+                ),
+                pagination_selectors=("#pagination a", "ul.pagination a", ".pagination a"),
+                page_url_builder=lambda url, page: build_query_page_url(url, page, "p"),
+                parse_product=parse_alltec_product,
+                product_url_pattern=r"/[^/]+/\d+-",
+            )
+            print(f"Alltec requests path saved {saved_count} JSON files.")
+        except Exception as exc:
+            saved_count = 0
+            print(f"Alltec requests path failed, browser fallback will be used: {exc}")
 
     if browser_fallback_enabled(saved_count):
         print("Alltec starting browser fallback.")
+        os.environ.setdefault("BROWSER_FALLBACK_COLLECTOR_CONCURRENCY", "1")
+        os.environ.setdefault("BROWSER_FALLBACK_SCRAPER_CONCURRENCY", "1")
         saved_count = run_browser_fallback_store(
             store_name="Alltec",
             category_url_map=CATEGORY_URL_MAP,
