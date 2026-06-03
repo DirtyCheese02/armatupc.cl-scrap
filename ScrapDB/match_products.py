@@ -2,6 +2,7 @@ import os
 import json
 import re
 import requests
+import time
 import uuid as uuid_lib
 from io import BytesIO
 from datetime import datetime
@@ -22,6 +23,18 @@ SCRAP_OUTPUT_DIR = BASE_DIR / "Outputs"
 LOG_FILE = BASE_DIR / "unmatched_log.txt"
 MAX_DB_INTEGER = 2_147_483_647
 MAX_REASONABLE_CLP_PRICE = 100_000_000
+DB_RETRY_ATTEMPTS = 4
+DB_RETRY_BASE_DELAY_SECONDS = 2
+TRANSIENT_DB_ERROR_MARKERS = (
+    "server disconnected",
+    "remote protocol error",
+    "connection reset",
+    "connection aborted",
+    "temporarily unavailable",
+    "timeout",
+    "timed out",
+    "max retries exceeded",
+)
 
 # Mapeo de categorías a tablas
 CATEGORY_TO_TABLE = {
@@ -133,12 +146,34 @@ def parse_price_to_int(raw_price):
 
     return min(candidates) if candidates else None
 
+def is_transient_db_error(error):
+    message = str(error).lower()
+    return any(marker in message for marker in TRANSIENT_DB_ERROR_MARKERS)
+
+def execute_db_request(label, request_factory, attempts=DB_RETRY_ATTEMPTS):
+    for attempt in range(1, attempts + 1):
+        try:
+            return request_factory().execute()
+        except Exception as error:
+            if attempt >= attempts or not is_transient_db_error(error):
+                raise
+
+            delay = DB_RETRY_BASE_DELAY_SECONDS * attempt
+            print(f"   ⚠️  DB retry {attempt}/{attempts} en {label}: {error}. Reintentando en {delay}s...")
+            time.sleep(delay)
+
 def get_or_create_store(store_name):
-    res = supabase.table("Stores").select("Id").eq("Name", store_name).execute()
+    res = execute_db_request(
+        f"Stores select {store_name}",
+        lambda: supabase.table("Stores").select("Id").eq("Name", store_name),
+    )
     if res.data:
         return res.data[0]['Id']
     else:
-        res = supabase.table("Stores").insert({"Name": store_name}).execute()
+        res = execute_db_request(
+            f"Stores insert {store_name}",
+            lambda: supabase.table("Stores").insert({"Name": store_name}),
+        )
         return res.data[0]['Id']
 
 def find_spec_id(tables, part_number):
@@ -150,14 +185,18 @@ def find_spec_id(tables, part_number):
     for table_name in target_tables:
         for candidate in candidates:
             try:
-                res = supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name)\
-                    .select("Id")\
-                    .ilike("MetaPartNumber", f"%{candidate}%")\
-                    .limit(1)\
-                    .execute()
+                res = execute_db_request(
+                    f"{table_name} lookup {candidate}",
+                    lambda table_name=table_name, candidate=candidate: supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name)
+                        .select("Id")
+                        .ilike("MetaPartNumber", f"%{candidate}%")
+                        .limit(1),
+                )
                 if res.data:
                     return res.data[0]['Id'], table_name
             except Exception as e:
+                if is_transient_db_error(e):
+                    raise
                 continue
     return None, None
 
@@ -224,11 +263,13 @@ def process_product_image(spec_id, table_name, image_url):
     """
     try:
         # Verificar si ya tiene imagen
-        existing = supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name)\
-            .select("ImageUrl")\
-            .eq("Id", spec_id)\
-            .limit(1)\
-            .execute()
+        existing = execute_db_request(
+            f"{table_name} image lookup {spec_id}",
+            lambda: supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name)
+                .select("ImageUrl")
+                .eq("Id", spec_id)
+                .limit(1),
+        )
         
         if not existing.data:
             return False
@@ -254,9 +295,12 @@ def process_product_image(spec_id, table_name, image_url):
             return False
         
         # Actualizar ImageUrl en la tabla de especificaciones
-        supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name).update({
-            "ImageUrl": public_url
-        }).eq("Id", spec_id).execute()
+        execute_db_request(
+            f"{table_name} image update {spec_id}",
+            lambda: supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name).update({
+                "ImageUrl": public_url
+            }).eq("Id", spec_id),
+        )
         
         print(f"   ✅ Imagen procesada y subida para {spec_id}")
         return True
@@ -374,25 +418,31 @@ def process_daily_scraps():
             found_ids_today.add(spec_id)
             
             # 1. Upsert ProductPricing (Estado Actual)
-            supabase.table("ProductPricing").upsert({
-                "SpecId": spec_id,
-                "SpecTableName": data["table"],
-                "StoreId": store_id,
-                "Price": data["price_int"],
-                "StockStatus": True,
-                "Url": data["url"],
-                "LastUpdated": datetime.now().isoformat()
-            }, on_conflict="SpecId, SpecTableName, StoreId").execute()
+            execute_db_request(
+                f"ProductPricing upsert {store_name} {spec_id}",
+                lambda spec_id=spec_id, data=data: supabase.table("ProductPricing").upsert({
+                    "SpecId": spec_id,
+                    "SpecTableName": data["table"],
+                    "StoreId": store_id,
+                    "Price": data["price_int"],
+                    "StockStatus": True,
+                    "Url": data["url"],
+                    "LastUpdated": datetime.now().isoformat()
+                }, on_conflict="SpecId, SpecTableName, StoreId"),
+            )
             
             # 2. Insert PriceHistory (Nueva entrada siempre)
             # Como ya deduplicamos, esto solo insertará 1 vez por producto por ejecución.
-            supabase.table("PriceHistory").insert({
-                "SpecId": spec_id,
-                "SpecTableName": data["table"],
-                "StoreId": store_id,
-                "Price": data["price_int"],
-                "RecordedAt": datetime.now().isoformat()
-            }).execute()
+            execute_db_request(
+                f"PriceHistory insert {store_name} {spec_id}",
+                lambda spec_id=spec_id, data=data: supabase.table("PriceHistory").insert({
+                    "SpecId": spec_id,
+                    "SpecTableName": data["table"],
+                    "StoreId": store_id,
+                    "Price": data["price_int"],
+                    "RecordedAt": datetime.now().isoformat()
+                }),
+            )
             
             # 3. Procesar imagen del producto si existe y no es N/A
             if "image_url" in data and data["image_url"] != "N/A":
@@ -400,11 +450,13 @@ def process_daily_scraps():
 
         # --- FASE C: Stock Agotado ---
         print("   🔄 Verificando stock agotado...")
-        active_products = supabase.table("ProductPricing")\
-            .select("SpecId")\
-            .eq("StoreId", store_id)\
-            .eq("StockStatus", True)\
-            .execute()
+        active_products = execute_db_request(
+            f"ProductPricing active select {store_name}",
+            lambda: supabase.table("ProductPricing")
+                .select("SpecId")
+                .eq("StoreId", store_id)
+                .eq("StockStatus", True),
+        )
             
         active_ids_db = {row['SpecId'] for row in active_products.data}
         missing_ids = active_ids_db - found_ids_today
@@ -412,12 +464,18 @@ def process_daily_scraps():
         if missing_ids:
             print(f"   📉 {len(missing_ids)} productos marcados como NO DISPONIBLES.")
             for missing in missing_ids:
-                supabase.table("ProductPricing").update({
-                    "StockStatus": False,
-                    "LastUpdated": datetime.now().isoformat()
-                }).eq("SpecId", missing).eq("StoreId", store_id).execute()
+                execute_db_request(
+                    f"ProductPricing stock update {store_name} {missing}",
+                    lambda missing=missing: supabase.table("ProductPricing").update({
+                        "StockStatus": False,
+                        "LastUpdated": datetime.now().isoformat()
+                    }).eq("SpecId", missing).eq("StoreId", store_id),
+                )
 
-        supabase.table("Stores").update({"LastScrapedAt": datetime.now().isoformat()}).eq("Id", store_id).execute()
+        execute_db_request(
+            f"Stores LastScrapedAt update {store_name}",
+            lambda: supabase.table("Stores").update({"LastScrapedAt": datetime.now().isoformat()}).eq("Id", store_id),
+        )
 
     print(f"\n🏁 Listo. Logs en '{LOG_FILE}'.")
 

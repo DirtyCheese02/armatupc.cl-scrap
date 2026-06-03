@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import json
 import os
+import re
 from typing import Any
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
@@ -89,6 +90,18 @@ def _build_page_url(url: str, page_number: int) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), parts.fragment))
 
 
+def _clean_text(value: Any) -> str:
+    return re.sub(r"\s+", " ", str(value or "")).strip()
+
+
+def _first_part_number(*values: Any) -> str | None:
+    for value in values:
+        part_number = clean_part_number(value)
+        if part_number:
+            return part_number
+    return None
+
+
 async def _wait_for_category(page: Any, timeout_seconds: int) -> bool:
     deadline = asyncio.get_running_loop().time() + timeout_seconds
     while asyncio.get_running_loop().time() < deadline:
@@ -153,6 +166,89 @@ return JSON.stringify(products);
     ) or []
 
 
+async def _wait_for_product(page: Any, timeout_seconds: int) -> bool:
+    deadline = asyncio.get_running_loop().time() + timeout_seconds
+    while asyncio.get_running_loop().time() < deadline:
+        state = await _json_from_page(
+            page,
+            r"""
+return JSON.stringify({
+  title: document.title || "",
+  body: (document.body && document.body.innerText || "").slice(0, 800),
+  hasName: Boolean(document.querySelector("h1, [itemprop='name'], .product-title")),
+  hasSku: Boolean(
+    document.querySelector(".product-sku, [itemprop='sku'], [data-sku]") ||
+    /\b(SKU|MPN|Modelo|Referencia|C[oó]digo)\s*:/i.test(document.body?.innerText || "")
+  ),
+  hasPrice: Boolean(document.querySelector(".bootic-price, #price-on-img, [itemprop='price']"))
+});
+""",
+        )
+        body = f"{state.get('title', '')} {state.get('body', '')}".lower()
+        if "just a moment" in body or "verificación de seguridad" in body:
+            return False
+        if state.get("hasName") and (state.get("hasSku") or state.get("hasPrice")):
+            return True
+        if "página no encontrada" in body or "pagina no encontrada" in body:
+            return True
+        await asyncio.sleep(1)
+    return False
+
+
+async def _product_detail(page: Any) -> dict[str, str]:
+    return await _json_from_page(
+        page,
+        r"""
+const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
+const rawText = document.body?.innerText || "";
+const text = clean(rawText);
+const firstMatch = (...patterns) => {
+  for (const pattern of patterns) {
+    const match = rawText.match(pattern) || text.match(pattern);
+    if (match?.[1]) return clean(match[1]);
+  }
+  return "";
+};
+const scripts = [...document.scripts].map((script) => script.textContent || "").join("\n");
+const scriptSku =
+  scripts.match(/"sku"\s*:\s*"([^"]+)"/i)?.[1] ||
+  scripts.match(/sku\s*:\s*["']([^"']+)["']/i)?.[1] ||
+  scripts.match(/"mpn"\s*:\s*"([^"]+)"/i)?.[1] ||
+  "";
+const image =
+  document.querySelector(".product-gallery img[src], .product-image img[src], [itemprop='image'][src]")?.src ||
+  document.querySelector("meta[property='og:image']")?.content ||
+  "";
+return JSON.stringify({
+  name: clean(
+    document.querySelector("h1[itemprop='name']")?.textContent ||
+    document.querySelector("[itemprop='name']")?.textContent ||
+    document.querySelector("h1")?.textContent
+  ),
+  part_number: clean(
+    document.querySelector(".product-sku")?.textContent ||
+    document.querySelector("[itemprop='sku']")?.textContent ||
+    document.querySelector("[data-sku]")?.getAttribute("data-sku") ||
+    firstMatch(
+      /\bSKU\s*:?\s*([^|\n\r]+)/i,
+      /\bMPN\s*:?\s*([^|\n\r]+)/i,
+      /\bReferencia\s*:?\s*([^|\n\r]+)/i,
+      /\bC[oó]digo(?:\s+(?:de|del)\s+producto)?\s*:?\s*([^|\n\r]+)/i,
+      /\bModelo\s*:?\s*([^|\n\r]+)/i
+    ) ||
+    scriptSku
+  ),
+  price: clean(
+    document.querySelector(".bootic-price")?.textContent ||
+    document.querySelector("#price-on-img")?.textContent ||
+    document.querySelector("[itemprop='price']")?.textContent
+  ),
+  image_url: image
+});
+""",
+    ) or {}
+
+
 async def _scrape_ctman_async() -> int:
     output_dir = "ScrapDB/Outputs/CTMan"
     output_path = clean_output_dir(output_dir)
@@ -163,6 +259,7 @@ async def _scrape_ctman_async() -> int:
     try:
         page = await browser.new_tab()
         ready_timeout = _env_int("CTMAN_PAGE_READY_TIMEOUT", 30)
+        product_ready_timeout = _env_int("CTMAN_PRODUCT_READY_TIMEOUT", 12)
         max_products = int(os.environ.get("BROWSER_FALLBACK_MAX_PRODUCTS", "0") or "0")
         saved_count = 0
         seen_urls: set[str] = set()
@@ -196,19 +293,30 @@ async def _scrape_ctman_async() -> int:
                         if not url or url in seen_urls:
                             continue
 
-                        part_number = clean_part_number(product.get("part_number"))
+                        detail: dict[str, str] = {}
+                        part_number = _first_part_number(product.get("part_number"))
                         if not part_number:
+                            await page.go_to(url)
+                            if await _wait_for_product(page, product_ready_timeout):
+                                detail = await _product_detail(page)
+                                part_number = _first_part_number(detail.get("part_number"))
+                            else:
+                                print(f"CTMan {category_name}: timed out waiting for product {url}")
+
+                        if not part_number:
+                            print(f"CTMan skipped without SKU: {url}")
                             continue
 
+                        name = _clean_text(detail.get("name") or product.get("name"))
                         data = {
                             "store_name": "CTMan",
-                            "scraped_name": product["name"],
+                            "scraped_name": name,
                             "scraped_brand": "N/A",
                             "type": category_name,
                             "part #": part_number,
-                            "price": normalize_price(product.get("price")),
+                            "price": normalize_price(detail.get("price") or product.get("price")),
                             "url": url,
-                            "image_url": product.get("image_url") or "N/A",
+                            "image_url": detail.get("image_url") or product.get("image_url") or "N/A",
                         }
                         write_product_json(output_path, "CTM", url, data)
                         seen_urls.add(url)

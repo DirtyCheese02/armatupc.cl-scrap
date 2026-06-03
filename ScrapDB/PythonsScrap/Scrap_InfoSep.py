@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+import asyncio
 import html
+import json
 import os
 import re
 import time
@@ -8,6 +10,7 @@ from typing import Any
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
+from pydoll.browser import Chrome
 
 from api_scraper_utils import (
     absolute_url,
@@ -28,7 +31,7 @@ from api_scraper_utils import (
     selected_text,
     write_product_json,
 )
-from browser_fallback_utils import browser_fallback_enabled, run_browser_fallback_store
+from browser_fallback_utils import _env_int, _make_browser_options, browser_fallback_enabled
 
 
 BASE_URL = "https://infosep.cl"
@@ -372,6 +375,320 @@ def scrape_infosep_requests(output_dir: str) -> int:
     return saved_count
 
 
+def _pydoll_value(result: dict[str, Any] | None) -> str:
+    return (((result or {}).get("result") or {}).get("result") or {}).get("value") or ""
+
+
+async def _json_from_page(page: Any, script: str) -> Any:
+    raw_value = _pydoll_value(await page.execute_script(script))
+    return json.loads(raw_value or "null")
+
+
+async def _wait_for_infosep_category(page: Any, timeout_seconds: int) -> dict[str, Any]:
+    deadline = asyncio.get_running_loop().time() + timeout_seconds
+    last_state: dict[str, Any] = {}
+    while asyncio.get_running_loop().time() < deadline:
+        last_state = await _json_from_page(
+            page,
+            r"""
+const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
+return JSON.stringify({
+  title: document.title || "",
+  body: clean(document.body?.innerText || "").slice(0, 500),
+  productCount: document.querySelectorAll(
+    ".product-grid-item, .wd-product, li.product, .products .product, a.product-image-link[href*='/producto/'], h3.wd-entities-title a[href*='/producto/']"
+  ).length,
+  paginationCount: document.querySelectorAll("nav.woocommerce-pagination a, .page-numbers a, a.page-numbers").length
+});
+""",
+        ) or {}
+        body = f"{last_state.get('title', '')} {last_state.get('body', '')}".lower()
+        if last_state.get("productCount"):
+            return last_state
+        if "access denied" in body or "forbidden" in body or "403" in body:
+            return last_state
+        await asyncio.sleep(1)
+    return last_state
+
+
+async def _infosep_page_count(page: Any) -> int:
+    value = await _json_from_page(
+        page,
+        r"""
+const numbers = new Set([1]);
+for (const element of document.querySelectorAll("nav.woocommerce-pagination a, .page-numbers a, a.page-numbers, link[rel='next']")) {
+  const text = (element.textContent || "").trim();
+  if (/^\d+$/.test(text)) numbers.add(Number(text));
+  const href = element.href || element.getAttribute("href") || "";
+  for (const match of href.matchAll(/\/page\/(\d+)\/?/g)) numbers.add(Number(match[1]));
+}
+return JSON.stringify(Math.max(...numbers));
+""",
+    )
+    try:
+        return max(1, int(value or 1))
+    except (TypeError, ValueError):
+        return 1
+
+
+async def _infosep_listing_links(page: Any) -> list[str]:
+    return await _json_from_page(
+        page,
+        r"""
+const urls = new Set();
+const selectors = [
+  "a.product-image-link[href*='/producto/']",
+  "h3.wd-entities-title a[href*='/producto/']",
+  ".product-grid-item a[href*='/producto/']",
+  ".wd-product a[href*='/producto/']",
+  "li.product a[href*='/producto/']",
+  "a[href*='/producto/']"
+];
+for (const selector of selectors) {
+  for (const link of document.querySelectorAll(selector)) {
+    const href = link.href || "";
+    if (!href.includes("/producto/")) continue;
+    if (link.classList.contains("open-quick-view")) continue;
+    if (href.includes("#")) continue;
+    urls.add(href.split("?")[0]);
+  }
+}
+return JSON.stringify([...urls]);
+""",
+    ) or []
+
+
+async def _wait_for_infosep_product(page: Any, timeout_seconds: int) -> dict[str, Any]:
+    deadline = asyncio.get_running_loop().time() + timeout_seconds
+    last_state: dict[str, Any] = {}
+    while asyncio.get_running_loop().time() < deadline:
+        last_state = await _json_from_page(
+            page,
+            r"""
+const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
+return JSON.stringify({
+  title: document.title || "",
+  body: clean(document.body?.innerText || "").slice(0, 600),
+  hasName: Boolean(document.querySelector("h1.product_title, h1.entry-title, h1")),
+  hasSku: Boolean(document.querySelector(".sku_wrapper .sku, span.sku, .product_meta .sku")),
+  hasPrice: Boolean(document.querySelector("p.price, .summary .price, .price"))
+});
+""",
+        ) or {}
+        body = f"{last_state.get('title', '')} {last_state.get('body', '')}".lower()
+        if last_state.get("hasName") and (last_state.get("hasSku") or last_state.get("hasPrice")):
+            return last_state
+        if "access denied" in body or "forbidden" in body or "403" in body:
+            return last_state
+        await asyncio.sleep(1)
+    return last_state
+
+
+async def _infosep_product_detail(page: Any) -> dict[str, str]:
+    return await _json_from_page(
+        page,
+        r"""
+const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
+const text = document.body?.innerText || "";
+const firstMatch = (...patterns) => {
+  for (const pattern of patterns) {
+    const match = text.match(pattern);
+    if (match?.[1]) return clean(match[1]);
+  }
+  return "";
+};
+const image =
+  document.querySelector(".woocommerce-product-gallery__image img[src]")?.src ||
+  document.querySelector("img.wp-post-image[src]")?.src ||
+  document.querySelector(".product-image-summary img[src]")?.src ||
+  document.querySelector("meta[property='og:image']")?.content ||
+  "";
+return JSON.stringify({
+  name: clean(
+    document.querySelector("h1.product_title")?.textContent ||
+    document.querySelector("h1.entry-title")?.textContent ||
+    document.querySelector("h1")?.textContent
+  ),
+  part_number: clean(
+    document.querySelector(".sku_wrapper .sku")?.textContent ||
+    document.querySelector("span.sku")?.textContent ||
+    document.querySelector(".product_meta .sku")?.textContent ||
+    firstMatch(/\bSKU\s*:?\s*([^\n\r|]+)/i, /\bMPN\s*:?\s*([^\n\r|]+)/i, /\bModelo\s*:?\s*([^\n\r|]+)/i)
+  ),
+  price: clean(
+    document.querySelector("p.price ins .woocommerce-Price-amount")?.textContent ||
+    document.querySelector("p.price ins")?.textContent ||
+    document.querySelector(".summary .price ins .woocommerce-Price-amount")?.textContent ||
+    document.querySelector(".summary .price ins")?.textContent ||
+    document.querySelector("p.price .woocommerce-Price-amount")?.textContent ||
+    document.querySelector("p.price")?.textContent ||
+    document.querySelector(".summary .price")?.textContent ||
+    document.querySelector(".price")?.textContent
+  ),
+  image_url: image
+});
+""",
+    ) or {}
+
+
+async def _scrape_infosep_product_browser(
+    sem: asyncio.Semaphore,
+    browser: Chrome,
+    *,
+    category_name: str,
+    url: str,
+    output_path: str,
+    ready_timeout: int,
+) -> bool:
+    async with sem:
+        page = None
+        try:
+            page = await browser.new_tab()
+            await page.go_to(url)
+            state = await _wait_for_infosep_product(page, ready_timeout)
+            if not state.get("hasName"):
+                print(
+                    f"InfoSep browser product not ready: {url} "
+                    f"title={state.get('title', '')!r} body={state.get('body', '')[:160]!r}"
+                )
+                return False
+
+            detail = await _infosep_product_detail(page)
+            name = html_to_text(detail.get("name"))
+            part_number = clean_infosep_part_number(detail.get("part_number"))
+            if not name or not part_number:
+                print(f"InfoSep browser skipped without name/SKU: {url}")
+                return False
+
+            data = {
+                "store_name": "InfoSep",
+                "scraped_name": name,
+                "scraped_brand": "N/A",
+                "type": category_name,
+                "part #": part_number,
+                "price": normalize_infosep_price(detail.get("price")),
+                "url": url,
+                "image_url": absolute_url(BASE_URL, detail.get("image_url")),
+            }
+            write_product_json(output_path, "IS", url, data)
+            return True
+        except Exception as exc:
+            print(f"InfoSep browser product error {url}: {exc}")
+            return False
+        finally:
+            if page is not None:
+                try:
+                    await page.close()
+                except Exception as exc:
+                    print(f"InfoSep browser product close warning {url}: {exc}")
+
+
+async def _scrape_infosep_browser_async(output_dir: str) -> int:
+    output_path = clean_output_dir(output_dir)
+    options = _make_browser_options()
+    browser = Chrome(options=options)
+    await browser.start()
+    page = None
+    try:
+        page = await browser.new_tab()
+        ready_timeout = _env_int("INFOSEP_BROWSER_READY_TIMEOUT", 25)
+        product_timeout = _env_int("INFOSEP_BROWSER_PRODUCT_TIMEOUT", 20)
+        scraper_concurrency = _env_int("BROWSER_FALLBACK_SCRAPER_CONCURRENCY", 2)
+        max_products = configured_max_products() or int(os.environ.get("BROWSER_FALLBACK_MAX_PRODUCTS", "0") or "0")
+        links: list[tuple[str, str]] = []
+        seen_urls: set[str] = set()
+
+        for category_name, raw_urls in CATEGORY_URL_MAP.items():
+            urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
+            for category_url in urls:
+                await page.go_to(category_url)
+                state = await _wait_for_infosep_category(page, ready_timeout)
+                total_pages = await _infosep_page_count(page) if state.get("productCount") else 1
+                print(
+                    f"InfoSep browser {category_name}: {total_pages} page(s) from {category_url} "
+                    f"products_seen={state.get('productCount', 0)} title={state.get('title', '')!r}"
+                )
+                if not state.get("productCount"):
+                    print(f"InfoSep browser category body sample: {state.get('body', '')[:180]!r}")
+                    continue
+
+                for page_number in range(1, total_pages + 1):
+                    if page_number > 1:
+                        await page.go_to(build_woocommerce_page_url(category_url, page_number))
+                        state = await _wait_for_infosep_category(page, ready_timeout)
+                        if not state.get("productCount"):
+                            print(f"InfoSep browser {category_name} page {page_number}: no products after wait")
+                            continue
+
+                    page_links = await _infosep_listing_links(page)
+                    new_count = 0
+                    for url in page_links:
+                        if url in seen_urls:
+                            continue
+                        seen_urls.add(url)
+                        links.append((category_name, url))
+                        new_count += 1
+                    print(
+                        f"InfoSep browser {category_name} page {page_number}/{total_pages}: "
+                        f"{new_count} new links"
+                    )
+
+                    if max_products and len(links) >= max_products:
+                        links = links[:max_products]
+                        print(f"InfoSep browser reached max products={max_products}; stopping collection.")
+                        break
+                if max_products and len(links) >= max_products:
+                    break
+            if max_products and len(links) >= max_products:
+                break
+
+        print(f"InfoSep browser collected {len(links)} product links")
+        if not links:
+            return 0
+
+        sem = asyncio.Semaphore(scraper_concurrency)
+        saved_count = 0
+        chunk_size = 40
+        for index in range(0, len(links), chunk_size):
+            chunk = links[index : index + chunk_size]
+            results = await asyncio.gather(
+                *(
+                    _scrape_infosep_product_browser(
+                        sem,
+                        browser,
+                        category_name=category_name,
+                        url=url,
+                        output_path=str(output_path),
+                        ready_timeout=product_timeout,
+                    )
+                    for category_name, url in chunk
+                ),
+                return_exceptions=True,
+            )
+            for result in results:
+                if isinstance(result, Exception):
+                    print(f"InfoSep browser product task error: {result}")
+                elif result:
+                    saved_count += 1
+            print(f"InfoSep browser saved {saved_count} JSON so far")
+
+        return saved_count
+    finally:
+        if page is not None:
+            try:
+                await page.close()
+            except Exception as exc:
+                print(f"InfoSep browser collector close warning: {exc}")
+        try:
+            await browser.stop()
+        except Exception as exc:
+            print(f"InfoSep browser stop warning: {exc}")
+
+
+def scrape_infosep_browser(output_dir: str) -> int:
+    return asyncio.run(_scrape_infosep_browser_async(output_dir))
+
+
 def main() -> int:
     output_dir = "ScrapDB/Outputs/InfoSep"
     force_browser = os.environ.get("SCRAPER_FORCE_BROWSER_FALLBACK", "").strip().lower() in {
@@ -402,68 +719,7 @@ def main() -> int:
 
     if browser_fallback_enabled(saved_count):
         print("InfoSep starting browser fallback.")
-        saved_count = run_browser_fallback_store(
-            store_name="InfoSep",
-            category_url_map=CATEGORY_URL_MAP,
-            output_dir=output_dir,
-            output_prefix="IS",
-            listing_config={
-                "link_selector": (
-                    "//a[contains(@href,'/producto/') and "
-                    "(contains(concat(' ', normalize-space(@class), ' '), ' product-image-link ') or "
-                    "ancestor::h3[contains(concat(' ', normalize-space(@class), ' '), ' wd-entities-title ')])]"
-                ),
-                "pagination_selector": (
-                    "//nav[contains(@class,'woocommerce-pagination')]//a|"
-                    "//ul[contains(@class,'page-numbers')]//a|"
-                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' page-numbers ')]//a"
-                ),
-                "page_url_builder": build_woocommerce_page_url,
-                "ready_selectors": (
-                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' products ')]"
-                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' product ')]",
-                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' product-grid-item ')]",
-                    "//a[contains(@href,'/producto/') and contains(concat(' ', normalize-space(@class), ' '), ' product-image-link ')]",
-                ),
-            },
-            product_config={
-                "ready_selectors": (
-                    "//h1[contains(@class,'product_title')]",
-                    "//h1[contains(@class,'entry-title')]",
-                    "//span[contains(concat(' ', normalize-space(@class), ' '), ' sku ')]",
-                ),
-                "name_selectors": (
-                    "//h1[contains(@class,'product_title')]",
-                    "//h1[contains(@class,'entry-title')]",
-                    "//h1",
-                ),
-                "part_selectors": (
-                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' sku_wrapper ')]"
-                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' sku ')]",
-                    "//span[contains(concat(' ', normalize-space(@class), ' '), ' sku ')]",
-                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' product_meta ')]"
-                    "//*[contains(concat(' ', normalize-space(@class), ' '), ' sku ')]",
-                ),
-                "price_selectors": (
-                    "//p[contains(@class,'price')]//ins//*[contains(@class,'woocommerce-Price-amount')]",
-                    "//p[contains(@class,'price')]//ins",
-                    "//*[contains(@class,'summary')]//*[contains(@class,'price')]//ins//*[contains(@class,'woocommerce-Price-amount')]",
-                    "//*[contains(@class,'summary')]//*[contains(@class,'price')]//ins",
-                    "//p[contains(@class,'price')]//*[contains(@class,'woocommerce-Price-amount')]",
-                    "//p[contains(@class,'price')]",
-                    "//*[contains(@class,'summary')]//*[contains(@class,'price')]",
-                    "//*[contains(@class,'price')]",
-                ),
-                "image_selectors": (
-                    "//*[contains(@class,'woocommerce-product-gallery__image')]//img",
-                    "//img[contains(@class,'wp-post-image')]",
-                    "//*[contains(@class,'product-image-summary')]//img",
-                ),
-                "brand_selectors": (),
-                "clean_part_number": clean_infosep_part_number,
-                "clean_price": normalize_infosep_price,
-            },
-        )
+        saved_count = scrape_infosep_browser(output_dir)
         print(f"InfoSep browser fallback saved {saved_count} JSON files.")
 
     print(f"InfoSep scraping finished. Saved {saved_count} JSON files.")
