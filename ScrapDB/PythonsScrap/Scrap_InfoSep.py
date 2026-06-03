@@ -592,8 +592,16 @@ async def _scrape_infosep_browser_async(output_dir: str) -> int:
     try:
         page = await browser.new_tab()
         ready_timeout = _env_int("INFOSEP_BROWSER_READY_TIMEOUT", 25)
-        product_timeout = _env_int("INFOSEP_BROWSER_PRODUCT_TIMEOUT", 20)
-        scraper_concurrency = _env_int("BROWSER_FALLBACK_SCRAPER_CONCURRENCY", 2)
+        product_timeout = _env_int("INFOSEP_BROWSER_PRODUCT_TIMEOUT", 15)
+        scraper_concurrency = _env_int("INFOSEP_BROWSER_SCRAPER_CONCURRENCY", 4)
+        chunk_size = _env_int("INFOSEP_BROWSER_CHUNK_SIZE", max(40, scraper_concurrency * 10))
+        print(
+            "InfoSep browser settings: "
+            f"category_timeout={ready_timeout}s "
+            f"product_timeout={product_timeout}s "
+            f"scraper_concurrency={scraper_concurrency} "
+            f"chunk_size={chunk_size}"
+        )
         max_products = configured_max_products() or int(os.environ.get("BROWSER_FALLBACK_MAX_PRODUCTS", "0") or "0")
         links: list[tuple[str, str]] = []
         seen_urls: set[str] = set()
@@ -648,7 +656,6 @@ async def _scrape_infosep_browser_async(output_dir: str) -> int:
 
         sem = asyncio.Semaphore(scraper_concurrency)
         saved_count = 0
-        chunk_size = 40
         for index in range(0, len(links), chunk_size):
             chunk = links[index : index + chunk_size]
             results = await asyncio.gather(
