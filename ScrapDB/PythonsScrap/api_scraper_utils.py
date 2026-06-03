@@ -733,6 +733,7 @@ def run_prestashop_xhr_store(
     output_dir: str,
     output_prefix: str,
     html_fallback_config: dict[str, Any] | None = None,
+    part_number_picker: Callable[[dict[str, Any]], str | None] | None = None,
 ) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(base_url)
@@ -789,10 +790,14 @@ def run_prestashop_xhr_store(
                                 continue
                             seen.add(identity)
 
-                            part_number = pick_part_number(
-                                [product.get("reference")],
-                                [product.get("description_short"), name],
-                            ) or "N/A"
+                            if part_number_picker:
+                                part_number = part_number_picker(product)
+                            else:
+                                part_number = pick_part_number(
+                                    [product.get("reference")],
+                                    [product.get("description_short"), name],
+                                )
+                            part_number = part_number or "N/A"
                             price_value = product.get("price_amount")
                             if price_value is None:
                                 price_value = product.get("price")

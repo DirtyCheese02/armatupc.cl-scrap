@@ -1,6 +1,9 @@
 from __future__ import annotations
 
-from api_scraper_utils import exit_code_from_count, run_prestashop_xhr_store
+import re
+from typing import Any
+
+from api_scraper_utils import html_to_text, pick_part_number, exit_code_from_count, run_prestashop_xhr_store
 
 
 CATEGORY_URL_MAP = {
@@ -37,6 +40,46 @@ CATEGORY_URL_MAP = {
     "Mouse_Keyboard": "https://n1g.cl/Home/29-mouse-teclados",
 }
 
+NICEONE_GENERIC_PART_RE = re.compile(
+    r"^(?:"
+    r"\d+(?:X\d+)*(?:MM|CM|ML|GB|TB|W|HZ|MHZ|GHZ|BIT|MAH|MB/S)?|"
+    r"LGA\d+(?:/\d+)?|"
+    r"V\d+(?:\.\d+)?"
+    r")$",
+    re.IGNORECASE,
+)
+NICEONE_GENERIC_PART_VALUES = {
+    "A3-MATX",
+    "ATX",
+    "E-ATX",
+    "ITX",
+    "M-ATX",
+    "MATX",
+    "MINI-ITX",
+    "CH260",
+}
+
+def is_generic_niceone_part_number(part_number: str | None) -> bool:
+    if not part_number:
+        return True
+    compact = re.sub(r"\s+", "", part_number).upper()
+    return compact in NICEONE_GENERIC_PART_VALUES or bool(NICEONE_GENERIC_PART_RE.fullmatch(compact))
+
+
+def pick_niceone_part_number(product: dict[str, Any]) -> str | None:
+    reference = html_to_text(product.get("reference"))
+    primary_values = []
+    if reference and not re.fullmatch(r"\d{4,7}", reference):
+        primary_values.append(reference)
+
+    part_number = pick_part_number(
+        primary_values,
+        [product.get("name")],
+    )
+    if is_generic_niceone_part_number(part_number):
+        return None
+    return part_number
+
 
 def main() -> int:
     output_dir = "ScrapDB/Outputs/NiceOne"
@@ -46,6 +89,7 @@ def main() -> int:
         category_url_map=CATEGORY_URL_MAP,
         output_dir=output_dir,
         output_prefix="NO",
+        part_number_picker=pick_niceone_part_number,
     )
     return exit_code_from_count(saved_count)
 
