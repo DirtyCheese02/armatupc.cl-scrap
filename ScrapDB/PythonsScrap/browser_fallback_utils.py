@@ -117,6 +117,13 @@ async def _wait_for_any(page: Any, selectors: tuple[str, ...], timeout_seconds: 
     return False
 
 
+def _matches_text_pattern(text: str, patterns: tuple[str, ...]) -> bool:
+    normalized = re.sub(r"\s+", " ", text or "").strip()
+    if not normalized:
+        return False
+    return any(re.search(pattern, normalized, flags=re.IGNORECASE) for pattern in patterns)
+
+
 async def _page_count(page: Any, pagination_selector: str) -> int:
     try:
         elements = await page.query(pagination_selector, find_all=True)
@@ -209,6 +216,14 @@ async def _scrape_product(
             page = await browser.new_tab()
             await page.go_to(url)
             await _wait_for_any(page, tuple(product_config["ready_selectors"]), timeout_seconds=20)
+
+            unavailable_selectors = tuple(product_config.get("unavailable_selectors") or ())
+            unavailable_patterns = tuple(product_config.get("unavailable_patterns") or ())
+            if unavailable_selectors and unavailable_patterns:
+                unavailable_text = await _first_text(page, unavailable_selectors)
+                if _matches_text_pattern(unavailable_text, unavailable_patterns):
+                    print(f"[BrowserFallback] {store_name} skipped unavailable product: {url}")
+                    return False
 
             name = await _first_text(page, tuple(product_config["name_selectors"]))
             part_number = await _first_text(page, tuple(product_config["part_selectors"]))

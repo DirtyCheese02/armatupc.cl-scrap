@@ -18,6 +18,12 @@ from browser_fallback_utils import browser_fallback_enabled, run_browser_fallbac
 
 
 BASE_URL = "https://www.alltec.cl"
+UNAVAILABLE_PATTERNS = (
+    r"ya no se encuentra disponible",
+    r"no se encuentra disponible",
+    r"sin stock",
+    r"agotad[oa]",
+)
 
 CATEGORY_URL_MAP = {
     "OperatingSystem": "https://www.alltec.cl/86-sistemas-operativos",
@@ -67,7 +73,22 @@ CATEGORY_URL_MAP = {
 }
 
 
+def is_alltec_unavailable(soup) -> bool:
+    availability_text = selected_text(soup, ("#availability_value", "#availability_statut"))
+    return any(pattern in availability_text.lower() for pattern in (
+        "ya no se encuentra disponible",
+        "no se encuentra disponible",
+        "sin stock",
+        "agotado",
+        "agotada",
+    ))
+
+
 def parse_alltec_product(soup, url: str, category_name: str, base_url: str) -> dict | None:
+    if is_alltec_unavailable(soup):
+        print(f"Alltec skipped unavailable product: {url}")
+        return None
+
     name = selected_text(soup, ("h1[itemprop='name']", "h1"))
     raw_part_number = selected_text(soup, ("#product_reference span[itemprop='sku']", "#product_reference"))
     part_number = pick_part_number([raw_part_number], [name], allow_name_fallback=True)
@@ -167,6 +188,8 @@ def main() -> int:
                 "price_selectors": ("//*[@id='our_price_display']", "//*[contains(@class,'price')]"),
                 "image_selectors": ("//*[@id='bigpic']", "//*[@id='image-block']//img", "//img[@itemprop='image']"),
                 "brand_selectors": (),
+                "unavailable_selectors": ("//*[@id='availability_value']", "//*[@id='availability_statut']"),
+                "unavailable_patterns": UNAVAILABLE_PATTERNS,
                 "clean_part_number": clean_alltec_part_number,
                 "clean_price": normalize_price,
             },
