@@ -159,6 +159,13 @@ jobs:
           merge-multiple: true
           path: _downloaded_outputs
 
+      - name: Download shard logs
+        uses: actions/download-artifact@v6
+        with:
+          pattern: scrapdb-logs-*
+          merge-multiple: true
+          path: _downloaded_logs
+
       - name: Normalize downloaded outputs
         run: |
           mkdir -p ScrapDB/Outputs
@@ -190,7 +197,18 @@ jobs:
             exit 1
           fi
 
+      - name: Build retry manifest and prune failed outputs
+        id: retry-manifest
+        run: |
+          mkdir -p ScrapDB/RunLogs/retry-manifest
+          python ScrapDB/scraper_retry_manifest.py build \
+            --logs-root _downloaded_logs \
+            --outputs-root ScrapDB/Outputs \
+            --manifest ScrapDB/RunLogs/retry-manifest/retry_manifest.json \
+            --prune-failed
+
       - name: Run product matching
+        if: ${{ steps.retry-manifest.outputs.has_remaining_json == 'true' }}
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
@@ -198,6 +216,15 @@ jobs:
           set -o pipefail
           mkdir -p ScrapDB/RunLogs/match-products
           python ScrapDB/match_products.py 2>&1 | tee ScrapDB/RunLogs/match-products/match_products.log
+
+      - name: Upload retry manifest
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: scrapdb-retry-manifest-${{ github.run_id }}
+          if-no-files-found: warn
+          retention-days: 14
+          path: ScrapDB/RunLogs/retry-manifest/retry_manifest.json
 
       - name: Upload match logs
         if: always()

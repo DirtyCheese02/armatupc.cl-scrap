@@ -1,0 +1,226 @@
+name: ScrapDB Retry Failed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
+
+permissions:
+  actions: read
+  contents: read
+
+concurrency:
+  group: scrapdb-retry-failed
+  cancel-in-progress: false
+
+env:
+  REQUIRED_NON_EMPTY_SCRAPERS: "Scrap_Centrale.py,Scrap_CentralGamer.py,Scrap_ETChile.py,Scrap_NotebooksYa.py,Scrap_MyShop.py,Scrap_SandosStore.py,Scrap_MyBox.py,Scrap_NiceOne.py,Scrap_TecnoMas.py,Scrap_TruluStore.py,Scrap_DazbogStore.py,Scrap_TecnoMaster.py,Scrap_Alltec.py,Scrap_CTMan.py,Scrap_NotebookStore.py,Scrap_EYLStore.py,Scrap_InfoSep.py,Scrap_InvasionGamer.py,Scrap_CIntegral.py,Scrap_TecnoShopping.py"
+
+jobs:
+  retry-failed:
+    name: retry-failed
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Find latest daily run
+        id: daily-run
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DAILY_LOOKBACK_HOURS: "24"
+        run: |
+          runs_json="$(gh run list \
+            --workflow scrapdb-daily.yml \
+            --branch "$GITHUB_REF_NAME" \
+            --limit 30 \
+            --json databaseId,createdAt,status,conclusion)"
+
+          run_id="$(RUNS_JSON="$runs_json" python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timedelta, timezone
+
+          runs = json.loads(os.environ.get("RUNS_JSON") or "[]")
+          lookback_hours = int(os.environ.get("DAILY_LOOKBACK_HOURS", "24"))
+          cutoff = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
+
+          candidates = []
+          for run in runs:
+              if run.get("status") != "completed":
+                  continue
+              created_raw = str(run.get("createdAt") or "")
+              if not created_raw:
+                  continue
+              created = datetime.fromisoformat(created_raw.replace("Z", "+00:00"))
+              if created >= cutoff:
+                  candidates.append((created, run))
+
+          if candidates:
+              candidates.sort(key=lambda item: item[0], reverse=True)
+              print(candidates[0][1]["databaseId"])
+          PY
+          )"
+
+          if [ -z "$run_id" ]; then
+            echo "::warning::No completed ScrapDB Daily run found in the last ${DAILY_LOOKBACK_HOURS} hours for branch ${GITHUB_REF_NAME}."
+            echo "run_id=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "Using ScrapDB Daily run ${run_id}"
+          echo "run_id=${run_id}" >> "$GITHUB_OUTPUT"
+
+      - name: Stop if no daily run
+        if: ${{ steps.daily-run.outputs.run_id == '' }}
+        run: echo "No daily run found. Nothing to retry."
+
+      - name: Download daily retry manifest
+        if: ${{ steps.daily-run.outputs.run_id != '' }}
+        continue-on-error: true
+        uses: actions/download-artifact@v6
+        with:
+          name: scrapdb-retry-manifest-${{ steps.daily-run.outputs.run_id }}
+          github-token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          run-id: ${{ steps.daily-run.outputs.run_id }}
+          path: _daily_manifest
+
+      - name: Download daily shard logs
+        if: ${{ steps.daily-run.outputs.run_id != '' }}
+        continue-on-error: true
+        uses: actions/download-artifact@v6
+        with:
+          pattern: scrapdb-logs-*
+          merge-multiple: true
+          github-token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          run-id: ${{ steps.daily-run.outputs.run_id }}
+          path: _daily_logs
+
+      - name: Build or read daily retry manifest
+        if: ${{ steps.daily-run.outputs.run_id != '' }}
+        id: daily-manifest
+        run: |
+          mkdir -p _daily_manifest
+          manifest_path="_daily_manifest/retry_manifest.json"
+
+          if [ -f "$manifest_path" ]; then
+            python ScrapDB/scraper_retry_manifest.py emit-outputs --manifest "$manifest_path"
+          else
+            python ScrapDB/scraper_retry_manifest.py build \
+              --logs-root _daily_logs \
+              --outputs-root ScrapDB/Outputs \
+              --manifest "$manifest_path"
+          fi
+
+      - name: No failed scrapers
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures != 'true' }}
+        run: echo "Daily run had no failed scrapers. Nothing to retry."
+
+      - name: Setup Python
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Setup Chrome
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        id: setup-chrome
+        uses: browser-actions/setup-chrome@v2
+
+      - name: Install xvfb
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+
+      - name: Clean generated outputs
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        run: rm -rf ScrapDB/Outputs/*
+
+      - name: Retry failed scrapers
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        id: retry-scrapers
+        continue-on-error: true
+        env:
+          SCRAP_HEADLESS: "1"
+          SCRAP_USE_XVFB: "1"
+          SCRAPER_RETRY_ON_EMPTY: "1"
+          SCRAPER_RETRY_HEADFUL_ON_FAIL: "1"
+          SCRAPER_INCLUDE: ${{ steps.daily-manifest.outputs.failed_scrapers_csv }}
+          SCRAPER_HEADFUL: "Scrap_Alltec.py,Scrap_CTMan.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py,Scrap_InfoSep.py"
+          SCRAPER_REQUIRE_NON_EMPTY: ${{ env.REQUIRED_NON_EMPTY_SCRAPERS }}
+          SCRAPER_TIMEOUT_OVERRIDES: "Scrap_NiceOne.py=20"
+          SCRAPER_NO_HEADFUL_RETRY: "Scrap_NiceOne.py"
+          RUN_MATCH_PRODUCTS: "0"
+          BROWSER_FALLBACK_COLLECTOR_CONCURRENCY: "2"
+          BROWSER_FALLBACK_SCRAPER_CONCURRENCY: "2"
+          SPHINX_REQUEST_DELAY_SECONDS: "1.0"
+          SCRAP_BROWSER_START_TIMEOUT: "90"
+          CHROME_BINARY_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
+          SCRAPER_TIMEOUT_MINUTES: "90"
+          MATCH_TIMEOUT_MINUTES: "60"
+        run: python ScrapDB/run_all_scrapers.py
+
+      - name: Build retry result manifest and prune failed outputs
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        id: retry-manifest
+        run: |
+          mkdir -p ScrapDB/RunLogs/retry-manifest
+          python ScrapDB/scraper_retry_manifest.py build \
+            --logs-root ScrapDB/RunLogs \
+            --outputs-root ScrapDB/Outputs \
+            --manifest ScrapDB/RunLogs/retry-manifest/retry_manifest.json \
+            --prune-failed
+
+      - name: Run product matching for recovered stores
+        if: ${{ steps.retry-manifest.outputs.has_remaining_json == 'true' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          set -o pipefail
+          mkdir -p ScrapDB/RunLogs/match-products
+          python ScrapDB/match_products.py 2>&1 | tee ScrapDB/RunLogs/match-products/match_products.log
+
+      - name: No recovered stores
+        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' && steps.retry-manifest.outputs.has_remaining_json != 'true' }}
+        run: echo "Retry did not recover any store outputs. Skipping match_products.py."
+
+      - name: Upload retry outputs
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: scrapdb-retry-outputs-${{ github.run_id }}
+          if-no-files-found: warn
+          retention-days: 14
+          path: ScrapDB/Outputs/**
+
+      - name: Upload retry logs
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: scrapdb-retry-logs-${{ github.run_id }}
+          if-no-files-found: warn
+          retention-days: 14
+          path: |
+            ScrapDB/RunLogs/**
+            ScrapDB/unmatched_log.txt
+
+      - name: Upload retry result manifest
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: scrapdb-retry-result-manifest-${{ github.run_id }}
+          if-no-files-found: warn
+          retention-days: 14
+          path: ScrapDB/RunLogs/retry-manifest/retry_manifest.json
