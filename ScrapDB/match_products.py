@@ -5,7 +5,7 @@ import requests
 import time
 import uuid as uuid_lib
 from io import BytesIO
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from dotenv import load_dotenv
 from supabase import create_client
@@ -14,7 +14,7 @@ from PIL import Image
 # ================= CONFIGURACIÓN =================
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(dotenv_path=BASE_DIR / ".env")
-supabase = create_client(os.environ.get("SUPABASE_URL"), os.environ.get("SUPABASE_KEY"))
+supabase = None
 
 # Schemas
 SPECIFICATIONS_SCHEMA = "specifications"
@@ -23,8 +23,18 @@ SCRAP_OUTPUT_DIR = BASE_DIR / "Outputs"
 LOG_FILE = BASE_DIR / "unmatched_log.txt"
 MAX_DB_INTEGER = 2_147_483_647
 MAX_REASONABLE_CLP_PRICE = 100_000_000
+MIN_REASONABLE_PUBLISH_PRICE = int(os.environ.get("MIN_REASONABLE_PUBLISH_PRICE", "1000"))
+PRICE_ANOMALY_MAX_MULTIPLIER = float(os.environ.get("PRICE_ANOMALY_MAX_MULTIPLIER", "4"))
+PRICE_ANOMALY_MIN_MULTIPLIER = float(os.environ.get("PRICE_ANOMALY_MIN_MULTIPLIER", "0.25"))
+STOCK_MARKOUT_MIN_RAW_COUNT = int(os.environ.get("STOCK_MARKOUT_MIN_RAW_COUNT", "20"))
+STOCK_MARKOUT_MIN_MATCH_RATE = float(os.environ.get("STOCK_MARKOUT_MIN_MATCH_RATE", "0.05"))
+SCRAPER_SUMMARY_PATH = os.environ.get("SCRAPER_SUMMARY_PATH", "").strip()
+SCRAPE_RUN_ID = os.environ.get("SCRAPE_RUN_ID", "").strip() or str(uuid_lib.uuid4())
 DB_RETRY_ATTEMPTS = 4
 DB_RETRY_BASE_DELAY_SECONDS = 2
+OPTIONAL_DB_TABLES_DISABLED = set()
+PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED = True
+STORE_QUALITY_COLUMNS_ENABLED = True
 TRANSIENT_DB_ERROR_MARKERS = (
     "server disconnected",
     "remote protocol error",
@@ -34,6 +44,14 @@ TRANSIENT_DB_ERROR_MARKERS = (
     "timeout",
     "timed out",
     "max retries exceeded",
+)
+OPTIONAL_SCHEMA_ERROR_MARKERS = (
+    "does not exist",
+    "could not find the",
+    "schema cache",
+    "pgrst",
+    "undefined column",
+    "undefined table",
 )
 
 # Mapeo de categorías a tablas
@@ -74,6 +92,58 @@ CATEGORY_TO_TABLE = {
 
 
 # ================= FUNCIONES =================
+
+def now_iso():
+    return datetime.now(timezone.utc).isoformat()
+
+def get_supabase():
+    global supabase
+    if supabase is not None:
+        return supabase
+
+    url = os.environ.get("SUPABASE_URL")
+    key = os.environ.get("SUPABASE_KEY")
+    if not url or not key:
+        raise RuntimeError("SUPABASE_URL y SUPABASE_KEY son obligatorios para procesar scraps.")
+
+    supabase = create_client(url, key)
+    return supabase
+
+def normalize_key(value):
+    return re.sub(r"[^a-z0-9]+", "", str(value or "").lower())
+
+def normalize_part_number(value):
+    return re.sub(r"[^A-Z0-9]+", "", str(value or "").strip().upper())
+
+def normalized_part_number_candidates(raw_val):
+    return [normalize_part_number(candidate) for candidate in parse_part_numbers(raw_val) if normalize_part_number(candidate)]
+
+def exact_part_number_variants(candidate):
+    raw = str(candidate or "").strip()
+    normalized = normalize_part_number(raw)
+    variants = [
+        raw,
+        raw.upper(),
+        normalized,
+        f"['{raw}']",
+        f'["{raw}"]',
+        f"['{raw.upper()}']",
+        f'["{raw.upper()}"]',
+        f"['{normalized}']",
+        f'["{normalized}"]',
+    ]
+    return [variant for variant in dict.fromkeys(variants) if variant]
+
+def first_text(item, *keys):
+    for key in keys:
+        value = item.get(key)
+        if value is not None and str(value).strip():
+            return str(value).strip()
+    return ""
+
+def chunked(items, size):
+    for index in range(0, len(items), size):
+        yield items[index:index + size]
 
 def parse_part_numbers(raw_val):
     if not raw_val: return []
@@ -150,6 +220,10 @@ def is_transient_db_error(error):
     message = str(error).lower()
     return any(marker in message for marker in TRANSIENT_DB_ERROR_MARKERS)
 
+def is_optional_schema_error(error):
+    message = str(error).lower()
+    return any(marker in message for marker in OPTIONAL_SCHEMA_ERROR_MARKERS)
+
 def execute_db_request(label, request_factory, attempts=DB_RETRY_ATTEMPTS):
     for attempt in range(1, attempts + 1):
         try:
@@ -162,43 +236,337 @@ def execute_db_request(label, request_factory, attempts=DB_RETRY_ATTEMPTS):
             print(f"   ⚠️  DB retry {attempt}/{attempts} en {label}: {error}. Reintentando en {delay}s...")
             time.sleep(delay)
 
+def optional_db_request(table_name, label, request_factory):
+    if table_name in OPTIONAL_DB_TABLES_DISABLED:
+        return None
+    try:
+        return execute_db_request(label, request_factory)
+    except Exception as error:
+        if is_optional_schema_error(error):
+            OPTIONAL_DB_TABLES_DISABLED.add(table_name)
+            print(f"   [WARN] Tabla opcional '{table_name}' no disponible; se omite desde ahora.")
+            return None
+        raise
+
+def optional_insert_rows(table_name, rows, chunk_size=250):
+    if not rows:
+        return
+    for batch in chunked(rows, chunk_size):
+        optional_db_request(
+            table_name,
+            f"{table_name} insert {len(batch)} rows",
+            lambda batch=batch: get_supabase().table(table_name).insert(batch),
+        )
+
 def get_or_create_store(store_name):
     res = execute_db_request(
         f"Stores select {store_name}",
-        lambda: supabase.table("Stores").select("Id").eq("Name", store_name),
+        lambda: get_supabase().table("Stores").select("Id").eq("Name", store_name),
     )
     if res.data:
         return res.data[0]['Id']
     else:
         res = execute_db_request(
             f"Stores insert {store_name}",
-            lambda: supabase.table("Stores").insert({"Name": store_name}),
+            lambda: get_supabase().table("Stores").insert({"Name": store_name}),
         )
         return res.data[0]['Id']
 
-def find_spec_id(tables, part_number):
+def load_scraper_summary(path_value):
+    if not path_value:
+        return {}
+    path = Path(path_value)
+    if not path.exists():
+        print(f"   [WARN] SCRAPER_SUMMARY_PATH no existe: {path}")
+        return {}
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception as error:
+        print(f"   [WARN] No se pudo leer resumen de scrapers: {error}")
+        return {}
+
+def build_scraper_result_map(summary):
+    result_map = {}
+    for result in summary.get("scraper_results", []) or []:
+        name = str(result.get("name") or "")
+        stem = Path(name).stem
+        inferred = re.sub(r"^scrap_", "", stem, flags=re.IGNORECASE)
+        for key in (name, stem, inferred):
+            normalized = normalize_key(key)
+            if normalized:
+                result_map[normalized] = result
+    return result_map
+
+def scraper_result_for_store(store_name, scraper_result_map):
+    key = normalize_key(store_name)
+    if key in scraper_result_map:
+        return scraper_result_map[key]
+    for result_key, result in scraper_result_map.items():
+        if key and (key in result_key or result_key in key):
+            return result
+    return None
+
+def create_scrape_run(summary):
+    optional_db_request(
+        "scrape_runs",
+        f"scrape_runs upsert {SCRAPE_RUN_ID}",
+        lambda: get_supabase().table("scrape_runs").upsert({
+            "id": SCRAPE_RUN_ID,
+            "source": os.environ.get("SCRAPE_SOURCE", "scraper"),
+            "status": "running",
+            "started_at": summary.get("run_started_at_utc") or now_iso(),
+            "scraper_count": int(summary.get("scraper_count") or 0),
+            "summary_path": SCRAPER_SUMMARY_PATH or None,
+            "metadata": summary,
+            "updated_at": now_iso(),
+        }, on_conflict="id"),
+    )
+
+def finalize_scrape_run(totals, status):
+    optional_db_request(
+        "scrape_runs",
+        f"scrape_runs finalize {SCRAPE_RUN_ID}",
+        lambda: get_supabase().table("scrape_runs").update({
+            "status": status,
+            "finished_at": now_iso(),
+            "duration_seconds": totals.get("duration_seconds"),
+            "store_count": totals["store_count"],
+            "raw_count": totals["raw_count"],
+            "matched_count": totals["matched_count"],
+            "unmatched_count": totals["unmatched_count"],
+            "anomaly_count": totals["anomaly_count"],
+            "error_count": totals["error_count"],
+            "match_rate": totals["match_rate"],
+            "updated_at": now_iso(),
+        }).eq("id", SCRAPE_RUN_ID),
+    )
+
+def create_store_run(store_id, store_name, scraper_result, metrics):
+    result = optional_db_request(
+        "scraper_store_runs",
+        f"scraper_store_runs insert {store_name}",
+        lambda: get_supabase().table("scraper_store_runs").insert({
+            "scrape_run_id": SCRAPE_RUN_ID,
+            "store_id": store_id,
+            "store_name": store_name,
+            "scraper_name": (scraper_result or {}).get("name"),
+            "status": metrics["status"],
+            "started_at": (scraper_result or {}).get("started_at_utc"),
+            "finished_at": (scraper_result or {}).get("finished_at_utc"),
+            "duration_seconds": (scraper_result or {}).get("duration_seconds"),
+            "raw_count": metrics["raw_count"],
+            "matched_count": metrics["matched_count"],
+            "unmatched_count": metrics["unmatched_count"],
+            "anomaly_count": metrics["anomaly_count"],
+            "error_count": metrics["error_count"],
+            "output_empty": metrics["output_empty"],
+            "match_rate": metrics["match_rate"],
+            "stock_markout_allowed": metrics["stock_markout_allowed"],
+            "stock_markout_reason": metrics["stock_markout_reason"],
+            "log_file": (scraper_result or {}).get("log_file"),
+            "metadata": scraper_result or {},
+        }),
+    )
+    if result and getattr(result, "data", None):
+        return result.data[0].get("id")
+    return None
+
+def should_allow_stock_markout(raw_count, matched_count, scraper_result=None):
+    if scraper_result and not scraper_result.get("success", False):
+        return False, "scraper_failed"
+    if raw_count <= 0:
+        return False, "empty_output"
+    if raw_count < STOCK_MARKOUT_MIN_RAW_COUNT:
+        return False, "too_few_results"
+    match_rate = matched_count / raw_count if raw_count else 0
+    if match_rate < STOCK_MARKOUT_MIN_MATCH_RATE:
+        return False, "low_match_rate"
+    return True, "healthy_scrape"
+
+def find_manual_override(tables, store_name, raw_type, part_number):
+    if isinstance(tables, str):
+        target_tables = {tables}
+    else:
+        target_tables = set(tables)
+
+    for candidate in parse_part_numbers(part_number):
+        normalized = normalize_part_number(candidate)
+        if not normalized:
+            continue
+        result = optional_db_request(
+            "match_overrides",
+            f"match_overrides lookup {store_name} {candidate}",
+            lambda normalized=normalized: get_supabase().table("match_overrides")
+                .select("spec_id,spec_table_name,confidence")
+                .eq("scraped_store_name", store_name)
+                .eq("normalized_part_number", normalized)
+                .eq("status", "approved")
+                .limit(1),
+        )
+        if not result or not result.data:
+            continue
+        row = result.data[0]
+        spec_table_name = row.get("spec_table_name")
+        if spec_table_name in target_tables:
+            return row.get("spec_id"), spec_table_name, "manual_override", row.get("confidence") or 1
+    return None, None, None, None
+
+def find_spec_match(tables, part_number, store_name=None, raw_type=None):
     if isinstance(tables, str): target_tables = [tables]
     else: target_tables = tables
+
+    if store_name:
+        override_id, override_table, override_method, override_score = find_manual_override(
+            target_tables,
+            store_name,
+            raw_type,
+            part_number,
+        )
+        if override_id and override_table:
+            return override_id, override_table, override_method, override_score
+
     candidates = parse_part_numbers(part_number)
-    if not candidates: return None, None
+    if not candidates: return None, None, None, None
 
     for table_name in target_tables:
         for candidate in candidates:
+            normalized_candidate = normalize_part_number(candidate)
+            if not normalized_candidate:
+                continue
+            variants = exact_part_number_variants(candidate)
             try:
-                res = execute_db_request(
-                    f"{table_name} lookup {candidate}",
-                    lambda table_name=table_name, candidate=candidate: supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name)
-                        .select("Id")
-                        .ilike("MetaPartNumber", f"%{candidate}%")
-                        .limit(1),
-                )
-                if res.data:
-                    return res.data[0]['Id'], table_name
+                for variant in variants:
+                    res = execute_db_request(
+                        f"{table_name} exact lookup {variant}",
+                        lambda table_name=table_name, variant=variant: get_supabase().schema(SPECIFICATIONS_SCHEMA).from_(table_name)
+                            .select("Id,MetaPartNumber")
+                            .eq("MetaPartNumber", variant)
+                            .limit(5),
+                    )
+                    for row in res.data or []:
+                        row_parts = normalized_part_number_candidates(row.get("MetaPartNumber"))
+                        if normalized_candidate in row_parts:
+                            return row['Id'], table_name, "part_number_exact", 1
             except Exception as e:
                 if is_transient_db_error(e):
                     raise
                 continue
-    return None, None
+    return None, None, None, None
+
+def find_spec_id(tables, part_number):
+    spec_id, table_name, _, _ = find_spec_match(tables, part_number)
+    return spec_id, table_name
+
+def detect_price_anomaly(store_id, spec_id, spec_table_name, price_int):
+    if price_int < MIN_REASONABLE_PUBLISH_PRICE:
+        return f"price_below_minimum:{price_int}"
+
+    result = execute_db_request(
+        f"ProductPricing previous price {store_id} {spec_id}",
+        lambda: get_supabase().table("ProductPricing")
+            .select("Price")
+            .eq("StoreId", store_id)
+            .eq("SpecId", spec_id)
+            .eq("SpecTableName", spec_table_name)
+            .limit(1),
+    )
+    if not result.data:
+        return None
+
+    previous_price = result.data[0].get("Price")
+    if not isinstance(previous_price, (int, float)) or previous_price <= 0:
+        return None
+
+    ratio = price_int / previous_price
+    if ratio >= PRICE_ANOMALY_MAX_MULTIPLIER:
+        return f"price_spike:{previous_price}->{price_int}"
+    if ratio <= PRICE_ANOMALY_MIN_MULTIPLIER:
+        return f"price_drop:{previous_price}->{price_int}"
+    return None
+
+def upsert_product_pricing(store_name, spec_id, data, store_id):
+    global PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED
+    payload = {
+        "SpecId": spec_id,
+        "SpecTableName": data["table"],
+        "StoreId": store_id,
+        "Price": data["price_int"],
+        "StockStatus": True,
+        "Url": data["url"],
+        "LastUpdated": now_iso(),
+    }
+    if PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED:
+        payload.update({
+            "AffiliateUrl": data.get("affiliate_url"),
+            "LastSeenAt": now_iso(),
+            "StockConfidence": "confirmed",
+        })
+    try:
+        return execute_db_request(
+            f"ProductPricing upsert {store_name} {spec_id}",
+            lambda payload=payload: get_supabase().table("ProductPricing").upsert(
+                payload,
+                on_conflict="SpecId, SpecTableName, StoreId",
+            ),
+        )
+    except Exception as error:
+        if PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED and is_optional_schema_error(error):
+            PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED = False
+            print("   [WARN] ProductPricing sin columnas nuevas; reintentando upsert legacy.")
+            return upsert_product_pricing(store_name, spec_id, data, store_id)
+        raise
+
+def mark_product_out_of_stock(store_name, store_id, spec_id):
+    global PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED
+    payload = {
+        "StockStatus": False,
+        "LastUpdated": now_iso(),
+    }
+    if PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED:
+        payload.update({
+            "StockConfidence": "missing_from_healthy_scrape",
+            "LastConfirmedOutOfStockAt": now_iso(),
+        })
+    try:
+        return execute_db_request(
+            f"ProductPricing stock update {store_name} {spec_id}",
+            lambda payload=payload: get_supabase().table("ProductPricing").update(payload)
+                .eq("SpecId", spec_id)
+                .eq("StoreId", store_id),
+        )
+    except Exception as error:
+        if PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED and is_optional_schema_error(error):
+            PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED = False
+            print("   [WARN] ProductPricing sin columnas nuevas; reintentando stock legacy.")
+            return mark_product_out_of_stock(store_name, store_id, spec_id)
+        raise
+
+def update_store_scrape_status(store_id, metrics):
+    global STORE_QUALITY_COLUMNS_ENABLED
+    payload = {
+        "LastScrapedAt": now_iso(),
+    }
+    if STORE_QUALITY_COLUMNS_ENABLED:
+        payload.update({
+            "LastSuccessfulScrapedAt": now_iso() if metrics["stock_markout_allowed"] else None,
+            "LastScrapeStatus": metrics["status"],
+            "LastScrapeMatchRate": metrics["match_rate"],
+            "LastScrapeRawCount": metrics["raw_count"],
+            "LastScrapeMatchedCount": metrics["matched_count"],
+            "LastScrapeUnmatchedCount": metrics["unmatched_count"],
+            "LastScrapeRunId": SCRAPE_RUN_ID,
+        })
+    try:
+        return execute_db_request(
+            f"Stores scrape status update {store_id}",
+            lambda payload=payload: get_supabase().table("Stores").update(payload).eq("Id", store_id),
+        )
+    except Exception as error:
+        if STORE_QUALITY_COLUMNS_ENABLED and is_optional_schema_error(error):
+            STORE_QUALITY_COLUMNS_ENABLED = False
+            print("   [WARN] Stores sin columnas de calidad; reintentando update legacy.")
+            return update_store_scrape_status(store_id, metrics)
+        raise
 
 def download_and_convert_image(image_url):
     """
@@ -241,14 +609,14 @@ def upload_to_supabase_storage(image_bytes, filename):
         bucket_name = "ProductsImages"
         
         # Subir archivo
-        result = supabase.storage.from_(bucket_name).upload(
+        result = get_supabase().storage.from_(bucket_name).upload(
             path=filename,
             file=image_bytes,
             file_options={"content-type": "image/webp"}
         )
         
         # Obtener URL pública
-        public_url = supabase.storage.from_(bucket_name).get_public_url(filename)
+        public_url = get_supabase().storage.from_(bucket_name).get_public_url(filename)
         return public_url
     except Exception as e:
         print(f"   ⚠️  Error subiendo imagen: {e}")
@@ -265,7 +633,7 @@ def process_product_image(spec_id, table_name, image_url):
         # Verificar si ya tiene imagen
         existing = execute_db_request(
             f"{table_name} image lookup {spec_id}",
-            lambda: supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name)
+            lambda: get_supabase().schema(SPECIFICATIONS_SCHEMA).from_(table_name)
                 .select("ImageUrl")
                 .eq("Id", spec_id)
                 .limit(1),
@@ -297,7 +665,7 @@ def process_product_image(spec_id, table_name, image_url):
         # Actualizar ImageUrl en la tabla de especificaciones
         execute_db_request(
             f"{table_name} image update {spec_id}",
-            lambda: supabase.schema(SPECIFICATIONS_SCHEMA).from_(table_name).update({
+            lambda: get_supabase().schema(SPECIFICATIONS_SCHEMA).from_(table_name).update({
                 "ImageUrl": public_url
             }).eq("Id", spec_id),
         )
@@ -478,6 +846,296 @@ def process_daily_scraps():
         )
 
     print(f"\n🏁 Listo. Logs en '{LOG_FILE}'.")
+
+def build_raw_row(item, store_id, store_name, match_status, parsed_price=None, matched_spec_id=None, matched_table=None, anomaly_reason=None, store_run_id=None):
+    return {
+        "scrape_run_id": SCRAPE_RUN_ID,
+        "scraper_store_run_id": store_run_id,
+        "store_id": store_id,
+        "store_name": store_name,
+        "source_file": item.get("_source_file"),
+        "source_url": item.get("url"),
+        "scraped_category": item.get("type"),
+        "scraped_name": first_text(item, "name", "title", "product_name"),
+        "scraped_part_number": first_text(item, "part #", "part_number", "sku", "mpn"),
+        "normalized_part_number": normalize_part_number(first_text(item, "part #", "part_number", "sku", "mpn")),
+        "raw_price": str(item.get("price") or ""),
+        "parsed_price": parsed_price,
+        "raw_payload": item,
+        "match_status": match_status,
+        "matched_spec_table_name": matched_table,
+        "matched_spec_id": matched_spec_id,
+        "anomaly_reason": anomaly_reason,
+    }
+
+def build_match_candidate_row(store_id, store_name, item, spec_id, spec_table_name, method, score, status="selected"):
+    return {
+        "scrape_run_id": SCRAPE_RUN_ID,
+        "store_id": store_id,
+        "store_name": store_name,
+        "scraped_category": item.get("type"),
+        "scraped_part_number": first_text(item, "part #", "part_number", "sku", "mpn"),
+        "spec_table_name": spec_table_name,
+        "spec_id": spec_id,
+        "match_method": method or "unknown",
+        "score": score,
+        "status": status,
+    }
+
+def process_daily_scraps():
+    run_started = datetime.now(timezone.utc)
+    print(f"[match] Iniciando procesamiento. scrape_run_id={SCRAPE_RUN_ID}")
+
+    get_supabase()
+    scraper_summary = load_scraper_summary(SCRAPER_SUMMARY_PATH)
+    scraper_result_map = build_scraper_result_map(scraper_summary)
+    create_scrape_run(scraper_summary)
+
+    with open(LOG_FILE, 'w', encoding='utf-8') as log:
+        log.write(f"--- Reporte de No Match: {now_iso()} ---\n")
+
+    store_batches = {}
+    totals = {
+        "store_count": 0,
+        "raw_count": 0,
+        "matched_count": 0,
+        "unmatched_count": 0,
+        "anomaly_count": 0,
+        "error_count": 0,
+        "match_rate": 0,
+        "duration_seconds": None,
+    }
+
+    if not os.path.exists(SCRAP_OUTPUT_DIR):
+        print("[match] Directorio de outputs no encontrado.")
+        totals["duration_seconds"] = round((datetime.now(timezone.utc) - run_started).total_seconds(), 2)
+        finalize_scrape_run(totals, "failed")
+        return
+
+    for root, dirs, files in os.walk(SCRAP_OUTPUT_DIR):
+        for filename in files:
+            if not filename.endswith(".json"):
+                continue
+            filepath = os.path.join(root, filename)
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    content = json.load(f)
+                    if isinstance(content, dict):
+                        content = [content]
+
+                    for item in content:
+                        s_name = item.get("store_name")
+                        if s_name:
+                            store_batches.setdefault(s_name, [])
+                            item["_source_file"] = filename
+                            store_batches[s_name].append(item)
+            except Exception as error:
+                totals["error_count"] += 1
+                print(f"[match] Error leyendo {filename}: {error}")
+
+    for store_name, items in store_batches.items():
+        raw_count = len(items)
+        print(f"\n[match] Tienda: {store_name} - items brutos: {raw_count}")
+        store_id = get_or_create_store(store_name)
+        scraper_result = scraper_result_for_store(store_name, scraper_result_map)
+
+        unique_products_today = {}
+        found_ids_today = set()
+        unmatched_buffer = []
+        raw_rows = []
+        candidate_rows = []
+        matched_count = 0
+        unmatched_count = 0
+        anomaly_count = 0
+        error_count = 0
+
+        for item in items:
+            raw_type = item.get("type")
+            part_num = first_text(item, "part #", "part_number", "sku", "mpn")
+            price = item.get("price")
+            url = item.get("url")
+            source_file = item.get("_source_file", "unknown")
+            price_int = parse_price_to_int(price)
+
+            if not raw_type or not part_num or price_int is None:
+                error_count += 1
+                raw_rows.append(build_raw_row(item, store_id, store_name, "invalid", parsed_price=price_int))
+                continue
+
+            target_tables = CATEGORY_TO_TABLE.get(raw_type)
+            if not target_tables:
+                unmatched_count += 1
+                raw_rows.append(build_raw_row(item, store_id, store_name, "unmatched", parsed_price=price_int))
+                unmatched_buffer.append(f"[{source_file}] {url} | TYPE: {raw_type} | PN: {part_num} | reason: unknown_category")
+                continue
+
+            spec_id, found_table, match_method, match_score = find_spec_match(
+                target_tables,
+                part_num,
+                store_name=store_name,
+                raw_type=raw_type,
+            )
+
+            if not spec_id or not found_table:
+                unmatched_count += 1
+                raw_rows.append(build_raw_row(item, store_id, store_name, "unmatched", parsed_price=price_int))
+                unmatched_buffer.append(f"[{source_file}] {url} | TYPE: {raw_type} | PN: {part_num}")
+                continue
+
+            anomaly_reason = detect_price_anomaly(store_id, spec_id, found_table, price_int)
+            if anomaly_reason:
+                anomaly_count += 1
+                raw_rows.append(
+                    build_raw_row(
+                        item,
+                        store_id,
+                        store_name,
+                        "price_anomaly",
+                        parsed_price=price_int,
+                        matched_spec_id=spec_id,
+                        matched_table=found_table,
+                        anomaly_reason=anomaly_reason,
+                    )
+                )
+                candidate_rows.append(
+                    build_match_candidate_row(
+                        store_id,
+                        store_name,
+                        item,
+                        spec_id,
+                        found_table,
+                        match_method,
+                        match_score,
+                        status="rejected",
+                    )
+                )
+                continue
+
+            matched_count += 1
+            raw_rows.append(
+                build_raw_row(
+                    item,
+                    store_id,
+                    store_name,
+                    "matched",
+                    parsed_price=price_int,
+                    matched_spec_id=spec_id,
+                    matched_table=found_table,
+                )
+            )
+            candidate_rows.append(
+                build_match_candidate_row(
+                    store_id,
+                    store_name,
+                    item,
+                    spec_id,
+                    found_table,
+                    match_method,
+                    match_score,
+                )
+            )
+
+            product_data = {
+                "spec_id": spec_id,
+                "table": found_table,
+                "price_int": price_int,
+                "url": url,
+                "affiliate_url": item.get("affiliate_url") or item.get("affiliateUrl"),
+                "image_url": item.get("image_url"),
+                "match_method": match_method,
+                "match_score": match_score,
+            }
+            if spec_id not in unique_products_today or price_int < unique_products_today[spec_id]["price_int"]:
+                unique_products_today[spec_id] = product_data
+
+        match_rate = matched_count / raw_count if raw_count else 0
+        stock_markout_allowed, stock_markout_reason = should_allow_stock_markout(raw_count, matched_count, scraper_result)
+        status = "success" if stock_markout_allowed else ("failed" if scraper_result and not scraper_result.get("success", False) else "warning")
+        store_metrics = {
+            "raw_count": raw_count,
+            "matched_count": matched_count,
+            "unmatched_count": unmatched_count,
+            "anomaly_count": anomaly_count,
+            "error_count": error_count,
+            "output_empty": raw_count == 0,
+            "match_rate": match_rate,
+            "stock_markout_allowed": stock_markout_allowed,
+            "stock_markout_reason": stock_markout_reason,
+            "status": status,
+        }
+        store_run_id = create_store_run(store_id, store_name, scraper_result, store_metrics)
+        if store_run_id:
+            for row in raw_rows:
+                row["scraper_store_run_id"] = store_run_id
+
+        optional_insert_rows("scraped_products_raw", raw_rows)
+        optional_insert_rows("match_candidates", candidate_rows)
+
+        if unmatched_buffer:
+            with open(LOG_FILE, 'a', encoding='utf-8') as log:
+                for entry in unmatched_buffer:
+                    log.write(entry + "\n")
+
+        print(
+            f"[match] {store_name}: raw={raw_count}, matched={matched_count}, "
+            f"unmatched={unmatched_count}, anomalies={anomaly_count}, match_rate={match_rate:.2%}"
+        )
+        print(f"[match] Stock markout: {stock_markout_allowed} ({stock_markout_reason})")
+        print(f"[match] Insertando {len(unique_products_today)} productos unicos en DB.")
+
+        for spec_id, data in unique_products_today.items():
+            found_ids_today.add(spec_id)
+            upsert_product_pricing(store_name, spec_id, data, store_id)
+            execute_db_request(
+                f"PriceHistory insert {store_name} {spec_id}",
+                lambda spec_id=spec_id, data=data: get_supabase().table("PriceHistory").insert({
+                    "SpecId": spec_id,
+                    "SpecTableName": data["table"],
+                    "StoreId": store_id,
+                    "Price": data["price_int"],
+                    "RecordedAt": now_iso()
+                }),
+            )
+
+            if data.get("image_url") and data["image_url"] != "N/A":
+                process_product_image(spec_id, data["table"], data["image_url"])
+
+        if stock_markout_allowed:
+            active_products = execute_db_request(
+                f"ProductPricing active select {store_name}",
+                lambda: get_supabase().table("ProductPricing")
+                    .select("SpecId")
+                    .eq("StoreId", store_id)
+                    .eq("StockStatus", True),
+            )
+            active_ids_db = {row['SpecId'] for row in active_products.data}
+            missing_ids = active_ids_db - found_ids_today
+
+            if missing_ids:
+                print(f"[match] {len(missing_ids)} productos marcados como no disponibles para {store_name}.")
+                for missing in missing_ids:
+                    mark_product_out_of_stock(store_name, store_id, missing)
+        else:
+            print(f"[match] Se omite marcado sin stock para {store_name}: {stock_markout_reason}.")
+
+        update_store_scrape_status(store_id, store_metrics)
+
+        totals["store_count"] += 1
+        totals["raw_count"] += raw_count
+        totals["matched_count"] += matched_count
+        totals["unmatched_count"] += unmatched_count
+        totals["anomaly_count"] += anomaly_count
+        totals["error_count"] += error_count
+
+    totals["match_rate"] = totals["matched_count"] / totals["raw_count"] if totals["raw_count"] else 0
+    totals["duration_seconds"] = round((datetime.now(timezone.utc) - run_started).total_seconds(), 2)
+    final_status = "success"
+    if totals["error_count"] or totals["anomaly_count"]:
+        final_status = "partial_success"
+    if totals["raw_count"] == 0:
+        final_status = "failed"
+    finalize_scrape_run(totals, final_status)
+    print(f"\n[match] Listo. Logs en '{LOG_FILE}'.")
 
 if __name__ == "__main__":
     process_daily_scraps()

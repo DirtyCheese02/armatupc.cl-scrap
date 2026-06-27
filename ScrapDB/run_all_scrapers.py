@@ -6,6 +6,7 @@ import re
 import shutil
 import subprocess
 import sys
+import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -212,6 +213,7 @@ def _run_python_script(
 def main() -> int:
     run_started = datetime.now(timezone.utc)
     run_id = run_started.strftime("%Y%m%d_%H%M%S")
+    scrape_run_id = os.environ.get("SCRAPE_RUN_ID", "").strip() or str(uuid.uuid4())
     run_dir = RUN_LOGS_DIR / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
 
@@ -251,7 +253,10 @@ def main() -> int:
             script_path=scraper_path,
             log_path=run_dir / f"{scraper_path.stem}.log",
             timeout_minutes=script_timeout_minutes,
-            extra_env={"SCRAP_HEADLESS": "1" if script_headless else "0"},
+            extra_env={
+                "SCRAP_HEADLESS": "1" if script_headless else "0",
+                "SCRAPE_RUN_ID": scrape_run_id,
+            },
             use_xvfb=use_xvfb and (not script_headless),
         )
         result["headless"] = script_headless
@@ -269,7 +274,10 @@ def main() -> int:
                 script_path=scraper_path,
                 log_path=run_dir / f"{scraper_path.stem}_headful_retry.log",
                 timeout_minutes=script_timeout_minutes,
-                extra_env={"SCRAP_HEADLESS": "0"},
+                extra_env={
+                    "SCRAP_HEADLESS": "0",
+                    "SCRAPE_RUN_ID": scrape_run_id,
+                },
                 use_xvfb=use_xvfb,
             )
             retry_result["headless"] = False
@@ -298,7 +306,10 @@ def main() -> int:
                 script_path=scraper_path,
                 log_path=run_dir / f"{scraper_path.stem}_headful_retry.log",
                 timeout_minutes=script_timeout_minutes,
-                extra_env={"SCRAP_HEADLESS": "0"},
+                extra_env={
+                    "SCRAP_HEADLESS": "0",
+                    "SCRAPE_RUN_ID": scrape_run_id,
+                },
                 use_xvfb=use_xvfb,
             )
             retry_result["headless"] = False
@@ -328,12 +339,30 @@ def main() -> int:
             f"(return_code={result['return_code']}, duration={result['duration_seconds']}s)"
         )
 
+    pre_match_summary = {
+        "run_id": run_id,
+        "scrape_run_id": scrape_run_id,
+        "run_started_at_utc": run_started.isoformat(),
+        "scraper_timeout_minutes": scraper_timeout_minutes,
+        "scraper_timeout_overrides": scraper_timeout_overrides,
+        "match_timeout_minutes": match_timeout_minutes,
+        "run_match_products": run_match_products,
+        "scraper_count": len(scrapers),
+        "scraper_results": scraper_results,
+    }
+    pre_match_summary_path = run_dir / "scraper_summary_pre_match.json"
+    pre_match_summary_path.write_text(json.dumps(pre_match_summary, indent=2, ensure_ascii=False), encoding="utf-8")
+
     if run_match_products:
         print("Running match_products.py...")
         match_result = _run_python_script(
             script_path=MATCH_SCRIPT,
             log_path=run_dir / "match_products.log",
             timeout_minutes=match_timeout_minutes,
+            extra_env={
+                "SCRAPE_RUN_ID": scrape_run_id,
+                "SCRAPER_SUMMARY_PATH": str(pre_match_summary_path),
+            },
         )
 
         if match_result["success"]:
@@ -371,6 +400,7 @@ def main() -> int:
     run_finished = datetime.now(timezone.utc)
     summary = {
         "run_id": run_id,
+        "scrape_run_id": scrape_run_id,
         "run_started_at_utc": run_started.isoformat(),
         "run_finished_at_utc": run_finished.isoformat(),
         "run_duration_seconds": round((run_finished - run_started).total_seconds(), 2),
@@ -380,6 +410,7 @@ def main() -> int:
         "run_match_products": run_match_products,
         "scraper_count": len(scrapers),
         "scraper_failures": len(scraper_failures),
+        "pre_match_summary_path": str(pre_match_summary_path),
         "scraper_results": scraper_results,
         "match_result": match_result,
         "final_exit_code": final_exit_code,
