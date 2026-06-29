@@ -24,19 +24,15 @@ Variables utiles:
 - `SCRAPER_TIMEOUT_MINUTES=90`: timeout base por scraper.
 - `MATCH_TIMEOUT_MINUTES=60`: timeout del matcher.
 - `SCRAPER_REQUIRE_NON_EMPTY=Scrap_SPDigital.py`: falla si el scraper no genera JSON.
-- `STOCK_MARKOUT_MIN_RAW_COUNT=20`: minimo de productos brutos para permitir marcar faltantes como sin stock.
-- `STOCK_MARKOUT_MIN_MATCH_RATE=0.05`: tasa minima de match para permitir marcar faltantes como sin stock.
 
 ## Stock safety
 
 `match_products.py` solo marca productos como no disponibles cuando la tienda tuvo un scrape saludable:
 
 - el scraper no fallo,
-- el output no esta vacio,
-- la cantidad de productos supera `STOCK_MARKOUT_MIN_RAW_COUNT`,
-- la tasa de match supera `STOCK_MARKOUT_MIN_MATCH_RATE`.
+- el output no esta vacio.
 
-Si una tienda falla, queda vacia o trae pocos resultados, se actualizan metricas, pero no se borran stocks vigentes.
+Si una tienda falla o queda vacia, se actualizan metricas, pero no se borran stocks vigentes.
 
 ## Calidad de datos
 
@@ -55,8 +51,7 @@ Si esas tablas todavia no existen, el matcher sigue funcionando y omite las escr
 Orden actual:
 
 1. override manual aprobado en `match_overrides`,
-2. part number exacto normalizado contra `MetaPartNumber`,
-3. fallback fuzzy por `ilike`.
+2. part number exacto normalizado contra `MetaPartNumber`.
 
 Los no matcheados siguen quedando en `ScrapDB/unmatched_log.txt`, pero la fuente de trabajo deberia ser `scraped_products_raw`.
 

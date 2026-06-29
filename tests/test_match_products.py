@@ -32,11 +32,11 @@ class MatchProductHelpersTest(unittest.TestCase):
         )
         self.assertEqual(
             match_products.should_allow_stock_markout(4, 4, {"success": True}),
-            (False, "too_few_results"),
+            (True, "healthy_scrape"),
         )
         self.assertEqual(
             match_products.should_allow_stock_markout(100, 1, {"success": True}),
-            (False, "low_match_rate"),
+            (True, "healthy_scrape"),
         )
         self.assertEqual(
             match_products.should_allow_stock_markout(100, 40, {"success": False}),
@@ -51,6 +51,63 @@ class MatchProductHelpersTest(unittest.TestCase):
         source = (SCRAPDB / "match_products.py").read_text(encoding="utf-8")
         self.assertNotIn(".ilike(", source)
         self.assertNotIn("part_number_fuzzy", source)
+
+    def test_exact_matching_batches_part_number_variants(self):
+        source = (SCRAPDB / "match_products.py").read_text(encoding="utf-8")
+        self.assertIn('.in_("MetaPartNumber", variants)', source)
+        self.assertNotIn('.eq("MetaPartNumber", variant)', source)
+
+    def test_previous_price_lookup_is_cached_for_anomaly_detection(self):
+        class Response:
+            data = [{"Price": 100000}]
+
+        calls = []
+        original_execute = match_products.execute_db_request
+        match_products.PREVIOUS_PRICE_CACHE.clear()
+
+        def fake_execute(label, request_factory, attempts=1):
+            calls.append(label)
+            return Response()
+
+        try:
+            match_products.execute_db_request = fake_execute
+            self.assertEqual(
+                match_products.detect_price_anomaly(1, "spec-1", "GpuSpecifications", 500000),
+                "price_spike:100000->500000",
+            )
+            self.assertEqual(
+                match_products.detect_price_anomaly(1, "spec-1", "GpuSpecifications", 500000),
+                "price_spike:100000->500000",
+            )
+        finally:
+            match_products.execute_db_request = original_execute
+            match_products.PREVIOUS_PRICE_CACHE.clear()
+
+        self.assertEqual(len(calls), 1)
+
+    def test_remote_protocol_errors_are_transient(self):
+        class RemoteProtocolError(Exception):
+            pass
+
+        error = RemoteProtocolError(
+            "<ConnectionTerminated error_code:0, last_stream_id:19999, additional_data:None>"
+        )
+        self.assertTrue(match_products.is_transient_db_error(error))
+
+    def test_wrapped_httpx_errors_are_transient(self):
+        class RemoteProtocolError(Exception):
+            pass
+
+        try:
+            try:
+                raise RemoteProtocolError("<ConnectionTerminated error_code:0>")
+            except RemoteProtocolError as cause:
+                raise RuntimeError("postgrest request failed") from cause
+        except RuntimeError as wrapped:
+            self.assertTrue(match_products.is_transient_db_error(wrapped))
+
+    def test_schema_errors_are_not_transient_network_errors(self):
+        self.assertFalse(match_products.is_transient_db_error(Exception("undefined column ProductPricing.Foo")))
 
 
 if __name__ == "__main__":

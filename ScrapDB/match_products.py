@@ -15,6 +15,10 @@ from PIL import Image
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(dotenv_path=BASE_DIR / ".env")
 supabase = None
+DB_REQUEST_COUNT = 0
+MANUAL_OVERRIDE_CACHE = {}
+SPEC_MATCH_CACHE = {}
+PREVIOUS_PRICE_CACHE = {}
 
 # Schemas
 SPECIFICATIONS_SCHEMA = "specifications"
@@ -26,23 +30,31 @@ MAX_REASONABLE_CLP_PRICE = 100_000_000
 MIN_REASONABLE_PUBLISH_PRICE = int(os.environ.get("MIN_REASONABLE_PUBLISH_PRICE", "1000"))
 PRICE_ANOMALY_MAX_MULTIPLIER = float(os.environ.get("PRICE_ANOMALY_MAX_MULTIPLIER", "4"))
 PRICE_ANOMALY_MIN_MULTIPLIER = float(os.environ.get("PRICE_ANOMALY_MIN_MULTIPLIER", "0.25"))
-STOCK_MARKOUT_MIN_RAW_COUNT = int(os.environ.get("STOCK_MARKOUT_MIN_RAW_COUNT", "20"))
-STOCK_MARKOUT_MIN_MATCH_RATE = float(os.environ.get("STOCK_MARKOUT_MIN_MATCH_RATE", "0.05"))
 SCRAPER_SUMMARY_PATH = os.environ.get("SCRAPER_SUMMARY_PATH", "").strip()
 SCRAPE_RUN_ID = os.environ.get("SCRAPE_RUN_ID", "").strip() or str(uuid_lib.uuid4())
 DB_RETRY_ATTEMPTS = 4
 DB_RETRY_BASE_DELAY_SECONDS = 2
+DB_CLIENT_REFRESH_EVERY = int(os.environ.get("DB_CLIENT_REFRESH_EVERY", "5000"))
 OPTIONAL_DB_TABLES_DISABLED = set()
 PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED = True
 STORE_QUALITY_COLUMNS_ENABLED = True
 TRANSIENT_DB_ERROR_MARKERS = (
     "server disconnected",
     "remote protocol error",
+    "remoteprotocolerror",
+    "connectionterminated",
+    "connection terminated",
     "connection reset",
     "connection aborted",
+    "connection refused",
+    "network is unreachable",
     "temporarily unavailable",
     "timeout",
     "timed out",
+    "read timeout",
+    "write timeout",
+    "connect timeout",
+    "pool timeout",
     "max retries exceeded",
 )
 OPTIONAL_SCHEMA_ERROR_MARKERS = (
@@ -108,6 +120,20 @@ def get_supabase():
 
     supabase = create_client(url, key)
     return supabase
+
+def reset_supabase_client(reason=""):
+    global supabase
+    if supabase is None:
+        return
+    supabase = None
+    if reason:
+        print(f"   [DB] Reiniciando cliente Supabase: {reason}")
+
+def maybe_refresh_supabase_client():
+    if DB_CLIENT_REFRESH_EVERY <= 0:
+        return
+    if DB_REQUEST_COUNT > 0 and DB_REQUEST_COUNT % DB_CLIENT_REFRESH_EVERY == 0:
+        reset_supabase_client(f"{DB_REQUEST_COUNT} requests acumuladas")
 
 def normalize_key(value):
     return re.sub(r"[^a-z0-9]+", "", str(value or "").lower())
@@ -216,24 +242,49 @@ def parse_price_to_int(raw_price):
 
     return min(candidates) if candidates else None
 
+def error_chain_text(error):
+    texts = []
+    queue = [error]
+    seen = set()
+    while queue:
+        current = queue.pop(0)
+        if current is None or id(current) in seen:
+            continue
+        seen.add(id(current))
+        texts.append(f"{current.__class__.__module__}.{current.__class__.__name__}")
+        texts.append(str(current))
+        queue.append(getattr(current, "__cause__", None))
+        queue.append(getattr(current, "__context__", None))
+    return " ".join(texts).lower()
+
 def is_transient_db_error(error):
-    message = str(error).lower()
-    return any(marker in message for marker in TRANSIENT_DB_ERROR_MARKERS)
+    message = error_chain_text(error)
+    compact_message = re.sub(r"[^a-z0-9]+", "", message)
+    for marker in TRANSIENT_DB_ERROR_MARKERS:
+        marker_text = marker.lower()
+        marker_compact = re.sub(r"[^a-z0-9]+", "", marker_text)
+        if marker_text in message or marker_compact in compact_message:
+            return True
+    return False
 
 def is_optional_schema_error(error):
     message = str(error).lower()
     return any(marker in message for marker in OPTIONAL_SCHEMA_ERROR_MARKERS)
 
 def execute_db_request(label, request_factory, attempts=DB_RETRY_ATTEMPTS):
+    global DB_REQUEST_COUNT
     for attempt in range(1, attempts + 1):
         try:
+            maybe_refresh_supabase_client()
+            DB_REQUEST_COUNT += 1
             return request_factory().execute()
         except Exception as error:
             if attempt >= attempts or not is_transient_db_error(error):
                 raise
 
             delay = DB_RETRY_BASE_DELAY_SECONDS * attempt
-            print(f"   ⚠️  DB retry {attempt}/{attempts} en {label}: {error}. Reintentando en {delay}s...")
+            reset_supabase_client(f"error transitorio en {label}")
+            print(f"   [WARN] DB retry {attempt}/{attempts} en {label}: {error}. Reintentando en {delay}s...")
             time.sleep(delay)
 
 def optional_db_request(table_name, label, request_factory):
@@ -376,11 +427,6 @@ def should_allow_stock_markout(raw_count, matched_count, scraper_result=None):
         return False, "scraper_failed"
     if raw_count <= 0:
         return False, "empty_output"
-    if raw_count < STOCK_MARKOUT_MIN_RAW_COUNT:
-        return False, "too_few_results"
-    match_rate = matched_count / raw_count if raw_count else 0
-    if match_rate < STOCK_MARKOUT_MIN_MATCH_RATE:
-        return False, "low_match_rate"
     return True, "healthy_scrape"
 
 def find_manual_override(tables, store_name, raw_type, part_number):
@@ -388,10 +434,17 @@ def find_manual_override(tables, store_name, raw_type, part_number):
         target_tables = {tables}
     else:
         target_tables = set(tables)
+    target_table_key = tuple(sorted(target_tables))
 
     for candidate in parse_part_numbers(part_number):
         normalized = normalize_part_number(candidate)
         if not normalized:
+            continue
+        cache_key = (target_table_key, store_name, raw_type, normalized)
+        if cache_key in MANUAL_OVERRIDE_CACHE:
+            cached = MANUAL_OVERRIDE_CACHE[cache_key]
+            if cached[0] and cached[1]:
+                return cached
             continue
         result = optional_db_request(
             "match_overrides",
@@ -404,12 +457,46 @@ def find_manual_override(tables, store_name, raw_type, part_number):
                 .limit(1),
         )
         if not result or not result.data:
+            MANUAL_OVERRIDE_CACHE[cache_key] = (None, None, None, None)
             continue
         row = result.data[0]
         spec_table_name = row.get("spec_table_name")
         if spec_table_name in target_tables:
-            return row.get("spec_id"), spec_table_name, "manual_override", row.get("confidence") or 1
+            match = (row.get("spec_id"), spec_table_name, "manual_override", row.get("confidence") or 1)
+            MANUAL_OVERRIDE_CACHE[cache_key] = match
+            return match
+        MANUAL_OVERRIDE_CACHE[cache_key] = (None, None, None, None)
     return None, None, None, None
+
+def lookup_exact_part_number(table_name, candidate):
+    normalized_candidate = normalize_part_number(candidate)
+    if not normalized_candidate:
+        return None, None, None, None
+    cache_key = (table_name, normalized_candidate)
+    if cache_key in SPEC_MATCH_CACHE:
+        return SPEC_MATCH_CACHE[cache_key]
+
+    variants = exact_part_number_variants(candidate)
+    if not variants:
+        SPEC_MATCH_CACHE[cache_key] = (None, None, None, None)
+        return SPEC_MATCH_CACHE[cache_key]
+
+    res = execute_db_request(
+        f"{table_name} exact lookup {normalized_candidate}",
+        lambda table_name=table_name, variants=variants: get_supabase().schema(SPECIFICATIONS_SCHEMA).from_(table_name)
+            .select("Id,MetaPartNumber")
+            .in_("MetaPartNumber", variants)
+            .limit(max(5, len(variants))),
+    )
+    for row in res.data or []:
+        row_parts = normalized_part_number_candidates(row.get("MetaPartNumber"))
+        if normalized_candidate in row_parts:
+            match = (row['Id'], table_name, "part_number_exact", 1)
+            SPEC_MATCH_CACHE[cache_key] = match
+            return match
+
+    SPEC_MATCH_CACHE[cache_key] = (None, None, None, None)
+    return SPEC_MATCH_CACHE[cache_key]
 
 def find_spec_match(tables, part_number, store_name=None, raw_type=None):
     if isinstance(tables, str): target_tables = [tables]
@@ -430,23 +517,10 @@ def find_spec_match(tables, part_number, store_name=None, raw_type=None):
 
     for table_name in target_tables:
         for candidate in candidates:
-            normalized_candidate = normalize_part_number(candidate)
-            if not normalized_candidate:
-                continue
-            variants = exact_part_number_variants(candidate)
             try:
-                for variant in variants:
-                    res = execute_db_request(
-                        f"{table_name} exact lookup {variant}",
-                        lambda table_name=table_name, variant=variant: get_supabase().schema(SPECIFICATIONS_SCHEMA).from_(table_name)
-                            .select("Id,MetaPartNumber")
-                            .eq("MetaPartNumber", variant)
-                            .limit(5),
-                    )
-                    for row in res.data or []:
-                        row_parts = normalized_part_number_candidates(row.get("MetaPartNumber"))
-                        if normalized_candidate in row_parts:
-                            return row['Id'], table_name, "part_number_exact", 1
+                spec_id, found_table, method, score = lookup_exact_part_number(table_name, candidate)
+                if spec_id and found_table:
+                    return spec_id, found_table, method, score
             except Exception as e:
                 if is_transient_db_error(e):
                     raise
@@ -461,19 +535,21 @@ def detect_price_anomaly(store_id, spec_id, spec_table_name, price_int):
     if price_int < MIN_REASONABLE_PUBLISH_PRICE:
         return f"price_below_minimum:{price_int}"
 
-    result = execute_db_request(
-        f"ProductPricing previous price {store_id} {spec_id}",
-        lambda: get_supabase().table("ProductPricing")
-            .select("Price")
-            .eq("StoreId", store_id)
-            .eq("SpecId", spec_id)
-            .eq("SpecTableName", spec_table_name)
-            .limit(1),
-    )
-    if not result.data:
-        return None
-
-    previous_price = result.data[0].get("Price")
+    cache_key = (store_id, spec_table_name, spec_id)
+    if cache_key in PREVIOUS_PRICE_CACHE:
+        previous_price = PREVIOUS_PRICE_CACHE[cache_key]
+    else:
+        result = execute_db_request(
+            f"ProductPricing previous price {store_id} {spec_id}",
+            lambda: get_supabase().table("ProductPricing")
+                .select("Price")
+                .eq("StoreId", store_id)
+                .eq("SpecId", spec_id)
+                .eq("SpecTableName", spec_table_name)
+                .limit(1),
+        )
+        previous_price = result.data[0].get("Price") if result.data else None
+        PREVIOUS_PRICE_CACHE[cache_key] = previous_price
     if not isinstance(previous_price, (int, float)) or previous_price <= 0:
         return None
 
