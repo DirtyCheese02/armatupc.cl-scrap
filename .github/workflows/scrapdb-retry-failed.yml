@@ -198,6 +198,33 @@ jobs:
           mkdir -p ScrapDB/RunLogs/match-products
           python ScrapDB/match_products.py 2>&1 | tee ScrapDB/RunLogs/match-products/match_products.log
 
+      - name: Build canonical RawOffer artifact for recovered stores
+        if: ${{ steps.retry-manifest.outputs.has_remaining_json == 'true' && vars.CANONICAL_DUAL_WRITE_ENABLED == 'true' }}
+        env:
+          SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
+        run: |
+          python -m ScrapDB.raw_offer \
+            --input ScrapDB/Outputs \
+            --output ScrapDB/RawRuns \
+            --run-id "$SCRAPE_RUN_ID"
+
+      - name: Publish recovered canonical offers and compare legacy
+        if: ${{ steps.retry-manifest.outputs.has_remaining_json == 'true' && vars.CANONICAL_DUAL_WRITE_ENABLED == 'true' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
+        run: |
+          python -m ScrapDB.canonical_backfill \
+            --apply \
+            --raw-offers "ScrapDB/RawRuns/${SCRAPE_RUN_ID}.ndjson.gz" \
+            --raw-offers-only \
+            --dual-write \
+            --categories CPU,GPU,Motherboard \
+            --compare \
+            --checkpoint "ScrapDB/RunLogs/canonical-${SCRAPE_RUN_ID}.checkpoint.json" \
+            --comparison-report "ScrapDB/RunLogs/canonical-${SCRAPE_RUN_ID}.comparison.json"
+
       - name: No recovered stores
         if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' && steps.retry-manifest.outputs.has_remaining_json != 'true' }}
         run: echo "Retry did not recover any store outputs. Skipping match_products.py."
@@ -220,6 +247,7 @@ jobs:
           retention-days: 14
           path: |
             ScrapDB/RunLogs/**
+            ScrapDB/RawRuns/**
             ScrapDB/unmatched_log.txt
 
       - name: Upload retry result manifest

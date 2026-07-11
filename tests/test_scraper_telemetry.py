@@ -76,6 +76,20 @@ class ScraperTelemetryTest(unittest.TestCase):
         self.assertEqual(manifest["scraper_results"][0]["name"], "Scrap_CentralGamer.py")
         self.assertTrue(manifest["scraper_results"][0]["output_complete"])
 
+    def test_daily_and_retry_workflows_gate_canonical_dual_write(self):
+        for workflow_name in ("scrapdb-daily.yml", "scrapdb-retry-failed.yml"):
+            workflow = (ROOT / ".github" / "workflows" / workflow_name).read_text(
+                encoding="utf-8"
+            )
+            with self.subTest(workflow=workflow_name):
+                self.assertIn("vars.CANONICAL_DUAL_WRITE_ENABLED == 'true'", workflow)
+                self.assertIn("SUPABASE_SERVICE_ROLE_KEY", workflow)
+                self.assertIn("python -m ScrapDB.raw_offer", workflow)
+                self.assertIn("python -m ScrapDB.canonical_backfill", workflow)
+                self.assertIn("--raw-offers-only", workflow)
+                self.assertIn("--dual-write", workflow)
+                self.assertIn("--categories CPU,GPU,Motherboard", workflow)
+
     def test_github_outputs_include_scrape_run_ids(self):
         scrape_run_id = str(uuid.uuid4())
         parent_run_id = str(uuid.uuid4())

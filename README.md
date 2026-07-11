@@ -128,6 +128,15 @@ python -m ScrapDB.canonical_backfill --snapshot canonical_backfill_snapshot.json
 
 El matching aplica GTIN exacto global no ambiguo, luego la pareja exacta marca+MPN no ambigua y finalmente SKU, ID o URL persistente de la misma tienda. Una colision global, conflicto de categoria/marca o similitud de nombre queda en estado `candidate`; el matching fuzzy nunca obtiene `match_status=matched`. Durante los 14 dias de validacion, `--dual-write` mantiene `ProductPricing` solo para matches exactos, datos frescos y disponibilidad explicita; no cambia el ranking ni activa nuevas lecturas. Se debe revisar el reporte de comparacion antes de cambiar cualquier feature flag web.
 
+### Dual-write automatico en GitHub Actions
+
+Los workflows diario y de retry generan `RawOffer` y publican en ambos modelos solo cuando el repositorio tiene:
+
+- el secret de Actions `SUPABASE_SERVICE_ROLE_KEY`;
+- la variable de Actions `CANONICAL_DUAL_WRITE_ENABLED=true`.
+
+Sin la variable, los pasos canonicos se omiten y el pipeline legacy sigue funcionando. Los artefactos `RawRuns`, checkpoints y reportes de comparacion se conservan 14 dias junto con los logs del workflow. La primera ola automatica esta limitada a CPU, GPU y placa madre.
+
 ## Inventario de procedencia y permisos
 
 La herramienta `tools/inventory_provenance.py` genera un inventario agregado por fuente, sin copiar payloads ni imagenes:
