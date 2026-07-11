@@ -101,6 +101,8 @@ jobs:
           SCRAPER_TIMEOUT_OVERRIDES: ${{ matrix.timeout_overrides }}
           SCRAPER_NO_HEADFUL_RETRY: ${{ matrix.no_headful_retry }}
           RUN_MATCH_PRODUCTS: "0"
+          SCRAPE_SOURCE: "daily"
+          SCRAPE_SHARD_NAME: ${{ matrix.name }}
           BROWSER_FALLBACK_COLLECTOR_CONCURRENCY: "2"
           BROWSER_FALLBACK_SCRAPER_CONCURRENCY: "2"
           SPHINX_REQUEST_DELAY_SECONDS: "1.0"
@@ -212,6 +214,9 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
+          SCRAPE_SOURCE: "daily"
+          SCRAPER_SUMMARY_PATH: ScrapDB/RunLogs/retry-manifest/retry_manifest.json
         run: |
           set -o pipefail
           mkdir -p ScrapDB/RunLogs/match-products

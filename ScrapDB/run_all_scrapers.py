@@ -22,6 +22,26 @@ def _utc_iso_now() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
+def _resolve_scrape_run_id() -> str:
+    explicit = os.environ.get("SCRAPE_RUN_ID", "").strip()
+    if explicit:
+        return explicit
+
+    github_run_id = os.environ.get("GITHUB_RUN_ID", "").strip()
+    if github_run_id:
+        identity = ":".join(
+            (
+                os.environ.get("GITHUB_REPOSITORY", "local"),
+                os.environ.get("GITHUB_WORKFLOW", "scrape"),
+                github_run_id,
+                os.environ.get("GITHUB_RUN_ATTEMPT", "1"),
+            )
+        )
+        return str(uuid.uuid5(uuid.NAMESPACE_URL, f"armatupc:{identity}"))
+
+    return str(uuid.uuid4())
+
+
 def _parse_timeout_minutes(env_name: str, default_value: int) -> int:
     raw = os.environ.get(env_name)
     if not raw:
@@ -213,7 +233,12 @@ def _run_python_script(
 def main() -> int:
     run_started = datetime.now(timezone.utc)
     run_id = run_started.strftime("%Y%m%d_%H%M%S")
-    scrape_run_id = os.environ.get("SCRAPE_RUN_ID", "").strip() or str(uuid.uuid4())
+    shard_name = re.sub(r"[^a-zA-Z0-9_-]+", "-", os.environ.get("SCRAPE_SHARD_NAME", "").strip()).strip("-")
+    if shard_name:
+        run_id = f"{run_id}_{shard_name}"
+    scrape_run_id = _resolve_scrape_run_id()
+    parent_scrape_run_id = os.environ.get("PARENT_SCRAPE_RUN_ID", "").strip() or None
+    scrape_source = os.environ.get("SCRAPE_SOURCE", "scraper").strip() or "scraper"
     run_dir = RUN_LOGS_DIR / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
 
@@ -331,6 +356,9 @@ def main() -> int:
                 "but finished with 0 files."
             )
 
+        result["output_dir"] = str(output_dir) if output_dir else None
+        result["output_complete"] = bool(result["success"] and (result["json_count"] or 0) > 0)
+        result["partial"] = not result["output_complete"]
         scraper_results.append(result)
 
         status = "OK" if result["success"] else "FAILED"
@@ -342,6 +370,9 @@ def main() -> int:
     pre_match_summary = {
         "run_id": run_id,
         "scrape_run_id": scrape_run_id,
+        "parent_scrape_run_id": parent_scrape_run_id,
+        "source": scrape_source,
+        "shard_name": shard_name or None,
         "run_started_at_utc": run_started.isoformat(),
         "scraper_timeout_minutes": scraper_timeout_minutes,
         "scraper_timeout_overrides": scraper_timeout_overrides,
@@ -401,6 +432,9 @@ def main() -> int:
     summary = {
         "run_id": run_id,
         "scrape_run_id": scrape_run_id,
+        "parent_scrape_run_id": parent_scrape_run_id,
+        "source": scrape_source,
+        "shard_name": shard_name or None,
         "run_started_at_utc": run_started.isoformat(),
         "run_finished_at_utc": run_finished.isoformat(),
         "run_duration_seconds": round((run_finished - run_started).total_seconds(), 2),

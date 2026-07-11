@@ -38,10 +38,11 @@ def parse_bool_env(env_name, default_value=False):
 
 MAX_CONCURRENT_TABS_COLLECTOR = parse_int_env("PCPP_COLLECTOR_CONCURRENCY", 1)
 MAX_CONCURRENT_TABS_SCRAPER = parse_int_env("PCPP_SCRAPER_CONCURRENCY", 1)
-PCPP_CLOUDFLARE_TIMEOUT = parse_int_env("PCPP_CLOUDFLARE_TIMEOUT", 25)
 PCPP_READY_TIMEOUT = parse_int_env("PCPP_READY_TIMEOUT", 20)
 PCPP_NAVIGATION_TIMEOUT = parse_int_env("PCPP_NAVIGATION_TIMEOUT", 120)
 PCPP_ALLOW_BACKGROUND_TABS = parse_bool_env("PCPP_ALLOW_BACKGROUND_TABS", False)
+PCPP_CAPTURE_ENABLED = parse_bool_env("PCPP_CAPTURE_ENABLED", False)
+PCPP_PERMISSION_REFERENCE = os.environ.get("PCPP_PERMISSION_REFERENCE", "").strip()
 
 if not PCPP_ALLOW_BACKGROUND_TABS:
     if MAX_CONCURRENT_TABS_COLLECTOR > 1:
@@ -153,47 +154,6 @@ async def wait_for_any_selector(page, selectors, timeout=PCPP_READY_TIMEOUT):
     return False
 
 
-async def click_cloudflare_turnstile(page, timeout=PCPP_CLOUDFLARE_TIMEOUT):
-    await focus_page(page)
-    deadline = asyncio.get_event_loop().time() + timeout
-    last_error = None
-
-    while asyncio.get_event_loop().time() < deadline:
-        try:
-            shadow_roots = await page.find_shadow_roots(deep=True, timeout=1)
-        except Exception as exc:
-            last_error = exc
-            shadow_roots = []
-
-        for shadow_root in shadow_roots:
-            try:
-                shadow_html = await shadow_root.inner_html
-            except Exception:
-                shadow_html = ""
-
-            if (
-                "challenges.cloudflare.com" not in shadow_html
-                and "turnstile" not in shadow_html.lower()
-                and "cb-i" not in shadow_html
-            ):
-                continue
-
-            for selector in ("span.cb-i", "input[type='checkbox']"):
-                try:
-                    checkbox = await shadow_root.query(selector, timeout=1, raise_exc=False)
-                    if checkbox:
-                        print(f"[PCPP] Clicking Cloudflare Turnstile checkbox ({selector}).")
-                        await checkbox.click()
-                        return True
-                except Exception as exc:
-                    last_error = exc
-
-        await asyncio.sleep(0.5)
-
-    print(f"[PCPP] Cloudflare Turnstile checkbox not clickable: {last_error}")
-    return False
-
-
 async def open_pcpp_page(page, url, ready_selectors, label=None):
     label = label or url
     await focus_page(page)
@@ -209,29 +169,11 @@ async def open_pcpp_page(page, url, ready_selectors, label=None):
         return True
 
     title = await safe_page_title(page)
-    print(f"[PCPP] Page not ready for {label}. title={title!r}. Trying Cloudflare handling.")
-
-    clicked = await click_cloudflare_turnstile(page, timeout=PCPP_CLOUDFLARE_TIMEOUT)
-    if clicked:
-        await focus_page(page)
-        await asyncio.sleep(random.uniform(6, 10))
-        if await wait_for_any_selector(page, ready_selectors, timeout=PCPP_READY_TIMEOUT):
-            return True
-
-        try:
-            await focus_page(page)
-            await page.go_to(url, timeout=PCPP_NAVIGATION_TIMEOUT)
-            await asyncio.sleep(random.uniform(3, 5))
-        except Exception as exc:
-            print(f"[PCPP] Retry navigation error for {label}: {exc}")
-            return False
-
-        if await wait_for_any_selector(page, ready_selectors, timeout=PCPP_READY_TIMEOUT):
-            return True
-
-    final_title = await safe_page_title(page)
-    if is_cloudflare_title(final_title) or clicked:
-        print(f"[PCPP] Cloudflare still blocking {label}. Keeping it pending.")
+    if is_cloudflare_title(title):
+        print(
+            f"[PCPP] Challenge detected for {label}. No automated challenge handling is allowed; "
+            "keeping it pending."
+        )
     else:
         print(f"[PCPP] Expected content did not load for {label}. Keeping it pending.")
     return False
@@ -476,6 +418,19 @@ async def scrape_product_details(sem, browser, url):
 # ORQUESTADOR PRINCIPAL
 # ==========================================
 async def main():
+    if not PCPP_CAPTURE_ENABLED:
+        print(
+            "[PCPP] Capture is suspended. Historical files remain read-only. "
+            "Set PCPP_CAPTURE_ENABLED only after obtaining written permission."
+        )
+        return
+    if not PCPP_PERMISSION_REFERENCE:
+        print(
+            "[PCPP] Capture refused: PCPP_PERMISSION_REFERENCE must identify the written permission "
+            "or data agreement that authorizes this source."
+        )
+        return
+
     visited_links = load_set_from_file(VISITED_FILE)
     links_to_visit = load_set_from_file(LINKSTOVISIT_FILE)
 
@@ -486,7 +441,7 @@ async def main():
         "PCPP settings: "
         f"collector_concurrency={MAX_CONCURRENT_TABS_COLLECTOR}, "
         f"scraper_concurrency={MAX_CONCURRENT_TABS_SCRAPER}, "
-        f"cloudflare_timeout={PCPP_CLOUDFLARE_TIMEOUT}s"
+        f"permission_reference={PCPP_PERMISSION_REFERENCE!r}"
     )
 
     options = ChromiumOptions()

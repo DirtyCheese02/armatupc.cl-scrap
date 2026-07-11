@@ -451,6 +451,7 @@ def run_woocommerce_store(
     output_prefix: str,
     category_listing_urls: dict[str, Any] | None = None,
     html_fallback_config: dict[str, Any] | None = None,
+    part_number_picker: Callable[[dict[str, Any]], str | None] | None = None,
 ) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(base_url)
@@ -501,15 +502,18 @@ def run_woocommerce_store(
                         image_texts = []
                         for image in images:
                             image_texts.extend([image.get("alt"), image.get("name")])
-                        part_number = pick_part_number(
-                            [product.get("sku")],
-                            [
-                                *image_texts,
-                                product.get("short_description"),
-                                product.get("description"),
-                                name,
-                            ],
-                        )
+                        if part_number_picker:
+                            part_number = part_number_picker(product)
+                        else:
+                            part_number = pick_part_number(
+                                [product.get("sku")],
+                                [
+                                    *image_texts,
+                                    product.get("short_description"),
+                                    product.get("description"),
+                                    name,
+                                ],
+                            )
                         if not part_number:
                             skipped_without_part += 1
                             continue

@@ -7,3 +7,4 @@ beautifulsoup4
 lxml
 pydoll-python
 Pillow
+pydantic==2.12.5

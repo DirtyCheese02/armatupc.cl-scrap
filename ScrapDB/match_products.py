@@ -30,6 +30,8 @@ MAX_REASONABLE_CLP_PRICE = 100_000_000
 MIN_REASONABLE_PUBLISH_PRICE = int(os.environ.get("MIN_REASONABLE_PUBLISH_PRICE", "1000"))
 PRICE_ANOMALY_MAX_MULTIPLIER = float(os.environ.get("PRICE_ANOMALY_MAX_MULTIPLIER", "4"))
 PRICE_ANOMALY_MIN_MULTIPLIER = float(os.environ.get("PRICE_ANOMALY_MIN_MULTIPLIER", "0.25"))
+MIN_STOCK_MARKOUT_MATCH_RATE = float(os.environ.get("MIN_STOCK_MARKOUT_MATCH_RATE", "0.80"))
+OFFER_TTL_HOURS = int(os.environ.get("OFFER_TTL_HOURS", "48"))
 SCRAPER_SUMMARY_PATH = os.environ.get("SCRAPER_SUMMARY_PATH", "").strip()
 SCRAPE_RUN_ID = os.environ.get("SCRAPE_RUN_ID", "").strip() or str(uuid_lib.uuid4())
 DB_RETRY_ATTEMPTS = 4
@@ -301,13 +303,16 @@ def optional_db_request(table_name, label, request_factory):
 
 def optional_insert_rows(table_name, rows, chunk_size=250):
     if not rows:
-        return
+        return True
     for batch in chunked(rows, chunk_size):
-        optional_db_request(
+        result = optional_db_request(
             table_name,
             f"{table_name} insert {len(batch)} rows",
             lambda batch=batch: get_supabase().table(table_name).insert(batch),
         )
+        if result is None:
+            return False
+    return True
 
 def get_or_create_store(store_name):
     res = execute_db_request(
@@ -358,17 +363,23 @@ def scraper_result_for_store(store_name, scraper_result_map):
     return None
 
 def create_scrape_run(summary):
+    metadata = dict(summary or {})
+    metadata["quality_policy"] = {
+        "offer_ttl_hours": OFFER_TTL_HOURS,
+        "minimum_stock_markout_match_rate": MIN_STOCK_MARKOUT_MATCH_RATE,
+        "missing_snapshots_before_markout": 2,
+    }
     optional_db_request(
         "scrape_runs",
         f"scrape_runs upsert {SCRAPE_RUN_ID}",
         lambda: get_supabase().table("scrape_runs").upsert({
             "id": SCRAPE_RUN_ID,
-            "source": os.environ.get("SCRAPE_SOURCE", "scraper"),
+            "source": os.environ.get("SCRAPE_SOURCE") or summary.get("source") or "scraper",
             "status": "running",
             "started_at": summary.get("run_started_at_utc") or now_iso(),
             "scraper_count": int(summary.get("scraper_count") or 0),
             "summary_path": SCRAPER_SUMMARY_PATH or None,
-            "metadata": summary,
+            "metadata": metadata,
             "updated_at": now_iso(),
         }, on_conflict="id"),
     )
@@ -422,11 +433,49 @@ def create_store_run(store_id, store_name, scraper_result, metrics):
         return result.data[0].get("id")
     return None
 
-def should_allow_stock_markout(raw_count, matched_count, scraper_result=None):
-    if scraper_result and not scraper_result.get("success", False):
+def scraper_result_is_partial(scraper_result, raw_count):
+    if not scraper_result:
+        return True
+    if scraper_result.get("partial") is True or scraper_result.get("output_complete") is False:
+        return True
+    if scraper_result.get("timed_out"):
+        return True
+    if scraper_result.get("failure_reason"):
+        return True
+
+    expected_json_count = scraper_result.get("json_count")
+    if isinstance(expected_json_count, int) and expected_json_count > raw_count:
+        return True
+    return False
+
+
+def should_allow_stock_markout(
+    raw_count,
+    matched_count,
+    scraper_result=None,
+    *,
+    anomaly_count=0,
+    error_count=0,
+    input_error_count=0,
+):
+    if not scraper_result:
+        return False, "missing_scraper_telemetry"
+    if not scraper_result.get("success", False):
         return False, "scraper_failed"
     if raw_count <= 0:
         return False, "empty_output"
+    if matched_count <= 0:
+        return False, "zero_matches"
+    if scraper_result_is_partial(scraper_result, raw_count):
+        return False, "partial_output"
+    if anomaly_count > 0:
+        return False, "price_anomalies"
+    if error_count > 0 or input_error_count > 0:
+        return False, "processing_errors"
+
+    match_rate = matched_count / raw_count
+    if match_rate < MIN_STOCK_MARKOUT_MATCH_RATE:
+        return False, "low_match_rate"
     return True, "healthy_scrape"
 
 def find_manual_override(tables, store_name, raw_type, part_number):
@@ -517,14 +566,9 @@ def find_spec_match(tables, part_number, store_name=None, raw_type=None):
 
     for table_name in target_tables:
         for candidate in candidates:
-            try:
-                spec_id, found_table, method, score = lookup_exact_part_number(table_name, candidate)
-                if spec_id and found_table:
-                    return spec_id, found_table, method, score
-            except Exception as e:
-                if is_transient_db_error(e):
-                    raise
-                continue
+            spec_id, found_table, method, score = lookup_exact_part_number(table_name, candidate)
+            if spec_id and found_table:
+                return spec_id, found_table, method, score
     return None, None, None, None
 
 def find_spec_id(tables, part_number):
@@ -592,8 +636,11 @@ def upsert_product_pricing(store_name, spec_id, data, store_id):
             return upsert_product_pricing(store_name, spec_id, data, store_id)
         raise
 
-def mark_product_out_of_stock(store_name, store_id, spec_id):
+def mark_products_out_of_stock(store_name, store_id, spec_ids):
     global PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED
+    normalized_ids = sorted({str(spec_id) for spec_id in spec_ids if spec_id})
+    if not normalized_ids:
+        return None
     payload = {
         "StockStatus": False,
         "LastUpdated": now_iso(),
@@ -605,17 +652,107 @@ def mark_product_out_of_stock(store_name, store_id, spec_id):
         })
     try:
         return execute_db_request(
-            f"ProductPricing stock update {store_name} {spec_id}",
+            f"ProductPricing atomic stock update {store_name} {len(normalized_ids)} products",
             lambda payload=payload: get_supabase().table("ProductPricing").update(payload)
-                .eq("SpecId", spec_id)
-                .eq("StoreId", store_id),
+                .eq("StoreId", store_id)
+                .eq("StockStatus", True)
+                .in_("SpecId", normalized_ids),
         )
     except Exception as error:
         if PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED and is_optional_schema_error(error):
             PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED = False
             print("   [WARN] ProductPricing sin columnas nuevas; reintentando stock legacy.")
-            return mark_product_out_of_stock(store_name, store_id, spec_id)
+            return mark_products_out_of_stock(store_name, store_id, normalized_ids)
         raise
+
+
+def mark_product_out_of_stock(store_name, store_id, spec_id):
+    return mark_products_out_of_stock(store_name, store_id, [spec_id])
+
+
+def parse_utc_datetime(value):
+    if not value:
+        return None
+    try:
+        parsed = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except (TypeError, ValueError):
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def get_previous_healthy_snapshot_started_at(store_id):
+    result = optional_db_request(
+        "scraper_store_runs",
+        f"scraper_store_runs previous healthy snapshot {store_id}",
+        lambda: get_supabase().table("scraper_store_runs")
+            .select("started_at,created_at")
+            .eq("store_id", store_id)
+            .eq("status", "success")
+            .eq("output_empty", False)
+            .eq("anomaly_count", 0)
+            .eq("error_count", 0)
+            .gte("match_rate", MIN_STOCK_MARKOUT_MATCH_RATE)
+            .neq("scrape_run_id", SCRAPE_RUN_ID)
+            .order("created_at", desc=True)
+            .limit(1),
+    )
+    if not result or not result.data:
+        return None
+    row = result.data[0]
+    return parse_utc_datetime(row.get("started_at") or row.get("created_at"))
+
+
+def ids_missing_from_two_healthy_snapshots(active_rows, seen_ids, previous_snapshot_started_at):
+    cutoff = parse_utc_datetime(previous_snapshot_started_at)
+    if cutoff is None:
+        return set()
+
+    missing_ids = set()
+    for row in active_rows or []:
+        spec_id = row.get("SpecId")
+        if not spec_id or spec_id in seen_ids:
+            continue
+        last_seen_at = parse_utc_datetime(row.get("LastSeenAt"))
+        if last_seen_at is not None and last_seen_at < cutoff:
+            missing_ids.add(spec_id)
+    return missing_ids
+
+
+def load_active_product_presence(store_name, store_id):
+    global PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED
+    if not PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED:
+        return None
+    try:
+        result = execute_db_request(
+            f"ProductPricing active presence select {store_name}",
+            lambda: get_supabase().table("ProductPricing")
+                .select("SpecId,LastSeenAt")
+                .eq("StoreId", store_id)
+                .eq("StockStatus", True),
+        )
+        return result.data or []
+    except Exception as error:
+        if is_optional_schema_error(error):
+            PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED = False
+            print("   [WARN] ProductPricing sin LastSeenAt; markout deshabilitado por seguridad.")
+            return None
+        raise
+
+
+def update_store_run_markout_outcome(store_run_id, allowed, reason):
+    if not store_run_id:
+        return
+    optional_db_request(
+        "scraper_store_runs",
+        f"scraper_store_runs markout outcome {store_run_id}",
+        lambda: get_supabase().table("scraper_store_runs").update({
+            "stock_markout_allowed": allowed,
+            "stock_markout_reason": reason,
+            "updated_at": now_iso(),
+        }).eq("id", store_run_id),
+    )
 
 def update_store_scrape_status(store_id, metrics):
     global STORE_QUALITY_COLUMNS_ENABLED
@@ -624,7 +761,6 @@ def update_store_scrape_status(store_id, metrics):
     }
     if STORE_QUALITY_COLUMNS_ENABLED:
         payload.update({
-            "LastSuccessfulScrapedAt": now_iso() if metrics["stock_markout_allowed"] else None,
             "LastScrapeStatus": metrics["status"],
             "LastScrapeMatchRate": metrics["match_rate"],
             "LastScrapeRawCount": metrics["raw_count"],
@@ -632,6 +768,8 @@ def update_store_scrape_status(store_id, metrics):
             "LastScrapeUnmatchedCount": metrics["unmatched_count"],
             "LastScrapeRunId": SCRAPE_RUN_ID,
         })
+        if metrics.get("snapshot_healthy"):
+            payload["LastSuccessfulScrapedAt"] = now_iso()
     try:
         return execute_db_request(
             f"Stores scrape status update {store_id}",
@@ -925,6 +1063,7 @@ def process_daily_scraps():
 
 def build_raw_row(item, store_id, store_name, match_status, parsed_price=None, matched_spec_id=None, matched_table=None, anomaly_reason=None, store_run_id=None):
     return {
+        "id": str(uuid_lib.uuid4()),
         "scrape_run_id": SCRAPE_RUN_ID,
         "scraper_store_run_id": store_run_id,
         "store_id": store_id,
@@ -932,7 +1071,7 @@ def build_raw_row(item, store_id, store_name, match_status, parsed_price=None, m
         "source_file": item.get("_source_file"),
         "source_url": item.get("url"),
         "scraped_category": item.get("type"),
-        "scraped_name": first_text(item, "name", "title", "product_name"),
+        "scraped_name": first_text(item, "scraped_name", "name", "title", "product_name", "productName", "nombre"),
         "scraped_part_number": first_text(item, "part #", "part_number", "sku", "mpn"),
         "normalized_part_number": normalize_part_number(first_text(item, "part #", "part_number", "sku", "mpn")),
         "raw_price": str(item.get("price") or ""),
@@ -944,8 +1083,9 @@ def build_raw_row(item, store_id, store_name, match_status, parsed_price=None, m
         "anomaly_reason": anomaly_reason,
     }
 
-def build_match_candidate_row(store_id, store_name, item, spec_id, spec_table_name, method, score, status="selected"):
+def build_match_candidate_row(store_id, store_name, item, spec_id, spec_table_name, method, score, status="selected", raw_id=None):
     return {
+        "raw_id": raw_id,
         "scrape_run_id": SCRAPE_RUN_ID,
         "store_id": store_id,
         "store_name": store_name,
@@ -980,7 +1120,9 @@ def process_daily_scraps():
         "error_count": 0,
         "match_rate": 0,
         "duration_seconds": None,
+        "warning_store_count": 0,
     }
+    input_error_count = 0
 
     if not os.path.exists(SCRAP_OUTPUT_DIR):
         print("[match] Directorio de outputs no encontrado.")
@@ -1005,8 +1147,13 @@ def process_daily_scraps():
                             store_batches.setdefault(s_name, [])
                             item["_source_file"] = filename
                             store_batches[s_name].append(item)
+                        else:
+                            totals["error_count"] += 1
+                            input_error_count += 1
+                            print(f"[match] Item sin store_name en {filename}; markout deshabilitado.")
             except Exception as error:
                 totals["error_count"] += 1
+                input_error_count += 1
                 print(f"[match] Error leyendo {filename}: {error}")
 
     for store_name, items in store_batches.items():
@@ -1016,7 +1163,7 @@ def process_daily_scraps():
         scraper_result = scraper_result_for_store(store_name, scraper_result_map)
 
         unique_products_today = {}
-        found_ids_today = set()
+        seen_ids_today = set()
         unmatched_buffer = []
         raw_rows = []
         candidate_rows = []
@@ -1058,21 +1205,23 @@ def process_daily_scraps():
                 unmatched_buffer.append(f"[{source_file}] {url} | TYPE: {raw_type} | PN: {part_num}")
                 continue
 
+            # A matched product was present in this snapshot even when its price is
+            # quarantined. Anomalies must never be interpreted as stock absence.
+            seen_ids_today.add(spec_id)
             anomaly_reason = detect_price_anomaly(store_id, spec_id, found_table, price_int)
             if anomaly_reason:
                 anomaly_count += 1
-                raw_rows.append(
-                    build_raw_row(
-                        item,
-                        store_id,
-                        store_name,
-                        "price_anomaly",
-                        parsed_price=price_int,
-                        matched_spec_id=spec_id,
-                        matched_table=found_table,
-                        anomaly_reason=anomaly_reason,
-                    )
+                raw_row = build_raw_row(
+                    item,
+                    store_id,
+                    store_name,
+                    "price_anomaly",
+                    parsed_price=price_int,
+                    matched_spec_id=spec_id,
+                    matched_table=found_table,
+                    anomaly_reason=anomaly_reason,
                 )
+                raw_rows.append(raw_row)
                 candidate_rows.append(
                     build_match_candidate_row(
                         store_id,
@@ -1083,22 +1232,22 @@ def process_daily_scraps():
                         match_method,
                         match_score,
                         status="rejected",
+                        raw_id=raw_row["id"],
                     )
                 )
                 continue
 
             matched_count += 1
-            raw_rows.append(
-                build_raw_row(
-                    item,
-                    store_id,
-                    store_name,
-                    "matched",
-                    parsed_price=price_int,
-                    matched_spec_id=spec_id,
-                    matched_table=found_table,
-                )
+            raw_row = build_raw_row(
+                item,
+                store_id,
+                store_name,
+                "matched",
+                parsed_price=price_int,
+                matched_spec_id=spec_id,
+                matched_table=found_table,
             )
+            raw_rows.append(raw_row)
             candidate_rows.append(
                 build_match_candidate_row(
                     store_id,
@@ -1108,6 +1257,7 @@ def process_daily_scraps():
                     found_table,
                     match_method,
                     match_score,
+                    raw_id=raw_row["id"],
                 )
             )
 
@@ -1125,8 +1275,25 @@ def process_daily_scraps():
                 unique_products_today[spec_id] = product_data
 
         match_rate = matched_count / raw_count if raw_count else 0
-        stock_markout_allowed, stock_markout_reason = should_allow_stock_markout(raw_count, matched_count, scraper_result)
-        status = "success" if stock_markout_allowed else ("failed" if scraper_result and not scraper_result.get("success", False) else "warning")
+        snapshot_healthy, stock_markout_reason = should_allow_stock_markout(
+            raw_count,
+            matched_count,
+            scraper_result,
+            anomaly_count=anomaly_count,
+            error_count=error_count,
+            input_error_count=input_error_count,
+        )
+        previous_snapshot_started_at = None
+        stock_markout_allowed = snapshot_healthy
+        if snapshot_healthy:
+            previous_snapshot_started_at = get_previous_healthy_snapshot_started_at(store_id)
+            if previous_snapshot_started_at is None:
+                stock_markout_allowed = False
+                stock_markout_reason = "awaiting_second_healthy_snapshot"
+
+        status = "success" if snapshot_healthy else (
+            "failed" if scraper_result and not scraper_result.get("success", False) else "warning"
+        )
         store_metrics = {
             "raw_count": raw_count,
             "matched_count": matched_count,
@@ -1138,14 +1305,18 @@ def process_daily_scraps():
             "stock_markout_allowed": stock_markout_allowed,
             "stock_markout_reason": stock_markout_reason,
             "status": status,
+            "snapshot_healthy": snapshot_healthy,
         }
         store_run_id = create_store_run(store_id, store_name, scraper_result, store_metrics)
         if store_run_id:
             for row in raw_rows:
                 row["scraper_store_run_id"] = store_run_id
 
-        optional_insert_rows("scraped_products_raw", raw_rows)
-        optional_insert_rows("match_candidates", candidate_rows)
+        raw_rows_inserted = optional_insert_rows("scraped_products_raw", raw_rows)
+        if raw_rows_inserted:
+            optional_insert_rows("match_candidates", candidate_rows)
+        elif candidate_rows:
+            print("   [WARN] Se omiten match_candidates porque scraped_products_raw no esta disponible.")
 
         if unmatched_buffer:
             with open(LOG_FILE, 'a', encoding='utf-8') as log:
@@ -1160,7 +1331,6 @@ def process_daily_scraps():
         print(f"[match] Insertando {len(unique_products_today)} productos unicos en DB.")
 
         for spec_id, data in unique_products_today.items():
-            found_ids_today.add(spec_id)
             upsert_product_pricing(store_name, spec_id, data, store_id)
             execute_db_request(
                 f"PriceHistory insert {store_name} {spec_id}",
@@ -1177,23 +1347,30 @@ def process_daily_scraps():
                 process_product_image(spec_id, data["table"], data["image_url"])
 
         if stock_markout_allowed:
-            active_products = execute_db_request(
-                f"ProductPricing active select {store_name}",
-                lambda: get_supabase().table("ProductPricing")
-                    .select("SpecId")
-                    .eq("StoreId", store_id)
-                    .eq("StockStatus", True),
-            )
-            active_ids_db = {row['SpecId'] for row in active_products.data}
-            missing_ids = active_ids_db - found_ids_today
-
-            if missing_ids:
-                print(f"[match] {len(missing_ids)} productos marcados como no disponibles para {store_name}.")
-                for missing in missing_ids:
-                    mark_product_out_of_stock(store_name, store_id, missing)
+            active_rows = load_active_product_presence(store_name, store_id)
+            if active_rows is None:
+                stock_markout_allowed = False
+                stock_markout_reason = "last_seen_unavailable"
+            else:
+                missing_ids = ids_missing_from_two_healthy_snapshots(
+                    active_rows,
+                    seen_ids_today,
+                    previous_snapshot_started_at,
+                )
+                if missing_ids:
+                    print(
+                        f"[match] {len(missing_ids)} productos ausentes en dos snapshots saludables; "
+                        f"se marcan no disponibles para {store_name}."
+                    )
+                    # A single PostgREST update maps to one atomic SQL statement.
+                    # If it fails, no loop can leave a partially marked-out store.
+                    mark_products_out_of_stock(store_name, store_id, missing_ids)
         else:
             print(f"[match] Se omite marcado sin stock para {store_name}: {stock_markout_reason}.")
 
+        store_metrics["stock_markout_allowed"] = stock_markout_allowed
+        store_metrics["stock_markout_reason"] = stock_markout_reason
+        update_store_run_markout_outcome(store_run_id, stock_markout_allowed, stock_markout_reason)
         update_store_scrape_status(store_id, store_metrics)
 
         totals["store_count"] += 1
@@ -1202,11 +1379,13 @@ def process_daily_scraps():
         totals["unmatched_count"] += unmatched_count
         totals["anomaly_count"] += anomaly_count
         totals["error_count"] += error_count
+        if not snapshot_healthy:
+            totals["warning_store_count"] += 1
 
     totals["match_rate"] = totals["matched_count"] / totals["raw_count"] if totals["raw_count"] else 0
     totals["duration_seconds"] = round((datetime.now(timezone.utc) - run_started).total_seconds(), 2)
     final_status = "success"
-    if totals["error_count"] or totals["anomaly_count"]:
+    if totals["error_count"] or totals["anomaly_count"] or totals["warning_store_count"]:
         final_status = "partial_success"
     if totals["raw_count"] == 0:
         final_status = "failed"

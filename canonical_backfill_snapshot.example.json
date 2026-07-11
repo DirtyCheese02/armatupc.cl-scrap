@@ -1,0 +1,19 @@
+{
+  "snapshotFormatVersion": 1,
+  "specifications": {
+    "CPUSpecifications": [],
+    "GpuSpecifications": [],
+    "MotherboardSpecifications": []
+  },
+  "ProductPricing": [],
+  "Stores": [],
+  "canonical": {
+    "products": [],
+    "product_identifiers": [],
+    "merchant_listings": [],
+    "offers": [],
+    "source_provenance": [],
+    "legacy_product_refs": [],
+    "scrape_runs": []
+  }
+}

@@ -5,6 +5,7 @@ import json
 import os
 import re
 import shutil
+import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -114,6 +115,9 @@ def collect_scraper_results(log_roots: list[Path]) -> tuple[list[dict[str, Any]]
                 {
                     "path": _repo_relative(summary_path),
                     "run_id": summary.get("run_id"),
+                    "scrape_run_id": summary.get("scrape_run_id"),
+                    "parent_scrape_run_id": summary.get("parent_scrape_run_id"),
+                    "source": summary.get("source"),
                     "run_started_at_utc": summary.get("run_started_at_utc"),
                     "final_exit_code": summary.get("final_exit_code"),
                     "scraper_failures": summary.get("scraper_failures"),
@@ -129,6 +133,8 @@ def collect_scraper_results(log_roots: list[Path]) -> tuple[list[dict[str, Any]]
                 enriched = dict(item)
                 enriched["_summary_path"] = _repo_relative(summary_path)
                 enriched["_summary_run_id"] = summary.get("run_id")
+                enriched["_scrape_run_id"] = summary.get("scrape_run_id")
+                enriched["_parent_scrape_run_id"] = summary.get("parent_scrape_run_id")
                 enriched["_sort_started_at"] = _item_started_at(summary, item)
 
                 previous = latest_by_name.get(normalized_name)
@@ -149,6 +155,11 @@ def _manifest_entry(item: dict[str, Any]) -> dict[str, Any]:
         "return_code": item.get("return_code"),
         "timed_out": bool(item.get("timed_out")),
         "failure_reason": item.get("failure_reason"),
+        "partial": bool(item.get("partial")),
+        "output_complete": item.get("output_complete"),
+        "started_at_utc": item.get("started_at_utc"),
+        "finished_at_utc": item.get("finished_at_utc"),
+        "duration_seconds": item.get("duration_seconds"),
         "headless": item.get("headless"),
         "used_headful_retry": item.get("used_headful_retry"),
         "headful_retry_attempted": item.get("headful_retry_attempted"),
@@ -158,7 +169,21 @@ def _manifest_entry(item: dict[str, Any]) -> dict[str, Any]:
         "log_file": item.get("log_file"),
         "summary_path": item.get("_summary_path"),
         "summary_run_id": item.get("_summary_run_id"),
+        "scrape_run_id": item.get("_scrape_run_id"),
+        "parent_scrape_run_id": item.get("_parent_scrape_run_id"),
     }
+
+
+def _coalesced_run_id(summaries: list[dict[str, Any]], key: str, *, fallback_seed: str) -> tuple[str | None, list[str]]:
+    values = sorted({str(item.get(key)) for item in summaries if item.get(key)})
+    if not values:
+        if key == "parent_scrape_run_id":
+            return None, []
+        return str(uuid.uuid5(uuid.NAMESPACE_URL, fallback_seed)), []
+    if len(values) == 1:
+        return values[0], values
+    aggregate = str(uuid.uuid5(uuid.NAMESPACE_URL, f"{fallback_seed}:{':'.join(values)}"))
+    return aggregate, values
 
 
 def _delete_output_dirs(entries: list[dict[str, Any]], outputs_root: Path) -> list[dict[str, Any]]:
@@ -216,6 +241,8 @@ def write_github_outputs(manifest: dict[str, Any]) -> None:
         "failed_count": str(len(manifest["failed_scrapers"])),
         "successful_count": str(len(manifest["successful_scrapers"])),
         "remaining_json_count": str(manifest["remaining_json_count"]),
+        "scrape_run_id": str(manifest.get("scrape_run_id") or ""),
+        "parent_scrape_run_id": str(manifest.get("parent_scrape_run_id") or ""),
         "has_failures": "true" if manifest["failed_scrapers"] else "false",
         "has_remaining_json": "true" if manifest["remaining_json_count"] > 0 else "false",
     }
@@ -239,10 +266,29 @@ def build_manifest(
     failed = [entry for entry in entries if not entry["success"]]
     successful = [entry for entry in entries if entry["success"]]
 
+    summary_seed = "armatupc:manifest:" + ":".join(
+        sorted(str(item.get("path") or item.get("run_id") or "") for item in summaries)
+    )
+    scrape_run_id, source_scrape_run_ids = _coalesced_run_id(
+        summaries,
+        "scrape_run_id",
+        fallback_seed=summary_seed,
+    )
+    parent_scrape_run_id, source_parent_run_ids = _coalesced_run_id(
+        summaries,
+        "parent_scrape_run_id",
+        fallback_seed=f"{summary_seed}:parent",
+    )
+
     pruned_output_dirs = _delete_output_dirs(failed, outputs_root) if prune_failed else []
 
     manifest = {
         "generated_at_utc": _utc_now(),
+        "scrape_run_id": scrape_run_id,
+        "parent_scrape_run_id": parent_scrape_run_id,
+        "source_scrape_run_ids": source_scrape_run_ids,
+        "source_parent_scrape_run_ids": source_parent_run_ids,
+        "source": next((item.get("source") for item in summaries if item.get("source")), "scraper"),
         "log_roots": [_repo_relative(root) for root in log_roots],
         "outputs_root": _repo_relative(outputs_root),
         "summary_files": summaries,
@@ -252,6 +298,7 @@ def build_manifest(
         "successful_output_dirs": sorted(entry["output_dir"] for entry in successful if entry.get("output_dir")),
         "failed": sorted(failed, key=lambda item: item["name"].lower()),
         "successful": sorted(successful, key=lambda item: item["name"].lower()),
+        "scraper_results": sorted(entries, key=lambda item: item["name"].lower()),
         "pruned_output_dirs": pruned_output_dirs,
         "remaining_json_count": _count_json_files(outputs_root),
     }

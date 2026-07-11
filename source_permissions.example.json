@@ -1,0 +1,14 @@
+{
+  "catalog:pcpartpicker": {
+    "permissionStatus": "not_documented",
+    "permissionReference": null,
+    "permissionRecordedAt": null,
+    "monetizationEligible": false
+  },
+  "merchant:example": {
+    "permissionStatus": "written_permission",
+    "permissionReference": "contract-or-email-reference",
+    "permissionRecordedAt": "2026-07-10T00:00:00Z",
+    "monetizationEligible": true
+  }
+}

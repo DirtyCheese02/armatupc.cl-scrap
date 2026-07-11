@@ -1,0 +1,116 @@
+[
+  {
+    "name": "published_price",
+    "payload": {
+      "store_name": "Tienda Demo",
+      "scraped_name": "Procesador AMD Ryzen 5",
+      "scraped_brand": "AMD",
+      "type": "CPU",
+      "part #": "100-100000001BOX",
+      "price": "$129.990",
+      "url": "https://example.cl/productos/ryzen-5",
+      "image_url": "https://example.cl/images/ryzen-5.webp"
+    },
+    "expected": {
+      "cashPrice": null,
+      "cardPrice": null,
+      "normalPrice": 129990,
+      "availability": "unknown"
+    }
+  },
+  {
+    "name": "cash_card_and_normal_prices",
+    "payload": {
+      "store_name": "Tienda Demo",
+      "name": "Tarjeta de video RTX",
+      "brand": "NVIDIA",
+      "category": "VideoCard",
+      "mpn": "RTX-DEMO-16G",
+      "precio_transferencia": "$599.990",
+      "precio_tarjeta": "$629.990",
+      "precio_normal": "$649.990",
+      "url": "https://example.cl/productos/rtx-demo",
+      "stock_status": "en stock"
+    },
+    "expected": {
+      "cashPrice": 599990,
+      "cardPrice": 629990,
+      "normalPrice": 649990,
+      "availability": "available"
+    }
+  },
+  {
+    "name": "multiple_identifiers_and_quantity_stock",
+    "payload": {
+      "store_name": "Tienda Demo",
+      "product_name": "SSD de prueba",
+      "manufacturer": "Demo",
+      "product_type": "Storage",
+      "part_number": "[SSD-DEMO-1TB, SSD-DEMO-1T-OEM]",
+      "gtins": "7801234567890; 00012345678905",
+      "merchant_sku": "SKU-42",
+      "published_price": 89990,
+      "product_url": "https://example.cl/productos/ssd-demo",
+      "stock": 4
+    },
+    "expected": {
+      "mpns": ["SSD-DEMO-1TB", "SSD-DEMO-1T-OEM"],
+      "gtins": ["7801234567890", "00012345678905"],
+      "merchantSku": "SKU-42",
+      "availability": "available"
+    }
+  },
+  {
+    "name": "explicit_out_of_stock",
+    "payload": {
+      "store_name": "Tienda Demo",
+      "scraped_name": "Memoria de prueba",
+      "type": "Memory",
+      "part #": "RAM-DEMO-32G",
+      "price": 79990,
+      "url": "https://example.cl/productos/ram-demo",
+      "in_stock": false
+    },
+    "expected": {
+      "availability": "unavailable"
+    }
+  },
+  {
+    "name": "zero_price_is_quarantined",
+    "payload": {
+      "store_name": "Tienda Demo",
+      "scraped_name": "Fuente con precio inválido",
+      "type": "PowerSupply",
+      "part #": "PSU-DEMO",
+      "price": 0,
+      "url": "https://example.cl/productos/psu-demo"
+    },
+    "errorCode": "invalid_price"
+  },
+  {
+    "name": "source_error_is_quarantined",
+    "payload": {
+      "store_name": "Tienda Demo",
+      "scraped_name": "Gabinete con error de fuente",
+      "type": "Case",
+      "part #": "CASE-DEMO",
+      "price": 59990,
+      "url": "https://example.cl/productos/case-demo",
+      "availability": "error"
+    },
+    "errorCode": "source_error"
+  },
+  {
+    "name": "non_clp_currency_is_quarantined",
+    "payload": {
+      "store_name": "Tienda Demo",
+      "scraped_name": "Producto en moneda incorrecta",
+      "type": "CPU",
+      "part #": "CPU-USD-DEMO",
+      "price": 199,
+      "currency": "USD",
+      "url": "https://example.cl/productos/cpu-usd-demo"
+    },
+    "errorCode": "invalid_currency"
+  }
+]

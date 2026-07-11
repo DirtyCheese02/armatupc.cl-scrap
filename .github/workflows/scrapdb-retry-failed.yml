@@ -162,6 +162,8 @@ jobs:
           SCRAPER_TIMEOUT_OVERRIDES: "Scrap_NiceOne.py=20"
           SCRAPER_NO_HEADFUL_RETRY: "Scrap_NiceOne.py"
           RUN_MATCH_PRODUCTS: "0"
+          SCRAPE_SOURCE: "retry"
+          PARENT_SCRAPE_RUN_ID: ${{ steps.daily-manifest.outputs.scrape_run_id }}
           BROWSER_FALLBACK_COLLECTOR_CONCURRENCY: "2"
           BROWSER_FALLBACK_SCRAPER_CONCURRENCY: "2"
           SPHINX_REQUEST_DELAY_SECONDS: "1.0"
@@ -187,6 +189,10 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
+          PARENT_SCRAPE_RUN_ID: ${{ steps.daily-manifest.outputs.scrape_run_id }}
+          SCRAPE_SOURCE: "retry"
+          SCRAPER_SUMMARY_PATH: ScrapDB/RunLogs/retry-manifest/retry_manifest.json
         run: |
           set -o pipefail
           mkdir -p ScrapDB/RunLogs/match-products
