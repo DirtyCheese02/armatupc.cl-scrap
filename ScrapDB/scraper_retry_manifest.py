@@ -156,6 +156,11 @@ def _manifest_entry(item: dict[str, Any]) -> dict[str, Any]:
         "timed_out": bool(item.get("timed_out")),
         "failure_reason": item.get("failure_reason"),
         "partial": bool(item.get("partial")),
+        "health_status": item.get("health_status"),
+        "expected_categories": item.get("expected_categories") or [],
+        "completed_categories": item.get("completed_categories") or [],
+        "failed_categories": item.get("failed_categories") or [],
+        "blocked_reason": item.get("blocked_reason"),
         "output_complete": item.get("output_complete"),
         "started_at_utc": item.get("started_at_utc"),
         "finished_at_utc": item.get("finished_at_utc"),
@@ -264,7 +269,9 @@ def build_manifest(
 
     entries = [_manifest_entry(item) for item in results]
     failed = [entry for entry in entries if not entry["success"]]
-    successful = [entry for entry in entries if entry["success"]]
+    partial = [entry for entry in entries if entry["success"] and entry["partial"]]
+    successful = [entry for entry in entries if entry["success"] and not entry["partial"]]
+    retryable = [*failed, *partial]
 
     summary_seed = "armatupc:manifest:" + ":".join(
         sorted(str(item.get("path") or item.get("run_id") or "") for item in summaries)
@@ -292,11 +299,14 @@ def build_manifest(
         "log_roots": [_repo_relative(root) for root in log_roots],
         "outputs_root": _repo_relative(outputs_root),
         "summary_files": summaries,
-        "failed_scrapers": sorted(entry["name"] for entry in failed),
+        "failed_scrapers": sorted(entry["name"] for entry in retryable),
+        "hard_failed_scrapers": sorted(entry["name"] for entry in failed),
+        "partial_scrapers": sorted(entry["name"] for entry in partial),
         "successful_scrapers": sorted(entry["name"] for entry in successful),
         "failed_output_dirs": sorted(entry["output_dir"] for entry in failed if entry.get("output_dir")),
         "successful_output_dirs": sorted(entry["output_dir"] for entry in successful if entry.get("output_dir")),
         "failed": sorted(failed, key=lambda item: item["name"].lower()),
+        "partial": sorted(partial, key=lambda item: item["name"].lower()),
         "successful": sorted(successful, key=lambda item: item["name"].lower()),
         "scraper_results": sorted(entries, key=lambda item: item["name"].lower()),
         "pruned_output_dirs": pruned_output_dirs,

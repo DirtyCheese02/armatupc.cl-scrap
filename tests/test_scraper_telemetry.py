@@ -17,6 +17,12 @@ import scraper_retry_manifest
 
 
 class ScraperTelemetryTest(unittest.TestCase):
+    def test_runner_infers_clean_output_dir_assignment(self):
+        inferred = run_all_scrapers._infer_output_dir(
+            ROOT / "ScrapDB" / "PythonsScrap" / "Scrap_TecnoMaster.py"
+        )
+        self.assertEqual(inferred, ROOT / "ScrapDB" / "Outputs" / "TecnoMaster")
+
     def test_github_shards_resolve_the_same_scrape_run_id(self):
         env = {
             "GITHUB_REPOSITORY": "owner/repo",
@@ -75,6 +81,33 @@ class ScraperTelemetryTest(unittest.TestCase):
         self.assertEqual(manifest["source"], "retry")
         self.assertEqual(manifest["scraper_results"][0]["name"], "Scrap_CentralGamer.py")
         self.assertTrue(manifest["scraper_results"][0]["output_complete"])
+
+    def test_partial_scraper_is_retryable_without_being_pruned_as_hard_failure(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            logs = root / "logs"
+            outputs = root / "outputs"
+            logs.mkdir()
+            outputs.mkdir()
+            (logs / "summary.json").write_text(
+                json.dumps({
+                    "run_id": "partial",
+                    "scrape_run_id": str(uuid.uuid4()),
+                    "run_started_at_utc": "2026-07-11T10:00:00+00:00",
+                    "scraper_results": [{
+                        "name": "Scrap_Winpy.py", "success": True, "partial": True,
+                        "output_complete": False, "json_count": 420,
+                        "health_status": "partial_success", "failed_categories": ["UPS"],
+                    }],
+                }), encoding="utf-8"
+            )
+            manifest = scraper_retry_manifest.build_manifest(
+                log_roots=[logs], outputs_root=outputs, prune_failed=True
+            )
+        self.assertIn("Scrap_Winpy.py", manifest["failed_scrapers"])
+        self.assertIn("Scrap_Winpy.py", manifest["partial_scrapers"])
+        self.assertEqual(manifest["hard_failed_scrapers"], [])
+        self.assertEqual(manifest["pruned_output_dirs"], [])
 
     def test_daily_and_retry_workflows_gate_canonical_dual_write(self):
         for workflow_name in ("scrapdb-daily.yml", "scrapdb-retry-failed.yml"):

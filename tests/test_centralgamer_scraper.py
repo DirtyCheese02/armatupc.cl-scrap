@@ -75,6 +75,22 @@ class CentralGamerPartNumberTests(unittest.TestCase):
         finally:
             centralgamer.fetch_text = original_fetch_text
 
+    def test_picker_rejects_description_shaped_mpn(self) -> None:
+        long_description = "Producto gamer con muchas características " * 8
+        product = {
+            "sku": long_description,
+            "permalink": "https://centralgamer.cl/producto/example/",
+            "name": "Producto sin identificador confiable",
+            "short_description": long_description,
+            "description": long_description,
+        }
+        original_fetch_text = centralgamer.fetch_text
+        try:
+            centralgamer.fetch_text = lambda session, url: "<html></html>"
+            self.assertIsNone(centralgamer.pick_centralgamer_part_number(product))
+        finally:
+            centralgamer.fetch_text = original_fetch_text
+
 
 if __name__ == "__main__":
     unittest.main()

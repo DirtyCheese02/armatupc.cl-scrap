@@ -93,7 +93,8 @@ def fetch_json(
                 delay = 1.5 * attempt
                 response = getattr(exc, "response", None)
                 if response is not None and response.status_code in (403, 429):
-                    delay = 10 * attempt
+                    retry_after = response.headers.get("Retry-After", "").strip()
+                    delay = float(retry_after) if retry_after.isdigit() else 10 * attempt
                 time.sleep(delay)
 
     raise RuntimeError(f"Failed to fetch JSON from {url}: {last_error}") from last_error
@@ -118,7 +119,8 @@ def fetch_text(
                 delay = 1.5 * attempt
                 response = getattr(exc, "response", None)
                 if response is not None and response.status_code in (403, 429):
-                    delay = 10 * attempt
+                    retry_after = response.headers.get("Retry-After", "").strip()
+                    delay = float(retry_after) if retry_after.isdigit() else 10 * attempt
                 time.sleep(delay)
 
     raise RuntimeError(f"Failed to fetch HTML from {url}: {last_error}") from last_error
@@ -459,6 +461,7 @@ def run_woocommerce_store(
     saved_count = 0
     skipped_without_part = 0
     seen: set[tuple[str, str]] = set()
+    api_disabled = False
 
     for category_name, query_list in category_queries.items():
         category_saved_before = saved_count
@@ -476,6 +479,8 @@ def run_woocommerce_store(
                 print(f"{store_name} {category_name}: warmup failed for {first_listing_url}: {exc}")
 
         try:
+            if api_disabled:
+                raise RuntimeError("WooCommerce API disabled after an earlier request failure")
             for query in query_list:
                 page = 1
                 while True:
@@ -539,6 +544,7 @@ def run_woocommerce_store(
             if not html_fallback_config:
                 raise
             api_failed = True
+            api_disabled = True
             print(f"{store_name} {category_name}: API failed, trying HTML fallback: {exc}")
 
         if html_fallback_config and category_listing_urls and (

@@ -11,6 +11,7 @@ from pydoll.browser import Chrome
 
 from api_scraper_utils import clean_output_dir, clean_part_number, exit_code_from_count, normalize_price, write_product_json
 from browser_fallback_utils import _env_int, _make_browser_options
+from scraper_health import write_scraper_health
 
 
 BASE_URL = "https://www.winpy.cl"
@@ -183,7 +184,7 @@ async def _collect_category(
     products_to_scrape: list[dict[str, str]],
     seen: set[tuple[str, str]],
     ready_timeout: int,
-) -> None:
+) -> tuple[str, bool, str | None]:
     async with sem:
         page = await browser.new_tab()
         try:
@@ -198,7 +199,7 @@ async def _collect_category(
                 await asyncio.sleep(3)
             if not category_ready:
                 print(f"[Winpy] {category_name}: timed out waiting for category.")
-                return
+                return category_name, False, "category_timeout"
 
             page_urls = await _category_pages(page, category_url)
             print(f"[Winpy] {category_name}: {len(page_urls)} page(s) detected.")
@@ -218,7 +219,7 @@ async def _collect_category(
                         await asyncio.sleep(3)
                     if not page_ready:
                         print(f"[Winpy] {category_name}: timed out waiting for page {index}.")
-                        continue
+                        return category_name, False, f"page_{index}_timeout"
 
                 products = await _products_from_listing(page)
                 new_count = 0
@@ -236,8 +237,10 @@ async def _collect_category(
                     f"[Winpy] {category_name} page {index}/{len(page_urls)}: "
                     f"{new_count} new links ({len(products)} cards)"
                 )
+            return category_name, True, None
         except Exception as exc:
             print(f"[Winpy] collector error {category_name}: {exc}")
+            return category_name, False, str(exc)[:500]
         finally:
             await page.close()
 
@@ -370,7 +373,14 @@ async def _scrape_winpy_async() -> int:
                         ready_timeout=ready_timeout,
                     )
                 )
-        await asyncio.gather(*collect_tasks)
+        collection_results = await asyncio.gather(*collect_tasks)
+        failed_categories = {name for name, ok, _ in collection_results if not ok}
+        completed_categories = set(CATEGORY_URL_MAP) - failed_categories
+        health_errors = [
+            {"category": name, "error": error or "unknown"}
+            for name, ok, error in collection_results
+            if not ok
+        ]
 
         print(f"[Winpy] collected {len(products_to_scrape)} product/category pairs.")
         max_products = int(os.environ.get("BROWSER_FALLBACK_MAX_PRODUCTS", "0") or "0")
@@ -404,6 +414,15 @@ async def _scrape_winpy_async() -> int:
             print(f"[Winpy] saved {saved_count} JSON files so far.")
 
         print(f"[Winpy] scraping finished. Saved {saved_count} JSON files.")
+        write_scraper_health(
+            status="failed" if saved_count == 0 else ("partial_success" if failed_categories else "success"),
+            expected_categories=CATEGORY_URL_MAP,
+            completed_categories=completed_categories,
+            failed_categories=failed_categories,
+            product_count=saved_count,
+            errors=health_errors,
+            blocked_reason="browser_unavailable" if saved_count == 0 else None,
+        )
         return saved_count
     finally:
         try:
@@ -413,7 +432,19 @@ async def _scrape_winpy_async() -> int:
 
 
 def main() -> int:
-    return exit_code_from_count(asyncio.run(_scrape_winpy_async()))
+    try:
+        count = asyncio.run(_scrape_winpy_async())
+    except Exception as exc:
+        write_scraper_health(
+            status="failed",
+            expected_categories=CATEGORY_URL_MAP,
+            completed_categories=(),
+            failed_categories=CATEGORY_URL_MAP,
+            errors=({"category": "*", "error": str(exc)[:500]},),
+            blocked_reason="browser_start_or_runtime_failure",
+        )
+        raise
+    return exit_code_from_count(count)
 
 
 if __name__ == "__main__":

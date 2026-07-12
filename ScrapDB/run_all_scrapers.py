@@ -126,8 +126,17 @@ def _infer_output_dir(script_path: Path) -> Path | None:
     except OSError:
         return None
 
-    match = re.search(r'output_dir\s*=\s*"([^"]+)"', content)
-    if not match:
+    match = None
+    for pattern in (
+        r'output_dir\s*=\s*"([^"]+)"',
+        r"output_dir\s*=\s*'([^']+)'",
+        r'clean_output_dir\(\s*"([^"]+)"\s*\)',
+        r"clean_output_dir\(\s*'([^']+)'\s*\)",
+    ):
+        match = re.search(pattern, content)
+        if match:
+            break
+    if match is None:
         return None
 
     candidate = match.group(1).strip().replace("\\", "/")
@@ -146,6 +155,35 @@ def _count_json_files(path: Path | None) -> int | None:
     if not path.exists():
         return 0
     return len(list(path.glob("*.json")))
+
+
+def _load_health_sidecar(path: Path) -> dict[str, Any] | None:
+    if not path.is_file():
+        return None
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError) as exc:
+        print(f"[WARN] Invalid scraper health sidecar {path}: {exc}")
+        return None
+    if payload.get("status") not in {"success", "partial_success", "failed"}:
+        print(f"[WARN] Ignoring scraper health sidecar with invalid status: {path}")
+        return None
+    return payload
+
+
+def _apply_health_sidecar(result: dict[str, Any], sidecar_path: Path) -> None:
+    health = _load_health_sidecar(sidecar_path)
+    if not health:
+        return
+    result["health_status"] = health["status"]
+    result["expected_categories"] = health.get("expected_categories") or []
+    result["completed_categories"] = health.get("completed_categories") or []
+    result["failed_categories"] = health.get("failed_categories") or []
+    result["health_errors"] = health.get("errors") or []
+    result["blocked_reason"] = health.get("blocked_reason")
+    if health["status"] == "failed":
+        result["success"] = False
+        result.setdefault("failure_reason", health.get("blocked_reason") or "scraper_health_failed")
 
 
 def _build_command(script_path: Path, use_xvfb: bool) -> list[str]:
@@ -270,6 +308,8 @@ def main() -> int:
 
         script_timeout_minutes = scraper_timeout_overrides.get(script_name_l, scraper_timeout_minutes)
         output_dir = _infer_output_dir(scraper_path)
+        health_path = run_dir / f"{scraper_path.stem}.health.json"
+        health_path.unlink(missing_ok=True)
         print(
             f"[{index}/{len(scrapers)}] Running {script_name} "
             f"(headless={'1' if script_headless else '0'}, timeout={script_timeout_minutes}m)..."
@@ -281,12 +321,14 @@ def main() -> int:
             extra_env={
                 "SCRAP_HEADLESS": "1" if script_headless else "0",
                 "SCRAPE_RUN_ID": scrape_run_id,
+                "SCRAPER_HEALTH_FILE": str(health_path),
             },
             use_xvfb=use_xvfb and (not script_headless),
         )
         result["headless"] = script_headless
         result["used_headful_retry"] = False
         result["json_count"] = _count_json_files(output_dir)
+        _apply_health_sidecar(result, health_path)
 
         retry_headful_allowed = script_name_l not in no_headful_retry_scrapers
 
@@ -302,12 +344,14 @@ def main() -> int:
                 extra_env={
                     "SCRAP_HEADLESS": "0",
                     "SCRAPE_RUN_ID": scrape_run_id,
+                    "SCRAPER_HEALTH_FILE": str(health_path),
                 },
                 use_xvfb=use_xvfb,
             )
             retry_result["headless"] = False
             retry_result["used_headful_retry"] = True
             retry_result["json_count"] = _count_json_files(output_dir)
+            _apply_health_sidecar(retry_result, health_path)
             if retry_result["success"]:
                 result = retry_result
             else:
@@ -334,12 +378,14 @@ def main() -> int:
                 extra_env={
                     "SCRAP_HEADLESS": "0",
                     "SCRAPE_RUN_ID": scrape_run_id,
+                    "SCRAPER_HEALTH_FILE": str(health_path),
                 },
                 use_xvfb=use_xvfb,
             )
             retry_result["headless"] = False
             retry_result["used_headful_retry"] = True
             retry_result["json_count"] = _count_json_files(output_dir)
+            _apply_health_sidecar(retry_result, health_path)
             if retry_result["success"] and (retry_result["json_count"] or 0) > 0:
                 result = retry_result
             else:
@@ -357,8 +403,13 @@ def main() -> int:
             )
 
         result["output_dir"] = str(output_dir) if output_dir else None
-        result["output_complete"] = bool(result["success"] and (result["json_count"] or 0) > 0)
-        result["partial"] = not result["output_complete"]
+        health_partial = result.get("health_status") == "partial_success"
+        result["output_complete"] = bool(
+            result["success"] and (result["json_count"] or 0) > 0 and not health_partial
+        )
+        result["partial"] = bool(health_partial or not result["output_complete"])
+        if health_partial:
+            result["failure_reason"] = "partial_categories"
         scraper_results.append(result)
 
         status = "OK" if result["success"] else "FAILED"
@@ -420,10 +471,11 @@ def main() -> int:
         }
 
     scraper_failures = [item for item in scraper_results if not item["success"]]
+    scraper_partials = [item for item in scraper_results if item.get("partial")]
 
     if not match_result["success"]:
         final_exit_code = 1
-    elif scraper_failures:
+    elif scraper_failures or scraper_partials:
         final_exit_code = 2
     else:
         final_exit_code = 0
@@ -444,6 +496,7 @@ def main() -> int:
         "run_match_products": run_match_products,
         "scraper_count": len(scrapers),
         "scraper_failures": len(scraper_failures),
+        "scraper_partials": len(scraper_partials),
         "pre_match_summary_path": str(pre_match_summary_path),
         "scraper_results": scraper_results,
         "match_result": match_result,
@@ -459,7 +512,7 @@ def main() -> int:
     if final_exit_code == 0:
         print("Final status: SUCCESS")
     elif final_exit_code == 2:
-        print("Final status: PARTIAL_SUCCESS (some scrapers failed)")
+        print("Final status: PARTIAL_SUCCESS (some scrapers failed or were incomplete)")
     else:
         print("Final status: FAILED (match step failed)")
 

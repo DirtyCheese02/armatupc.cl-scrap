@@ -1,19 +1,30 @@
 from __future__ import annotations
 
-import asyncio
 import json
-import os
 import re
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Any
-from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 
-from pydoll.browser import Chrome
+from bs4 import BeautifulSoup
 
-from api_scraper_utils import clean_output_dir, clean_part_number, exit_code_from_count, normalize_price, write_product_json
-from browser_fallback_utils import _env_int, _make_browser_options
+from api_scraper_utils import (
+    clean_output_dir,
+    clean_part_number,
+    exit_code_from_count,
+    fetch_text,
+    html_to_text,
+    make_session,
+    normalize_price,
+    write_product_json,
+)
+from scraper_health import write_scraper_health
 
 
 BASE_URL = "https://www.ctman.cl"
+REQUEST_DELAY_SECONDS = 0.5
+MAX_DETAIL_WORKERS = 4
 
 CATEGORY_URL_MAP = {
     "OperatingSystem": "https://www.ctman.cl/collections/software/types/software",
@@ -72,15 +83,6 @@ CATEGORY_URL_MAP = {
 }
 
 
-def _value(result: dict[str, Any] | None) -> str:
-    return (((result or {}).get("result") or {}).get("result") or {}).get("value") or ""
-
-
-async def _json_from_page(page: Any, script: str) -> Any:
-    raw_value = _value(await page.execute_script(script))
-    return json.loads(raw_value or "null")
-
-
 def _build_page_url(url: str, page_number: int) -> str:
     if page_number <= 1:
         return url
@@ -90,252 +92,190 @@ def _build_page_url(url: str, page_number: int) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), parts.fragment))
 
 
-def _clean_text(value: Any) -> str:
-    return re.sub(r"\s+", " ", str(value or "")).strip()
+def _page_count(soup: BeautifulSoup) -> int:
+    values = []
+    for element in soup.select(".pagination a, .pagination span"):
+        text = html_to_text(element)
+        if text.isdigit():
+            values.append(int(text))
+    return max(values, default=1)
 
 
-def _first_part_number(*values: Any) -> str | None:
-    for value in values:
-        part_number = clean_part_number(value)
-        if part_number:
-            return part_number
-    return None
-
-
-async def _wait_for_category(page: Any, timeout_seconds: int) -> bool:
-    deadline = asyncio.get_running_loop().time() + timeout_seconds
-    while asyncio.get_running_loop().time() < deadline:
-        state = await _json_from_page(
-            page,
-            r"""
-return JSON.stringify({
-  title: document.title || "",
-  body: (document.body && document.body.innerText || "").slice(0, 600),
-  productCount: document.querySelectorAll(".product-item").length,
-  hasTotal: Boolean(document.querySelector(".total-products")),
-  hasPagination: Boolean(document.querySelector(".pagination"))
-});
-""",
+def _listing_products(html: str, category: str) -> tuple[list[dict[str, str]], int]:
+    soup = BeautifulSoup(html, "lxml")
+    page_text = html_to_text(soup).casefold()
+    if "just a moment" in page_text or "checking your browser" in page_text or "verificación de seguridad" in page_text:
+        raise RuntimeError("blocked_html_response")
+    products: list[dict[str, str]] = []
+    for card in soup.select(".product-item"):
+        link = card.select_one("a.product-title-link[href]") or card.select_one("a[href*='/products/']")
+        if link is None:
+            continue
+        url = urljoin(BASE_URL, str(link.get("href") or ""))
+        name = html_to_text(link) or html_to_text(card.select_one(".product-name"))
+        image = card.select_one("img[src]")
+        if not url or not name:
+            continue
+        products.append(
+            {
+                "type": category,
+                "url": url,
+                "name": name,
+                "image_url": urljoin(BASE_URL, str(image.get("src") or "")) if image else "",
+            }
         )
-        body = f"{state.get('title', '')} {state.get('body', '')}".lower()
-        if state.get("productCount") or state.get("hasTotal") or state.get("hasPagination"):
-            return True
-        if "página no encontrada" in body or "pagina no encontrada" in body:
-            return True
-        await asyncio.sleep(1)
-    return False
+    if not products and soup.select_one(".total-products, .pagination") is None:
+        raise RuntimeError("unexpected_empty_listing_html")
+    return products, _page_count(soup)
 
 
-async def _category_page_count(page: Any) -> int:
-    data = await _json_from_page(
-        page,
-        r"""
-const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
-const pageNumbers = [...document.querySelectorAll(".pagination *")]
-  .map((element) => clean(element.textContent))
-  .filter((text) => /^\d+$/.test(text))
-  .map((text) => Number(text));
-return JSON.stringify(Math.max(1, ...pageNumbers));
-""",
+def _iter_json_ld(value: Any):
+    if isinstance(value, list):
+        for item in value:
+            yield from _iter_json_ld(item)
+    elif isinstance(value, dict):
+        yield value
+        if "@graph" in value:
+            yield from _iter_json_ld(value["@graph"])
+
+
+def _product_json_ld(soup: BeautifulSoup) -> dict[str, Any]:
+    for script in soup.select("script[type='application/ld+json']"):
+        try:
+            payload = json.loads(script.string or script.get_text() or "null")
+        except (TypeError, ValueError):
+            continue
+        for item in _iter_json_ld(payload):
+            kind = item.get("@type")
+            if kind == "Product" or (isinstance(kind, list) and "Product" in kind):
+                return item
+    return {}
+
+
+def _meta(soup: BeautifulSoup, key: str) -> str:
+    element = soup.select_one(f"meta[property='{key}'], meta[name='{key}']")
+    return str(element.get("content") or "").strip() if element else ""
+
+
+def _brand(value: Any) -> str:
+    if isinstance(value, dict):
+        return html_to_text(value.get("name"))
+    return html_to_text(value)
+
+
+def _offer(value: Any) -> dict[str, Any]:
+    if isinstance(value, list):
+        return next((item for item in value if isinstance(item, dict)), {})
+    return value if isinstance(value, dict) else {}
+
+
+def _detail_product(product: dict[str, str]) -> dict[str, Any] | None:
+    time.sleep(REQUEST_DELAY_SECONDS)
+    session = make_session(BASE_URL)
+    html = fetch_text(session, product["url"], retries=3, timeout=30)
+    soup = BeautifulSoup(html, "lxml")
+    structured = _product_json_ld(soup)
+    offer = _offer(structured.get("offers"))
+
+    name = html_to_text(structured.get("name")) or _meta(soup, "og:title") or product["name"]
+    part_number = clean_part_number(structured.get("mpn") or structured.get("sku"))
+    if not part_number:
+        part_number = clean_part_number(
+            html_to_text(soup.select_one(".product-sku, [itemprop='sku'], [data-sku]"))
+        )
+    if not part_number:
+        slug = urlsplit(product["url"]).path.rstrip("/").split("/")[-1]
+        candidate = slug.split("-", 1)[-1] if "-" in slug else slug
+        part_number = clean_part_number(candidate)
+    if not part_number or len(part_number) > 128:
+        return None
+
+    cash_price = normalize_price(_meta(soup, "product:price:amount") or offer.get("price"))
+    if cash_price in {"N/A", "0"}:
+        return None
+    availability_raw = str(offer.get("availability") or _meta(soup, "product:availability")).lower()
+    availability = "unavailable" if "outofstock" in availability_raw or "out of stock" in availability_raw else "available"
+    image = structured.get("image")
+    if isinstance(image, list):
+        image = image[0] if image else ""
+
+    return {
+        "store_name": "CTMan",
+        "scraped_name": name,
+        "scraped_brand": _brand(structured.get("brand")) or _meta(soup, "product:brand") or "N/A",
+        "type": product["type"],
+        "part #": part_number,
+        "price": cash_price,
+        "cash_price": cash_price,
+        "availability": availability,
+        "url": product["url"],
+        "image_url": html_to_text(image) or _meta(soup, "og:image") or product["image_url"] or "N/A",
+    }
+
+
+def scrape_ctman() -> int:
+    output_dir = clean_output_dir("ScrapDB/Outputs/CTMan")
+    expected = set(CATEGORY_URL_MAP)
+    completed: set[str] = set()
+    failed: set[str] = set()
+    errors: list[dict[str, Any]] = []
+    discovered: dict[str, dict[str, str]] = {}
+    session = make_session(BASE_URL)
+
+    for category, raw_urls in CATEGORY_URL_MAP.items():
+        category_ok = True
+        urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
+        for category_url in urls:
+            try:
+                first_html = fetch_text(session, category_url, retries=3, timeout=30)
+                first_products, pages = _listing_products(first_html, category)
+                for item in first_products:
+                    discovered.setdefault(item["url"], item)
+                print(f"CTMan {category}: page 1/{pages}, {len(first_products)} product cards")
+                for page_number in range(2, pages + 1):
+                    time.sleep(REQUEST_DELAY_SECONDS)
+                    page_html = fetch_text(session, _build_page_url(category_url, page_number), retries=3, timeout=30)
+                    products, _ = _listing_products(page_html, category)
+                    for item in products:
+                        discovered.setdefault(item["url"], item)
+                    print(f"CTMan {category}: page {page_number}/{pages}, {len(products)} product cards")
+            except Exception as exc:
+                category_ok = False
+                errors.append({"category": category, "url": category_url, "error": str(exc)[:500]})
+                print(f"CTMan {category}: failed listing {category_url}: {exc}")
+        (completed if category_ok else failed).add(category)
+
+    saved_count = 0
+    with ThreadPoolExecutor(max_workers=MAX_DETAIL_WORKERS) as executor:
+        futures = {executor.submit(_detail_product, product): product for product in discovered.values()}
+        for future in as_completed(futures):
+            product = futures[future]
+            try:
+                data = future.result()
+            except Exception as exc:
+                errors.append({"category": product["type"], "url": product["url"], "error": str(exc)[:500]})
+                continue
+            if not data:
+                continue
+            write_product_json(output_dir, "CTM", data["url"], data)
+            saved_count += 1
+
+    status = "failed" if saved_count == 0 else ("partial_success" if failed else "success")
+    write_scraper_health(
+        status=status,
+        expected_categories=expected,
+        completed_categories=completed,
+        failed_categories=failed,
+        product_count=saved_count,
+        errors=errors[:100],
+        blocked_reason="html_unavailable" if saved_count == 0 else None,
     )
-    try:
-        return max(int(data or 1), 1)
-    except (TypeError, ValueError):
-        return 1
-
-
-async def _products_from_listing(page: Any) -> list[dict[str, str]]:
-    return await _json_from_page(
-        page,
-        r"""
-const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
-const products = [...document.querySelectorAll(".product-item")].map((card) => {
-  const titleLink = card.querySelector("a.product-title-link");
-  const imageLink = card.querySelector("a.product-image-link");
-  const image = card.querySelector("img.front-image, img.back-image, .product-image img");
-  return {
-    name: clean(titleLink?.innerText || card.querySelector(".product-name")?.innerText),
-    part_number: clean(card.querySelector(".product-sku")?.innerText),
-    price: clean(card.querySelector(".bootic-price")?.innerText || card.querySelector("#price-on-img")?.innerText),
-    url: titleLink?.href || imageLink?.href || "",
-    image_url: image?.src || ""
-  };
-}).filter((product) => product.name && product.url);
-return JSON.stringify(products);
-""",
-    ) or []
-
-
-async def _wait_for_product(page: Any, timeout_seconds: int) -> bool:
-    deadline = asyncio.get_running_loop().time() + timeout_seconds
-    while asyncio.get_running_loop().time() < deadline:
-        state = await _json_from_page(
-            page,
-            r"""
-return JSON.stringify({
-  title: document.title || "",
-  body: (document.body && document.body.innerText || "").slice(0, 800),
-  hasName: Boolean(document.querySelector("h1, [itemprop='name'], .product-title")),
-  hasSku: Boolean(
-    document.querySelector(".product-sku, [itemprop='sku'], [data-sku]") ||
-    /\b(SKU|MPN|Modelo|Referencia|C[oó]digo)\s*:/i.test(document.body?.innerText || "")
-  ),
-  hasPrice: Boolean(document.querySelector(".bootic-price, #price-on-img, [itemprop='price']"))
-});
-""",
-        )
-        body = f"{state.get('title', '')} {state.get('body', '')}".lower()
-        if "just a moment" in body or "verificación de seguridad" in body:
-            return False
-        if state.get("hasName") and (state.get("hasSku") or state.get("hasPrice")):
-            return True
-        if "página no encontrada" in body or "pagina no encontrada" in body:
-            return True
-        await asyncio.sleep(1)
-    return False
-
-
-async def _product_detail(page: Any) -> dict[str, str]:
-    return await _json_from_page(
-        page,
-        r"""
-const clean = (value) => (value || "").replace(/\s+/g, " ").trim();
-const rawText = document.body?.innerText || "";
-const text = clean(rawText);
-const firstMatch = (...patterns) => {
-  for (const pattern of patterns) {
-    const match = rawText.match(pattern) || text.match(pattern);
-    if (match?.[1]) return clean(match[1]);
-  }
-  return "";
-};
-const scripts = [...document.scripts].map((script) => script.textContent || "").join("\n");
-const scriptSku =
-  scripts.match(/"sku"\s*:\s*"([^"]+)"/i)?.[1] ||
-  scripts.match(/sku\s*:\s*["']([^"']+)["']/i)?.[1] ||
-  scripts.match(/"mpn"\s*:\s*"([^"]+)"/i)?.[1] ||
-  "";
-const image =
-  document.querySelector(".product-gallery img[src], .product-image img[src], [itemprop='image'][src]")?.src ||
-  document.querySelector("meta[property='og:image']")?.content ||
-  "";
-return JSON.stringify({
-  name: clean(
-    document.querySelector("h1[itemprop='name']")?.textContent ||
-    document.querySelector("[itemprop='name']")?.textContent ||
-    document.querySelector("h1")?.textContent
-  ),
-  part_number: clean(
-    document.querySelector(".product-sku")?.textContent ||
-    document.querySelector("[itemprop='sku']")?.textContent ||
-    document.querySelector("[data-sku]")?.getAttribute("data-sku") ||
-    firstMatch(
-      /\bSKU\s*:?\s*([^|\n\r]+)/i,
-      /\bMPN\s*:?\s*([^|\n\r]+)/i,
-      /\bReferencia\s*:?\s*([^|\n\r]+)/i,
-      /\bC[oó]digo(?:\s+(?:de|del)\s+producto)?\s*:?\s*([^|\n\r]+)/i,
-      /\bModelo\s*:?\s*([^|\n\r]+)/i
-    ) ||
-    scriptSku
-  ),
-  price: clean(
-    document.querySelector(".bootic-price")?.textContent ||
-    document.querySelector("#price-on-img")?.textContent ||
-    document.querySelector("[itemprop='price']")?.textContent
-  ),
-  image_url: image
-});
-""",
-    ) or {}
-
-
-async def _scrape_ctman_async() -> int:
-    output_dir = "ScrapDB/Outputs/CTMan"
-    output_path = clean_output_dir(output_dir)
-    options = _make_browser_options()
-    browser = Chrome(options=options)
-    await browser.start()
-    page = None
-    try:
-        page = await browser.new_tab()
-        ready_timeout = _env_int("CTMAN_PAGE_READY_TIMEOUT", 30)
-        product_ready_timeout = _env_int("CTMAN_PRODUCT_READY_TIMEOUT", 12)
-        max_products = int(os.environ.get("BROWSER_FALLBACK_MAX_PRODUCTS", "0") or "0")
-        saved_count = 0
-        seen_urls: set[str] = set()
-
-        for category_name, raw_urls in CATEGORY_URL_MAP.items():
-            urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
-            for category_url in urls:
-                await page.go_to(category_url)
-                if not await _wait_for_category(page, ready_timeout):
-                    print(f"CTMan {category_name}: timed out waiting for {category_url}")
-                    continue
-
-                total_pages = await _category_page_count(page)
-                print(f"CTMan {category_name}: {total_pages} page(s) from {category_url}")
-
-                for page_number in range(1, total_pages + 1):
-                    if page_number > 1:
-                        await page.go_to(_build_page_url(category_url, page_number))
-                        if not await _wait_for_category(page, ready_timeout):
-                            print(f"CTMan {category_name}: timed out waiting for page {page_number}")
-                            continue
-
-                    products = await _products_from_listing(page)
-                    print(
-                        f"CTMan {category_name} page {page_number}/{total_pages}: "
-                        f"{len(products)} product cards"
-                    )
-
-                    for product in products:
-                        url = product.get("url") or ""
-                        if not url or url in seen_urls:
-                            continue
-
-                        detail: dict[str, str] = {}
-                        part_number = _first_part_number(product.get("part_number"))
-                        if not part_number:
-                            await page.go_to(url)
-                            if await _wait_for_product(page, product_ready_timeout):
-                                detail = await _product_detail(page)
-                                part_number = _first_part_number(detail.get("part_number"))
-                            else:
-                                print(f"CTMan {category_name}: timed out waiting for product {url}")
-
-                        if not part_number:
-                            print(f"CTMan skipped without SKU: {url}")
-                            continue
-
-                        name = _clean_text(detail.get("name") or product.get("name"))
-                        data = {
-                            "store_name": "CTMan",
-                            "scraped_name": name,
-                            "scraped_brand": "N/A",
-                            "type": category_name,
-                            "part #": part_number,
-                            "price": normalize_price(detail.get("price") or product.get("price")),
-                            "url": url,
-                            "image_url": detail.get("image_url") or product.get("image_url") or "N/A",
-                        }
-                        write_product_json(output_path, "CTM", url, data)
-                        seen_urls.add(url)
-                        saved_count += 1
-
-                        if max_products > 0 and saved_count >= max_products:
-                            print(f"CTMan scraping stopped at BROWSER_FALLBACK_MAX_PRODUCTS={max_products}.")
-                            return saved_count
-
-        print(f"CTMan scraping finished. Saved {saved_count} JSON files.")
-        return saved_count
-    finally:
-        if page is not None:
-            await page.close()
-        await browser.stop()
+    print(f"CTMan scraping finished. Saved {saved_count} JSON files; failed categories={sorted(failed)}")
+    return saved_count
 
 
 def main() -> int:
-    return exit_code_from_count(asyncio.run(_scrape_ctman_async()))
+    return exit_code_from_count(scrape_ctman())
 
 
 if __name__ == "__main__":

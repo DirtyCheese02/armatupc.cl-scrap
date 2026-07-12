@@ -27,7 +27,7 @@ jobs:
             include_scrapers: "Scrap_Centrale.py,Scrap_CentralGamer.py,Scrap_CIntegral.py,Scrap_DazbogStore.py,Scrap_ETChile.py,Scrap_MyShop.py,Scrap_SandosStore.py,Scrap_TecnoMaster.py,Scrap_TecnoShopping.py,Scrap_InvasionGamer.py"
             headful_scrapers: ""
             timeout_overrides: ""
-            no_headful_retry: ""
+            no_headful_retry: "Scrap_CentralGamer.py"
           - name: html-mid
             timeout_minutes: 120
             needs_browser: "true"
@@ -39,9 +39,9 @@ jobs:
             timeout_minutes: 120
             needs_browser: "true"
             include_scrapers: "Scrap_Alltec.py,Scrap_CTMan.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py"
-            headful_scrapers: "Scrap_Alltec.py,Scrap_CTMan.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py"
+            headful_scrapers: "Scrap_Alltec.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py"
             timeout_overrides: ""
-            no_headful_retry: ""
+            no_headful_retry: "Scrap_CTMan.py"
           - name: legacy-heavy
             timeout_minutes: 240
             needs_browser: "true"
@@ -248,6 +248,13 @@ jobs:
             --compare \
             --checkpoint "ScrapDB/RunLogs/canonical-${SCRAPE_RUN_ID}.checkpoint.json" \
             --comparison-report "ScrapDB/RunLogs/canonical-${SCRAPE_RUN_ID}.comparison.json"
+
+      - name: Purge expired diagnostics and refresh daily stats
+        if: ${{ steps.retry-manifest.outputs.has_remaining_json == 'true' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python -m ScrapDB.database_maintenance post-run
 
       - name: Upload retry manifest
         if: always()

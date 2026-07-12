@@ -1,5 +1,6 @@
 import os
 import json
+import hashlib
 import re
 import requests
 import time
@@ -313,6 +314,73 @@ def optional_insert_rows(table_name, rows, chunk_size=250):
         if result is None:
             return False
     return True
+
+def record_scrape_issues(raw_rows, chunk_size=250):
+    issues = []
+    for row in raw_rows:
+        if row.get("match_status") not in {"unmatched", "price_anomaly", "invalid"}:
+            continue
+        identity = "|".join((
+            str(row.get("store_name") or "").strip().casefold(),
+            str(row.get("scraped_category") or "").strip().casefold(),
+            str(row.get("source_url") or "").strip().casefold(),
+            str(row.get("normalized_part_number") or "").strip().casefold(),
+        ))
+        issues.append({
+            "fingerprint": hashlib.sha256(identity.encode("utf-8")).hexdigest(),
+            "store_id": row.get("store_id"),
+            "store_name": row.get("store_name"),
+            "scraped_category": row.get("scraped_category"),
+            "source_url": row.get("source_url"),
+            "scraped_name": row.get("scraped_name"),
+            "scraped_part_number": row.get("scraped_part_number"),
+            "normalized_part_number": row.get("normalized_part_number"),
+            "issue_type": row.get("match_status"),
+            "anomaly_reason": row.get("anomaly_reason"),
+            "scrape_run_id": SCRAPE_RUN_ID,
+        })
+    for batch in chunked(issues, chunk_size):
+        result = optional_db_request(
+            "scrape_issue_queue",
+            f"record_scrape_issues {len(batch)} rows",
+            lambda batch=batch: get_supabase().rpc("record_scrape_issues", {"p_issues": batch}),
+        )
+        if result is None:
+            return False
+    return True
+
+def record_legacy_offer_change(spec_id, spec_table_name, store_id, price, stock_status):
+    feature_key = "record_legacy_offer_change"
+    if feature_key not in OPTIONAL_DB_TABLES_DISABLED:
+        try:
+            return execute_db_request(
+                f"PriceHistory change {store_id} {spec_id}",
+                lambda: get_supabase().rpc("record_legacy_offer_change", {
+                    "p_spec_id": spec_id,
+                    "p_spec_table_name": spec_table_name,
+                    "p_store_id": store_id,
+                    "p_price": price,
+                    "p_stock_status": stock_status,
+                    "p_recorded_at": now_iso(),
+                }),
+            )
+        except Exception as error:
+            if not is_optional_schema_error(error):
+                raise
+            OPTIONAL_DB_TABLES_DISABLED.add(feature_key)
+            print("   [WARN] RPC record_legacy_offer_change no disponible; usando historial legacy.")
+    if price is None or int(price) <= 0:
+        return None
+    return execute_db_request(
+        f"PriceHistory legacy insert {store_id} {spec_id}",
+        lambda: get_supabase().table("PriceHistory").insert({
+            "SpecId": spec_id,
+            "SpecTableName": spec_table_name,
+            "StoreId": store_id,
+            "Price": price,
+            "RecordedAt": now_iso(),
+        }),
+    )
 
 def get_or_create_store(store_name):
     res = execute_db_request(
@@ -728,7 +796,7 @@ def load_active_product_presence(store_name, store_id):
         result = execute_db_request(
             f"ProductPricing active presence select {store_name}",
             lambda: get_supabase().table("ProductPricing")
-                .select("SpecId,LastSeenAt")
+                .select("SpecId,SpecTableName,Price,LastSeenAt")
                 .eq("StoreId", store_id)
                 .eq("StockStatus", True),
         )
@@ -1237,29 +1305,9 @@ def process_daily_scraps():
                 )
                 continue
 
+            # Ordinary exact matches are represented by ProductPricing and the
+            # canonical listing. Full payloads are reserved for short-lived issues.
             matched_count += 1
-            raw_row = build_raw_row(
-                item,
-                store_id,
-                store_name,
-                "matched",
-                parsed_price=price_int,
-                matched_spec_id=spec_id,
-                matched_table=found_table,
-            )
-            raw_rows.append(raw_row)
-            candidate_rows.append(
-                build_match_candidate_row(
-                    store_id,
-                    store_name,
-                    item,
-                    spec_id,
-                    found_table,
-                    match_method,
-                    match_score,
-                    raw_id=raw_row["id"],
-                )
-            )
 
             product_data = {
                 "spec_id": spec_id,
@@ -1313,6 +1361,7 @@ def process_daily_scraps():
                 row["scraper_store_run_id"] = store_run_id
 
         raw_rows_inserted = optional_insert_rows("scraped_products_raw", raw_rows)
+        record_scrape_issues(raw_rows)
         if raw_rows_inserted:
             optional_insert_rows("match_candidates", candidate_rows)
         elif candidate_rows:
@@ -1332,15 +1381,8 @@ def process_daily_scraps():
 
         for spec_id, data in unique_products_today.items():
             upsert_product_pricing(store_name, spec_id, data, store_id)
-            execute_db_request(
-                f"PriceHistory insert {store_name} {spec_id}",
-                lambda spec_id=spec_id, data=data: get_supabase().table("PriceHistory").insert({
-                    "SpecId": spec_id,
-                    "SpecTableName": data["table"],
-                    "StoreId": store_id,
-                    "Price": data["price_int"],
-                    "RecordedAt": now_iso()
-                }),
+            record_legacy_offer_change(
+                spec_id, data["table"], store_id, data["price_int"], True
             )
 
             if data.get("image_url") and data["image_url"] != "N/A":
@@ -1365,6 +1407,18 @@ def process_daily_scraps():
                     # A single PostgREST update maps to one atomic SQL statement.
                     # If it fails, no loop can leave a partially marked-out store.
                     mark_products_out_of_stock(store_name, store_id, missing_ids)
+                    active_by_id = {str(row.get("SpecId")): row for row in active_rows}
+                    for missing_id in missing_ids:
+                        previous = active_by_id.get(str(missing_id), {})
+                        spec_table_name = previous.get("SpecTableName")
+                        if spec_table_name:
+                            record_legacy_offer_change(
+                                missing_id,
+                                spec_table_name,
+                                store_id,
+                                previous.get("Price"),
+                                False,
+                            )
         else:
             print(f"[match] Se omite marcado sin stock para {store_name}: {stock_markout_reason}.")
 

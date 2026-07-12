@@ -178,13 +178,16 @@ def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, 
         return None
 
     prices = product.get("prices") or {}
+    normalized_price = normalize_infosep_price(prices.get("price"))
+    if normalized_price in {"N/A", "0"}:
+        return None
     return {
         "store_name": "InfoSep",
         "scraped_name": name,
         "scraped_brand": brand_from_wc(product),
         "type": category_name,
         "part #": part_number,
-        "price": normalize_infosep_price(prices.get("price")),
+        "price": normalized_price,
         "url": url,
         "image_url": first_image_from_wc(product),
     }
@@ -227,6 +230,9 @@ def parse_infosep_html_product(
         ),
         "src",
     )
+    normalized_price = normalize_infosep_price(price)
+    if normalized_price in {"N/A", "0"}:
+        return None
 
     return {
         "store_name": "InfoSep",
@@ -234,7 +240,7 @@ def parse_infosep_html_product(
         "scraped_brand": "N/A",
         "type": category_name,
         "part #": part_number,
-        "price": normalize_infosep_price(price),
+        "price": normalized_price,
         "url": url,
         "image_url": absolute_url(base_url, image),
     }
