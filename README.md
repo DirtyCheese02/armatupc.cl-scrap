@@ -102,7 +102,7 @@ Los fixtures contractuales de `tests/fixtures/raw_offer/` deben mantenerse sincr
 
 ## Backfill del catalogo canonico
 
-`ScrapDB/canonical_backfill.py` migra de forma aditiva; no cambia las lecturas web ni elimina filas legacy. El comando es dry-run por defecto, parte solo con CPU, GPU y placa madre, y en ese modo **nunca crea un cliente Supabase**. Para que el plan sea reproducible, el dry-run exige un snapshot JSON local con el formato de `canonical_backfill_snapshot.example.json`:
+`ScrapDB/canonical_backfill.py` migra de forma aditiva; no cambia las lecturas web ni elimina filas legacy. El comando es dry-run por defecto y en ese modo **nunca crea un cliente Supabase**. CPU, GPU y placa madre fueron la primera ola; desde el segundo backfill las ocho categorías esenciales también incluyen RAM, almacenamiento, PSU, gabinete y cooler. Para que el plan sea reproducible, el dry-run exige un snapshot JSON local con el formato de `canonical_backfill_snapshot.example.json`:
 
 ```powershell
 python -m ScrapDB.canonical_backfill --snapshot canonical_backfill_snapshot.json
@@ -118,7 +118,7 @@ python -m ScrapDB.canonical_backfill --apply --checkpoint ScrapDB/RunLogs/canoni
 python -m ScrapDB.canonical_backfill --apply --resume --checkpoint ScrapDB/RunLogs/canonical-checkpoint.json
 ```
 
-Cuando la primera ola supere sus gates, `--all-essential` habilita RAM, almacenamiento, PSU, gabinete y cooler ademas de CPU/GPU/placa. Multiples MPN almacenados en texto se separan en filas y las imagenes migradas permanecen con `image_authorized=false`.
+`--all-essential` procesa las ocho categorías esenciales. Multiples MPN almacenados en texto se separan en filas y las imagenes migradas permanecen con `image_authorized=false`.
 
 Un artefacto `RawOffer` se puede evaluar sin publicar:
 
@@ -134,8 +134,9 @@ Los workflows diario y de retry generan `RawOffer` y publican en ambos modelos s
 
 - el secret de Actions `SUPABASE_SERVICE_ROLE_KEY`;
 - la variable de Actions `CANONICAL_DUAL_WRITE_ENABLED=true`.
+- opcionalmente, `CANONICAL_DUAL_WRITE_CATEGORIES` para limitar temporalmente las categorías; si no existe, se procesan las ocho esenciales.
 
-Sin la variable, los pasos canonicos se omiten y el pipeline legacy sigue funcionando. Los artefactos `RawRuns`, checkpoints y reportes de comparacion se conservan 14 dias junto con los logs del workflow. La primera ola automatica esta limitada a CPU, GPU y placa madre.
+Sin `CANONICAL_DUAL_WRITE_ENABLED`, los pasos canonicos se omiten y el pipeline legacy sigue funcionando. Los artefactos `RawRuns`, checkpoints y reportes de comparacion se conservan 14 dias junto con los logs del workflow. La lista de categorías puede reducirse con `CANONICAL_DUAL_WRITE_CATEGORIES` como mecanismo de rollback sin desactivar el pipeline legacy.
 
 ## Inventario de procedencia y permisos
 

@@ -121,7 +121,12 @@ class ScraperTelemetryTest(unittest.TestCase):
                 self.assertIn("python -m ScrapDB.canonical_backfill", workflow)
                 self.assertIn("--raw-offers-only", workflow)
                 self.assertIn("--dual-write", workflow)
-                self.assertIn("--categories CPU,GPU,Motherboard", workflow)
+                self.assertIn("CANONICAL_DUAL_WRITE_CATEGORIES", workflow)
+                self.assertIn(
+                    "CPU,GPU,Motherboard,Memory,Storage,PowerSupply,Case,CPUCooler",
+                    workflow,
+                )
+                self.assertIn('--categories "$CANONICAL_CATEGORIES"', workflow)
 
     def test_github_outputs_include_scrape_run_ids(self):
         scrape_run_id = str(uuid.uuid4())

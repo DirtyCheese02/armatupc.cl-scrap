@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import time
 
 from dotenv import load_dotenv
 from supabase import create_client
@@ -17,12 +18,29 @@ def _client():
     return create_client(url, key)
 
 
+def _rpc(client, name: str, params: dict, *, attempts: int = 4):
+    for attempt in range(1, attempts + 1):
+        try:
+            return client.rpc(name, params).execute()
+        except Exception:
+            if attempt == attempts:
+                raise
+            time.sleep(2**attempt)
+
+
 def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, int]:
     client = _client()
+    offers_expired = 0
+    for _ in range(max_batches):
+        response = _rpc(client, "expire_canonical_offers", {"p_limit": batch_size})
+        expired = int(response.data or 0)
+        offers_expired += expired
+        if expired < batch_size:
+            break
     raw_deleted = 0
     issues_closed = 0
     for _ in range(max_batches):
-        response = client.rpc("purge_scrape_diagnostics", {"p_limit": batch_size}).execute()
+        response = _rpc(client, "purge_scrape_diagnostics", {"p_limit": batch_size})
         payload = response.data or {}
         deleted = int(payload.get("rawDeleted") or 0)
         closed = int(payload.get("issuesClosed") or 0)
@@ -30,9 +48,10 @@ def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, int
         issues_closed += closed
         if deleted < batch_size and closed < batch_size:
             break
-    stats_response = client.rpc("refresh_daily_product_stats", {}).execute()
+    stats_response = _rpc(client, "refresh_daily_product_stats", {})
     stats_refreshed = int(stats_response.data or 0)
     result = {
+        "offersExpired": offers_expired,
         "rawDeleted": raw_deleted,
         "issuesClosed": issues_closed,
         "dailyStatsRefreshed": stats_refreshed,

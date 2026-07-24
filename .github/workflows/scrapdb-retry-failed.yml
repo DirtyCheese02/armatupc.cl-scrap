@@ -214,13 +214,14 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
+          CANONICAL_CATEGORIES: ${{ vars.CANONICAL_DUAL_WRITE_CATEGORIES || 'CPU,GPU,Motherboard,Memory,Storage,PowerSupply,Case,CPUCooler' }}
         run: |
           python -m ScrapDB.canonical_backfill \
             --apply \
             --raw-offers "ScrapDB/RawRuns/${SCRAPE_RUN_ID}.ndjson.gz" \
             --raw-offers-only \
             --dual-write \
-            --categories CPU,GPU,Motherboard \
+            --categories "$CANONICAL_CATEGORIES" \
             --compare \
             --checkpoint "ScrapDB/RunLogs/canonical-${SCRAPE_RUN_ID}.checkpoint.json" \
             --comparison-report "ScrapDB/RunLogs/canonical-${SCRAPE_RUN_ID}.comparison.json"
