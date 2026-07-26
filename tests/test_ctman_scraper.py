@@ -15,6 +15,54 @@ import Scrap_CTMan as ctman
 
 
 class CTManHtmlScraperTests(unittest.TestCase):
+    def test_public_products_api_maps_product_type_without_collection_html(self):
+        products, pages = ctman._api_listing_products(
+            {
+                "total_pages": 3,
+                "products": [
+                    {
+                        "url": "https://www.ctman.cl/products/demo-cpu",
+                        "name": "Procesador demo",
+                        "image": "https://images.example/cpu.webp",
+                        "product_type": {"slug": "procesadores"},
+                    },
+                    {
+                        "url": "https://www.ctman.cl/products/not-relevant",
+                        "name": "Impresora demo",
+                        "product_type": {"slug": "impresoras"},
+                    },
+                ],
+            }
+        )
+        self.assertEqual(pages, 3)
+        self.assertEqual(len(products), 1)
+        self.assertEqual(products[0]["type"], "CPU")
+
+    def test_public_product_detail_uses_mpn_attribute_and_variant_stock(self):
+        product = {
+            "type": "CPU",
+            "url": "https://www.ctman.cl/products/demo-cpu",
+            "name": "Procesador demo",
+            "image_url": "",
+        }
+        payload = {
+            "name": "AMD Ryzen demo",
+            "available": True,
+            "blocked": False,
+            "vendor": {"name": "AMD"},
+            "attributes": [{"slug": "mpn", "value": "100-100000000BOX"}],
+            "variants": [{"sku": "SKU-FALLBACK", "price": 199990, "available": True}],
+            "image": "https://images.example/cpu.webp",
+        }
+        with patch.object(ctman, "fetch_json", return_value=(payload, object())), patch.object(
+            ctman.time, "sleep"
+        ):
+            result = ctman._detail_product_api(product)
+        self.assertIsNotNone(result)
+        self.assertEqual(result["part #"], "100-100000000BOX")
+        self.assertEqual(result["price"], "199990")
+        self.assertEqual(result["availability"], "available")
+
     def test_listing_extracts_product_and_pagination(self):
         products, pages = ctman._listing_products(
             (FIXTURES / "listing.html").read_text(encoding="utf-8"), "CPU"

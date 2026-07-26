@@ -34,6 +34,38 @@ CATEGORY_URL_MAP = {
     "NetworkAdapter": "https://mybox.cl/90-redes-conectividad?q=Categor%C3%ADas-Adaptadores+de+Red",
 }
 
+MYBOX_PRODUCT_CONFIG = {
+    "ready_selectors": (
+        "//h1[@itemprop='name']",
+        "//h1",
+        "//*[contains(@class,'product-reference')]",
+    ),
+    "name_selectors": (
+        "//h1[contains(@class,'page-title') and @itemprop='name']/span",
+        "//h1[@itemprop='name']/span",
+        "//h1[@itemprop='name']",
+        "//h1",
+    ),
+    "part_selectors": (
+        "//span[@itemprop='sku']",
+        "//*[@itemprop='sku']",
+        "//*[contains(@class,'product-reference')]//span",
+        "//*[contains(@class,'product-reference')]",
+    ),
+    "price_selectors": (
+        "//span[contains(@class,'product-price')]",
+        "//*[contains(@class,'current-price')]//*[@itemprop='price']",
+        "//*[@itemprop='price']",
+        "//*[contains(@class,'product-prices')]//*[contains(@class,'price')]",
+    ),
+    "image_selectors": (
+        "//div[contains(@class,'swiper-slide-active')]/img",
+        "//div[contains(@class,'product-cover')]//img",
+        "//img[@itemprop='image']",
+    ),
+    "brand_selectors": (),
+}
+
 
 def clean_mybox_part_number(value: str) -> str:
     return pick_part_number([value], (), allow_name_fallback=False) or ""
@@ -151,21 +183,7 @@ def main() -> int:
                 ),
             },
             product_config={
-                "ready_selectors": ("//span[@itemprop='sku']", "//h1[@itemprop='name']"),
-                "name_selectors": (
-                    "//h1[contains(@class,'page-title') and @itemprop='name']/span",
-                    "//h1[@itemprop='name']/span",
-                    "//h1[@itemprop='name']",
-                    "//h1",
-                ),
-                "part_selectors": ("//span[@itemprop='sku']",),
-                "price_selectors": ("//span[@class='product-price']",),
-                "image_selectors": (
-                    "//div[contains(@class,'swiper-slide-active')]/img",
-                    "//div[contains(@class,'product-cover')]//img",
-                    "//img[@itemprop='image']",
-                ),
-                "brand_selectors": (),
+                **MYBOX_PRODUCT_CONFIG,
                 "clean_part_number": clean_mybox_part_number,
                 "clean_price": normalize_price,
             },

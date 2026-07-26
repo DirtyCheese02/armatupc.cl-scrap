@@ -277,13 +277,20 @@ def selected_attr(root: Any, selectors: str | list[str] | tuple[str, ...], attr:
     return ""
 
 
-def fetch_text_with_referer(session: requests.Session, url: str, referer: str | None = None) -> str:
+def fetch_text_with_referer(
+    session: requests.Session,
+    url: str,
+    referer: str | None = None,
+    *,
+    retries: int = 3,
+    timeout: int = 30,
+) -> str:
     old_accept = session.headers.get("Accept")
     if referer:
         session.headers["Referer"] = referer
     session.headers["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
     try:
-        return fetch_text(session, url)
+        return fetch_text(session, url, retries=retries, timeout=timeout)
     finally:
         if old_accept is None:
             session.headers.pop("Accept", None)
@@ -744,6 +751,9 @@ def run_prestashop_xhr_store(
     output_prefix: str,
     html_fallback_config: dict[str, Any] | None = None,
     part_number_picker: Callable[[dict[str, Any]], str | None] | None = None,
+    request_retries: int = 3,
+    request_timeout: int = 30,
+    category_status: dict[str, bool] | None = None,
 ) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(base_url)
@@ -758,8 +768,11 @@ def run_prestashop_xhr_store(
     seen: set[tuple[str, str]] = set()
 
     for category_name, raw_urls in category_url_map.items():
+        if category_status is not None:
+            category_status.setdefault(category_name, True)
         urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
         for category_url in urls:
+            source_completed = False
             try:
                 next_urls = [build_prestashop_xhr_url(category_url)]
                 visited_pages: set[str] = set()
@@ -768,7 +781,13 @@ def run_prestashop_xhr_store(
                 xhr_failed = False
 
                 try:
-                    fetch_text_with_referer(session, category_url, base_url)
+                    fetch_text_with_referer(
+                        session,
+                        category_url,
+                        base_url,
+                        retries=request_retries,
+                        timeout=request_timeout,
+                    )
                     session.headers["Referer"] = category_url
                 except Exception as exc:
                     print(f"{store_name} {category_name}: warmup failed for {category_url}: {exc}")
@@ -780,7 +799,12 @@ def run_prestashop_xhr_store(
                             continue
                         visited_pages.add(page_url)
 
-                        payload, _ = fetch_json(session, page_url)
+                        payload, _ = fetch_json(
+                            session,
+                            page_url,
+                            retries=request_retries,
+                            timeout=request_timeout,
+                        )
                         products = payload.get("products") or []
                         pagination = payload.get("pagination") or {}
                         total_pages = int(pagination.get("pages_count") or page_number)
@@ -853,8 +877,11 @@ def run_prestashop_xhr_store(
                         seen=seen,
                         **html_fallback_config,
                     )
+                source_completed = saved_count > url_saved_before
             except Exception as exc:
                 print(f"{store_name} {category_name}: error scraping {category_url}: {exc}")
+            if category_status is not None and not source_completed:
+                category_status[category_name] = False
 
     print(f"{store_name} scraping finished. Saved {saved_count} JSON files.")
     return saved_count

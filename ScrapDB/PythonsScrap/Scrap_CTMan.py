@@ -13,6 +13,7 @@ from api_scraper_utils import (
     clean_output_dir,
     clean_part_number,
     exit_code_from_count,
+    fetch_json,
     fetch_text,
     html_to_text,
     make_session,
@@ -23,8 +24,32 @@ from scraper_health import write_scraper_health
 
 
 BASE_URL = "https://www.ctman.cl"
+PRODUCTS_API_URL = f"{BASE_URL}/products.json"
 REQUEST_DELAY_SECONDS = 0.5
 MAX_DETAIL_WORKERS = 4
+
+CATEGORY_BY_PRODUCT_TYPE = {
+    "software": "OperatingSystem",
+    "ups": "UPS",
+    "audifonos": "Headphones",
+    "mouse": "Mouse",
+    "teclados": "Keyboard",
+    "ssd": "Storage",
+    "disco-duro": "Storage",
+    "discos-duros-externos": "ExternalStorage",
+    "ssds-externos": "ExternalStorage",
+    "tarjeta-de-memoria-flash": "ExternalStorage",
+    "monitores": "Monitor",
+    "coolers-para-pc": "CPUCooler",
+    "fuentes-de-poder": "PowerSupply",
+    "gabinetes": "Case",
+    "memorias-ram": "Memory",
+    "memorias-ram-para-laptops": "Memory",
+    "procesadores": "CPU",
+    "tarjetas-de-video": "VideoCard",
+    "placas-madre": "Motherboard",
+    "camaras-web": "Webcam",
+}
 
 CATEGORY_URL_MAP = {
     "OperatingSystem": "https://www.ctman.cl/collections/software/types/software",
@@ -213,6 +238,119 @@ def _detail_product(product: dict[str, str]) -> dict[str, Any] | None:
     }
 
 
+def _api_product_type(product: dict[str, Any]) -> str:
+    product_type = product.get("product_type")
+    if isinstance(product_type, dict):
+        return html_to_text(product_type.get("slug")).casefold()
+    return ""
+
+
+def _api_listing_products(payload: Any) -> tuple[list[dict[str, str]], int]:
+    if not isinstance(payload, dict):
+        raise RuntimeError("unexpected_products_api_payload")
+    raw_products = payload.get("products")
+    if not isinstance(raw_products, list):
+        raise RuntimeError("products_api_missing_products")
+
+    products: list[dict[str, str]] = []
+    for raw_product in raw_products:
+        if not isinstance(raw_product, dict):
+            continue
+        category = CATEGORY_BY_PRODUCT_TYPE.get(_api_product_type(raw_product))
+        url = html_to_text(raw_product.get("url"))
+        name = html_to_text(raw_product.get("name"))
+        if not category or not url or not name:
+            continue
+        products.append(
+            {
+                "type": category,
+                "url": urljoin(BASE_URL, url),
+                "name": name,
+                "image_url": html_to_text(raw_product.get("image")),
+            }
+        )
+
+    total_pages = int(payload.get("total_pages") or 1)
+    return products, max(1, total_pages)
+
+
+def _api_part_number(payload: dict[str, Any]) -> str | None:
+    for attribute in payload.get("attributes") or []:
+        if not isinstance(attribute, dict):
+            continue
+        if html_to_text(attribute.get("slug")).casefold() not in {"mpn", "sku"}:
+            continue
+        part_number = clean_part_number(attribute.get("value"))
+        if part_number:
+            return part_number
+    for variant in payload.get("variants") or []:
+        if not isinstance(variant, dict):
+            continue
+        part_number = clean_part_number(variant.get("sku"))
+        if part_number:
+            return part_number
+    return None
+
+
+def _api_image(payload: dict[str, Any], fallback: str) -> str:
+    direct = html_to_text(payload.get("image"))
+    if direct:
+        return direct
+    for image in payload.get("images") or []:
+        if not isinstance(image, dict):
+            continue
+        sources = image.get("src")
+        if isinstance(sources, dict):
+            for key in ("large", "medium", "small", "original"):
+                value = html_to_text(sources.get(key))
+                if value:
+                    return value
+    return fallback or "N/A"
+
+
+def _detail_product_api(product: dict[str, str]) -> dict[str, Any] | None:
+    time.sleep(REQUEST_DELAY_SECONDS)
+    session = make_session(BASE_URL)
+    payload, _ = fetch_json(session, f"{product['url']}.json", retries=3, timeout=30)
+    if not isinstance(payload, dict):
+        return None
+
+    part_number = _api_part_number(payload)
+    if not part_number or len(part_number) > 128:
+        return None
+
+    variants = [item for item in payload.get("variants") or [] if isinstance(item, dict)]
+    available_variants = [item for item in variants if item.get("available") is True]
+    selected_variant = (available_variants or variants or [{}])[0]
+    price = normalize_price(
+        selected_variant.get("sale_price")
+        or selected_variant.get("price")
+        or payload.get("sale_price")
+        or payload.get("price")
+    )
+    if price in {"N/A", "0"}:
+        return None
+
+    vendor = payload.get("vendor")
+    brand = html_to_text(vendor.get("name")) if isinstance(vendor, dict) else html_to_text(vendor)
+    available = bool(payload.get("available")) and not bool(payload.get("blocked"))
+    if variants:
+        available = any(item.get("available") is True for item in variants)
+
+    return {
+        "store_name": "CTMan",
+        "scraped_name": html_to_text(payload.get("name")) or product["name"],
+        "scraped_brand": brand or "N/A",
+        "type": product["type"],
+        "part #": part_number,
+        "price": price,
+        "cash_price": price,
+        "availability": "available" if available else "unavailable",
+        "url": product["url"],
+        "image_url": _api_image(payload, product.get("image_url", "")),
+    }
+
+
 def scrape_ctman() -> int:
     output_dir = clean_output_dir("ScrapDB/Outputs/CTMan")
     expected = set(CATEGORY_URL_MAP)
@@ -222,40 +360,53 @@ def scrape_ctman() -> int:
     discovered: dict[str, dict[str, str]] = {}
     session = make_session(BASE_URL)
 
-    for category, raw_urls in CATEGORY_URL_MAP.items():
-        category_ok = True
-        urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
-        for category_url in urls:
-            try:
-                first_html = fetch_text(session, category_url, retries=3, timeout=30)
-                first_products, pages = _listing_products(first_html, category)
-                for item in first_products:
-                    discovered.setdefault(item["url"], item)
-                print(f"CTMan {category}: page 1/{pages}, {len(first_products)} product cards")
-                for page_number in range(2, pages + 1):
-                    time.sleep(REQUEST_DELAY_SECONDS)
-                    page_html = fetch_text(session, _build_page_url(category_url, page_number), retries=3, timeout=30)
-                    products, _ = _listing_products(page_html, category)
-                    for item in products:
-                        discovered.setdefault(item["url"], item)
-                    print(f"CTMan {category}: page {page_number}/{pages}, {len(products)} product cards")
-            except Exception as exc:
-                category_ok = False
-                errors.append({"category": category, "url": category_url, "error": str(exc)[:500]})
-                print(f"CTMan {category}: failed listing {category_url}: {exc}")
-        (completed if category_ok else failed).add(category)
+    try:
+        first_payload, _ = fetch_json(session, PRODUCTS_API_URL, params={"page": 1}, retries=3, timeout=30)
+        first_products, pages = _api_listing_products(first_payload)
+        for item in first_products:
+            discovered.setdefault(item["url"], item)
+        print(f"CTMan public API page 1/{pages}: {len(first_products)} relevant products")
+        for page_number in range(2, pages + 1):
+            time.sleep(REQUEST_DELAY_SECONDS)
+            payload, _ = fetch_json(
+                session,
+                PRODUCTS_API_URL,
+                params={"page": page_number},
+                retries=3,
+                timeout=30,
+            )
+            products, _ = _api_listing_products(payload)
+            for item in products:
+                discovered.setdefault(item["url"], item)
+            print(f"CTMan public API page {page_number}/{pages}: {len(products)} relevant products")
+        completed = set(expected)
+    except Exception as exc:
+        failed = set(expected)
+        errors.append({"category": "*", "url": PRODUCTS_API_URL, "error": str(exc)[:500]})
+        print(f"CTMan public products API failed: {exc}")
 
     saved_count = 0
     with ThreadPoolExecutor(max_workers=MAX_DETAIL_WORKERS) as executor:
-        futures = {executor.submit(_detail_product, product): product for product in discovered.values()}
+        futures = {executor.submit(_detail_product_api, product): product for product in discovered.values()}
         for future in as_completed(futures):
             product = futures[future]
             try:
                 data = future.result()
             except Exception as exc:
+                failed.add(product["type"])
+                completed.discard(product["type"])
                 errors.append({"category": product["type"], "url": product["url"], "error": str(exc)[:500]})
                 continue
             if not data:
+                failed.add(product["type"])
+                completed.discard(product["type"])
+                errors.append(
+                    {
+                        "category": product["type"],
+                        "url": product["url"],
+                        "error": "invalid_or_incomplete_product_payload",
+                    }
+                )
                 continue
             write_product_json(output_dir, "CTM", data["url"], data)
             saved_count += 1
@@ -268,7 +419,7 @@ def scrape_ctman() -> int:
         failed_categories=failed,
         product_count=saved_count,
         errors=errors[:100],
-        blocked_reason="html_unavailable" if saved_count == 0 else None,
+        blocked_reason="public_products_api_unavailable" if saved_count == 0 else None,
     )
     print(f"CTMan scraping finished. Saved {saved_count} JSON files; failed categories={sorted(failed)}")
     return saved_count

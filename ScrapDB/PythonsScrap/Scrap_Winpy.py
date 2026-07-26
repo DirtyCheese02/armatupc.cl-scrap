@@ -175,6 +175,33 @@ return JSON.stringify(products);
     ) or []
 
 
+async def _open_ready_category_tab(
+    browser: Chrome,
+    url: str,
+    *,
+    category_name: str,
+    ready_timeout: int,
+    label: str,
+    attempts: int = 3,
+) -> Any | None:
+    for attempt in range(1, attempts + 1):
+        page = await browser.new_tab()
+        try:
+            await page.go_to(url)
+            if await _wait_for_category(page, ready_timeout):
+                return page
+        except Exception as exc:
+            print(f"[Winpy] {category_name}: {label} attempt {attempt}/{attempts} error: {exc}")
+        try:
+            await page.close()
+        except Exception:
+            pass
+        if attempt < attempts:
+            print(f"[Winpy] {category_name}: {label} load retry {attempt}/{attempts}.")
+            await asyncio.sleep(5 * attempt)
+    return None
+
+
 async def _collect_category(
     sem: asyncio.Semaphore,
     browser: Chrome,
@@ -186,18 +213,17 @@ async def _collect_category(
     ready_timeout: int,
 ) -> tuple[str, bool, str | None]:
     async with sem:
-        page = await browser.new_tab()
+        page = None
         try:
             print(f"[Winpy] collector starting: {category_name} -> {category_url}")
-            category_ready = False
-            for attempt in range(1, 3):
-                await page.go_to(category_url)
-                category_ready = await _wait_for_category(page, ready_timeout)
-                if category_ready:
-                    break
-                print(f"[Winpy] {category_name}: category load retry {attempt}/2.")
-                await asyncio.sleep(3)
-            if not category_ready:
+            page = await _open_ready_category_tab(
+                browser,
+                category_url,
+                category_name=category_name,
+                ready_timeout=ready_timeout,
+                label="category",
+            )
+            if page is None:
                 print(f"[Winpy] {category_name}: timed out waiting for category.")
                 return category_name, False, "category_timeout"
 
@@ -206,18 +232,15 @@ async def _collect_category(
 
             for index, page_url in enumerate(page_urls, start=1):
                 if index > 1:
-                    page_ready = False
-                    for attempt in range(1, 3):
-                        await page.go_to(page_url)
-                        page_ready = await _wait_for_category(page, ready_timeout)
-                        if page_ready:
-                            break
-                        print(
-                            f"[Winpy] {category_name}: page {index} load retry "
-                            f"{attempt}/2."
-                        )
-                        await asyncio.sleep(3)
-                    if not page_ready:
+                    await page.close()
+                    page = await _open_ready_category_tab(
+                        browser,
+                        page_url,
+                        category_name=category_name,
+                        ready_timeout=ready_timeout,
+                        label=f"page {index}",
+                    )
+                    if page is None:
                         print(f"[Winpy] {category_name}: timed out waiting for page {index}.")
                         return category_name, False, f"page_{index}_timeout"
 
@@ -242,7 +265,11 @@ async def _collect_category(
             print(f"[Winpy] collector error {category_name}: {exc}")
             return category_name, False, str(exc)[:500]
         finally:
-            await page.close()
+            if page is not None:
+                try:
+                    await page.close()
+                except Exception as exc:
+                    print(f"[Winpy] collector close warning {category_name}: {exc}")
 
 
 async def _product_detail(page: Any) -> dict[str, str]:
@@ -359,9 +386,11 @@ async def _scrape_winpy_async() -> int:
 
         sem_collector = asyncio.Semaphore(collector_concurrency)
         collect_tasks = []
+        collect_specs: list[tuple[str, str]] = []
         for category_name, raw_urls in CATEGORY_URL_MAP.items():
             urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
             for category_url in urls:
+                collect_specs.append((category_name, category_url))
                 collect_tasks.append(
                     _collect_category(
                         sem_collector,
@@ -374,6 +403,36 @@ async def _scrape_winpy_async() -> int:
                     )
                 )
         collection_results = await asyncio.gather(*collect_tasks)
+        failed_specs = [
+            spec
+            for spec, result in zip(collect_specs, collection_results)
+            if not result[1]
+        ]
+        if failed_specs:
+            print(
+                f"[Winpy] cooling down before retrying {len(failed_specs)} "
+                "failed category source(s)."
+            )
+            await asyncio.sleep(20)
+            retry_results = await asyncio.gather(
+                *[
+                    _collect_category(
+                        sem_collector,
+                        browser,
+                        category_name=category_name,
+                        category_url=category_url,
+                        products_to_scrape=products_to_scrape,
+                        seen=seen,
+                        ready_timeout=ready_timeout,
+                    )
+                    for category_name, category_url in failed_specs
+                ]
+            )
+            retry_by_spec = dict(zip(failed_specs, retry_results))
+            collection_results = [
+                retry_by_spec.get(spec, result) if not result[1] else result
+                for spec, result in zip(collect_specs, collection_results)
+            ]
         failed_categories = {name for name, ok, _ in collection_results if not ok}
         completed_categories = set(CATEGORY_URL_MAP) - failed_categories
         health_errors = [
