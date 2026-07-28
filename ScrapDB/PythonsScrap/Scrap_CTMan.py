@@ -351,6 +351,74 @@ def _detail_product_api(product: dict[str, str]) -> dict[str, Any] | None:
     }
 
 
+def _collect_html_catalog(
+    session: Any,
+    *,
+    discovered: dict[str, dict[str, str]],
+    completed: set[str],
+    failed: set[str],
+    errors: list[dict[str, Any]],
+) -> None:
+    """Collect CTMan through its public collection HTML when products.json is blocked."""
+    for category, raw_urls in CATEGORY_URL_MAP.items():
+        urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
+        category_complete = True
+        for category_url in urls:
+            try:
+                first_html = fetch_text(session, category_url, retries=3, timeout=30)
+                products, pages = _listing_products(first_html, category)
+                for item in products:
+                    discovered.setdefault(item["url"], item)
+                print(
+                    f"CTMan HTML {category} page 1/{pages}: "
+                    f"{len(products)} relevant products"
+                )
+                for page_number in range(2, pages + 1):
+                    time.sleep(REQUEST_DELAY_SECONDS)
+                    page_url = _build_page_url(category_url, page_number)
+                    page_html = fetch_text(session, page_url, retries=3, timeout=30)
+                    page_products, _ = _listing_products(page_html, category)
+                    for item in page_products:
+                        discovered.setdefault(item["url"], item)
+                    print(
+                        f"CTMan HTML {category} page {page_number}/{pages}: "
+                        f"{len(page_products)} relevant products"
+                    )
+            except Exception as exc:
+                category_complete = False
+                errors.append(
+                    {
+                        "category": category,
+                        "url": category_url,
+                        "error": str(exc)[:500],
+                    }
+                )
+                print(f"CTMan HTML fallback failed for {category_url}: {exc}")
+
+        if category_complete:
+            completed.add(category)
+            failed.discard(category)
+        else:
+            completed.discard(category)
+            failed.add(category)
+
+
+def _detail_product_resilient(
+    product: dict[str, str],
+    *,
+    prefer_api: bool,
+) -> dict[str, Any] | None:
+    if prefer_api:
+        try:
+            api_product = _detail_product_api(product)
+            if api_product is not None:
+                return api_product
+            print(f"CTMan product JSON was incomplete for {product['url']}; trying HTML.")
+        except Exception as exc:
+            print(f"CTMan product JSON failed for {product['url']}; trying HTML: {exc}")
+    return _detail_product(product)
+
+
 def scrape_ctman() -> int:
     output_dir = clean_output_dir("ScrapDB/Outputs/CTMan")
     expected = set(CATEGORY_URL_MAP)
@@ -359,6 +427,7 @@ def scrape_ctman() -> int:
     errors: list[dict[str, Any]] = []
     discovered: dict[str, dict[str, str]] = {}
     session = make_session(BASE_URL)
+    api_catalog_available = False
 
     try:
         first_payload, _ = fetch_json(session, PRODUCTS_API_URL, params={"page": 1}, retries=3, timeout=30)
@@ -380,14 +449,30 @@ def scrape_ctman() -> int:
                 discovered.setdefault(item["url"], item)
             print(f"CTMan public API page {page_number}/{pages}: {len(products)} relevant products")
         completed = set(expected)
+        api_catalog_available = True
     except Exception as exc:
         failed = set(expected)
         errors.append({"category": "*", "url": PRODUCTS_API_URL, "error": str(exc)[:500]})
         print(f"CTMan public products API failed: {exc}")
+        print("CTMan switching to public collection HTML.")
+        _collect_html_catalog(
+            session,
+            discovered=discovered,
+            completed=completed,
+            failed=failed,
+            errors=errors,
+        )
 
     saved_count = 0
     with ThreadPoolExecutor(max_workers=MAX_DETAIL_WORKERS) as executor:
-        futures = {executor.submit(_detail_product_api, product): product for product in discovered.values()}
+        futures = {
+            executor.submit(
+                _detail_product_resilient,
+                product,
+                prefer_api=api_catalog_available,
+            ): product
+            for product in discovered.values()
+        }
         for future in as_completed(futures):
             product = futures[future]
             try:

@@ -3,7 +3,7 @@ from __future__ import annotations
 import sys
 import unittest
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import Mock, patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -90,6 +90,43 @@ class CTManHtmlScraperTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "blocked_html_response"):
             ctman._listing_products(
                 (FIXTURES / "blocked.html").read_text(encoding="utf-8"), "CPU"
+            )
+
+    def test_html_catalog_is_used_when_public_api_is_blocked(self):
+        discovered = {}
+        completed = set()
+        failed = {"CPU"}
+        errors = []
+        html = (FIXTURES / "listing.html").read_text(encoding="utf-8")
+        with patch.object(ctman, "CATEGORY_URL_MAP", {"CPU": "https://www.ctman.cl/cpu"}), patch.object(
+            ctman, "fetch_text", return_value=html
+        ):
+            ctman._collect_html_catalog(
+                Mock(),
+                discovered=discovered,
+                completed=completed,
+                failed=failed,
+                errors=errors,
+            )
+        self.assertEqual(len(discovered), 1)
+        self.assertEqual(completed, {"CPU"})
+        self.assertEqual(failed, set())
+        self.assertEqual(errors, [])
+
+    def test_product_detail_falls_back_to_html_when_json_is_blocked(self):
+        product = {
+            "type": "CPU",
+            "url": "https://www.ctman.cl/products/amd-100-100000457box",
+            "name": "Procesador AMD Ryzen 5 5500",
+            "image_url": "",
+        }
+        fallback = {"part #": "100-100000457BOX", "price": "100540"}
+        with patch.object(
+            ctman, "_detail_product_api", side_effect=RuntimeError("403")
+        ), patch.object(ctman, "_detail_product", return_value=fallback):
+            self.assertEqual(
+                ctman._detail_product_resilient(product, prefer_api=True),
+                fallback,
             )
 
 

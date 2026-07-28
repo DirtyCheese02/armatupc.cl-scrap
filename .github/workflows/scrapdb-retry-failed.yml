@@ -157,10 +157,10 @@ jobs:
           SCRAPER_RETRY_ON_EMPTY: "1"
           SCRAPER_RETRY_HEADFUL_ON_FAIL: "1"
           SCRAPER_INCLUDE: ${{ steps.daily-manifest.outputs.failed_scrapers_csv }}
-          SCRAPER_HEADFUL: "Scrap_Alltec.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py,Scrap_InfoSep.py"
+          SCRAPER_HEADFUL: "Scrap_Alltec.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py,Scrap_InfoSep.py,Scrap_Winpy.py"
           SCRAPER_REQUIRE_NON_EMPTY: ${{ env.REQUIRED_NON_EMPTY_SCRAPERS }}
           SCRAPER_TIMEOUT_OVERRIDES: "Scrap_NiceOne.py=20"
-          SCRAPER_NO_HEADFUL_RETRY: "Scrap_NiceOne.py,Scrap_CentralGamer.py,Scrap_CTMan.py"
+          SCRAPER_NO_HEADFUL_RETRY: "Scrap_NiceOne.py,Scrap_CentralGamer.py,Scrap_CTMan.py,Scrap_TecnoShopping.py"
           RUN_MATCH_PRODUCTS: "0"
           SCRAPE_SOURCE: "retry"
           PARENT_SCRAPE_RUN_ID: ${{ steps.daily-manifest.outputs.scrape_run_id }}

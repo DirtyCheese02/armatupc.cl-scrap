@@ -214,6 +214,7 @@ async def _collect_category(
 ) -> tuple[str, bool, str | None]:
     async with sem:
         page = None
+        page_errors: list[str] = []
         try:
             print(f"[Winpy] collector starting: {category_name} -> {category_url}")
             page = await _open_ready_category_tab(
@@ -232,7 +233,11 @@ async def _collect_category(
 
             for index, page_url in enumerate(page_urls, start=1):
                 if index > 1:
-                    await page.close()
+                    if page is not None:
+                        try:
+                            await page.close()
+                        except Exception:
+                            pass
                     page = await _open_ready_category_tab(
                         browser,
                         page_url,
@@ -242,7 +247,8 @@ async def _collect_category(
                     )
                     if page is None:
                         print(f"[Winpy] {category_name}: timed out waiting for page {index}.")
-                        return category_name, False, f"page_{index}_timeout"
+                        page_errors.append(f"page_{index}_timeout")
+                        continue
 
                 products = await _products_from_listing(page)
                 new_count = 0
@@ -260,7 +266,11 @@ async def _collect_category(
                     f"[Winpy] {category_name} page {index}/{len(page_urls)}: "
                     f"{new_count} new links ({len(products)} cards)"
                 )
-            return category_name, True, None
+            return (
+                category_name,
+                not page_errors,
+                ",".join(page_errors) if page_errors else None,
+            )
         except Exception as exc:
             print(f"[Winpy] collector error {category_name}: {exc}")
             return category_name, False, str(exc)[:500]
@@ -378,9 +388,16 @@ async def _scrape_winpy_async() -> int:
     browser = Chrome(options=options)
     await browser.start()
     try:
-        collector_concurrency = _env_int("WINPY_COLLECTOR_CONCURRENCY", 1)
-        scraper_concurrency = _env_int("WINPY_SCRAPER_CONCURRENCY", 1)
+        collector_concurrency = _env_int(
+            "WINPY_COLLECTOR_CONCURRENCY",
+            _env_int("BROWSER_FALLBACK_COLLECTOR_CONCURRENCY", 2),
+        )
+        scraper_concurrency = _env_int(
+            "WINPY_SCRAPER_CONCURRENCY",
+            _env_int("BROWSER_FALLBACK_SCRAPER_CONCURRENCY", 2),
+        )
         ready_timeout = _env_int("WINPY_PAGE_READY_TIMEOUT", 45)
+        product_ready_timeout = _env_int("WINPY_PRODUCT_READY_TIMEOUT", 20)
         products_to_scrape: list[dict[str, str]] = []
         seen: set[tuple[str, str]] = set()
 
@@ -459,7 +476,7 @@ async def _scrape_winpy_async() -> int:
                         browser,
                         product=product,
                         output_path=output_dir,
-                        ready_timeout=ready_timeout,
+                        ready_timeout=product_ready_timeout,
                     )
                     for product in chunk
                 ],
@@ -471,6 +488,15 @@ async def _scrape_winpy_async() -> int:
                 elif result:
                     saved_count += 1
             print(f"[Winpy] saved {saved_count} JSON files so far.")
+            write_scraper_health(
+                status="partial_success",
+                expected_categories=CATEGORY_URL_MAP,
+                completed_categories=completed_categories,
+                failed_categories=failed_categories,
+                product_count=saved_count,
+                errors=health_errors,
+                blocked_reason=None,
+            )
 
         print(f"[Winpy] scraping finished. Saved {saved_count} JSON files.")
         write_scraper_health(

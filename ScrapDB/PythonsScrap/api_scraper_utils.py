@@ -76,6 +76,7 @@ def fetch_json(
 ) -> tuple[Any, requests.Response]:
     last_error: Exception | None = None
     for attempt in range(1, retries + 1):
+        response: requests.Response | None = None
         try:
             response = session.request(
                 method,
@@ -87,11 +88,23 @@ def fetch_json(
             )
             response.raise_for_status()
             return response.json(), response
-        except (requests.RequestException, ValueError) as exc:
+        except requests.RequestException as exc:
+            response = getattr(exc, "response", None) or response
             last_error = exc
+        except ValueError as exc:
+            content_type = response.headers.get("Content-Type", "") if response is not None else ""
+            body_preview = ""
+            if response is not None:
+                body_preview = re.sub(r"\s+", " ", response.text[:180]).strip()
+            last_error = RuntimeError(
+                "invalid_json_response "
+                f"status={response.status_code if response is not None else 'unknown'} "
+                f"content_type={content_type!r} body={body_preview!r}: {exc}"
+            )
+
+        if last_error is not None:
             if attempt < retries:
                 delay = 1.5 * attempt
-                response = getattr(exc, "response", None)
                 if response is not None and response.status_code in (403, 429):
                     retry_after = response.headers.get("Retry-After", "").strip()
                     delay = float(retry_after) if retry_after.isdigit() else 10 * attempt

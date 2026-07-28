@@ -94,6 +94,47 @@ class StoreScraperReliabilityTests(unittest.TestCase):
 
         asyncio.run(scenario())
 
+    def test_winpy_continues_after_one_pagination_timeout(self):
+        async def scenario():
+            first = AsyncMock()
+            third = AsyncMock()
+            browser = AsyncMock()
+            products = []
+            seen = set()
+            with patch.object(
+                winpy,
+                "_open_ready_category_tab",
+                new=AsyncMock(side_effect=[first, None, third]),
+            ), patch.object(
+                winpy,
+                "_category_pages",
+                new=AsyncMock(return_value=["page-1", "page-2", "page-3"]),
+            ), patch.object(
+                winpy,
+                "_products_from_listing",
+                new=AsyncMock(
+                    side_effect=[
+                        [{"name": "Uno", "url": "https://www.winpy.cl/venta/uno"}],
+                        [{"name": "Tres", "url": "https://www.winpy.cl/venta/tres"}],
+                    ]
+                ),
+            ):
+                category, complete, error = await winpy._collect_category(
+                    asyncio.Semaphore(1),
+                    browser,
+                    category_name="CPU",
+                    category_url="https://www.winpy.cl/cpu",
+                    products_to_scrape=products,
+                    seen=seen,
+                    ready_timeout=5,
+                )
+            self.assertEqual(category, "CPU")
+            self.assertFalse(complete)
+            self.assertEqual(error, "page_2_timeout")
+            self.assertEqual([item["name"] for item in products], ["Uno", "Tres"])
+
+        asyncio.run(scenario())
+
 
 if __name__ == "__main__":
     unittest.main()

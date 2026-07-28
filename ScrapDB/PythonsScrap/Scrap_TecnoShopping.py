@@ -18,9 +18,14 @@ from api_scraper_utils import (
     normalize_price,
     write_product_json,
 )
+from scraper_health import write_scraper_health
 
 
 BASE_URL = "https://www.tecnoshopping.cl"
+API_PATHS = (
+    "/wp-json/wc/store/v1/products",
+    "/?rest_route=/wc/store/v1/products",
+)
 CATEGORY_QUERIES = {
     "UPS": [{"category": 102}],
     "Headphones": [{"category": 256}],
@@ -114,24 +119,105 @@ def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, 
     }
 
 
+def _api_candidates() -> list[str]:
+    return [urljoin(BASE_URL, path) for path in API_PATHS]
+
+
+def _select_api_url(session: Any) -> str:
+    errors = []
+    for api_url in _api_candidates():
+        try:
+            payload, _ = fetch_json(
+                session,
+                api_url,
+                params={"per_page": 1, "page": 1},
+                retries=3,
+                timeout=30,
+            )
+            if isinstance(payload, list):
+                print(f"TecnoShopping API selected: {api_url}")
+                return api_url
+            errors.append(f"{api_url}: unexpected payload {type(payload).__name__}")
+        except Exception as exc:
+            errors.append(f"{api_url}: {exc}")
+    raise RuntimeError("TecnoShopping APIs unavailable: " + " | ".join(errors))
+
+
+def _fetch_product_page(
+    session: Any,
+    preferred_api_url: str,
+    *,
+    params: dict[str, Any],
+) -> tuple[list[dict[str, Any]], Any, str]:
+    candidates = [preferred_api_url, *[url for url in _api_candidates() if url != preferred_api_url]]
+    errors = []
+    for api_url in candidates:
+        try:
+            payload, response = fetch_json(
+                session,
+                api_url,
+                params=params,
+                retries=3,
+                timeout=30,
+            )
+            if not isinstance(payload, list):
+                raise RuntimeError(f"unexpected payload {type(payload).__name__}")
+            return payload, response, api_url
+        except Exception as exc:
+            errors.append(f"{api_url}: {exc}")
+    raise RuntimeError("TecnoShopping product page unavailable: " + " | ".join(errors))
+
+
 def scrape_tecnoshopping() -> int:
     output_dir = "ScrapDB/Outputs/TecnoShopping"
     output_path = clean_output_dir(output_dir)
     session = make_session(BASE_URL)
-    api_url = urljoin(BASE_URL, "/wp-json/wc/store/v1/products")
     max_products = configured_max_products()
     saved_count = 0
     skipped_without_part = 0
     seen_urls: set[str] = set()
+    expected_categories = set(CATEGORY_QUERIES)
+    completed_categories: set[str] = set()
+    failed_categories: set[str] = set()
+    errors: list[dict[str, str]] = []
+
+    try:
+        api_url = _select_api_url(session)
+    except Exception as exc:
+        write_scraper_health(
+            status="failed",
+            expected_categories=expected_categories,
+            completed_categories=(),
+            failed_categories=expected_categories,
+            product_count=0,
+            errors=({"category": "*", "error": str(exc)[:500]},),
+            blocked_reason="store_api_unavailable",
+        )
+        print(exc)
+        return 0
 
     for category_name, query_list in CATEGORY_QUERIES.items():
+        category_complete = True
         for query in query_list:
             page = 1
             while True:
                 params = {"per_page": 100, "page": page, **query}
-                products, response = fetch_json(session, api_url, params=params)
-                if not isinstance(products, list):
-                    raise RuntimeError(f"Unexpected TecnoShopping response: {products!r}")
+                try:
+                    products, response, api_url = _fetch_product_page(
+                        session,
+                        api_url,
+                        params=params,
+                    )
+                except Exception as exc:
+                    category_complete = False
+                    errors.append(
+                        {
+                            "category": category_name,
+                            "error": str(exc)[:500],
+                        }
+                    )
+                    print(f"TecnoShopping {category_name} page {page} failed: {exc}")
+                    break
 
                 total_pages = int(response.headers.get("X-WP-TotalPages", "1") or "1")
                 print(f"TecnoShopping {category_name} page {page}/{total_pages}: {len(products)} products")
@@ -164,10 +250,23 @@ def scrape_tecnoshopping() -> int:
                 if page >= total_pages:
                     break
                 page += 1
+        if category_complete:
+            completed_categories.add(category_name)
+        else:
+            failed_categories.add(category_name)
 
     print(
         f"TecnoShopping scraping finished. Saved {saved_count} JSON files; "
         f"skipped {skipped_without_part} products without usable part number."
+    )
+    write_scraper_health(
+        status="failed" if saved_count == 0 else ("partial_success" if failed_categories else "success"),
+        expected_categories=expected_categories,
+        completed_categories=completed_categories,
+        failed_categories=failed_categories,
+        product_count=saved_count,
+        errors=errors,
+        blocked_reason="store_api_unavailable" if saved_count == 0 else None,
     )
     return saved_count
 
