@@ -19,6 +19,8 @@ supabase = None
 DB_REQUEST_COUNT = 0
 MANUAL_OVERRIDE_CACHE = {}
 SPEC_MATCH_CACHE = {}
+CANONICAL_MPN_CACHE = {}
+CANONICAL_MPN_REASON_CACHE = {}
 PREVIOUS_PRICE_CACHE = {}
 
 # Schemas
@@ -105,6 +107,27 @@ CATEGORY_TO_TABLE = {
     "CPUCooler_ThermalCompound": ["CpuCoolerSpecifications", "ThermalPasteSpecifications"]
 }
 
+ESSENTIAL_SPEC_TABLES = {
+    "CPUSpecifications",
+    "CpuCoolerSpecifications",
+    "CaseSpecifications",
+    "GpuSpecifications",
+    "InternalStorageSpecifications",
+    "MotherboardSpecifications",
+    "PowerSupplySpecifications",
+    "RamSpecifications",
+}
+INVALID_MPN_VALUES = {
+    "NA",
+    "NONE",
+    "NULL",
+    "UNKNOWN",
+    "NOTAVAILABLE",
+    "NOAPLICA",
+    "SINMPN",
+    "SINSKU",
+}
+
 
 # ================= FUNCIONES =================
 
@@ -144,8 +167,24 @@ def normalize_key(value):
 def normalize_part_number(value):
     return re.sub(r"[^A-Z0-9]+", "", str(value or "").strip().upper())
 
+def valid_part_number(value):
+    raw = str(value or "").strip()
+    normalized = normalize_part_number(raw)
+    words = re.findall(r"[A-Za-z0-9]+", raw)
+    return bool(
+        raw
+        and len(raw) <= 128
+        and not (len(raw) >= 48 and len(words) >= 6)
+        and normalized
+        and normalized not in INVALID_MPN_VALUES
+    )
+
 def normalized_part_number_candidates(raw_val):
-    return [normalize_part_number(candidate) for candidate in parse_part_numbers(raw_val) if normalize_part_number(candidate)]
+    return [
+        normalize_part_number(candidate)
+        for candidate in parse_part_numbers(raw_val)
+        if valid_part_number(candidate)
+    ]
 
 def exact_part_number_variants(candidate):
     raw = str(candidate or "").strip()
@@ -472,6 +511,15 @@ def finalize_scrape_run(totals, status):
     )
 
 def create_store_run(store_id, store_name, scraper_result, metrics):
+    metadata = dict(scraper_result or {})
+    metadata["matching_telemetry"] = {
+        "exact_mpn": metrics.get("exact_mpn_count", 0),
+        "ambiguous_mpn": metrics.get("ambiguous_mpn_count", 0),
+        "mpn_not_found": metrics.get("mpn_not_found_count", 0),
+        "category_corrected_from_mpn": metrics.get(
+            "category_corrected_from_mpn_count", 0
+        ),
+    }
     result = optional_db_request(
         "scraper_store_runs",
         f"scraper_store_runs insert {store_name}",
@@ -494,7 +542,7 @@ def create_store_run(store_id, store_name, scraper_result, metrics):
             "stock_markout_allowed": metrics["stock_markout_allowed"],
             "stock_markout_reason": metrics["stock_markout_reason"],
             "log_file": (scraper_result or {}).get("log_file"),
-            "metadata": scraper_result or {},
+            "metadata": metadata,
         }),
     )
     if result and getattr(result, "data", None):
@@ -578,12 +626,126 @@ def find_manual_override(tables, store_name, raw_type, part_number):
             continue
         row = result.data[0]
         spec_table_name = row.get("spec_table_name")
-        if spec_table_name in target_tables:
+        if row.get("spec_id") and spec_table_name:
             match = (row.get("spec_id"), spec_table_name, "manual_override", row.get("confidence") or 1)
             MANUAL_OVERRIDE_CACHE[cache_key] = match
             return match
         MANUAL_OVERRIDE_CACHE[cache_key] = (None, None, None, None)
     return None, None, None, None
+
+def prefetch_canonical_mpn_matches(part_numbers):
+    """Load exact MPN matches in batches from the canonical identity tables."""
+    requested = {
+        normalized
+        for part_number in part_numbers
+        for normalized in normalized_part_number_candidates(part_number)
+        if normalized not in CANONICAL_MPN_CACHE
+    }
+    if not requested:
+        return
+
+    identifier_rows = []
+    for batch in chunked(sorted(requested), 200):
+        response = execute_db_request(
+            f"product_identifiers MPN prefetch {len(batch)}",
+            lambda batch=batch: get_supabase().table("product_identifiers")
+                .select("product_id,normalized_value")
+                .eq("identifier_type", "mpn")
+                .in_("normalized_value", batch),
+        )
+        identifier_rows.extend(response.data or [])
+
+    product_ids_by_mpn = {normalized: set() for normalized in requested}
+    for row in identifier_rows:
+        normalized = normalize_part_number(row.get("normalized_value"))
+        product_id = str(row.get("product_id") or "")
+        if normalized in product_ids_by_mpn and product_id:
+            product_ids_by_mpn[normalized].add(product_id)
+
+    candidate_product_ids = sorted(
+        {
+            product_id
+            for product_ids in product_ids_by_mpn.values()
+            for product_id in product_ids
+        }
+    )
+    active_product_ids = set()
+    for batch in chunked(candidate_product_ids, 200):
+        response = execute_db_request(
+            f"products active MPN prefetch {len(batch)}",
+            lambda batch=batch: get_supabase().table("products")
+                .select("id")
+                .in_("id", batch)
+                .eq("status", "active"),
+        )
+        active_product_ids.update(
+            str(row.get("id"))
+            for row in (response.data or [])
+            if row.get("id")
+        )
+
+    refs_by_product = {}
+    for batch in chunked(sorted(active_product_ids), 200):
+        response = execute_db_request(
+            f"legacy_product_refs MPN prefetch {len(batch)}",
+            lambda batch=batch: get_supabase().table("legacy_product_refs")
+                .select("product_id,spec_table_name,spec_id")
+                .in_("product_id", batch),
+        )
+        for row in response.data or []:
+            product_id = str(row.get("product_id") or "")
+            spec_table = row.get("spec_table_name")
+            spec_id = row.get("spec_id")
+            if product_id and spec_table and spec_id:
+                refs_by_product.setdefault(product_id, set()).add(
+                    (str(spec_id), str(spec_table))
+                )
+
+    for normalized in requested:
+        product_ids = product_ids_by_mpn[normalized] & active_product_ids
+        if not product_ids:
+            CANONICAL_MPN_CACHE[normalized] = (None, None, None, None)
+            CANONICAL_MPN_REASON_CACHE[normalized] = "mpn_not_found"
+            continue
+        if len(product_ids) != 1:
+            CANONICAL_MPN_CACHE[normalized] = (None, None, None, None)
+            CANONICAL_MPN_REASON_CACHE[normalized] = "ambiguous_mpn"
+            continue
+        product_id = next(iter(product_ids))
+        refs = refs_by_product.get(product_id, set())
+        if len(refs) != 1:
+            CANONICAL_MPN_CACHE[normalized] = (None, None, None, None)
+            CANONICAL_MPN_REASON_CACHE[normalized] = "canonical_legacy_ref_not_unique"
+            continue
+        spec_id, spec_table = next(iter(refs))
+        CANONICAL_MPN_CACHE[normalized] = (
+            spec_id,
+            spec_table,
+            "exact_mpn",
+            1,
+        )
+        CANONICAL_MPN_REASON_CACHE[normalized] = "exact_mpn"
+
+def lookup_canonical_mpn(candidate):
+    normalized = normalize_part_number(candidate)
+    if not valid_part_number(candidate):
+        return None, None, None, None
+    if normalized not in CANONICAL_MPN_CACHE:
+        prefetch_canonical_mpn_matches([candidate])
+    return CANONICAL_MPN_CACHE.get(normalized, (None, None, None, None))
+
+def canonical_mpn_reason(part_number):
+    reasons = [
+        CANONICAL_MPN_REASON_CACHE.get(normalized)
+        for normalized in normalized_part_number_candidates(part_number)
+    ]
+    if "ambiguous_mpn" in reasons:
+        return "ambiguous_mpn"
+    if "canonical_legacy_ref_not_unique" in reasons:
+        return "canonical_legacy_ref_not_unique"
+    if reasons and all(reason == "mpn_not_found" for reason in reasons):
+        return "mpn_not_found"
+    return next((reason for reason in reasons if reason), "mpn_not_found")
 
 def lookup_exact_part_number(table_name, candidate):
     normalized_candidate = normalize_part_number(candidate)
@@ -632,6 +794,33 @@ def find_spec_match(tables, part_number, store_name=None, raw_type=None):
     candidates = parse_part_numbers(part_number)
     if not candidates: return None, None, None, None
 
+    canonical_ambiguous = False
+    canonical_matches = set()
+    for candidate in candidates:
+        spec_id, found_table, method, score = lookup_canonical_mpn(candidate)
+        if spec_id and found_table:
+            canonical_matches.add((spec_id, found_table, method, score))
+        if CANONICAL_MPN_REASON_CACHE.get(normalize_part_number(candidate)) == "ambiguous_mpn":
+            canonical_ambiguous = True
+    if len(canonical_matches) == 1 and not canonical_ambiguous:
+        return next(iter(canonical_matches))
+    if len(canonical_matches) > 1:
+        canonical_ambiguous = True
+        for candidate in candidates:
+            normalized = normalize_part_number(candidate)
+            if normalized:
+                CANONICAL_MPN_REASON_CACHE[normalized] = "ambiguous_mpn"
+
+    # Essential categories are fully represented by the canonical identity
+    # tables.  Missing/ambiguous MPNs must remain unmatched rather than being
+    # rescued by a category-scoped legacy lookup.
+    if canonical_ambiguous or any(
+        table_name in ESSENTIAL_SPEC_TABLES for table_name in target_tables
+    ):
+        return None, None, None, None
+
+    # Preserve legacy exact matching for non-essential categories that have not
+    # yet been migrated to product_identifiers/legacy_product_refs.
     for table_name in target_tables:
         for candidate in candidates:
             spec_id, found_table, method, score = lookup_exact_part_number(table_name, candidate)
@@ -1224,6 +1413,16 @@ def process_daily_scraps():
                 input_error_count += 1
                 print(f"[match] Error leyendo {filename}: {error}")
 
+    prefetch_canonical_mpn_matches(
+        first_text(item, "part #", "part_number", "sku", "mpn")
+        for items in store_batches.values()
+        for item in items
+    )
+    print(
+        "[match] Indice MPN canonico preparado: "
+        f"{len(CANONICAL_MPN_CACHE)} identificadores consultados."
+    )
+
     for store_name, items in store_batches.items():
         raw_count = len(items)
         print(f"\n[match] Tienda: {store_name} - items brutos: {raw_count}")
@@ -1239,6 +1438,10 @@ def process_daily_scraps():
         unmatched_count = 0
         anomaly_count = 0
         error_count = 0
+        exact_mpn_count = 0
+        ambiguous_mpn_count = 0
+        mpn_not_found_count = 0
+        category_corrected_from_mpn_count = 0
 
         for item in items:
             raw_type = item.get("type")
@@ -1268,10 +1471,28 @@ def process_daily_scraps():
             )
 
             if not spec_id or not found_table:
+                mpn_reason = canonical_mpn_reason(part_num)
+                if mpn_reason == "ambiguous_mpn":
+                    ambiguous_mpn_count += 1
+                elif mpn_reason == "mpn_not_found":
+                    mpn_not_found_count += 1
                 unmatched_count += 1
                 raw_rows.append(build_raw_row(item, store_id, store_name, "unmatched", parsed_price=price_int))
-                unmatched_buffer.append(f"[{source_file}] {url} | TYPE: {raw_type} | PN: {part_num}")
+                unmatched_buffer.append(
+                    f"[{source_file}] {url} | TYPE: {raw_type} | "
+                    f"PN: {part_num} | reason: {mpn_reason}"
+                )
                 continue
+
+            if match_method == "exact_mpn":
+                exact_mpn_count += 1
+                normalized_targets = (
+                    {target_tables}
+                    if isinstance(target_tables, str)
+                    else set(target_tables)
+                )
+                if found_table not in normalized_targets:
+                    category_corrected_from_mpn_count += 1
 
             # A matched product was present in this snapshot even when its price is
             # quarantined. Anomalies must never be interpreted as stock absence.
@@ -1354,6 +1575,10 @@ def process_daily_scraps():
             "stock_markout_reason": stock_markout_reason,
             "status": status,
             "snapshot_healthy": snapshot_healthy,
+            "exact_mpn_count": exact_mpn_count,
+            "ambiguous_mpn_count": ambiguous_mpn_count,
+            "mpn_not_found_count": mpn_not_found_count,
+            "category_corrected_from_mpn_count": category_corrected_from_mpn_count,
         }
         store_run_id = create_store_run(store_id, store_name, scraper_result, store_metrics)
         if store_run_id:
@@ -1433,6 +1658,13 @@ def process_daily_scraps():
         totals["unmatched_count"] += unmatched_count
         totals["anomaly_count"] += anomaly_count
         totals["error_count"] += error_count
+        totals["exact_mpn_count"] = totals.get("exact_mpn_count", 0) + exact_mpn_count
+        totals["ambiguous_mpn_count"] = totals.get("ambiguous_mpn_count", 0) + ambiguous_mpn_count
+        totals["mpn_not_found_count"] = totals.get("mpn_not_found_count", 0) + mpn_not_found_count
+        totals["category_corrected_from_mpn_count"] = (
+            totals.get("category_corrected_from_mpn_count", 0)
+            + category_corrected_from_mpn_count
+        )
         if not snapshot_healthy:
             totals["warning_store_count"] += 1
 

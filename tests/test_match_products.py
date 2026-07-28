@@ -11,6 +11,10 @@ import match_products
 
 
 class MatchProductHelpersTest(unittest.TestCase):
+    def setUp(self):
+        match_products.CANONICAL_MPN_CACHE.clear()
+        match_products.CANONICAL_MPN_REASON_CACHE.clear()
+
     def test_parse_price_to_int_handles_chilean_price_text(self):
         self.assertEqual(match_products.parse_price_to_int("$ 147.990"), 147990)
         self.assertEqual(match_products.parse_price_to_int("Oferta $165.000 normal $189.990"), 165000)
@@ -131,17 +135,94 @@ class MatchProductHelpersTest(unittest.TestCase):
         self.assertEqual(candidate["raw_id"], raw_row["id"])
 
     def test_matching_database_errors_propagate_instead_of_becoming_unmatched(self):
-        original_lookup = match_products.lookup_exact_part_number
+        original_lookup = match_products.lookup_canonical_mpn
 
-        def fail_lookup(table_name, candidate):
+        def fail_lookup(candidate):
             raise RuntimeError("database unavailable")
 
         try:
-            match_products.lookup_exact_part_number = fail_lookup
+            match_products.lookup_canonical_mpn = fail_lookup
             with self.assertRaisesRegex(RuntimeError, "database unavailable"):
                 match_products.find_spec_match("GpuSpecifications", "ABC-123")
         finally:
+            match_products.lookup_canonical_mpn = original_lookup
+
+    def test_unique_canonical_mpn_matches_globally_and_corrects_category(self):
+        normalized = match_products.normalize_part_number("GPU-UNIQUE-123")
+        match_products.CANONICAL_MPN_CACHE[normalized] = (
+            "gpu-spec-id",
+            "GpuSpecifications",
+            "exact_mpn",
+            1,
+        )
+        match_products.CANONICAL_MPN_REASON_CACHE[normalized] = "exact_mpn"
+
+        result = match_products.find_spec_match(
+            "CPUSpecifications",
+            "GPU-UNIQUE-123",
+            store_name=None,
+            raw_type="CPU",
+        )
+        self.assertEqual(
+            result,
+            ("gpu-spec-id", "GpuSpecifications", "exact_mpn", 1),
+        )
+
+    def test_ambiguous_canonical_mpn_never_falls_back_to_legacy(self):
+        normalized = match_products.normalize_part_number("SHARED-123")
+        match_products.CANONICAL_MPN_CACHE[normalized] = (None, None, None, None)
+        match_products.CANONICAL_MPN_REASON_CACHE[normalized] = "ambiguous_mpn"
+        original_lookup = match_products.lookup_exact_part_number
+
+        def forbidden_lookup(table_name, candidate):
+            raise AssertionError("ambiguous MPN must not use legacy fallback")
+
+        try:
+            match_products.lookup_exact_part_number = forbidden_lookup
+            self.assertEqual(
+                match_products.find_spec_match(
+                    "GpuSpecifications", "SHARED-123"
+                ),
+                (None, None, None, None),
+            )
+        finally:
             match_products.lookup_exact_part_number = original_lookup
+
+    def test_multiple_unique_mpns_pointing_to_different_products_are_ambiguous(self):
+        first = match_products.normalize_part_number("MPN-FIRST")
+        second = match_products.normalize_part_number("MPN-SECOND")
+        match_products.CANONICAL_MPN_CACHE[first] = (
+            "spec-1",
+            "GpuSpecifications",
+            "exact_mpn",
+            1,
+        )
+        match_products.CANONICAL_MPN_CACHE[second] = (
+            "spec-2",
+            "GpuSpecifications",
+            "exact_mpn",
+            1,
+        )
+        match_products.CANONICAL_MPN_REASON_CACHE[first] = "exact_mpn"
+        match_products.CANONICAL_MPN_REASON_CACHE[second] = "exact_mpn"
+
+        self.assertEqual(
+            match_products.find_spec_match(
+                "GpuSpecifications", ["MPN-FIRST", "MPN-SECOND"]
+            ),
+            (None, None, None, None),
+        )
+        self.assertEqual(
+            match_products.canonical_mpn_reason(["MPN-FIRST", "MPN-SECOND"]),
+            "ambiguous_mpn",
+        )
+
+    def test_invalid_mpn_placeholder_never_matches(self):
+        self.assertFalse(match_products.valid_part_number("N/A"))
+        self.assertEqual(
+            match_products.find_spec_match("GpuSpecifications", "N/A"),
+            (None, None, None, None),
+        )
 
     def test_matching_does_not_use_fuzzy_ilike(self):
         source = (SCRAPDB / "match_products.py").read_text(encoding="utf-8")

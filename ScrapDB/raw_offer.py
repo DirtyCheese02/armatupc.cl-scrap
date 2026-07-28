@@ -134,6 +134,9 @@ class RawOffer(BaseModel):
             value = raw_value.strip().strip("'\"")
             if not value or value.casefold() in PLACEHOLDER_VALUES:
                 continue
+            words = re.findall(r"[A-Za-z0-9]+", value)
+            if len(value) >= 48 and len(words) >= 6:
+                raise ValueError("MPN must be an identifier, not descriptive text")
             value = re.sub(r"\s+", "", value).upper()
             if len(value) > 128:
                 raise ValueError("MPN must contain at most 128 characters")
@@ -566,7 +569,14 @@ def discover_scraper_scripts(scrapers_dir: str | Path) -> list[Path]:
     """Return every current ``Scrap_*.py`` adapter without importing it."""
 
     root = Path(scrapers_dir)
-    return sorted(root.glob("Scrap_*.py"), key=lambda path: path.name.casefold())
+    return sorted(
+        (
+            path
+            for path in root.glob("*.py")
+            if path.name.casefold().startswith("scrap_")
+        ),
+        key=lambda path: path.name.casefold(),
+    )
 
 
 def discover_legacy_files(input_root: str | Path) -> list[Path]:

@@ -134,6 +134,12 @@ class RawOfferContractTests(unittest.TestCase):
             "invalid_url": {**valid, "url": "javascript:alert(1)"},
             "naive_date": {**valid, "fetchedAt": "2026-07-10T12:00:00"},
             "invalid_hash": {**valid, "payloadHash": "not-a-sha256"},
+            "descriptive_mpn": {
+                **valid,
+                "mpns": [
+                    "Procesador para equipos de escritorio con multiples nucleos y graficos"
+                ],
+            },
         }
         for name, value in mutations.items():
             with self.subTest(mutation=name):

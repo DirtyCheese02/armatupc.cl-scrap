@@ -220,7 +220,7 @@ class CanonicalBackfillTests(unittest.TestCase):
         )
         self.assertTrue(any(row["asset_type"] == "image" for row in provenance))
 
-    def test_matching_precedence_is_gtin_then_mpn_then_persistent_listing(self):
+    def test_matching_uses_mpn_then_persistent_listing(self):
         index = RawOfferMatchIndex.from_rows(*match_catalog())
         decision = match_raw_offer(
             raw_offer(gtins=["1234567890123"], mpns=["BX8071514600K"]),
@@ -228,7 +228,10 @@ class CanonicalBackfillTests(unittest.TestCase):
             CPU,
             index,
         )
-        self.assertEqual((decision.status, decision.method, decision.product_id), ("matched", "exact_gtin", "p1"))
+        self.assertEqual(
+            (decision.status, decision.method, decision.product_id),
+            ("matched", "exact_mpn", "p2"),
+        )
 
         decision = match_raw_offer(
             raw_offer(
@@ -254,28 +257,47 @@ class CanonicalBackfillTests(unittest.TestCase):
         )
         self.assertEqual((decision.method, decision.product_id), ("persistent_sku", "p1"))
 
-    def test_gtin_is_globally_unambiguous_even_outside_enabled_category(self):
+    def test_gtin_alone_never_auto_publishes(self):
         products, identifiers, listings, refs = match_catalog()
-        products.append(
-            {"id": "p3", "category": "gpu", "brand": "AMD", "name": "GPU Demo"}
-        )
-        identifiers.append(
-            {
-                "product_id": "p3",
-                "identifier_type": "gtin",
-                "normalized_value": "1234567890123",
-            }
-        )
         decision = match_raw_offer(
-            raw_offer(gtins=["1234567890123"]),
+            raw_offer(
+                sourceListingId="gtin-only",
+                merchantSku="GTIN-ONLY",
+                gtins=["1234567890123"],
+                name="Producto sin MPN",
+                url="https://store.example/product/gtin-only",
+            ),
             1,
             CPU,
             RawOfferMatchIndex.from_rows(products, identifiers, listings, refs),
         )
-        self.assertEqual((decision.status, decision.method), ("candidate", "exact_gtin"))
-        self.assertEqual(set(decision.candidate_product_ids), {"p1", "p3"})
+        self.assertNotEqual(decision.status, "matched")
+        self.assertNotEqual(decision.method, "exact_gtin")
 
-    def test_mpn_requires_an_unambiguous_exact_brand_pair(self):
+    def test_unique_exact_mpn_ignores_missing_or_conflicting_brand(self):
+        index = RawOfferMatchIndex.from_rows(*match_catalog())
+
+        missing_brand = match_raw_offer(
+            raw_offer(mpns=["100-100000910WOF"], brand=None), 1, CPU, index
+        )
+        self.assertEqual(
+            (missing_brand.status, missing_brand.product_id, missing_brand.reason),
+            ("matched", "p1", "exact_mpn"),
+        )
+
+        conflicting_brand = match_raw_offer(
+            raw_offer(mpns=["100-100000910WOF"], brand="NVIDIA"), 1, CPU, index
+        )
+        self.assertEqual(
+            (
+                conflicting_brand.status,
+                conflicting_brand.product_id,
+                conflicting_brand.reason,
+            ),
+            ("matched", "p1", "exact_mpn"),
+        )
+
+    def test_shared_exact_mpn_is_ambiguous_even_when_brand_matches(self):
         products, identifiers, listings, refs = match_catalog()
         identifiers.append(
             {
@@ -289,28 +311,72 @@ class CanonicalBackfillTests(unittest.TestCase):
         amd = match_raw_offer(
             raw_offer(mpns=["100-100000910WOF"], brand="AMD"), 1, CPU, index
         )
-        self.assertEqual((amd.status, amd.product_id), ("matched", "p1"))
-
-        missing_brand = match_raw_offer(
-            raw_offer(mpns=["100-100000910WOF"], brand=None), 1, CPU, index
+        self.assertEqual(
+            (amd.status, amd.product_id, amd.reason),
+            ("candidate", None, "ambiguous_mpn"),
         )
-        self.assertEqual((missing_brand.status, missing_brand.reason), ("candidate", "mpn_requires_brand"))
 
-        conflicting_brand = match_raw_offer(
-            raw_offer(mpns=["100-100000910WOF"], brand="NVIDIA"), 1, CPU, index
+    def test_unique_mpn_corrects_the_scraper_category(self):
+        products, identifiers, listings, refs = match_catalog()
+        products.append(
+            {"id": "p3", "category": "gpu", "brand": "Demo", "name": "GPU Demo"}
+        )
+        identifiers.append(
+            {
+                "product_id": "p3",
+                "identifier_type": "mpn",
+                "normalized_value": "GPU-UNIQUE-123",
+            }
+        )
+        refs.append(
+            {
+                "product_id": "p3",
+                "spec_table_name": "GpuSpecifications",
+                "spec_id": "legacy-p3",
+            }
+        )
+        decision = match_raw_offer(
+            raw_offer(mpns=["GPU-UNIQUE-123"], brand="Wrong Brand"),
+            1,
+            CPU,
+            RawOfferMatchIndex.from_rows(products, identifiers, listings, refs),
         )
         self.assertEqual(
-            (conflicting_brand.status, conflicting_brand.reason),
-            ("candidate", "mpn_brand_conflict"),
+            (decision.status, decision.product_id, decision.reason),
+            ("matched", "p3", "category_corrected_from_mpn"),
+        )
+
+    def test_missing_mpn_stays_unmatched(self):
+        decision = match_raw_offer(
+            raw_offer(
+                sourceListingId="missing-mpn-listing",
+                merchantSku="MISSING-MPN-SKU",
+                mpns=["MPN-DOES-NOT-EXIST"],
+                name="Producto completamente desconocido",
+                url="https://store.example/product/missing-mpn",
+            ),
+            1,
+            CPU,
+            RawOfferMatchIndex.from_rows(*match_catalog()),
+        )
+        self.assertEqual(
+            (decision.status, decision.product_id, decision.reason),
+            ("unmatched", None, "mpn_not_found"),
         )
 
     def test_ambiguous_exact_and_fuzzy_matches_never_auto_publish(self):
         products, identifiers, listings, refs = match_catalog()
         identifiers.append(
-            {"product_id": "p2", "identifier_type": "gtin", "normalized_value": "1234567890123"}
+            {
+                "product_id": "p2",
+                "identifier_type": "mpn",
+                "normalized_value": "100-100000910WOF",
+            }
         )
         index = RawOfferMatchIndex.from_rows(products, identifiers, listings, refs)
-        ambiguous = match_raw_offer(raw_offer(gtins=["1234567890123"]), 1, CPU, index)
+        ambiguous = match_raw_offer(
+            raw_offer(mpns=["100-100000910WOF"]), 1, CPU, index
+        )
         self.assertEqual(ambiguous.status, "candidate")
         self.assertIsNone(ambiguous.product_id)
 

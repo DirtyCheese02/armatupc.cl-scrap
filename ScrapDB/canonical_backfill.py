@@ -709,6 +709,40 @@ def _global_exact_decision(
     )
 
 
+def _global_mpn_decision(
+    product_ids: set[str],
+    category: CategoryConfig,
+    index: RawOfferMatchIndex,
+) -> MatchDecision | None:
+    """Match a globally unique MPN without using merchant brand/category.
+
+    MPN collisions remain review-only.  When the scraper category is wrong,
+    the unique canonical product is authoritative and the correction is
+    exposed in telemetry instead of blocking publication.
+    """
+
+    decision = _exact_decision(product_ids, "exact_mpn", "mpn", 0.99)
+    if decision is None or decision.status != "matched" or not decision.product_id:
+        return decision
+    if index.product_categories.get(decision.product_id) == category.canonical_slug:
+        return MatchDecision(
+            decision.status,
+            decision.method,
+            decision.product_id,
+            decision.confidence,
+            decision.candidate_product_ids,
+            "exact_mpn",
+        )
+    return MatchDecision(
+        decision.status,
+        decision.method,
+        decision.product_id,
+        decision.confidence,
+        decision.candidate_product_ids,
+        "category_corrected_from_mpn",
+    )
+
+
 def _normalized_fuzzy_text(value: Any) -> str:
     folded = unicodedata.normalize("NFKD", str(value or "").casefold())
     ascii_value = folded.encode("ascii", "ignore").decode("ascii")
@@ -736,18 +770,7 @@ def match_raw_offer(
     *,
     fuzzy_threshold: float = FUZZY_CANDIDATE_THRESHOLD,
 ) -> MatchDecision:
-    """Apply global GTIN -> brand+MPN -> persistent listing -> fuzzy candidate."""
-
-    gtin_hits: set[str] = set()
-    for value in offer.gtins:
-        normalized = normalized_gtin(value)
-        if normalized:
-            gtin_hits.update(index.identifiers.get(("gtin", normalized), set()))
-    decision = _global_exact_decision(
-        gtin_hits, "exact_gtin", "gtin", 1.0, category, index
-    )
-    if decision:
-        return decision
+    """Apply exact MPN/persistent associations; every other signal is review-only."""
 
     mpn_hits: set[str] = set()
     for value in offer.mpns:
@@ -755,40 +778,7 @@ def match_raw_offer(
         if normalized:
             mpn_hits.update(index.identifiers.get(("mpn", normalized), set()))
     if mpn_hits:
-        normalized_brand = _normalized_fuzzy_text(offer.brand)
-        if not normalized_brand:
-            return MatchDecision(
-                "candidate",
-                "exact_mpn",
-                None,
-                0.75,
-                tuple(sorted(mpn_hits)),
-                "mpn_requires_brand",
-            )
-        branded_hits = {
-            product_id
-            for product_id in mpn_hits
-            if product_id in index.profiles_by_id
-            and _normalized_fuzzy_text(index.profiles_by_id[product_id].brand)
-            == normalized_brand
-        }
-        if not branded_hits:
-            return MatchDecision(
-                "candidate",
-                "exact_mpn",
-                None,
-                0.75,
-                tuple(sorted(mpn_hits)),
-                "mpn_brand_conflict",
-            )
-        decision = _global_exact_decision(
-            branded_hits,
-            "exact_mpn",
-            "brand_mpn",
-            0.99,
-            category,
-            index,
-        )
+        decision = _global_mpn_decision(mpn_hits, category, index)
         if decision:
             return decision
 
@@ -867,7 +857,8 @@ def match_raw_offer(
             close,
             "fuzzy_review_required",
         )
-    return MatchDecision("unmatched", "none", None, None, (), "no_exact_match")
+    reason = "mpn_not_found" if offer.mpns else "no_exact_match"
+    return MatchDecision("unmatched", "none", None, None, (), reason)
 
 
 def resolve_raw_category(value: str, enabled: Sequence[CategoryConfig]) -> CategoryConfig | None:
@@ -1267,7 +1258,7 @@ class SnapshotGateway:
         list[dict[str, Any]],
     ]:
         del categories, batch_size
-        # Exact GTIN uniqueness is global, so the index intentionally includes
+        # Exact MPN uniqueness is global, so the index intentionally includes
         # every active product, not only the rollout categories.
         products = [
             dict(row)
@@ -1389,9 +1380,9 @@ class SupabaseGateway:
         list[dict[str, Any]],
         list[dict[str, Any]],
     ]:
-        # Do not restrict this query to rollout categories.  GTIN uniqueness
-        # and brand+MPN uniqueness are global catalog invariants; hiding an
-        # identifier collision in another category would create a false match.
+        # Do not restrict this query to rollout categories. Exact MPN
+        # uniqueness is a global catalog invariant; hiding an identifier
+        # collision in another category would create a false match.
         del categories
         products = [
             row
@@ -1820,10 +1811,20 @@ class RawOfferMigrator:
             return None
         if raw_offer.fetchedAt.astimezone(timezone.utc) < self.now - timedelta(hours=self.ttl_hours):
             return None
+        canonical_slug = self.index.product_categories.get(decision.product_id)
+        canonical_category = next(
+            (
+                config
+                for config in CATEGORY_CONFIGS
+                if config.canonical_slug == canonical_slug
+            ),
+            None,
+        )
+        resolved_category = canonical_category or category
         refs = [
             row
             for row in self.index.legacy_refs.get(decision.product_id, [])
-            if row.get("spec_table_name") == category.spec_table
+            if row.get("spec_table_name") == resolved_category.spec_table
         ]
         if len(refs) != 1:
             return None
@@ -1834,7 +1835,7 @@ class RawOfferMigrator:
         ]
         return {
             "SpecId": refs[0]["spec_id"],
-            "SpecTableName": category.spec_table,
+            "SpecTableName": resolved_category.spec_table,
             "StoreId": store_id,
             "Price": min(prices),
             "StockStatus": str(raw_offer.availability) == "available",
@@ -2000,6 +2001,12 @@ class RawOfferMigrator:
             "offersPlanned": 0,
             "legacyRowsPlanned": 0,
             "matched": {"exact_gtin": 0, "exact_mpn": 0, "persistent_sku": 0},
+            "telemetry": {
+                "exact_mpn": 0,
+                "ambiguous_mpn": 0,
+                "mpn_not_found": 0,
+                "category_corrected_from_mpn": 0,
+            },
             "candidates": 0,
             "unmatched": 0,
             "skipped": {},
@@ -2083,8 +2090,14 @@ class RawOfferMigrator:
                 )
                 if decision.status == "matched":
                     report["matched"][decision.method] += 1
+                    if decision.method == "exact_mpn":
+                        report["telemetry"]["exact_mpn"] += 1
+                    if decision.reason == "category_corrected_from_mpn":
+                        report["telemetry"]["category_corrected_from_mpn"] += 1
                 elif decision.status == "candidate":
                     report["candidates"] += 1
+                    if decision.reason == "ambiguous_mpn":
+                        report["telemetry"]["ambiguous_mpn"] += 1
                     if len(report["candidateSamples"]) < MAX_MISMATCH_SAMPLES:
                         report["candidateSamples"].append(
                             {
@@ -2097,6 +2110,8 @@ class RawOfferMigrator:
                         )
                 else:
                     report["unmatched"] += 1
+                    if decision.reason == "mpn_not_found":
+                        report["telemetry"]["mpn_not_found"] += 1
                 if self.dual_write:
                     legacy_row = self._legacy_row(raw_offer, store_id, category, decision)
                     if legacy_row:
