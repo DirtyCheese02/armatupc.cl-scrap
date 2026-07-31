@@ -6,8 +6,9 @@ import json
 import os
 import re
 import time
+import unicodedata
 from typing import Any
-from urllib.parse import urljoin
+from urllib.parse import urlencode, urljoin
 
 from bs4 import BeautifulSoup
 from pydoll.browser import Chrome
@@ -167,6 +168,78 @@ def normalize_infosep_price(value: Any) -> str:
     return normalize_price(value)
 
 
+def normalize_infosep_availability(*values: Any) -> str:
+    """Return an explicit public stock state without guessing from price or markup."""
+
+    unavailable = False
+    available = False
+
+    for value in values:
+        if value is None:
+            continue
+        if isinstance(value, bool):
+            unavailable = unavailable or not value
+            available = available or value
+            continue
+        if isinstance(value, (int, float)) and not isinstance(value, bool):
+            unavailable = unavailable or value <= 0
+            available = available or value > 0
+            continue
+
+        if isinstance(value, (list, tuple, set)):
+            text = " ".join(str(item) for item in value)
+        else:
+            text = html_to_text(value)
+        folded = unicodedata.normalize("NFKD", text.casefold())
+        folded = folded.encode("ascii", "ignore").decode("ascii")
+        folded = re.sub(r"[^a-z0-9]+", " ", folded).strip()
+        if not folded:
+            continue
+
+        if any(
+            marker in folded
+            for marker in (
+                "sin existencias",
+                "sin stock",
+                "out of stock",
+                "agotado",
+                "no disponible",
+                "stock agotado",
+            )
+        ):
+            unavailable = True
+        elif any(
+            marker in folded
+            for marker in (
+                "hay existencias",
+                "en stock",
+                "in stock",
+                "disponible",
+            )
+        ):
+            available = True
+
+    # A negative signal wins if InfoSep returns contradictory markup/API fields.
+    if unavailable:
+        return "unavailable"
+    if available:
+        return "available"
+    return "unknown"
+
+
+def infosep_html_availability(soup: BeautifulSoup) -> str:
+    stock_element = soup.select_one(
+        ".summary p.stock, p.stock, .wd_single_product_stock_status .stock, "
+        ".wd_single_product_stock_status"
+    )
+    if stock_element is None:
+        return "unknown"
+    return normalize_infosep_availability(
+        stock_element.get_text(" ", strip=True),
+        stock_element.get("class", []),
+    )
+
+
 def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, Any] | None:
     url = product.get("permalink") or ""
     name = html_to_text(product.get("name"))
@@ -188,6 +261,11 @@ def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, 
         "type": category_name,
         "part #": part_number,
         "price": normalized_price,
+        "availability": normalize_infosep_availability(
+            product.get("is_in_stock"),
+            product.get("stock_status"),
+            product.get("availability_html"),
+        ),
         "url": url,
         "image_url": first_image_from_wc(product),
     }
@@ -241,6 +319,7 @@ def parse_infosep_html_product(
         "type": category_name,
         "part #": part_number,
         "price": normalized_price,
+        "availability": infosep_html_availability(soup),
         "url": url,
         "image_url": absolute_url(base_url, image),
     }
@@ -390,6 +469,108 @@ async def _json_from_page(page: Any, script: str) -> Any:
     return json.loads(raw_value or "null")
 
 
+async def _infosep_browser_api_page(
+    page: Any,
+    params: dict[str, Any],
+) -> tuple[list[dict[str, Any]], int]:
+    api_url = f"{urljoin(BASE_URL, '/wp-json/wc/store/v1/products')}?{urlencode(params)}"
+    result = await _json_from_page(
+        page,
+        f"""
+const url = {json.dumps(api_url)};
+try {{
+  const response = await fetch(url, {{
+    credentials: "include",
+    headers: {{ Accept: "application/json" }}
+  }});
+  const body = await response.text();
+  let products = null;
+  try {{ products = JSON.parse(body); }} catch (_) {{}}
+  return JSON.stringify({{
+    ok: response.ok && Array.isArray(products),
+    status: response.status,
+    totalPages: Number(response.headers.get("X-WP-TotalPages") || "1"),
+    products,
+    bodySample: body.slice(0, 160)
+  }});
+}} catch (error) {{
+  return JSON.stringify({{ ok: false, status: 0, error: String(error) }});
+}}
+""",
+    ) or {}
+    if not result.get("ok"):
+        raise RuntimeError(
+            "browser Store API failed "
+            f"status={result.get('status')} "
+            f"error={result.get('error') or result.get('bodySample') or 'unknown'}"
+        )
+    products = result.get("products")
+    if not isinstance(products, list):
+        raise RuntimeError("browser Store API returned a non-list payload")
+    try:
+        total_pages = max(1, int(result.get("totalPages") or 1))
+    except (TypeError, ValueError):
+        total_pages = 1
+    return products, total_pages
+
+
+async def _scrape_infosep_browser_store_api(
+    page: Any,
+    output_path: str,
+    max_products: int,
+) -> tuple[int, bool]:
+    """Use the authorized browser session for fast same-origin Store API calls."""
+
+    saved_count = 0
+    skipped_without_part = 0
+    seen_urls: set[str] = set()
+
+    for category_name, query_list in CATEGORY_QUERIES.items():
+        for query in query_list:
+            page_number = 1
+            total_pages = 1
+            while page_number <= total_pages:
+                try:
+                    products, total_pages = await _infosep_browser_api_page(
+                        page,
+                        {"per_page": 100, "page": page_number, **query},
+                    )
+                except Exception as exc:
+                    print(
+                        f"InfoSep browser Store API failed for {category_name} "
+                        f"page {page_number}: {exc}"
+                    )
+                    return saved_count, False
+
+                print(
+                    f"InfoSep browser Store API {category_name} "
+                    f"page {page_number}/{total_pages}: {len(products)} products"
+                )
+                for product in products:
+                    url = product.get("permalink") or ""
+                    if not url or url in seen_urls:
+                        continue
+                    data = product_to_output(product, category_name)
+                    if not data:
+                        skipped_without_part += 1
+                        continue
+                    seen_urls.add(url)
+                    write_product_json(output_path, "IS", url, data)
+                    saved_count += 1
+                    if max_products and saved_count >= max_products:
+                        print(
+                            f"InfoSep browser Store API reached max products={max_products}."
+                        )
+                        return saved_count, True
+                page_number += 1
+
+    print(
+        "InfoSep browser Store API finished. "
+        f"Saved {saved_count}; skipped {skipped_without_part} without usable part number."
+    )
+    return saved_count, saved_count > 0
+
+
 async def _wait_for_infosep_category(page: Any, timeout_seconds: int) -> dict[str, Any]:
     deadline = asyncio.get_running_loop().time() + timeout_seconds
     last_state: dict[str, Any] = {}
@@ -531,6 +712,17 @@ return JSON.stringify({
     document.querySelector(".summary .price")?.textContent ||
     document.querySelector(".price")?.textContent
   ),
+  stock_text: clean(
+    document.querySelector(".summary p.stock")?.textContent ||
+    document.querySelector("p.stock")?.textContent ||
+    document.querySelector(".wd_single_product_stock_status .stock")?.textContent ||
+    document.querySelector(".wd_single_product_stock_status")?.textContent
+  ),
+  stock_class: [
+    ...(document.querySelector(".summary p.stock")?.classList || []),
+    ...(document.querySelector("p.stock")?.classList || []),
+    ...(document.querySelector(".wd_single_product_stock_status .stock")?.classList || [])
+  ].join(" "),
   image_url: image
 });
 """,
@@ -573,6 +765,10 @@ async def _scrape_infosep_product_browser(
                 "type": category_name,
                 "part #": part_number,
                 "price": normalize_infosep_price(detail.get("price")),
+                "availability": normalize_infosep_availability(
+                    detail.get("stock_text"),
+                    detail.get("stock_class"),
+                ),
                 "url": url,
                 "image_url": absolute_url(BASE_URL, detail.get("image_url")),
             }
@@ -609,6 +805,22 @@ async def _scrape_infosep_browser_async(output_dir: str) -> int:
             f"chunk_size={chunk_size}"
         )
         max_products = configured_max_products() or int(os.environ.get("BROWSER_FALLBACK_MAX_PRODUCTS", "0") or "0")
+
+        # GitHub runner IPs can receive 403 through requests while a normal
+        # browser session is accepted. Reuse that accepted session to call the
+        # same public Store API and avoid navigating roughly one page per item.
+        await page.go_to(BASE_URL)
+        browser_api_count, browser_api_complete = await _scrape_infosep_browser_store_api(
+            page,
+            str(output_path),
+            max_products,
+        )
+        if browser_api_complete:
+            return browser_api_count
+        print(
+            "InfoSep browser Store API incomplete; falling back to category and product pages."
+        )
+
         links: list[tuple[str, str]] = []
         seen_urls: set[str] = set()
 

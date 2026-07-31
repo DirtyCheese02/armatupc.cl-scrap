@@ -209,6 +209,69 @@ def first_text(item, *keys):
             return str(value).strip()
     return ""
 
+
+def explicit_stock_status(item):
+    """Return False only for explicit OOS evidence; preserve legacy unknown as available."""
+    aliases = {
+        "availability",
+        "stockstatus",
+        "isavailable",
+        "isinstock",
+        "instock",
+        "available",
+        "stock",
+    }
+    present = False
+    value = None
+    for key, candidate in item.items():
+        if normalize_key(key) in aliases:
+            present = True
+            value = candidate
+            break
+
+    if not present or value is None:
+        return None
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, (int, float)) and not isinstance(value, bool):
+        return value > 0
+
+    normalized = normalize_key(value)
+    if normalized in {
+        "unavailable",
+        "outofstock",
+        "agotado",
+        "sinexistencias",
+        "sinstock",
+        "nodisponible",
+        "false",
+        "no",
+        "0",
+    }:
+        return False
+    if normalized in {
+        "available",
+        "instock",
+        "enstock",
+        "disponible",
+        "hayexistencias",
+        "true",
+        "yes",
+        "si",
+        "1",
+    }:
+        return True
+    return None
+
+
+def preferred_product_snapshot(existing, candidate):
+    """Prefer an available duplicate, then the lowest price within the same stock state."""
+    if existing is None:
+        return candidate
+    if candidate["stock_status"] != existing["stock_status"]:
+        return candidate if candidate["stock_status"] else existing
+    return candidate if candidate["price_int"] < existing["price_int"] else existing
+
 def chunked(items, size):
     for index in range(0, len(items), size):
         yield items[index:index + size]
@@ -861,23 +924,33 @@ def detect_price_anomaly(store_id, spec_id, spec_table_name, price_int):
         return f"price_drop:{previous_price}->{price_int}"
     return None
 
-def upsert_product_pricing(store_name, spec_id, data, store_id):
-    global PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED
+def build_product_pricing_payload(spec_id, data, store_id):
+    timestamp = now_iso()
     payload = {
         "SpecId": spec_id,
         "SpecTableName": data["table"],
         "StoreId": store_id,
         "Price": data["price_int"],
-        "StockStatus": True,
+        "StockStatus": data.get("stock_status", True),
         "Url": data["url"],
-        "LastUpdated": now_iso(),
+        "LastUpdated": timestamp,
     }
     if PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED:
         payload.update({
             "AffiliateUrl": data.get("affiliate_url"),
-            "LastSeenAt": now_iso(),
-            "StockConfidence": "confirmed",
+            "LastSeenAt": timestamp,
+            "StockConfidence": (
+                "confirmed" if data.get("stock_status", True) else "explicit_unavailable"
+            ),
         })
+        if not data.get("stock_status", True):
+            payload["LastConfirmedOutOfStockAt"] = timestamp
+    return payload
+
+
+def upsert_product_pricing(store_name, spec_id, data, store_id):
+    global PRODUCT_PRICING_EXTENDED_COLUMNS_ENABLED
+    payload = build_product_pricing_payload(spec_id, data, store_id)
     try:
         return execute_db_request(
             f"ProductPricing upsert {store_name} {spec_id}",
@@ -1497,6 +1570,29 @@ def process_daily_scraps():
             # A matched product was present in this snapshot even when its price is
             # quarantined. Anomalies must never be interpreted as stock absence.
             seen_ids_today.add(spec_id)
+            scraped_stock_status = explicit_stock_status(item)
+
+            # An explicit store-level OOS signal is authoritative and must be
+            # published immediately. It is still a successful exact match and a
+            # seen listing, so it cannot be confused with a partial-snapshot absence.
+            if scraped_stock_status is False:
+                matched_count += 1
+                product_data = {
+                    "spec_id": spec_id,
+                    "table": found_table,
+                    "price_int": price_int,
+                    "url": url,
+                    "affiliate_url": item.get("affiliate_url") or item.get("affiliateUrl"),
+                    "image_url": item.get("image_url"),
+                    "match_method": match_method,
+                    "match_score": match_score,
+                    "stock_status": False,
+                }
+                unique_products_today[spec_id] = preferred_product_snapshot(
+                    unique_products_today.get(spec_id), product_data
+                )
+                continue
+
             anomaly_reason = detect_price_anomaly(store_id, spec_id, found_table, price_int)
             if anomaly_reason:
                 anomaly_count += 1
@@ -1539,9 +1635,11 @@ def process_daily_scraps():
                 "image_url": item.get("image_url"),
                 "match_method": match_method,
                 "match_score": match_score,
+                "stock_status": True,
             }
-            if spec_id not in unique_products_today or price_int < unique_products_today[spec_id]["price_int"]:
-                unique_products_today[spec_id] = product_data
+            unique_products_today[spec_id] = preferred_product_snapshot(
+                unique_products_today.get(spec_id), product_data
+            )
 
         match_rate = matched_count / raw_count if raw_count else 0
         snapshot_healthy, stock_markout_reason = should_allow_stock_markout(
@@ -1607,7 +1705,11 @@ def process_daily_scraps():
         for spec_id, data in unique_products_today.items():
             upsert_product_pricing(store_name, spec_id, data, store_id)
             record_legacy_offer_change(
-                spec_id, data["table"], store_id, data["price_int"], True
+                spec_id,
+                data["table"],
+                store_id,
+                data["price_int"],
+                data.get("stock_status", True),
             )
 
             if data.get("image_url") and data["image_url"] != "N/A":

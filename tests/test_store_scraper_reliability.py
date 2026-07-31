@@ -6,6 +6,8 @@ import unittest
 from pathlib import Path
 from unittest.mock import AsyncMock, patch
 
+from bs4 import BeautifulSoup
+
 
 ROOT = Path(__file__).resolve().parents[1]
 SCRAPER_DIR = ROOT / "ScrapDB" / "PythonsScrap"
@@ -13,11 +15,88 @@ sys.path.insert(0, str(SCRAPER_DIR))
 
 import Scrap_MyBox as mybox
 import Scrap_NiceOne as niceone
+import Scrap_InfoSep as infosep
 import Scrap_Winpy as winpy
 import api_scraper_utils
 
 
 class StoreScraperReliabilityTests(unittest.TestCase):
+    def test_infosep_store_api_preserves_explicit_out_of_stock(self):
+        product = {
+            "permalink": "https://infosep.cl/producto/memoria-demo/",
+            "name": "Memoria Kingston Demo",
+            "sku": "KF436C18BB/32",
+            "prices": {"price": "71895"},
+            "is_in_stock": False,
+        }
+
+        result = infosep.product_to_output(product, "Memory")
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result["availability"], "unavailable")
+        self.assertEqual(result["price"], "71895")
+
+    def test_infosep_html_recognizes_sin_existencias_and_stock_class(self):
+        soup = BeautifulSoup(
+            """
+            <h1 class="product_title">Memoria Kingston Demo</h1>
+            <span class="sku">KF436C18BB/32</span>
+            <p class="price"><span class="woocommerce-Price-amount">$71.895</span></p>
+            <p class="stock out-of-stock wd-style-bordered"><span>Sin existencias</span></p>
+            """,
+            "html.parser",
+        )
+
+        result = infosep.parse_infosep_html_product(
+            soup,
+            "https://infosep.cl/producto/memoria-demo/",
+            "Memory",
+            infosep.BASE_URL,
+        )
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result["availability"], "unavailable")
+
+    def test_infosep_does_not_infer_stock_without_an_explicit_signal(self):
+        self.assertEqual(infosep.normalize_infosep_availability(), "unknown")
+        self.assertEqual(
+            infosep.normalize_infosep_availability("stock wd-style-bordered"),
+            "unknown",
+        )
+
+    def test_infosep_browser_store_api_reuses_session_and_keeps_oos(self):
+        async def scenario():
+            product = {
+                "permalink": "https://infosep.cl/producto/memoria-demo/",
+                "name": "Memoria Kingston Demo",
+                "sku": "KF436C18BB/32",
+                "prices": {"price": "71895"},
+                "is_in_stock": False,
+            }
+            written = []
+            with patch.object(
+                infosep,
+                "CATEGORY_QUERIES",
+                {"Memory": [{"category": 129}]},
+            ), patch.object(
+                infosep,
+                "_infosep_browser_api_page",
+                new=AsyncMock(return_value=([product], 1)),
+            ), patch.object(
+                infosep,
+                "write_product_json",
+                side_effect=lambda *args: written.append(args[-1]),
+            ):
+                count, complete = await infosep._scrape_infosep_browser_store_api(
+                    object(), "unused", 0
+                )
+
+            self.assertTrue(complete)
+            self.assertEqual(count, 1)
+            self.assertEqual(written[0]["availability"], "unavailable")
+
+        asyncio.run(scenario())
+
     def test_mybox_browser_parser_accepts_visible_reference_block(self):
         self.assertIn(
             "//*[contains(@class,'product-reference')]",

@@ -30,6 +30,40 @@ class MatchProductHelpersTest(unittest.TestCase):
         self.assertEqual(match_products.normalize_part_number("90YV0GB2-M0AA00"), "90YV0GB2M0AA00")
         self.assertEqual(match_products.normalize_part_number(" cmk32gx5m2b5600c36 "), "CMK32GX5M2B5600C36")
 
+    def test_explicit_stock_status_distinguishes_oos_from_unknown(self):
+        self.assertFalse(match_products.explicit_stock_status({"availability": "Sin existencias"}))
+        self.assertFalse(match_products.explicit_stock_status({"is_in_stock": False}))
+        self.assertTrue(match_products.explicit_stock_status({"stock_status": "in-stock"}))
+        self.assertIsNone(match_products.explicit_stock_status({"price": 71895}))
+        self.assertIsNone(match_products.explicit_stock_status({"availability": "unknown"}))
+
+    def test_available_duplicate_wins_over_explicit_oos_then_lowest_price_wins(self):
+        unavailable = {"stock_status": False, "price_int": 70000}
+        available_expensive = {"stock_status": True, "price_int": 80000}
+        available_cheap = {"stock_status": True, "price_int": 75000}
+
+        selected = match_products.preferred_product_snapshot(None, unavailable)
+        selected = match_products.preferred_product_snapshot(selected, available_expensive)
+        selected = match_products.preferred_product_snapshot(selected, available_cheap)
+
+        self.assertIs(selected, available_cheap)
+
+    def test_explicit_oos_product_pricing_payload_is_not_published_in_stock(self):
+        payload = match_products.build_product_pricing_payload(
+            "spec-1",
+            {
+                "table": "RamSpecifications",
+                "price_int": 71895,
+                "stock_status": False,
+                "url": "https://infosep.cl/producto/memoria-demo/",
+            },
+            7,
+        )
+
+        self.assertFalse(payload["StockStatus"])
+        self.assertEqual(payload["StockConfidence"], "explicit_unavailable")
+        self.assertEqual(payload["LastConfirmedOutOfStockAt"], payload["LastUpdated"])
+
     def test_stock_markout_requires_healthy_scrape(self):
         self.assertEqual(
             match_products.should_allow_stock_markout(0, 0, {"success": True, "json_count": 0}),
