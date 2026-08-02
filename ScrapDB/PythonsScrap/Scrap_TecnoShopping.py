@@ -7,7 +7,9 @@ from typing import Any
 from urllib.parse import urljoin
 
 from api_scraper_utils import (
+    absolute_url,
     brand_from_wc,
+    build_woocommerce_page_url,
     clean_output_dir,
     clean_part_number,
     exit_code_from_count,
@@ -16,6 +18,9 @@ from api_scraper_utils import (
     html_to_text,
     make_session,
     normalize_price,
+    scrape_html_listing_categories,
+    selected_attr,
+    selected_text,
     write_product_json,
 )
 from scraper_health import write_scraper_health
@@ -40,6 +45,31 @@ CATEGORY_QUERIES = {
     "VideoCard": [{"category": 158}],
     "Motherboard": [{"category": 155}],
     "NetworkAdapter": [{"category": 381}],
+}
+
+CATEGORY_HTML_URL_MAP = {
+    "UPS": "https://www.tecnoshopping.cl/ups/",
+    "Headphones": "https://www.tecnoshopping.cl/audifonos/",
+    "Mouse": "https://www.tecnoshopping.cl/accesorios/mouse/",
+    "Storage": [
+        "https://www.tecnoshopping.cl/almacenamiento/discos-internos/",
+        "https://www.tecnoshopping.cl/servidores/discos/",
+    ],
+    "Monitor": "https://www.tecnoshopping.cl/computacion/monitores/",
+    "CPUCooler_CaseFan": [
+        "https://www.tecnoshopping.cl/computacion/componentes/refrigeracion/",
+        "https://www.tecnoshopping.cl/servidores/ventiladores/",
+    ],
+    "PowerSupply": "https://www.tecnoshopping.cl/computacion/componentes/fuentes-de-poder/",
+    "Case": "https://www.tecnoshopping.cl/gabinetes/",
+    "Memory": [
+        "https://www.tecnoshopping.cl/computacion/componentes/memorias-ram/",
+        "https://www.tecnoshopping.cl/servidores/memorias-servidores/",
+    ],
+    "CPU": "https://www.tecnoshopping.cl/computacion/componentes/procesadores/",
+    "VideoCard": "https://www.tecnoshopping.cl/computacion/componentes/tarjetas-graficas/",
+    "Motherboard": "https://www.tecnoshopping.cl/computacion/componentes/placas-madre/",
+    "NetworkAdapter": "https://www.tecnoshopping.cl/servidores/tarjetas-de-red/",
 }
 
 EMPTY_PART_VALUES = {"", "N/A", "NA", "NONE", "NULL", "SIN SKU", "SKU NO INFORMADO"}
@@ -119,6 +149,91 @@ def product_to_output(product: dict[str, Any], category_name: str) -> dict[str, 
     }
 
 
+def parse_tecnoshopping_html_product(soup, url: str, category_name: str, base_url: str) -> dict[str, Any] | None:
+    name = selected_text(soup, ("h1.product_title", "h1.entry-title", "h1"))
+    part_number = clean_tecnoshopping_part_number(
+        selected_text(soup, (".product_meta .sku", ".sku", "[itemprop='sku']"))
+    )
+    if not name or not part_number:
+        return None
+
+    price = normalize_price(
+        selected_text(
+            soup,
+            (
+                ".summary .custom-price-display .woocommerce-Price-amount",
+                ".summary .price_transferencia .woocommerce-Price-amount",
+                ".summary .woocommerce-Price-amount",
+            ),
+        )
+    )
+    if price in {"N/A", "0"}:
+        return None
+
+    stock_text = selected_text(soup, (".summary .stock", "p.stock", ".stock"))
+    unavailable = bool(re.search(r"sin existencias|agotad|sin stock", stock_text, re.IGNORECASE))
+    image_url = selected_attr(
+        soup,
+        (".woocommerce-product-gallery__image img", "img.wp-post-image", "meta[property='og:image']"),
+        "data-large_image",
+    ) or selected_attr(
+        soup,
+        (".woocommerce-product-gallery__image img", "img.wp-post-image", "meta[property='og:image']"),
+        "src",
+    ) or selected_attr(soup, "meta[property='og:image']", "content")
+
+    brand = "N/A"
+    product_meta = soup.select_one(".product_meta")
+    if product_meta is not None:
+        meta_text = html_to_text(product_meta)
+        match = re.search(r"Marca:\s*([^|]+)$", meta_text, re.IGNORECASE)
+        if match:
+            brand = html_to_text(match.group(1)) or "N/A"
+
+    return {
+        "store_name": "TecnoShopping",
+        "scraped_name": name,
+        "scraped_brand": brand,
+        "type": category_name,
+        "part #": part_number,
+        "price": price,
+        "availability": "unavailable" if unavailable else "available",
+        "url": url,
+        "image_url": absolute_url(base_url, image_url) or "N/A",
+    }
+
+
+def scrape_tecnoshopping_html(output_path, categories: set[str]) -> tuple[int, set[str], set[str]]:
+    session = make_session(BASE_URL)
+    completed: set[str] = set()
+    failed: set[str] = set()
+    saved_total = 0
+    seen: set[tuple[str, str]] = set()
+    for category in sorted(categories):
+        saved = scrape_html_listing_categories(
+            session=session,
+            store_name="TecnoShopping",
+            base_url=BASE_URL,
+            category_url_map={category: CATEGORY_HTML_URL_MAP[category]},
+            output_path=output_path,
+            output_prefix="TSP",
+            product_link_selectors=(
+                "li.product a.woocommerce-LoopProduct-link[href]",
+                ".products .product a.woocommerce-loop-product__link[href]",
+            ),
+            pagination_selectors=(".woocommerce-pagination a.page-numbers", "a.page-numbers"),
+            page_url_builder=build_woocommerce_page_url,
+            parse_product=parse_tecnoshopping_html_product,
+            seen=seen,
+        )
+        saved_total += saved
+        if saved:
+            completed.add(category)
+        else:
+            failed.add(category)
+    return saved_total, completed, failed
+
+
 def _api_candidates() -> list[str]:
     return [urljoin(BASE_URL, path) for path in API_PATHS]
 
@@ -184,17 +299,21 @@ def scrape_tecnoshopping() -> int:
     try:
         api_url = _select_api_url(session)
     except Exception as exc:
-        write_scraper_health(
-            status="failed",
-            expected_categories=expected_categories,
-            completed_categories=(),
-            failed_categories=expected_categories,
-            product_count=0,
-            errors=({"category": "*", "error": str(exc)[:500]},),
-            blocked_reason="store_api_unavailable",
+        print(f"{exc}; TecnoShopping switching to public category HTML.")
+        saved_count, completed_categories, failed_categories = scrape_tecnoshopping_html(
+            output_path,
+            expected_categories,
         )
-        print(exc)
-        return 0
+        write_scraper_health(
+            status="failed" if saved_count == 0 else ("partial_success" if failed_categories else "success"),
+            expected_categories=expected_categories,
+            completed_categories=completed_categories,
+            failed_categories=failed_categories,
+            product_count=saved_count,
+            errors=({"category": "*", "error": str(exc)[:500]},),
+            blocked_reason="store_api_and_html_unavailable" if saved_count == 0 else None,
+        )
+        return saved_count
 
     for category_name, query_list in CATEGORY_QUERIES.items():
         category_complete = True
@@ -254,6 +373,16 @@ def scrape_tecnoshopping() -> int:
             completed_categories.add(category_name)
         else:
             failed_categories.add(category_name)
+
+    if failed_categories:
+        print(f"TecnoShopping retrying failed API categories through HTML: {sorted(failed_categories)}")
+        fallback_count, fallback_completed, fallback_failed = scrape_tecnoshopping_html(
+            output_path,
+            set(failed_categories),
+        )
+        saved_count += fallback_count
+        completed_categories.update(fallback_completed)
+        failed_categories = fallback_failed
 
     print(
         f"TecnoShopping scraping finished. Saved {saved_count} JSON files; "

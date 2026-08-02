@@ -420,36 +420,39 @@ async def _scrape_winpy_async() -> int:
                     )
                 )
         collection_results = await asyncio.gather(*collect_tasks)
-        failed_specs = [
-            spec
-            for spec, result in zip(collect_specs, collection_results)
-            if not result[1]
-        ]
-        if failed_specs:
+        result_by_spec = dict(zip(collect_specs, collection_results))
+        retry_passes = _env_int("WINPY_CATEGORY_RETRY_PASSES", 2)
+        retry_timeout = max(ready_timeout, _env_int("WINPY_RETRY_PAGE_READY_TIMEOUT", 75))
+        # Failed categories are retried sequentially. Cloudflare becomes less
+        # reliable when several fresh tabs navigate at the same time, which was
+        # leaving the same eight categories partial on every Actions run.
+        retry_sem = asyncio.Semaphore(1)
+        for retry_pass in range(1, retry_passes + 1):
+            failed_specs = [spec for spec, result in result_by_spec.items() if not result[1]]
+            if not failed_specs:
+                break
+            cooldown = min(30, 10 * retry_pass)
             print(
-                f"[Winpy] cooling down before retrying {len(failed_specs)} "
-                "failed category source(s)."
+                f"[Winpy] retry pass {retry_pass}/{retry_passes}: "
+                f"{len(failed_specs)} failed category source(s), cooldown={cooldown}s."
             )
-            await asyncio.sleep(20)
+            await asyncio.sleep(cooldown)
             retry_results = await asyncio.gather(
                 *[
                     _collect_category(
-                        sem_collector,
+                        retry_sem,
                         browser,
                         category_name=category_name,
                         category_url=category_url,
                         products_to_scrape=products_to_scrape,
                         seen=seen,
-                        ready_timeout=ready_timeout,
+                        ready_timeout=retry_timeout,
                     )
                     for category_name, category_url in failed_specs
                 ]
             )
-            retry_by_spec = dict(zip(failed_specs, retry_results))
-            collection_results = [
-                retry_by_spec.get(spec, result) if not result[1] else result
-                for spec, result in zip(collect_specs, collection_results)
-            ]
+            result_by_spec.update(dict(zip(failed_specs, retry_results)))
+        collection_results = [result_by_spec[spec] for spec in collect_specs]
         failed_categories = {name for name, ok, _ in collection_results if not ok}
         completed_categories = set(CATEGORY_URL_MAP) - failed_categories
         health_errors = [

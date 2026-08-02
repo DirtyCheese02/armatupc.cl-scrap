@@ -360,12 +360,26 @@ def _collect_html_catalog(
     errors: list[dict[str, Any]],
 ) -> None:
     """Collect CTMan through its public collection HTML when products.json is blocked."""
+    probe_url = "https://www.ctman.cl/collections/repuestos-y-componentes/types/procesadores"
+    try:
+        probe_html = fetch_text(session, probe_url, retries=2, timeout=20)
+        _listing_products(probe_html, "CPU")
+    except Exception as exc:
+        errors.append({"category": "*", "url": probe_url, "error": str(exc)[:500]})
+        failed.update(CATEGORY_URL_MAP)
+        print(f"CTMan public HTML probe failed; stopping fallback early: {exc}")
+        return
+
     for category, raw_urls in CATEGORY_URL_MAP.items():
         urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
         category_complete = True
         for category_url in urls:
             try:
-                first_html = fetch_text(session, category_url, retries=3, timeout=30)
+                first_html = (
+                    probe_html
+                    if category_url == probe_url
+                    else fetch_text(session, category_url, retries=2, timeout=25)
+                )
                 products, pages = _listing_products(first_html, category)
                 for item in products:
                     discovered.setdefault(item["url"], item)
@@ -376,7 +390,7 @@ def _collect_html_catalog(
                 for page_number in range(2, pages + 1):
                     time.sleep(REQUEST_DELAY_SECONDS)
                     page_url = _build_page_url(category_url, page_number)
-                    page_html = fetch_text(session, page_url, retries=3, timeout=30)
+                    page_html = fetch_text(session, page_url, retries=2, timeout=25)
                     page_products, _ = _listing_products(page_html, category)
                     for item in page_products:
                         discovered.setdefault(item["url"], item)
@@ -430,7 +444,7 @@ def scrape_ctman() -> int:
     api_catalog_available = False
 
     try:
-        first_payload, _ = fetch_json(session, PRODUCTS_API_URL, params={"page": 1}, retries=3, timeout=30)
+        first_payload, _ = fetch_json(session, PRODUCTS_API_URL, params={"page": 1}, retries=2, timeout=25)
         first_products, pages = _api_listing_products(first_payload)
         for item in first_products:
             discovered.setdefault(item["url"], item)
@@ -441,8 +455,8 @@ def scrape_ctman() -> int:
                 session,
                 PRODUCTS_API_URL,
                 params={"page": page_number},
-                retries=3,
-                timeout=30,
+                retries=2,
+                timeout=25,
             )
             products, _ = _api_listing_products(payload)
             for item in products:
@@ -504,7 +518,7 @@ def scrape_ctman() -> int:
         failed_categories=failed,
         product_count=saved_count,
         errors=errors[:100],
-        blocked_reason="public_products_api_unavailable" if saved_count == 0 else None,
+        blocked_reason="public_catalog_unavailable" if saved_count == 0 else None,
     )
     print(f"CTMan scraping finished. Saved {saved_count} JSON files; failed categories={sorted(failed)}")
     return saved_count

@@ -2,6 +2,7 @@ import sys
 import unittest
 import uuid
 from pathlib import Path
+from unittest.mock import patch
 
 ROOT = Path(__file__).resolve().parents[1]
 SCRAPDB = ROOT / "ScrapDB"
@@ -325,6 +326,25 @@ class MatchProductHelpersTest(unittest.TestCase):
 
     def test_schema_errors_are_not_transient_network_errors(self):
         self.assertFalse(match_products.is_transient_db_error(Exception("undefined column ProductPricing.Foo")))
+
+    def test_fatal_matcher_error_finalizes_parent_run(self):
+        calls = []
+
+        with patch.object(
+            match_products,
+            "optional_db_request",
+            side_effect=lambda table, label, factory: calls.append((table, label)),
+        ):
+            match_products.finalize_scrape_run_after_fatal_error(RuntimeError("boom"))
+
+        self.assertEqual(calls[0][0], "scrape_runs")
+        self.assertIn("fatal finalize", calls[0][1])
+
+    def test_product_publication_errors_fail_closed_without_aborting_store_loop(self):
+        source = (SCRAPDB / "match_products.py").read_text(encoding="utf-8")
+        self.assertIn("publication_error_count += 1", source)
+        self.assertIn('stock_markout_reason = "publication_errors"', source)
+        self.assertIn("update_store_run_processing_outcome", source)
 
 
 if __name__ == "__main__":

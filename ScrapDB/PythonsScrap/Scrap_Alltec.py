@@ -85,9 +85,7 @@ def is_alltec_unavailable(soup) -> bool:
 
 
 def parse_alltec_product(soup, url: str, category_name: str, base_url: str) -> dict | None:
-    if is_alltec_unavailable(soup):
-        print(f"Alltec skipped unavailable product: {url}")
-        return None
+    unavailable = is_alltec_unavailable(soup)
 
     name = selected_text(soup, ("h1[itemprop='name']", "h1"))
     raw_part_number = selected_text(soup, ("#product_reference span[itemprop='sku']", "#product_reference"))
@@ -106,7 +104,7 @@ def parse_alltec_product(soup, url: str, category_name: str, base_url: str) -> d
         "src",
     )
 
-    return {
+    result = {
         "store_name": "Alltec",
         "scraped_name": name,
         "scraped_brand": "N/A",
@@ -116,6 +114,15 @@ def parse_alltec_product(soup, url: str, category_name: str, base_url: str) -> d
         "url": url,
         "image_url": absolute_url(base_url, image_url),
     }
+    if unavailable:
+        # An explicit OOS listing is useful evidence. Publishing it allows the
+        # matcher to update this one product immediately without interpreting a
+        # missing/partial category as a store-wide markout.
+        result["availability"] = "unavailable"
+        print(f"Alltec kept explicitly unavailable product: {url}")
+    else:
+        result["availability"] = "available"
+    return result
 
 
 def clean_alltec_part_number(value: str) -> str:

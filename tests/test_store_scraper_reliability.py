@@ -14,6 +14,7 @@ SCRAPER_DIR = ROOT / "ScrapDB" / "PythonsScrap"
 sys.path.insert(0, str(SCRAPER_DIR))
 
 import Scrap_MyBox as mybox
+import Scrap_Alltec as alltec
 import Scrap_NiceOne as niceone
 import Scrap_InfoSep as infosep
 import Scrap_Winpy as winpy
@@ -21,6 +22,23 @@ import api_scraper_utils
 
 
 class StoreScraperReliabilityTests(unittest.TestCase):
+    def test_alltec_preserves_explicit_out_of_stock_product(self):
+        soup = BeautifulSoup(
+            """
+            <h1 itemprop="name">Memoria Kingston KF432C16BB/16</h1>
+            <p id="product_reference"><span itemprop="sku">KF432C16BB/16</span></p>
+            <span id="our_price_display">$49.990</span>
+            <span id="availability_value">Sin stock</span>
+            <img id="bigpic" src="/memoria.webp">
+            """,
+            "html.parser",
+        )
+        result = alltec.parse_alltec_product(
+            soup, "https://www.alltec.cl/memoria-demo", "Memory", alltec.BASE_URL
+        )
+        self.assertIsNotNone(result)
+        self.assertEqual(result["availability"], "unavailable")
+
     def test_infosep_store_api_preserves_explicit_out_of_stock(self):
         product = {
             "permalink": "https://infosep.cl/producto/memoria-demo/",

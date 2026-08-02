@@ -115,24 +115,20 @@ def niceone_connectivity_probe(timeout: int = 10, retries: int = 2) -> tuple[boo
 
 
 def main() -> int:
-    request_timeout = int(os.environ.get("NICEONE_REQUEST_TIMEOUT", "12") or "12")
-    request_retries = int(os.environ.get("NICEONE_REQUEST_RETRIES", "2") or "2")
+    request_timeout = int(os.environ.get("NICEONE_REQUEST_TIMEOUT", "20") or "20")
+    request_retries = int(os.environ.get("NICEONE_REQUEST_RETRIES", "3") or "3")
     probe_ok, probe_error = niceone_connectivity_probe(
         timeout=min(request_timeout, 10),
-        retries=request_retries,
+        retries=min(request_retries, 2),
     )
     if not probe_ok:
-        print(f"NiceOne connectivity probe failed; preserving previous state: {probe_error}")
-        write_scraper_health(
-            status="failed",
-            expected_categories=CATEGORY_URL_MAP,
-            completed_categories=(),
-            failed_categories=CATEGORY_URL_MAP,
-            product_count=0,
-            errors=({"category": "*", "error": probe_error or "connectivity_probe_failed"},),
-            blocked_reason="store_connect_timeout",
+        # A single CPU probe used to abort all 17 categories. The store has
+        # intermittent route-level timeouts, so each category must get its own
+        # chance before the snapshot is classified as empty.
+        print(
+            "NiceOne connectivity probe failed; continuing with independent "
+            f"category requests: {probe_error}"
         )
-        return 1
 
     output_dir = "ScrapDB/Outputs/NiceOne"
     category_status: dict[str, bool] = {}
@@ -161,7 +157,12 @@ def main() -> int:
         completed_categories=completed_categories,
         failed_categories=failed_categories,
         product_count=saved_count,
-        blocked_reason=None if saved_count > 0 else "empty_output",
+        errors=(
+            ({"category": "*", "error": probe_error or "connectivity_probe_failed"},)
+            if not probe_ok
+            else ()
+        ),
+        blocked_reason=None if saved_count > 0 else "store_connect_timeout",
     )
     return exit_code_from_count(saved_count)
 

@@ -1084,6 +1084,37 @@ def update_store_run_markout_outcome(store_run_id, allowed, reason):
         }).eq("id", store_run_id),
     )
 
+
+def update_store_run_processing_outcome(store_run_id, metrics):
+    """Persist late publication errors discovered after the store run was created."""
+    if not store_run_id:
+        return
+    optional_db_request(
+        "scraper_store_runs",
+        f"scraper_store_runs processing outcome {store_run_id}",
+        lambda: get_supabase().table("scraper_store_runs").update({
+            "status": metrics["status"],
+            "error_count": metrics["error_count"],
+            "stock_markout_allowed": metrics["stock_markout_allowed"],
+            "stock_markout_reason": metrics["stock_markout_reason"],
+            "updated_at": now_iso(),
+        }).eq("id", store_run_id),
+    )
+
+
+def finalize_scrape_run_after_fatal_error(error):
+    """Fail closed so a matcher crash never leaves the parent run as running."""
+    optional_db_request(
+        "scrape_runs",
+        f"scrape_runs fatal finalize {SCRAPE_RUN_ID}",
+        lambda: get_supabase().table("scrape_runs").update({
+            "status": "failed",
+            "finished_at": now_iso(),
+            "updated_at": now_iso(),
+            "error_count": 1,
+        }).eq("id", SCRAPE_RUN_ID),
+    )
+
 def update_store_scrape_status(store_id, metrics):
     global STORE_QUALITY_COLUMNS_ENABLED
     payload = {
@@ -1702,18 +1733,37 @@ def process_daily_scraps():
         print(f"[match] Stock markout: {stock_markout_allowed} ({stock_markout_reason})")
         print(f"[match] Insertando {len(unique_products_today)} productos unicos en DB.")
 
+        publication_error_count = 0
         for spec_id, data in unique_products_today.items():
-            upsert_product_pricing(store_name, spec_id, data, store_id)
-            record_legacy_offer_change(
-                spec_id,
-                data["table"],
-                store_id,
-                data["price_int"],
-                data.get("stock_status", True),
-            )
+            try:
+                upsert_product_pricing(store_name, spec_id, data, store_id)
+                record_legacy_offer_change(
+                    spec_id,
+                    data["table"],
+                    store_id,
+                    data["price_int"],
+                    data.get("stock_status", True),
+                )
 
-            if data.get("image_url") and data["image_url"] != "N/A":
-                process_product_image(spec_id, data["table"], data["image_url"])
+                if data.get("image_url") and data["image_url"] != "N/A":
+                    process_product_image(spec_id, data["table"], data["image_url"])
+            except Exception as error:
+                publication_error_count += 1
+                print(
+                    f"[match] Error publicando {store_name}/{spec_id}; "
+                    f"se conserva el resto de la tienda: {error}"
+                )
+
+        if publication_error_count:
+            error_count += publication_error_count
+            stock_markout_allowed = False
+            stock_markout_reason = "publication_errors"
+            status = "warning"
+            snapshot_healthy = False
+            print(
+                f"[match] {store_name}: {publication_error_count} errores de publicacion; "
+                "markout deshabilitado."
+            )
 
         if stock_markout_allowed:
             active_rows = load_active_product_presence(store_name, store_id)
@@ -1751,7 +1801,10 @@ def process_daily_scraps():
 
         store_metrics["stock_markout_allowed"] = stock_markout_allowed
         store_metrics["stock_markout_reason"] = stock_markout_reason
-        update_store_run_markout_outcome(store_run_id, stock_markout_allowed, stock_markout_reason)
+        store_metrics["error_count"] = error_count
+        store_metrics["status"] = status
+        store_metrics["snapshot_healthy"] = snapshot_healthy
+        update_store_run_processing_outcome(store_run_id, store_metrics)
         update_store_scrape_status(store_id, store_metrics)
 
         totals["store_count"] += 1
@@ -1781,4 +1834,9 @@ def process_daily_scraps():
     print(f"\n[match] Listo. Logs en '{LOG_FILE}'.")
 
 if __name__ == "__main__":
-    process_daily_scraps()
+    try:
+        process_daily_scraps()
+    except Exception as error:
+        print(f"[match] Error fatal: {error}")
+        finalize_scrape_run_after_fatal_error(error)
+        raise
