@@ -100,6 +100,7 @@ def _item_started_at(summary: dict[str, Any], item: dict[str, Any]) -> str:
 def collect_scraper_results(log_roots: list[Path]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     summaries: list[dict[str, Any]] = []
     latest_by_name: dict[str, dict[str, Any]] = {}
+    interrupted_by_name: dict[str, dict[str, Any]] = {}
 
     for root in log_roots:
         if not root.exists():
@@ -124,6 +125,33 @@ def collect_scraper_results(log_roots: list[Path]) -> tuple[list[dict[str, Any]]
                 }
             )
 
+            completed_names = {
+                str(item.get("name") or "").lower()
+                for item in summary.get("scraper_results") or []
+                if item.get("name")
+            }
+            for expected_name in summary.get("expected_scrapers") or []:
+                normalized_expected = str(expected_name).lower()
+                if not normalized_expected or normalized_expected in completed_names:
+                    continue
+                interrupted_by_name[normalized_expected] = {
+                    "name": str(expected_name),
+                    "success": False,
+                    "return_code": -9,
+                    "timed_out": True,
+                    "failure_reason": "runner_interrupted_before_summary",
+                    "partial": True,
+                    "output_complete": False,
+                    "started_at_utc": summary.get("run_started_at_utc"),
+                    "finished_at_utc": None,
+                    "duration_seconds": None,
+                    "_summary_path": _repo_relative(summary_path),
+                    "_summary_run_id": summary.get("run_id"),
+                    "_scrape_run_id": summary.get("scrape_run_id"),
+                    "_parent_scrape_run_id": summary.get("parent_scrape_run_id"),
+                    "_sort_started_at": str(summary.get("run_started_at_utc") or ""),
+                }
+
             for item in summary.get("scraper_results") or []:
                 name = item.get("name")
                 if not name:
@@ -140,6 +168,10 @@ def collect_scraper_results(log_roots: list[Path]) -> tuple[list[dict[str, Any]]
                 previous = latest_by_name.get(normalized_name)
                 if previous is None or enriched["_sort_started_at"] >= previous["_sort_started_at"]:
                     latest_by_name[normalized_name] = enriched
+
+    for normalized_name, interrupted in interrupted_by_name.items():
+        if normalized_name not in latest_by_name:
+            latest_by_name[normalized_name] = interrupted
 
     return summaries, [latest_by_name[key] for key in sorted(latest_by_name)]
 

@@ -1833,17 +1833,28 @@ class RawOfferMigrator:
             for value in (raw_offer.cashPrice, raw_offer.cardPrice, raw_offer.normalPrice)
             if value is not None
         ]
-        return {
+        availability = str(raw_offer.availability)
+        row = {
             "SpecId": refs[0]["spec_id"],
             "SpecTableName": resolved_category.spec_table,
             "StoreId": store_id,
             "Price": min(prices),
-            "StockStatus": str(raw_offer.availability) == "available",
+            "StockStatus": availability == "available",
             "Url": str(raw_offer.url),
             "LastUpdated": iso_utc(raw_offer.fetchedAt),
             "LastSeenAt": iso_utc(raw_offer.fetchedAt),
-            "StockConfidence": 1.0,
+            # ProductPricing.StockConfidence is a textual evidence state.  The
+            # legacy matcher already writes these values and the database
+            # constraint deliberately rejects numeric confidence scores.
+            "StockConfidence": (
+                "confirmed"
+                if availability == "available"
+                else "explicit_unavailable"
+            ),
         }
+        if availability == "unavailable":
+            row["LastConfirmedOutOfStockAt"] = iso_utc(raw_offer.fetchedAt)
+        return row
 
     def _compare_rows(
         self,

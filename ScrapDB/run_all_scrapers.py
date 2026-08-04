@@ -157,6 +157,16 @@ def _count_json_files(path: Path | None) -> int | None:
     return len(list(path.glob("*.json")))
 
 
+def _write_json_atomic(path: Path, payload: dict[str, Any]) -> None:
+    """Keep a usable summary on disk even if the runner is later cancelled."""
+    temporary_path = path.with_suffix(f"{path.suffix}.tmp")
+    temporary_path.write_text(
+        json.dumps(payload, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    temporary_path.replace(path)
+
+
 def _load_health_sidecar(path: Path) -> dict[str, Any] | None:
     if not path.is_file():
         return None
@@ -297,6 +307,40 @@ def main() -> int:
     print(f"Discovered {len(scrapers)} scraper(s) in {SCRAPERS_DIR}.")
 
     scraper_results: list[dict[str, Any]] = []
+    summary_path = run_dir / "summary.json"
+
+    def write_progress_summary() -> None:
+        completed_names = {str(item.get("name") or "") for item in scraper_results}
+        pending_names = [item.name for item in scrapers if item.name not in completed_names]
+        payload = {
+            "run_id": run_id,
+            "scrape_run_id": scrape_run_id,
+            "parent_scrape_run_id": parent_scrape_run_id,
+            "source": scrape_source,
+            "shard_name": shard_name or None,
+            "run_started_at_utc": run_started.isoformat(),
+            "run_finished_at_utc": None,
+            "run_duration_seconds": None,
+            "status": "running",
+            "expected_scrapers": [item.name for item in scrapers],
+            "pending_scrapers": pending_names,
+            "scraper_timeout_minutes": scraper_timeout_minutes,
+            "scraper_timeout_overrides": scraper_timeout_overrides,
+            "match_timeout_minutes": match_timeout_minutes,
+            "run_match_products": run_match_products,
+            "scraper_count": len(scrapers),
+            "scraper_failures": sum(not item.get("success", False) for item in scraper_results),
+            "scraper_partials": sum(bool(item.get("partial")) for item in scraper_results),
+            "scraper_results": scraper_results,
+            "match_result": None,
+            "final_exit_code": None,
+        }
+        _write_json_atomic(summary_path, payload)
+
+    # GitHub still uploads artifacts from a cancelled job.  Writing this before
+    # the first subprocess gives the retry manifest enough information to mark
+    # an interrupted scraper as failed instead of silently losing it.
+    write_progress_summary()
     for index, scraper_path in enumerate(scrapers, start=1):
         script_name = scraper_path.name
         script_headless = default_headless
@@ -411,6 +455,7 @@ def main() -> int:
         if health_partial:
             result["failure_reason"] = "partial_categories"
         scraper_results.append(result)
+        write_progress_summary()
 
         status = "OK" if result["success"] else "FAILED"
         print(
@@ -429,6 +474,8 @@ def main() -> int:
         "scraper_timeout_overrides": scraper_timeout_overrides,
         "match_timeout_minutes": match_timeout_minutes,
         "run_match_products": run_match_products,
+        "expected_scrapers": [item.name for item in scrapers],
+        "pending_scrapers": [],
         "scraper_count": len(scrapers),
         "scraper_results": scraper_results,
     }
@@ -503,8 +550,7 @@ def main() -> int:
         "final_exit_code": final_exit_code,
     }
 
-    summary_path = run_dir / "summary.json"
-    summary_path.write_text(json.dumps(summary, indent=2, ensure_ascii=False), encoding="utf-8")
+    _write_json_atomic(summary_path, summary)
 
     print(f"Run logs: {run_dir}")
     print(f"Summary: {summary_path}")

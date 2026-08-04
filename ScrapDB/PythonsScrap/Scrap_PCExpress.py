@@ -90,6 +90,12 @@ def parse_listing(html: str, category: str) -> tuple[list[dict[str, str]], int]:
         seen.add(url)
         name = html_to_text(card.select_one(".product-list__name")) or html_to_text(link.get("title"))
         image = card.select_one(".product-list__image img")
+        card_text = html_to_text(card).casefold()
+        explicitly_unavailable = any(
+            marker in card_text
+            for marker in ("sin stock", "sin existencias", "producto agotado")
+        )
+        has_cart_action = card.select_one("button[onclick*='cart.add'], .product-list__btn") is not None
         products.append(
             {
                 "type": category,
@@ -101,11 +107,49 @@ def parse_listing(html: str, category: str) -> tuple[list[dict[str, str]], int]:
                     BASE_URL,
                     str((image.get("data-src") or image.get("src") or "") if image else ""),
                 ),
+                "availability": (
+                    "unavailable"
+                    if explicitly_unavailable
+                    else ("available" if has_cart_action else "unknown")
+                ),
             }
         )
     if not products and "product-list" not in html:
         raise RuntimeError("unexpected_listing_html")
     return products, _page_count(soup)
+
+
+def product_from_listing(product: dict[str, str]) -> dict[str, Any] | None:
+    """Build a publishable record without opening the detail page.
+
+    PC Express includes the manufacturer part number in its listing title and
+    exposes an add-to-cart/OOS state on the card.  Persisting these records as
+    pages are discovered avoids losing the whole store when detail requests
+    later become slow or unavailable in GitHub Actions.
+    """
+    name = product.get("name", "").strip()
+    part_number = pick_part_number((), (name,), allow_name_fallback=True)
+    price = normalize_price(product.get("price"))
+    availability = product.get("availability")
+    if (
+        not name
+        or not part_number
+        or len(part_number) > 128
+        or price in {"N/A", "0"}
+        or availability not in {"available", "unavailable"}
+    ):
+        return None
+    return {
+        "store_name": "PC Express",
+        "scraped_name": name,
+        "scraped_brand": product.get("brand") or "N/A",
+        "type": product["type"],
+        "part #": part_number,
+        "price": price,
+        "availability": availability,
+        "url": product["url"],
+        "image_url": product.get("image_url") or "N/A",
+    }
 
 
 def _brand_from_detail(soup: BeautifulSoup, fallback: str) -> str:
@@ -191,6 +235,17 @@ def scrape_pc_express() -> int:
     failed: set[str] = set()
     errors: list[dict[str, str]] = []
     discovered: dict[tuple[str, str], dict[str, str]] = {}
+    saved_urls: set[str] = set()
+    max_products = int(os.environ.get("PCEXPRESS_MAX_PRODUCTS", "0") or "0")
+
+    def remember(products: list[dict[str, str]]) -> None:
+        for product in products:
+            discovered.setdefault((product["type"], product["url"]), product)
+            data = product_from_listing(product)
+            below_limit = not max_products or len(saved_urls) < max_products
+            if data and data["url"] not in saved_urls and below_limit:
+                write_product_json(output_path, "PCE", data["url"], data)
+                saved_urls.add(data["url"])
 
     for category, raw_urls in CATEGORY_URL_MAP.items():
         urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
@@ -201,8 +256,7 @@ def scrape_pc_express() -> int:
                     session, category_url, BASE_URL, retries=3, timeout=30
                 )
                 first_products, pages = parse_listing(first_html, category)
-                for product in first_products:
-                    discovered.setdefault((category, product["url"]), product)
+                remember(first_products)
                 print(f"PC Express {category} page 1/{pages}: {len(first_products)} products")
                 for page in range(2, pages + 1):
                     time.sleep(REQUEST_DELAY_SECONDS)
@@ -211,8 +265,7 @@ def scrape_pc_express() -> int:
                         session, page_url, category_url, retries=3, timeout=30
                     )
                     page_products, _ = parse_listing(page_html, category)
-                    for product in page_products:
-                        discovered.setdefault((category, product["url"]), product)
+                    remember(page_products)
                     print(f"PC Express {category} page {page}/{pages}: {len(page_products)} products")
             except Exception as exc:
                 category_complete = False
@@ -223,12 +276,15 @@ def scrape_pc_express() -> int:
         else:
             failed.add(category)
 
-    max_products = int(os.environ.get("PCEXPRESS_MAX_PRODUCTS", "0") or "0")
-    products = list(discovered.values())
+    products = [
+        product
+        for product in discovered.values()
+        if product["url"] not in saved_urls
+    ]
     if max_products:
-        products = products[:max_products]
+        products = products[: max(0, max_products - len(saved_urls))]
 
-    saved_count = 0
+    saved_count = len(saved_urls)
     with ThreadPoolExecutor(max_workers=MAX_DETAIL_WORKERS) as executor:
         futures = {executor.submit(_fetch_detail, product): product for product in products}
         for future in as_completed(futures):

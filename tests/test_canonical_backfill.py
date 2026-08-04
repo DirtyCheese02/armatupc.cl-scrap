@@ -549,6 +549,10 @@ class CanonicalBackfillTests(unittest.TestCase):
         self.assertEqual(len(gateway.tables["merchant_listings"]), 2)
         self.assertEqual(len(gateway.tables["offers"]), 2)
         self.assertEqual(len(gateway.tables["ProductPricing"]), 1)
+        self.assertEqual(
+            gateway.tables["ProductPricing"][0]["StockConfidence"],
+            "confirmed",
+        )
         self.assertEqual(second["offersPlanned"], 2)
         candidate_listing = next(
             row for row in gateway.tables["merchant_listings"] if row["source_listing_id"] == "candidate-1"
@@ -562,6 +566,31 @@ class CanonicalBackfillTests(unittest.TestCase):
         self.assertEqual(candidate_offer["public_state"], "suspect")
         self.assertIsNone(candidate_offer["normal_price"])
         self.assertEqual(candidate_offer["published_price"], 419990)
+
+    def test_raw_offer_dual_write_uses_explicit_unavailable_confidence(self):
+        gateway = FakeGateway(match_catalog=match_catalog())
+        RawOfferMigrator(
+            gateway,
+            [CPU],
+            apply=True,
+            dual_write=True,
+            now=NOW,
+        ).run(
+            [
+                raw_offer(
+                    mpns=["100-100000910WOF"],
+                    availability="unavailable",
+                )
+            ]
+        )
+
+        pricing = gateway.tables["ProductPricing"][0]
+        self.assertFalse(pricing["StockStatus"])
+        self.assertEqual(pricing["StockConfidence"], "explicit_unavailable")
+        self.assertEqual(
+            pricing["LastConfirmedOutOfStockAt"],
+            NOW.isoformat().replace("+00:00", "Z"),
+        )
 
     def test_raw_offer_checkpoint_tracks_validated_offer_count_and_artifact_hash(self):
         gateway = FakeGateway(match_catalog=match_catalog())

@@ -42,12 +42,43 @@ jobs:
             headful_scrapers: "Scrap_Alltec.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py"
             timeout_overrides: ""
             no_headful_retry: "Scrap_CTMan.py"
-          - name: legacy-heavy
-            timeout_minutes: 240
+          # Heavy legacy scrapers run independently.  A blocked store must not
+          # consume the whole shard or prevent completed outputs and summaries
+          # from reaching the matcher/retry workflow.
+          - name: legacy-kdtec
+            timeout_minutes: 120
             needs_browser: "true"
-            include_scrapers: "Scrap_KDtec.py,Scrap_PCExpress.py,Scrap_SPDigital.py,Scrap_Winpy.py,Scrap_NiceOne.py"
+            include_scrapers: "Scrap_KDtec.py"
+            headful_scrapers: ""
+            timeout_overrides: ""
+            no_headful_retry: ""
+          - name: legacy-pcexpress
+            timeout_minutes: 120
+            needs_browser: "false"
+            include_scrapers: "Scrap_PCExpress.py"
+            headful_scrapers: ""
+            timeout_overrides: ""
+            no_headful_retry: "Scrap_PCExpress.py"
+          - name: legacy-spdigital
+            timeout_minutes: 120
+            needs_browser: "true"
+            include_scrapers: "Scrap_SPDigital.py"
+            headful_scrapers: ""
+            timeout_overrides: ""
+            no_headful_retry: ""
+          - name: legacy-winpy
+            timeout_minutes: 180
+            needs_browser: "true"
+            include_scrapers: "Scrap_Winpy.py"
             headful_scrapers: "Scrap_Winpy.py"
-            timeout_overrides: "Scrap_NiceOne.py=20"
+            timeout_overrides: "Scrap_Winpy.py=165"
+            no_headful_retry: ""
+          - name: legacy-niceone
+            timeout_minutes: 45
+            needs_browser: "false"
+            include_scrapers: "Scrap_NiceOne.py"
+            headful_scrapers: ""
+            timeout_overrides: "Scrap_NiceOne.py=30"
             no_headful_retry: "Scrap_NiceOne.py"
 
     steps:
@@ -105,6 +136,10 @@ jobs:
           SCRAPE_SHARD_NAME: ${{ matrix.name }}
           BROWSER_FALLBACK_COLLECTOR_CONCURRENCY: "2"
           BROWSER_FALLBACK_SCRAPER_CONCURRENCY: "2"
+          # Preserve Winpy's initial partial snapshot in the daily run. Failed
+          # categories are retried by the dedicated retry workflow instead of
+          # holding every completed category for several hours.
+          WINPY_CATEGORY_RETRY_PASSES: "0"
           SPHINX_REQUEST_DELAY_SECONDS: "1.0"
           SCRAP_BROWSER_START_TIMEOUT: "90"
           CHROME_BINARY_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
@@ -251,7 +286,9 @@ jobs:
             --comparison-report "ScrapDB/RunLogs/canonical-${SCRAPE_RUN_ID}.comparison.json"
 
       - name: Purge expired diagnostics and refresh daily stats
-        if: ${{ steps.retry-manifest.outputs.has_remaining_json == 'true' }}
+        # Legacy publication is complete before the optional canonical step.
+        # Maintenance must still run when canonical comparison fails.
+        if: ${{ always() && steps.retry-manifest.outputs.has_remaining_json == 'true' }}
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}

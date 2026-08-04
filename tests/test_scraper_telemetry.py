@@ -109,6 +109,66 @@ class ScraperTelemetryTest(unittest.TestCase):
         self.assertEqual(manifest["hard_failed_scrapers"], [])
         self.assertEqual(manifest["pruned_output_dirs"], [])
 
+    def test_interrupted_runner_marks_pending_scraper_for_retry(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            logs = root / "logs"
+            outputs = root / "outputs"
+            logs.mkdir()
+            outputs.mkdir()
+            (logs / "summary.json").write_text(
+                json.dumps(
+                    {
+                        "run_id": "interrupted",
+                        "scrape_run_id": str(uuid.uuid4()),
+                        "run_started_at_utc": "2026-08-04T12:00:00+00:00",
+                        "expected_scrapers": ["Scrap_Winpy.py"],
+                        "pending_scrapers": ["Scrap_Winpy.py"],
+                        "status": "running",
+                        "scraper_results": [],
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            manifest = scraper_retry_manifest.build_manifest(
+                log_roots=[logs], outputs_root=outputs, prune_failed=False
+            )
+
+        self.assertEqual(manifest["hard_failed_scrapers"], ["Scrap_Winpy.py"])
+        interrupted = manifest["failed"][0]
+        self.assertTrue(interrupted["timed_out"])
+        self.assertEqual(
+            interrupted["failure_reason"],
+            "runner_interrupted_before_summary",
+        )
+
+    def test_daily_workflow_isolates_heavy_scrapers_and_keeps_maintenance_fail_open(self):
+        workflow = (ROOT / ".github" / "workflows" / "scrapdb-daily.yml").read_text(
+            encoding="utf-8"
+        )
+        for shard in (
+            "legacy-kdtec",
+            "legacy-pcexpress",
+            "legacy-spdigital",
+            "legacy-winpy",
+            "legacy-niceone",
+        ):
+            self.assertIn(f"name: {shard}", workflow)
+        self.assertNotIn("name: legacy-heavy", workflow)
+        self.assertIn("WINPY_CATEGORY_RETRY_PASSES: \"0\"", workflow)
+        self.assertIn(
+            "always() && steps.retry-manifest.outputs.has_remaining_json == 'true'",
+            workflow,
+        )
+        retry_workflow = (
+            ROOT / ".github" / "workflows" / "scrapdb-retry-failed.yml"
+        ).read_text(encoding="utf-8")
+        self.assertIn(
+            "always() && steps.retry-manifest.outputs.has_remaining_json == 'true'",
+            retry_workflow,
+        )
+
     def test_daily_and_retry_workflows_gate_canonical_dual_write(self):
         for workflow_name in ("scrapdb-daily.yml", "scrapdb-retry-failed.yml"):
             workflow = (ROOT / ".github" / "workflows" / workflow_name).read_text(

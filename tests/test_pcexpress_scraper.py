@@ -22,6 +22,7 @@ LISTING_HTML = """
       <p class="product-list__manufacturer">AMD</p>
       <h5 class="product-list__name">Procesador demo P/N 100-TEST-BOX</h5>
       <p class="product-list__price">$129.990</p>
+      <button class="product-list__btn" onclick="cart.add('123', '1');">Agregar</button>
     </div>
   </div>
 </div>
@@ -43,6 +44,15 @@ class PCExpressScraperTests(unittest.TestCase):
         self.assertEqual(pages, 2)
         self.assertEqual(products[0]["url"], "https://tienda.pc-express.cl/123-procesador-demo")
         self.assertEqual(products[0]["price"], "129990")
+        self.assertEqual(products[0]["availability"], "available")
+
+    def test_listing_record_can_be_saved_without_loading_product_detail(self):
+        products, _ = pcexpress.parse_listing(LISTING_HTML, "CPU")
+        result = pcexpress.product_from_listing(products[0])
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result["part #"], "100-TEST-BOX")
+        self.assertEqual(result["availability"], "available")
 
     def test_detail_extracts_mpn_price_and_stock(self):
         product = {
