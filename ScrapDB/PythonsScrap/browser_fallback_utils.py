@@ -124,6 +124,65 @@ def _matches_text_pattern(text: str, patterns: tuple[str, ...]) -> bool:
     return any(re.search(pattern, normalized, flags=re.IGNORECASE) for pattern in patterns)
 
 
+async def _probe_browser_category_async(
+    url: str,
+    ready_selectors: tuple[str, ...],
+    *,
+    timeout_seconds: int = 20,
+) -> tuple[bool, str | None]:
+    """Check one public category before launching an expensive full fallback."""
+
+    options = _make_browser_options()
+    browser = Chrome(options=options)
+    await browser.start()
+    page = None
+    try:
+        page = await browser.new_tab()
+        await page.go_to(url)
+        ready = await _wait_for_any(page, ready_selectors, timeout_seconds)
+        body = await _first_text(page, ("//body",))
+        if _matches_text_pattern(
+            body,
+            (
+                r"\b403\b",
+                r"access denied",
+                r"forbidden",
+                r"temporarily blocked",
+            ),
+        ):
+            return False, "browser_access_blocked"
+        if not ready:
+            return False, "browser_category_not_ready"
+        return True, None
+    except Exception as exc:
+        return False, str(exc)[:500]
+    finally:
+        if page is not None:
+            try:
+                await page.close()
+            except Exception:
+                pass
+        try:
+            await browser.stop()
+        except Exception:
+            pass
+
+
+def probe_browser_category(
+    url: str,
+    ready_selectors: tuple[str, ...],
+    *,
+    timeout_seconds: int = 20,
+) -> tuple[bool, str | None]:
+    return asyncio.run(
+        _probe_browser_category_async(
+            url,
+            ready_selectors,
+            timeout_seconds=timeout_seconds,
+        )
+    )
+
+
 async def _page_count(page: Any, pagination_selector: str) -> int:
     try:
         elements = await page.query(pagination_selector, find_all=True)

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import asyncio
+import os
 import sys
 import unittest
 from pathlib import Path
@@ -82,6 +83,19 @@ class StoreScraperReliabilityTests(unittest.TestCase):
             "unknown",
         )
 
+    def test_infosep_browser_detail_rejects_missing_price(self):
+        result = infosep.infosep_browser_detail_to_output(
+            {
+                "name": "Memoria Kingston Demo",
+                "part_number": "KF436C18BB/32",
+                "price": "0",
+                "stock_text": "Sin existencias",
+            },
+            url="https://infosep.cl/producto/memoria-demo/",
+            category_name="Memory",
+        )
+        self.assertIsNone(result)
+
     def test_infosep_browser_store_api_reuses_session_and_keeps_oos(self):
         async def scenario():
             product = {
@@ -137,6 +151,48 @@ class StoreScraperReliabilityTests(unittest.TestCase):
         self.assertEqual(fetch.call_args.kwargs["timeout"], 7)
         self.assertEqual(fetch.call_args.kwargs["retries"], 1)
 
+    def test_niceone_stops_after_an_explicit_403_probe(self):
+        with patch.object(
+            niceone,
+            "niceone_connectivity_probe",
+            return_value=(False, "403 Client Error: Forbidden"),
+        ), patch.object(niceone, "run_prestashop_xhr_store") as run_store, patch.object(
+            niceone, "write_scraper_health"
+        ) as write_health:
+            result = niceone.main()
+        self.assertEqual(result, 1)
+        run_store.assert_not_called()
+        self.assertEqual(
+            write_health.call_args.kwargs["blocked_reason"],
+            "public_catalog_access_blocked",
+        )
+
+    def test_mybox_uses_one_browser_probe_before_full_fallback_when_requests_are_blocked(self):
+        with patch.object(
+            mybox,
+            "mybox_connectivity_probe",
+            return_value=(False, "403 Client Error: Forbidden"),
+        ), patch.object(
+            mybox,
+            "probe_browser_category",
+            return_value=(False, "browser_access_blocked"),
+        ) as browser_probe, patch.object(
+            mybox, "run_prestashop_xhr_store"
+        ) as requests_scraper, patch.object(
+            mybox, "run_browser_fallback_store"
+        ) as browser_scraper, patch.object(
+            mybox, "clean_output_dir"
+        ), patch.object(mybox, "write_scraper_health") as write_health:
+            result = mybox.main()
+        self.assertEqual(result, 1)
+        browser_probe.assert_called_once()
+        requests_scraper.assert_not_called()
+        browser_scraper.assert_not_called()
+        self.assertEqual(
+            write_health.call_args.kwargs["blocked_reason"],
+            "public_catalog_access_blocked",
+        )
+
     def test_prestashop_runner_reports_category_completion(self):
         category_status: dict[str, bool] = {}
         payload = {
@@ -190,6 +246,13 @@ class StoreScraperReliabilityTests(unittest.TestCase):
             second.close.assert_not_awaited()
 
         asyncio.run(scenario())
+
+    def test_winpy_allows_zero_category_retry_passes(self):
+        with patch.dict(os.environ, {"WINPY_CATEGORY_RETRY_PASSES": "0"}):
+            self.assertEqual(
+                winpy._env_nonnegative_int("WINPY_CATEGORY_RETRY_PASSES", 2),
+                0,
+            )
 
     def test_winpy_continues_after_one_pagination_timeout(self):
         async def scenario():

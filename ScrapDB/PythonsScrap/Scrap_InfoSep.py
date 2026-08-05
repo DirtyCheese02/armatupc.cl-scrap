@@ -325,6 +325,33 @@ def parse_infosep_html_product(
     }
 
 
+def infosep_browser_detail_to_output(
+    detail: dict[str, Any],
+    *,
+    url: str,
+    category_name: str,
+) -> dict[str, Any] | None:
+    name = html_to_text(detail.get("name"))
+    part_number = clean_infosep_part_number(detail.get("part_number"))
+    price = normalize_infosep_price(detail.get("price"))
+    if not name or not part_number or price in {"N/A", "0"}:
+        return None
+    return {
+        "store_name": "InfoSep",
+        "scraped_name": name,
+        "scraped_brand": "N/A",
+        "type": category_name,
+        "part #": part_number,
+        "price": price,
+        "availability": normalize_infosep_availability(
+            detail.get("stock_text"),
+            detail.get("stock_class"),
+        ),
+        "url": url,
+        "image_url": absolute_url(BASE_URL, detail.get("image_url")),
+    }
+
+
 def scrape_infosep_html(output_dir: str) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(BASE_URL)
@@ -752,26 +779,14 @@ async def _scrape_infosep_product_browser(
                 return False
 
             detail = await _infosep_product_detail(page)
-            name = html_to_text(detail.get("name"))
-            part_number = clean_infosep_part_number(detail.get("part_number"))
-            if not name or not part_number:
-                print(f"InfoSep browser skipped without name/SKU: {url}")
+            data = infosep_browser_detail_to_output(
+                detail,
+                url=url,
+                category_name=category_name,
+            )
+            if not data:
+                print(f"InfoSep browser skipped without name/SKU/positive price: {url}")
                 return False
-
-            data = {
-                "store_name": "InfoSep",
-                "scraped_name": name,
-                "scraped_brand": "N/A",
-                "type": category_name,
-                "part #": part_number,
-                "price": normalize_infosep_price(detail.get("price")),
-                "availability": normalize_infosep_availability(
-                    detail.get("stock_text"),
-                    detail.get("stock_class"),
-                ),
-                "url": url,
-                "image_url": absolute_url(BASE_URL, detail.get("image_url")),
-            }
             write_product_json(output_path, "IS", url, data)
             return True
         except Exception as exc:

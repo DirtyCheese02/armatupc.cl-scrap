@@ -54,6 +54,17 @@ CATEGORY_URL_MAP = {
 }
 
 
+def clean_pce_part_number(value: str | None) -> str | None:
+    if not value:
+        return None
+    value = value.strip()
+    # An explicit "P/N" followed by marketing copy was previously accepted
+    # as one long identifier. Real PC Express MPNs do not contain sentences.
+    if len(value) > 128 or len(value.split()) > 3:
+        return None
+    return value
+
+
 def _page_url(url: str, page: int) -> str:
     if page <= 1:
         return url
@@ -128,7 +139,9 @@ def product_from_listing(product: dict[str, str]) -> dict[str, Any] | None:
     later become slow or unavailable in GitHub Actions.
     """
     name = product.get("name", "").strip()
-    part_number = pick_part_number((), (name,), allow_name_fallback=True)
+    part_number = clean_pce_part_number(
+        pick_part_number((), (name,), allow_name_fallback=True)
+    )
     price = normalize_price(product.get("price"))
     availability = product.get("availability")
     if (
@@ -166,7 +179,9 @@ def parse_product_detail(
 ) -> dict[str, Any] | None:
     soup = BeautifulSoup(html, "lxml")
     name = html_to_text(soup.select_one("h1.rm-product-page__title, h1")) or product["name"]
-    part_number = pick_part_number((), (name,), allow_name_fallback=True)
+    part_number = clean_pce_part_number(
+        pick_part_number((), (name,), allow_name_fallback=True)
+    )
     if not name or not part_number or len(part_number) > 128:
         return None
 
@@ -296,8 +311,9 @@ def scrape_pc_express() -> int:
                 write_product_json(output_path, "PCE", data["url"], data)
                 saved_count += 1
             except Exception as exc:
-                failed.add(product["type"])
-                completed.discard(product["type"])
+                # The listing snapshot is still complete when one optional
+                # detail enrichment cannot produce an MPN or price. Keep the
+                # issue for review without making the whole category partial.
                 errors.append(
                     {"category": product["type"], "url": product["url"], "error": str(exc)[:500]}
                 )

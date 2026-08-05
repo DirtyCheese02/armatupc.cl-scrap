@@ -45,6 +45,17 @@ CATEGORY_URL_MAP = {
 }
 
 
+def _env_nonnegative_int(name: str, default: int) -> int:
+    raw = os.environ.get(name)
+    if raw is None or not raw.strip():
+        return default
+    try:
+        return max(0, int(raw))
+    except ValueError:
+        print(f"[Winpy] {name}={raw!r} is invalid. Using {default}.")
+        return default
+
+
 def _clean_url(url: str) -> str:
     parts = urlsplit(url)
     return urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
@@ -421,7 +432,7 @@ async def _scrape_winpy_async() -> int:
                 )
         collection_results = await asyncio.gather(*collect_tasks)
         result_by_spec = dict(zip(collect_specs, collection_results))
-        retry_passes = _env_int("WINPY_CATEGORY_RETRY_PASSES", 2)
+        retry_passes = _env_nonnegative_int("WINPY_CATEGORY_RETRY_PASSES", 2)
         retry_timeout = max(ready_timeout, _env_int("WINPY_RETRY_PAGE_READY_TIMEOUT", 75))
         # Failed categories are retried sequentially. Cloudflare becomes less
         # reliable when several fresh tabs navigate at the same time, which was

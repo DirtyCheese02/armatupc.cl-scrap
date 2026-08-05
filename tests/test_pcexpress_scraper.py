@@ -3,6 +3,7 @@ from __future__ import annotations
 import sys
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -68,6 +69,40 @@ class PCExpressScraperTests(unittest.TestCase):
         self.assertEqual(result["part #"], "100-TEST-BOX")
         self.assertEqual(result["price"], "129990")
         self.assertEqual(result["availability"], "available")
+
+    def test_rejects_descriptive_text_after_part_number_marker(self):
+        self.assertIsNone(
+            pcexpress.clean_pce_part_number(
+                "gz 1200g bk gold atx 3.1 80 plus gold modular"
+            )
+        )
+
+    def test_invalid_detail_does_not_make_a_complete_listing_partial(self):
+        listing_with_one_invalid_detail = LISTING_HTML.replace(
+            "</div>\n  </div>\n</div>",
+            """
+            </div>
+            <div class="product-list__item">
+              <div class="product-list__image"><a href="/invalid-detail"></a></div>
+              <h5 class="product-list__name">Producto sin identificador</h5>
+              <p class="product-list__price">$19.990</p>
+              <button class="product-list__btn" onclick="cart.add('2', '1');">Agregar</button>
+            </div>
+          </div>
+        </div>""",
+        )
+        with patch.object(pcexpress, "CATEGORY_URL_MAP", {"CPU": "https://example/cpu"}), patch.object(
+            pcexpress, "clean_output_dir"
+        ), patch.object(pcexpress, "fetch_text_with_referer", return_value=listing_with_one_invalid_detail), patch.object(
+            pcexpress, "_fetch_detail", return_value=None
+        ), patch.object(pcexpress, "write_product_json"), patch.object(
+            pcexpress, "write_scraper_health"
+        ) as write_health:
+            count = pcexpress.scrape_pc_express()
+
+        self.assertEqual(count, 1)
+        self.assertEqual(write_health.call_args.kwargs["status"], "success")
+        self.assertEqual(write_health.call_args.kwargs["failed_categories"], set())
 
 
 if __name__ == "__main__":

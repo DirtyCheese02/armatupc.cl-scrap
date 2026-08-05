@@ -114,6 +114,10 @@ def niceone_connectivity_probe(timeout: int = 10, retries: int = 2) -> tuple[boo
     return True, None
 
 
+def is_explicit_access_block(error: str | None) -> bool:
+    return bool(error and re.search(r"\b403\b|forbidden|access denied", error, re.IGNORECASE))
+
+
 def main() -> int:
     request_timeout = int(os.environ.get("NICEONE_REQUEST_TIMEOUT", "20") or "20")
     request_retries = int(os.environ.get("NICEONE_REQUEST_RETRIES", "3") or "3")
@@ -122,9 +126,20 @@ def main() -> int:
         retries=min(request_retries, 2),
     )
     if not probe_ok:
-        # A single CPU probe used to abort all 17 categories. The store has
-        # intermittent route-level timeouts, so each category must get its own
-        # chance before the snapshot is classified as empty.
+        if is_explicit_access_block(probe_error):
+            print(f"NiceOne public catalog is blocked; stopping early: {probe_error}")
+            write_scraper_health(
+                status="failed",
+                expected_categories=CATEGORY_URL_MAP,
+                completed_categories=(),
+                failed_categories=CATEGORY_URL_MAP,
+                product_count=0,
+                errors=({"category": "*", "error": probe_error or "access_blocked"},),
+                blocked_reason="public_catalog_access_blocked",
+            )
+            return 1
+        # Timeouts can be route-specific, so non-definitive connectivity
+        # failures still allow every category one independent attempt.
         print(
             "NiceOne connectivity probe failed; continuing with independent "
             f"category requests: {probe_error}"
