@@ -474,6 +474,7 @@ def run_woocommerce_store(
     category_listing_urls: dict[str, Any] | None = None,
     html_fallback_config: dict[str, Any] | None = None,
     part_number_picker: Callable[[dict[str, Any]], str | None] | None = None,
+    category_status: dict[str, bool] | None = None,
 ) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(base_url)
@@ -484,8 +485,12 @@ def run_woocommerce_store(
     api_disabled = False
 
     for category_name, query_list in category_queries.items():
+        if category_status is not None:
+            category_status.setdefault(category_name, True)
         category_saved_before = saved_count
         api_failed = False
+        api_completed = False
+        fallback_saved = 0
         listing_urls = category_listing_urls or {}
         first_listing_url = listing_urls.get(category_name)
         if isinstance(first_listing_url, list):
@@ -560,6 +565,7 @@ def run_woocommerce_store(
                     if page >= total_pages:
                         break
                     page += 1
+            api_completed = True
         except Exception as exc:
             if not html_fallback_config:
                 raise
@@ -572,7 +578,7 @@ def run_woocommerce_store(
         ):
             fallback_urls = category_listing_urls.get(category_name)
             if fallback_urls:
-                saved_count += scrape_html_listing_categories(
+                fallback_saved = scrape_html_listing_categories(
                     session=session,
                     store_name=store_name,
                     base_url=base_url,
@@ -582,6 +588,10 @@ def run_woocommerce_store(
                     seen=seen,
                     **html_fallback_config,
                 )
+                saved_count += fallback_saved
+
+        if category_status is not None and not (api_completed or fallback_saved > 0):
+            category_status[category_name] = False
 
     print(
         f"{store_name} scraping finished. Saved {saved_count} JSON files; "
@@ -651,6 +661,7 @@ def run_sphinx_store(
     category_url_map: dict[str, Any],
     output_dir: str,
     output_prefix: str,
+    category_status: dict[str, bool] | None = None,
 ) -> int:
     output_path = clean_output_dir(output_dir)
     session = make_session(base_url)
@@ -659,17 +670,24 @@ def run_sphinx_store(
     saved_count = 0
 
     for category_name, raw_urls in category_url_map.items():
+        if category_status is not None:
+            category_status.setdefault(category_name, True)
         urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
         for category_url in urls:
+            source_completed = False
             try:
                 if "/producto/" in urlparse(category_url).path:
                     print(f"{store_name} {category_name}: skipped non-listing URL {category_url}")
+                    if category_status is not None:
+                        category_status[category_name] = False
                     continue
 
                 html_content = fetch_text(session, category_url)
                 base_params = parse_sphinx_form(html_content)
                 if not base_params:
                     print(f"{store_name} {category_name}: skipped non-listing URL {category_url}")
+                    if category_status is not None:
+                        category_status[category_name] = False
                     continue
 
                 base_params.update(parse_url_filters(category_url))
@@ -729,8 +747,11 @@ def run_sphinx_store(
                         }
                         write_product_json(output_path, output_prefix, url, data)
                         saved_count += 1
+                source_completed = True
             except Exception as exc:
                 print(f"{store_name} {category_name}: error scraping {category_url}: {exc}")
+            if category_status is not None and not source_completed:
+                category_status[category_name] = False
 
     print(f"{store_name} scraping finished. Saved {saved_count} JSON files.")
     return saved_count

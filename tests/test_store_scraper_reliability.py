@@ -15,6 +15,8 @@ SCRAPER_DIR = ROOT / "ScrapDB" / "PythonsScrap"
 sys.path.insert(0, str(SCRAPER_DIR))
 
 import Scrap_MyBox as mybox
+import Scrap_MyShop as myshop
+import Scrap_DazbogStore as dazbog
 import Scrap_Alltec as alltec
 import Scrap_NiceOne as niceone
 import Scrap_InfoSep as infosep
@@ -222,6 +224,66 @@ class StoreScraperReliabilityTests(unittest.TestCase):
         self.assertEqual(saved, 1)
         self.assertEqual(category_status, {"CPU": True})
 
+    def test_sphinx_runner_reports_failed_category_without_hiding_other_outputs(self):
+        category_status: dict[str, bool] = {}
+        with patch.object(api_scraper_utils, "clean_output_dir"), patch.object(
+            api_scraper_utils,
+            "fetch_text",
+            side_effect=[RuntimeError("404 Client Error"), '<form id="filtroShop"></form>'],
+        ):
+            saved = api_scraper_utils.run_sphinx_store(
+                store_name="Store",
+                base_url="https://store.example",
+                service_url="https://store.example/service",
+                category_url_map={
+                    "UPS": "https://store.example/missing",
+                    "CPU": "https://store.example/cpu",
+                },
+                output_dir="unused",
+                output_prefix="S",
+                category_status=category_status,
+            )
+        self.assertEqual(saved, 0)
+        self.assertEqual(category_status, {"UPS": False, "CPU": False})
+
+    def test_myshop_uses_current_ups_listing_and_emits_health(self):
+        self.assertEqual(
+            myshop.CATEGORY_URL_MAP["UPS"],
+            "https://www.myshop.cl/empresas-ups-baterias-externas",
+        )
+        with patch.object(
+            myshop,
+            "run_sphinx_store",
+            side_effect=lambda **kwargs: kwargs["category_status"].update(
+                {name: True for name in myshop.CATEGORY_URL_MAP}
+            )
+            or 12,
+        ), patch.object(myshop, "write_scraper_health") as write_health:
+            self.assertEqual(myshop.main(), 0)
+        self.assertEqual(write_health.call_args.kwargs["status"], "success")
+
+    def test_dazbog_html_parser_uses_product_json_ld(self):
+        soup = BeautifulSoup(
+            """
+            <script type="application/ld+json">
+            {"@graph":[{"@type":"Product","name":"AMD Ryzen Demo","sku":"100-DEMO",
+              "image":"https://store.example/demo.webp","brand":{"@type":"Brand","name":"AMD"},
+              "offers":[{"@type":"Offer","price":"129990","availability":"https://schema.org/InStock"}]}]}
+            </script>
+            """,
+            "html.parser",
+        )
+        result = dazbog.parse_dazbog_product(
+            soup,
+            "https://www.dazbogstore.cl/product/demo/",
+            "CPU",
+            dazbog.BASE_URL,
+        )
+        self.assertIsNotNone(result)
+        self.assertEqual(result["part #"], "100-DEMO")
+        self.assertEqual(result["price"], "129990")
+        self.assertEqual(result["availability"], "available")
+
     def test_winpy_retries_navigation_with_a_fresh_tab(self):
         async def scenario():
             first = AsyncMock()
@@ -253,6 +315,14 @@ class StoreScraperReliabilityTests(unittest.TestCase):
                 winpy._env_nonnegative_int("WINPY_CATEGORY_RETRY_PASSES", 2),
                 0,
             )
+
+    def test_winpy_retry_can_be_scoped_to_failed_categories(self):
+        with patch.dict(
+            os.environ,
+            {"WINPY_CATEGORY_INCLUDE": "Case,Memory,DoesNotExist"},
+        ):
+            selected = winpy._active_category_url_map()
+        self.assertEqual(set(selected), {"Case", "Memory"})
 
     def test_winpy_continues_after_one_pagination_timeout(self):
         async def scenario():

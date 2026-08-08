@@ -160,12 +160,16 @@ jobs:
           SCRAPER_HEADFUL: "Scrap_Alltec.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py,Scrap_InfoSep.py,Scrap_Winpy.py"
           SCRAPER_REQUIRE_NON_EMPTY: ${{ env.REQUIRED_NON_EMPTY_SCRAPERS }}
           SCRAPER_TIMEOUT_OVERRIDES: "Scrap_NiceOne.py=20"
-          SCRAPER_NO_HEADFUL_RETRY: "Scrap_NiceOne.py,Scrap_CentralGamer.py,Scrap_CTMan.py,Scrap_TecnoShopping.py"
+          SCRAPER_NO_HEADFUL_RETRY: "Scrap_NiceOne.py,Scrap_CentralGamer.py,Scrap_CTMan.py,Scrap_DazbogStore.py,Scrap_TecnoShopping.py"
           RUN_MATCH_PRODUCTS: "0"
           SCRAPE_SOURCE: "retry"
           PARENT_SCRAPE_RUN_ID: ${{ steps.daily-manifest.outputs.scrape_run_id }}
           BROWSER_FALLBACK_COLLECTOR_CONCURRENCY: "2"
           BROWSER_FALLBACK_SCRAPER_CONCURRENCY: "2"
+          WINPY_CATEGORY_INCLUDE: ${{ steps.daily-manifest.outputs.winpy_failed_categories_csv }}
+          WINPY_CATEGORY_RETRY_PASSES: "1"
+          WINPY_COLLECTOR_CONCURRENCY: "1"
+          WINPY_SCRAPER_CONCURRENCY: "2"
           SPHINX_REQUEST_DELAY_SECONDS: "1.0"
           SCRAP_BROWSER_START_TIMEOUT: "90"
           CHROME_BINARY_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
@@ -235,7 +239,10 @@ jobs:
 
       - name: No recovered stores
         if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' && steps.retry-manifest.outputs.has_remaining_json != 'true' }}
-        run: echo "Retry did not recover any store outputs. Skipping match_products.py."
+        run: |
+          echo "::warning::Retry completed without recovering any store outputs. Previous prices and stock were preserved."
+          echo "## ScrapDB retry" >> "$GITHUB_STEP_SUMMARY"
+          echo "No store was recovered. Matching and publication were skipped; the previous snapshot remains active." >> "$GITHUB_STEP_SUMMARY"
 
       - name: Upload retry outputs
         if: always()

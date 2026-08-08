@@ -270,6 +270,15 @@ def write_github_outputs(manifest: dict[str, Any]) -> None:
     if not output_path:
         return
 
+    winpy_failed_categories: list[str] = []
+    for entry in [*(manifest.get("failed") or []), *(manifest.get("partial") or [])]:
+        if str(entry.get("name") or "").casefold() != "scrap_winpy.py":
+            continue
+        winpy_failed_categories = sorted(
+            {str(category) for category in entry.get("failed_categories") or [] if category}
+        )
+        break
+
     outputs = {
         "failed_scrapers_csv": _csv(manifest["failed_scrapers"]),
         "successful_scrapers_csv": _csv(manifest["successful_scrapers"]),
@@ -278,6 +287,7 @@ def write_github_outputs(manifest: dict[str, Any]) -> None:
         "failed_count": str(len(manifest["failed_scrapers"])),
         "successful_count": str(len(manifest["successful_scrapers"])),
         "remaining_json_count": str(manifest["remaining_json_count"]),
+        "winpy_failed_categories_csv": _csv(winpy_failed_categories),
         "scrape_run_id": str(manifest.get("scrape_run_id") or ""),
         "parent_scrape_run_id": str(manifest.get("parent_scrape_run_id") or ""),
         "has_failures": "true" if manifest["failed_scrapers"] else "false",

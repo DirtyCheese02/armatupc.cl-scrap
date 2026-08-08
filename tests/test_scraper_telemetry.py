@@ -209,6 +209,30 @@ class ScraperTelemetryTest(unittest.TestCase):
         self.assertIn(f"scrape_run_id={scrape_run_id}", output)
         self.assertIn(f"parent_scrape_run_id={parent_run_id}", output)
 
+    def test_github_outputs_include_failed_winpy_categories(self):
+        manifest = {
+            "failed_scrapers": ["Scrap_Winpy.py"],
+            "successful_scrapers": [],
+            "failed_output_dirs": [],
+            "successful_output_dirs": [],
+            "remaining_json_count": 0,
+            "scrape_run_id": str(uuid.uuid4()),
+            "parent_scrape_run_id": None,
+            "failed": [],
+            "partial": [
+                {
+                    "name": "Scrap_Winpy.py",
+                    "failed_categories": ["UPS", "Memory", "UPS"],
+                }
+            ],
+        }
+        with tempfile.TemporaryDirectory() as temp_dir:
+            output_path = Path(temp_dir) / "github-output.txt"
+            with patch.dict(os.environ, {"GITHUB_OUTPUT": str(output_path)}):
+                scraper_retry_manifest.write_github_outputs(manifest)
+            output = output_path.read_text(encoding="utf-8")
+        self.assertIn("winpy_failed_categories_csv=Memory,UPS", output)
+
 
 if __name__ == "__main__":
     unittest.main()

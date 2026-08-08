@@ -27,7 +27,7 @@ jobs:
             include_scrapers: "Scrap_Centrale.py,Scrap_CentralGamer.py,Scrap_CIntegral.py,Scrap_DazbogStore.py,Scrap_ETChile.py,Scrap_MyShop.py,Scrap_SandosStore.py,Scrap_TecnoMaster.py,Scrap_TecnoShopping.py,Scrap_InvasionGamer.py"
             headful_scrapers: ""
             timeout_overrides: ""
-            no_headful_retry: "Scrap_CentralGamer.py,Scrap_TecnoShopping.py"
+            no_headful_retry: "Scrap_CentralGamer.py,Scrap_DazbogStore.py,Scrap_TecnoShopping.py"
           - name: html-mid
             timeout_minutes: 120
             needs_browser: "true"

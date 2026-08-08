@@ -56,6 +56,26 @@ def _env_nonnegative_int(name: str, default: int) -> int:
         return default
 
 
+def _active_category_url_map() -> dict[str, Any]:
+    raw = os.environ.get("WINPY_CATEGORY_INCLUDE", "").strip()
+    if not raw:
+        return dict(CATEGORY_URL_MAP)
+
+    requested = {value.strip() for value in raw.split(",") if value.strip()}
+    unknown = sorted(requested - set(CATEGORY_URL_MAP))
+    if unknown:
+        print(f"[Winpy] Ignoring unknown WINPY_CATEGORY_INCLUDE values: {', '.join(unknown)}")
+    selected = {
+        category_name: raw_urls
+        for category_name, raw_urls in CATEGORY_URL_MAP.items()
+        if category_name in requested
+    }
+    if not selected:
+        raise ValueError("WINPY_CATEGORY_INCLUDE did not contain a valid Winpy category")
+    print(f"[Winpy] Scoped retry categories: {', '.join(selected)}")
+    return selected
+
+
 def _clean_url(url: str) -> str:
     parts = urlsplit(url)
     return urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
@@ -399,6 +419,7 @@ async def _scrape_winpy_async() -> int:
     browser = Chrome(options=options)
     await browser.start()
     try:
+        active_category_map = _active_category_url_map()
         collector_concurrency = _env_int(
             "WINPY_COLLECTOR_CONCURRENCY",
             _env_int("BROWSER_FALLBACK_COLLECTOR_CONCURRENCY", 2),
@@ -415,7 +436,7 @@ async def _scrape_winpy_async() -> int:
         sem_collector = asyncio.Semaphore(collector_concurrency)
         collect_tasks = []
         collect_specs: list[tuple[str, str]] = []
-        for category_name, raw_urls in CATEGORY_URL_MAP.items():
+        for category_name, raw_urls in active_category_map.items():
             urls = raw_urls if isinstance(raw_urls, list) else [raw_urls]
             for category_url in urls:
                 collect_specs.append((category_name, category_url))
@@ -465,7 +486,7 @@ async def _scrape_winpy_async() -> int:
             result_by_spec.update(dict(zip(failed_specs, retry_results)))
         collection_results = [result_by_spec[spec] for spec in collect_specs]
         failed_categories = {name for name, ok, _ in collection_results if not ok}
-        completed_categories = set(CATEGORY_URL_MAP) - failed_categories
+        completed_categories = set(active_category_map) - failed_categories
         health_errors = [
             {"category": name, "error": error or "unknown"}
             for name, ok, error in collection_results
@@ -504,7 +525,7 @@ async def _scrape_winpy_async() -> int:
             print(f"[Winpy] saved {saved_count} JSON files so far.")
             write_scraper_health(
                 status="partial_success",
-                expected_categories=CATEGORY_URL_MAP,
+                expected_categories=active_category_map,
                 completed_categories=completed_categories,
                 failed_categories=failed_categories,
                 product_count=saved_count,
@@ -515,7 +536,7 @@ async def _scrape_winpy_async() -> int:
         print(f"[Winpy] scraping finished. Saved {saved_count} JSON files.")
         write_scraper_health(
             status="failed" if saved_count == 0 else ("partial_success" if failed_categories else "success"),
-            expected_categories=CATEGORY_URL_MAP,
+            expected_categories=active_category_map,
             completed_categories=completed_categories,
             failed_categories=failed_categories,
             product_count=saved_count,

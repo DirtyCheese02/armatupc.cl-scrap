@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from api_scraper_utils import exit_code_from_count, run_sphinx_store
+from scraper_health import write_scraper_health
 
 
 CATEGORY_URL_MAP = {
@@ -22,7 +23,7 @@ CATEGORY_URL_MAP = {
         "https://www.myshop.cl/almacenamiento-discos-hdd-internos",
     ],
     "ThermalCompound": "https://www.myshop.cl/partes-y-piezas-refrigeracion?filtro_categoria=[%%22149%%22]",
-    "UPS": "https://www.myshop.cl/empresas-ups",
+    "UPS": "https://www.myshop.cl/empresas-ups-baterias-externas",
     "VideoCard": "https://www.myshop.cl/partes-y-piezas-tarjetas-de-video",
     "Webcam": "https://www.myshop.cl/gamer-streaming-webcam",
 }
@@ -30,6 +31,7 @@ CATEGORY_URL_MAP = {
 
 def main() -> int:
     output_dir = "ScrapDB/Outputs/MyShop"
+    category_status: dict[str, bool] = {}
     saved_count = run_sphinx_store(
         store_name="MyShop",
         base_url="https://www.myshop.cl",
@@ -37,6 +39,22 @@ def main() -> int:
         category_url_map=CATEGORY_URL_MAP,
         output_dir=output_dir,
         output_prefix="MyS",
+        category_status=category_status,
+    )
+    failed_categories = {name for name, complete in category_status.items() if not complete}
+    completed_categories = set(CATEGORY_URL_MAP) - failed_categories
+    status = "failed" if saved_count == 0 else ("partial_success" if failed_categories else "success")
+    write_scraper_health(
+        status=status,
+        expected_categories=CATEGORY_URL_MAP,
+        completed_categories=completed_categories,
+        failed_categories=failed_categories,
+        product_count=saved_count,
+        errors=(
+            {"category": category, "error": "category_request_failed"}
+            for category in sorted(failed_categories)
+        ),
+        blocked_reason="public_catalog_unavailable" if saved_count == 0 else None,
     )
     return exit_code_from_count(saved_count)
 
