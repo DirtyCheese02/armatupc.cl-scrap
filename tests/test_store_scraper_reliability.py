@@ -316,6 +316,19 @@ class StoreScraperReliabilityTests(unittest.TestCase):
                 0,
             )
 
+    def test_winpy_stop_browser_does_not_block_forever(self):
+        async def scenario():
+            browser = AsyncMock()
+
+            async def never_stops():
+                await asyncio.sleep(60)
+
+            browser.stop.side_effect = never_stops
+            await winpy._stop_browser(browser, timeout_seconds=0.01)
+            browser.stop.assert_awaited_once()
+
+        asyncio.run(scenario())
+
     def test_winpy_retry_can_be_scoped_to_failed_categories(self):
         with patch.dict(
             os.environ,

@@ -1,0 +1,24 @@
+[Unit]
+Description=ArmaTuPC local daily scrape (shadow by default)
+After=network-online.target docker.service
+Wants=network-online.target
+Requires=docker.service
+
+[Service]
+Type=oneshot
+User=root
+WorkingDirectory=/srv/armatupc/scraper/current
+Environment=PUBLISH_ENABLED=0
+ExecStartPre=-/usr/bin/docker stop armatupc-llama
+ExecStart=/srv/armatupc/scraper/current/ops/server/run-local-daily.sh
+ExecStartPost=-/usr/bin/docker start armatupc-llama
+TimeoutStartSec=8h
+Nice=5
+IOSchedulingClass=best-effort
+IOSchedulingPriority=6
+ProtectHome=read-only
+PrivateTmp=true
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target

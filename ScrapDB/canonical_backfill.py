@@ -48,6 +48,28 @@ MAX_MISMATCH_SAMPLES = 50
 CHECKPOINT_VERSION = 1
 SNAPSHOT_VERSION = 1
 FUZZY_CANDIDATE_THRESHOLD = 0.72
+
+
+def assert_scrape_cycle_fence(gateway: Any, stage: str) -> None:
+    cycle_date = os.environ.get("SCRAPE_CYCLE_DATE", "").strip()
+    fencing_token = os.environ.get("SCRAPE_FENCING_TOKEN", "").strip()
+    if not cycle_date and not fencing_token:
+        return
+    if not cycle_date or not fencing_token:
+        raise RuntimeError(
+            "SCRAPE_CYCLE_DATE and SCRAPE_FENCING_TOKEN must be provided together"
+        )
+    client = getattr(gateway, "client", None)
+    if client is None:
+        raise RuntimeError("Fenced publication requires the Supabase gateway")
+    response = client.rpc(
+        "assert_scrape_cycle_fence",
+        {"p_cycle_date": cycle_date, "p_fencing_token": fencing_token},
+    ).execute()
+    if response.data is not True:
+        raise RuntimeError(
+            f"Scrape cycle lease is no longer valid during {stage}; publication aborted"
+        )
 FUZZY_AMBIGUITY_GAP = 0.08
 
 # These namespaces must never change: stable IDs make the backfill idempotent
@@ -1634,6 +1656,10 @@ class CanonicalBackfill:
             for spec_batch in self.gateway.iter_specifications(
                 config.spec_table, self.batch_size, start_after=start_after
             ):
+                if self.apply:
+                    assert_scrape_cycle_fence(
+                        self.gateway, f"canonical backfill {config.key} batch"
+                    )
                 products: list[dict[str, Any]] = []
                 identifiers: list[dict[str, Any]] = []
                 refs: list[dict[str, Any]] = []
@@ -2041,6 +2067,10 @@ class RawOfferMigrator:
         }
         processed_count = processed_start
         for raw_batch in iterable_batches(raw_offers, self.batch_size):
+            if self.apply:
+                assert_scrape_cycle_fence(
+                    self.gateway, f"RawOffer batch after {processed_count} offers"
+                )
             listings: list[dict[str, Any]] = []
             offers: list[dict[str, Any]] = []
             provenance: list[dict[str, Any]] = []

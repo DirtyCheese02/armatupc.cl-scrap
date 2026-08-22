@@ -3,7 +3,10 @@ name: ScrapDB Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9 * * *"
+    # 09:30 America/Santiago in standard and daylight-saving time. The
+    # watchdog job rejects the UTC occurrence that is not 09:30 locally.
+    - cron: "30 12 * * *"
+    - cron: "30 13 * * *"
 
 concurrency:
   group: scrapdb-daily
@@ -13,8 +16,91 @@ env:
   REQUIRED_NON_EMPTY_SCRAPERS: "Scrap_Centrale.py,Scrap_CentralGamer.py,Scrap_ETChile.py,Scrap_NotebooksYa.py,Scrap_MyShop.py,Scrap_SandosStore.py,Scrap_MyBox.py,Scrap_NiceOne.py,Scrap_TecnoMas.py,Scrap_TruluStore.py,Scrap_DazbogStore.py,Scrap_TecnoMaster.py,Scrap_Alltec.py,Scrap_CTMan.py,Scrap_NotebookStore.py,Scrap_EYLStore.py,Scrap_InfoSep.py,Scrap_InvasionGamer.py,Scrap_CIntegral.py,Scrap_TecnoShopping.py"
 
 jobs:
+  watchdog:
+    name: home-node-watchdog
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    outputs:
+      should_run: ${{ steps.claim.outputs.claimed }}
+      action: ${{ steps.status-after-wait.outputs.action || steps.status.outputs.action }}
+      failed_scrapers_csv: ${{ steps.status-after-wait.outputs.failed_scrapers_csv || steps.status.outputs.failed_scrapers_csv }}
+      cycle_date: ${{ steps.clock.outputs.cycle_date }}
+      fencing_token: ${{ steps.claim.outputs.fencing_token }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Check Chile watchdog time
+        id: clock
+        shell: bash
+        run: |
+          cycle_date="$(TZ=America/Santiago date +%F)"
+          local_time="$(TZ=America/Santiago date +%H:%M)"
+          echo "cycle_date=${cycle_date}" >> "$GITHUB_OUTPUT"
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" || "$local_time" == "09:30" ]]; then
+            echo "due=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "due=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Python
+        if: ${{ steps.clock.outputs.due == 'true' }}
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install coordinator dependencies
+        if: ${{ steps.clock.outputs.due == 'true' }}
+        run: pip install "supabase==2.24.0" "python-dotenv==1.1.1"
+
+      - name: Inspect home cycle
+        if: ${{ steps.clock.outputs.due == 'true' }}
+        id: status
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "action=full" >> "$GITHUB_OUTPUT"
+            echo "failed_scrapers_csv=" >> "$GITHUB_OUTPUT"
+          else
+            python -m ScrapDB.scrape_cycle status --date "${{ steps.clock.outputs.cycle_date }}"
+          fi
+
+      - name: Wait once for an active home lease
+        if: ${{ steps.status.outputs.action == 'wait' }}
+        id: status-after-wait
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          sleep 1200
+          python -m ScrapDB.scrape_cycle status --date "${{ steps.clock.outputs.cycle_date }}"
+
+      - name: Claim fallback cycle
+        if: ${{ steps.clock.outputs.due == 'true' && (steps.status.outputs.action == 'full' || steps.status.outputs.action == 'retry' || steps.status-after-wait.outputs.action == 'full' || steps.status-after-wait.outputs.action == 'retry') }}
+        id: claim
+        continue-on-error: true
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          expected="$(python - <<'PY'
+          import json, os
+          print(json.dumps([value for value in os.environ['REQUIRED_NON_EMPTY_SCRAPERS'].split(',') if value]))
+          PY
+          )"
+          python -m ScrapDB.scrape_cycle claim \
+            --date "${{ steps.clock.outputs.cycle_date }}" \
+            --origin github \
+            --owner "github:${{ github.run_id }}:${{ github.run_attempt }}" \
+            --lease-seconds 21600 \
+            --expected-scrapers "$expected"
+
   scrape-shards:
     name: scrape-${{ matrix.name }}
+    needs: watchdog
+    if: ${{ needs.watchdog.outputs.should_run == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: ${{ matrix.timeout_minutes }}
     strategy:
@@ -120,19 +206,40 @@ jobs:
       - name: Clean generated outputs
         run: rm -rf ScrapDB/Outputs/*
 
+      - name: Limit a partial fallback to failed scrapers
+        env:
+          MATRIX_SCRAPERS: ${{ matrix.include_scrapers }}
+          WATCHDOG_ACTION: ${{ needs.watchdog.outputs.action }}
+          WATCHDOG_FAILED: ${{ needs.watchdog.outputs.failed_scrapers_csv }}
+        run: |
+          include="$(python - <<'PY'
+          import os
+          matrix = [item for item in os.environ['MATRIX_SCRAPERS'].split(',') if item]
+          if os.environ.get('WATCHDOG_ACTION') != 'retry':
+              print(','.join(matrix))
+          else:
+              failed = {item.casefold() for item in os.environ.get('WATCHDOG_FAILED', '').split(',') if item}
+              selected = [item for item in matrix if item.casefold() in failed]
+              print(','.join(selected or ['__none__.py']))
+          PY
+          )"
+          echo "SCRAPER_INCLUDE_EFFECTIVE=${include}" >> "$GITHUB_ENV"
+
       - name: Run ScrapDB scraper shard
         env:
           SCRAP_HEADLESS: "1"
           SCRAP_USE_XVFB: "1"
           SCRAPER_RETRY_ON_EMPTY: "1"
           SCRAPER_RETRY_HEADFUL_ON_FAIL: "1"
-          SCRAPER_INCLUDE: ${{ matrix.include_scrapers }}
+          SCRAPER_INCLUDE: ${{ env.SCRAPER_INCLUDE_EFFECTIVE }}
           SCRAPER_HEADFUL: ${{ matrix.headful_scrapers }}
           SCRAPER_REQUIRE_NON_EMPTY: ${{ env.REQUIRED_NON_EMPTY_SCRAPERS }}
           SCRAPER_TIMEOUT_OVERRIDES: ${{ matrix.timeout_overrides }}
           SCRAPER_NO_HEADFUL_RETRY: ${{ matrix.no_headful_retry }}
           RUN_MATCH_PRODUCTS: "0"
           SCRAPE_SOURCE: "daily"
+          SCRAPE_CYCLE_DATE: ${{ needs.watchdog.outputs.cycle_date }}
+          SCRAPE_FENCING_TOKEN: ${{ needs.watchdog.outputs.fencing_token }}
           SCRAPE_SHARD_NAME: ${{ matrix.name }}
           BROWSER_FALLBACK_COLLECTOR_CONCURRENCY: "2"
           BROWSER_FALLBACK_SCRAPER_CONCURRENCY: "2"
@@ -168,8 +275,8 @@ jobs:
   match-products:
     name: match-products
     runs-on: ubuntu-latest
-    needs: scrape-shards
-    if: ${{ always() }}
+    needs: [watchdog, scrape-shards]
+    if: ${{ always() && needs.watchdog.outputs.should_run == 'true' }}
     timeout-minutes: 90
 
     steps:
@@ -249,8 +356,11 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
           SCRAPE_SOURCE: "daily"
+          SCRAPE_CYCLE_DATE: ${{ needs.watchdog.outputs.cycle_date }}
+          SCRAPE_FENCING_TOKEN: ${{ needs.watchdog.outputs.fencing_token }}
           SCRAPER_SUMMARY_PATH: ScrapDB/RunLogs/retry-manifest/retry_manifest.json
         run: |
           set -o pipefail
@@ -261,6 +371,8 @@ jobs:
         if: ${{ steps.retry-manifest.outputs.has_remaining_json == 'true' && vars.CANONICAL_DUAL_WRITE_ENABLED == 'true' }}
         env:
           SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
+          SCRAPE_CYCLE_DATE: ${{ needs.watchdog.outputs.cycle_date }}
+          SCRAPE_FENCING_TOKEN: ${{ needs.watchdog.outputs.fencing_token }}
         run: |
           python -m ScrapDB.raw_offer \
             --input ScrapDB/Outputs \
@@ -292,7 +404,22 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: python -m ScrapDB.database_maintenance post-run
+        run: |
+          python -m ScrapDB.scrape_cycle assert \
+            --date "${{ needs.watchdog.outputs.cycle_date }}" \
+            --token "${{ needs.watchdog.outputs.fencing_token }}"
+          python -m ScrapDB.database_maintenance post-run
+
+      - name: Finalize fenced scrape cycle
+        if: ${{ always() && needs.watchdog.outputs.should_run == 'true' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          python -m ScrapDB.scrape_cycle finalize-manifest \
+            --date "${{ needs.watchdog.outputs.cycle_date }}" \
+            --token "${{ needs.watchdog.outputs.fencing_token }}" \
+            --manifest ScrapDB/RunLogs/retry-manifest/retry_manifest.json
 
       - name: Upload retry manifest
         if: always()

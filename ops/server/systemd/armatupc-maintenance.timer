@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily cleanup of local ArmaTuPC data
+
+[Timer]
+OnCalendar=*-*-* 04:15:00 America/Santiago
+Persistent=true
+Unit=armatupc-maintenance.service
+
+[Install]
+WantedBy=timers.target
+

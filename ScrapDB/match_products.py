@@ -37,6 +37,8 @@ MIN_STOCK_MARKOUT_MATCH_RATE = float(os.environ.get("MIN_STOCK_MARKOUT_MATCH_RAT
 OFFER_TTL_HOURS = int(os.environ.get("OFFER_TTL_HOURS", "48"))
 SCRAPER_SUMMARY_PATH = os.environ.get("SCRAPER_SUMMARY_PATH", "").strip()
 SCRAPE_RUN_ID = os.environ.get("SCRAPE_RUN_ID", "").strip() or str(uuid_lib.uuid4())
+SCRAPE_CYCLE_DATE = os.environ.get("SCRAPE_CYCLE_DATE", "").strip()
+SCRAPE_FENCING_TOKEN = os.environ.get("SCRAPE_FENCING_TOKEN", "").strip()
 DB_RETRY_ATTEMPTS = 4
 DB_RETRY_BASE_DELAY_SECONDS = 2
 DB_CLIENT_REFRESH_EVERY = int(os.environ.get("DB_CLIENT_REFRESH_EVERY", "5000"))
@@ -140,12 +142,33 @@ def get_supabase():
         return supabase
 
     url = os.environ.get("SUPABASE_URL")
-    key = os.environ.get("SUPABASE_KEY")
+    key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY") or os.environ.get("SUPABASE_KEY")
     if not url or not key:
-        raise RuntimeError("SUPABASE_URL y SUPABASE_KEY son obligatorios para procesar scraps.")
+        raise RuntimeError("SUPABASE_URL y una clave de servicio son obligatorios para procesar scraps.")
 
     supabase = create_client(url, key)
     return supabase
+
+def assert_scrape_cycle_fence(stage="publication"):
+    """Stop a delayed publisher after another runner has taken the daily lease."""
+    if not SCRAPE_CYCLE_DATE and not SCRAPE_FENCING_TOKEN:
+        return True
+    if not SCRAPE_CYCLE_DATE or not SCRAPE_FENCING_TOKEN:
+        raise RuntimeError(
+            "SCRAPE_CYCLE_DATE and SCRAPE_FENCING_TOKEN must be provided together"
+        )
+    response = get_supabase().rpc(
+        "assert_scrape_cycle_fence",
+        {
+            "p_cycle_date": SCRAPE_CYCLE_DATE,
+            "p_fencing_token": SCRAPE_FENCING_TOKEN,
+        },
+    ).execute()
+    if response.data is not True:
+        raise RuntimeError(
+            f"Scrape cycle lease is no longer valid during {stage}; publication aborted"
+        )
+    return True
 
 def reset_supabase_client(reason=""):
     global supabase
@@ -1464,6 +1487,7 @@ def process_daily_scraps():
     print(f"[match] Iniciando procesamiento. scrape_run_id={SCRAPE_RUN_ID}")
 
     get_supabase()
+    assert_scrape_cycle_fence("matcher startup")
     scraper_summary = load_scraper_summary(SCRAPER_SUMMARY_PATH)
     scraper_result_map = build_scraper_result_map(scraper_summary)
     create_scrape_run(scraper_summary)
@@ -1528,6 +1552,7 @@ def process_daily_scraps():
     )
 
     for store_name, items in store_batches.items():
+        assert_scrape_cycle_fence(f"store {store_name} startup")
         raw_count = len(items)
         print(f"\n[match] Tienda: {store_name} - items brutos: {raw_count}")
         store_id = get_or_create_store(store_name)
@@ -1734,7 +1759,9 @@ def process_daily_scraps():
         print(f"[match] Insertando {len(unique_products_today)} productos unicos en DB.")
 
         publication_error_count = 0
-        for spec_id, data in unique_products_today.items():
+        for publication_index, (spec_id, data) in enumerate(unique_products_today.items()):
+            if publication_index and publication_index % 100 == 0:
+                assert_scrape_cycle_fence(f"store {store_name} batch {publication_index}")
             try:
                 upsert_product_pricing(store_name, spec_id, data, store_id)
                 record_legacy_offer_change(
@@ -1766,6 +1793,7 @@ def process_daily_scraps():
             )
 
         if stock_markout_allowed:
+            assert_scrape_cycle_fence(f"store {store_name} markout")
             active_rows = load_active_product_presence(store_name, store_id)
             if active_rows is None:
                 stock_markout_allowed = False

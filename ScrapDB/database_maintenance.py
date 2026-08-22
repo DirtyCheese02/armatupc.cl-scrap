@@ -1,9 +1,11 @@
 from __future__ import annotations
 
 import argparse
+import datetime as dt
 import json
 import os
 import time
+from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 from supabase import create_client
@@ -50,11 +52,21 @@ def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, int
             break
     stats_response = _rpc(client, "refresh_daily_product_stats", {})
     stats_refreshed = int(stats_response.data or 0)
+    chile_today = dt.datetime.now(ZoneInfo("America/Santiago")).date()
+    weekly_reports_refreshed = 0
+    if chile_today.weekday() == 0:
+        weekly_response = _rpc(
+            client,
+            "refresh_weekly_category_market_reports",
+            {"p_week_end": chile_today.isoformat()},
+        )
+        weekly_reports_refreshed = int((weekly_response.data or {}).get("reportsWritten") or 0)
     result = {
         "offersExpired": offers_expired,
         "rawDeleted": raw_deleted,
         "issuesClosed": issues_closed,
         "dailyStatsRefreshed": stats_refreshed,
+        "weeklyReportsRefreshed": weekly_reports_refreshed,
     }
     print(json.dumps(result, ensure_ascii=False, sort_keys=True))
     return result

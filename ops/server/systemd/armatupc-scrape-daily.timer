@@ -1,0 +1,12 @@
+[Unit]
+Description=Run ArmaTuPC home scrape at 05:00 Chile time
+
+[Timer]
+OnCalendar=*-*-* 05:00:00 America/Santiago
+Persistent=true
+RandomizedDelaySec=5m
+Unit=armatupc-scrape-daily.service
+
+[Install]
+WantedBy=timers.target
+

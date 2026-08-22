@@ -34,10 +34,13 @@ class DatabaseMaintenanceTests(unittest.TestCase):
             SimpleNamespace(data=7),
         ]
 
+        tuesday = database_maintenance.dt.datetime(2026, 8, 18, tzinfo=database_maintenance.ZoneInfo("America/Santiago"))
         with (
             patch.object(database_maintenance, "_client", return_value=Mock()),
             patch.object(database_maintenance, "_rpc", side_effect=responses) as rpc,
+            patch.object(database_maintenance.dt, "datetime", wraps=database_maintenance.dt.datetime) as datetime_mock,
         ):
+            datetime_mock.now.return_value = tuesday
             result = database_maintenance.post_run(batch_size=2, max_batches=5)
 
         self.assertEqual(
@@ -47,6 +50,7 @@ class DatabaseMaintenanceTests(unittest.TestCase):
                 "rawDeleted": 2,
                 "issuesClosed": 1,
                 "dailyStatsRefreshed": 7,
+                "weeklyReportsRefreshed": 0,
             },
         )
         self.assertEqual(
@@ -59,6 +63,26 @@ class DatabaseMaintenanceTests(unittest.TestCase):
                 "refresh_daily_product_stats",
             ],
         )
+
+    def test_post_run_refreshes_weekly_reports_on_monday(self):
+        responses = [
+            SimpleNamespace(data=0),
+            SimpleNamespace(data={"rawDeleted": 0, "issuesClosed": 0}),
+            SimpleNamespace(data=7),
+            SimpleNamespace(data={"reportsWritten": 8}),
+        ]
+        monday = database_maintenance.dt.datetime(2026, 8, 24, tzinfo=database_maintenance.ZoneInfo("America/Santiago"))
+        with (
+            patch.object(database_maintenance, "_client", return_value=Mock()),
+            patch.object(database_maintenance, "_rpc", side_effect=responses) as rpc,
+            patch.object(database_maintenance.dt, "datetime", wraps=database_maintenance.dt.datetime) as datetime_mock,
+        ):
+            datetime_mock.now.return_value = monday
+            result = database_maintenance.post_run(batch_size=5000, max_batches=5)
+
+        self.assertEqual(result["weeklyReportsRefreshed"], 8)
+        self.assertEqual(rpc.call_args_list[-1].args[1], "refresh_weekly_category_market_reports")
+        self.assertEqual(rpc.call_args_list[-1].args[2], {"p_week_end": "2026-08-24"})
 
 
 if __name__ == "__main__":

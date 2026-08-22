@@ -1,0 +1,8 @@
+[Unit]
+Description=Clean local ArmaTuPC artifacts and backups
+
+[Service]
+Type=oneshot
+ExecStart=/srv/armatupc/scraper/current/ops/server/cleanup-local-data.sh
+NoNewPrivileges=true
+

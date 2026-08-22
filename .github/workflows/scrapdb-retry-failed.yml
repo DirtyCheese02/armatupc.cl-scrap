@@ -70,6 +70,15 @@ jobs:
             exit 0
           fi
 
+          manifest_count="$(gh api \
+            "repos/${GITHUB_REPOSITORY}/actions/runs/${run_id}/artifacts" \
+            --jq "[.artifacts[] | select(.name == \"scrapdb-retry-manifest-${run_id}\")] | length")"
+          if [ "$manifest_count" -eq 0 ]; then
+            echo "Daily run ${run_id} was a watchdog-only run; no retry artifact exists."
+            echo "run_id=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
           echo "Using ScrapDB Daily run ${run_id}"
           echo "run_id=${run_id}" >> "$GITHUB_OUTPUT"
 
@@ -132,23 +141,45 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Setup Chrome
+      - name: Claim fenced retry cycle
         if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        id: cycle-claim
+        continue-on-error: true
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          cycle_date="$(TZ=America/Santiago date +%F)"
+          expected="$(FAILED='${{ steps.daily-manifest.outputs.failed_scrapers_csv }}' python - <<'PY'
+          import json, os
+          print(json.dumps([item for item in os.environ.get('FAILED', '').split(',') if item]))
+          PY
+          )"
+          echo "cycle_date=${cycle_date}" >> "$GITHUB_OUTPUT"
+          python -m ScrapDB.scrape_cycle claim \
+            --date "$cycle_date" \
+            --origin retry \
+            --owner "retry:${{ github.run_id }}:${{ github.run_attempt }}" \
+            --lease-seconds 21600 \
+            --expected-scrapers "$expected"
+
+      - name: Setup Chrome
+        if: ${{ steps.cycle-claim.outputs.claimed == 'true' }}
         id: setup-chrome
         uses: browser-actions/setup-chrome@v2
 
       - name: Install xvfb
-        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        if: ${{ steps.cycle-claim.outputs.claimed == 'true' }}
         run: |
           sudo apt-get update
           sudo apt-get install -y xvfb
 
       - name: Clean generated outputs
-        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        if: ${{ steps.cycle-claim.outputs.claimed == 'true' }}
         run: rm -rf ScrapDB/Outputs/*
 
       - name: Retry failed scrapers
-        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        if: ${{ steps.cycle-claim.outputs.claimed == 'true' }}
         id: retry-scrapers
         continue-on-error: true
         env:
@@ -163,6 +194,8 @@ jobs:
           SCRAPER_NO_HEADFUL_RETRY: "Scrap_NiceOne.py,Scrap_CentralGamer.py,Scrap_CTMan.py,Scrap_DazbogStore.py,Scrap_TecnoShopping.py"
           RUN_MATCH_PRODUCTS: "0"
           SCRAPE_SOURCE: "retry"
+          SCRAPE_CYCLE_DATE: ${{ steps.cycle-claim.outputs.cycle_date }}
+          SCRAPE_FENCING_TOKEN: ${{ steps.cycle-claim.outputs.fencing_token }}
           PARENT_SCRAPE_RUN_ID: ${{ steps.daily-manifest.outputs.scrape_run_id }}
           BROWSER_FALLBACK_COLLECTOR_CONCURRENCY: "2"
           BROWSER_FALLBACK_SCRAPER_CONCURRENCY: "2"
@@ -178,7 +211,7 @@ jobs:
         run: python ScrapDB/run_all_scrapers.py
 
       - name: Build retry result manifest and prune failed outputs
-        if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' }}
+        if: ${{ steps.cycle-claim.outputs.claimed == 'true' }}
         id: retry-manifest
         run: |
           mkdir -p ScrapDB/RunLogs/retry-manifest
@@ -193,9 +226,12 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
           PARENT_SCRAPE_RUN_ID: ${{ steps.daily-manifest.outputs.scrape_run_id }}
           SCRAPE_SOURCE: "retry"
+          SCRAPE_CYCLE_DATE: ${{ steps.cycle-claim.outputs.cycle_date }}
+          SCRAPE_FENCING_TOKEN: ${{ steps.cycle-claim.outputs.fencing_token }}
           SCRAPER_SUMMARY_PATH: ScrapDB/RunLogs/retry-manifest/retry_manifest.json
         run: |
           set -o pipefail
@@ -206,6 +242,8 @@ jobs:
         if: ${{ steps.retry-manifest.outputs.has_remaining_json == 'true' && vars.CANONICAL_DUAL_WRITE_ENABLED == 'true' }}
         env:
           SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
+          SCRAPE_CYCLE_DATE: ${{ steps.cycle-claim.outputs.cycle_date }}
+          SCRAPE_FENCING_TOKEN: ${{ steps.cycle-claim.outputs.fencing_token }}
         run: |
           python -m ScrapDB.raw_offer \
             --input ScrapDB/Outputs \
@@ -218,6 +256,8 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
+          SCRAPE_CYCLE_DATE: ${{ steps.cycle-claim.outputs.cycle_date }}
+          SCRAPE_FENCING_TOKEN: ${{ steps.cycle-claim.outputs.fencing_token }}
           CANONICAL_CATEGORIES: ${{ vars.CANONICAL_DUAL_WRITE_CATEGORIES || 'CPU,GPU,Motherboard,Memory,Storage,PowerSupply,Case,CPUCooler' }}
         run: |
           python -m ScrapDB.canonical_backfill \
@@ -235,7 +275,22 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: python -m ScrapDB.database_maintenance post-run
+        run: |
+          python -m ScrapDB.scrape_cycle assert \
+            --date "${{ steps.cycle-claim.outputs.cycle_date }}" \
+            --token "${{ steps.cycle-claim.outputs.fencing_token }}"
+          python -m ScrapDB.database_maintenance post-run
+
+      - name: Finalize fenced retry cycle
+        if: ${{ always() && steps.cycle-claim.outputs.claimed == 'true' }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          python -m ScrapDB.scrape_cycle finalize-manifest \
+            --date "${{ steps.cycle-claim.outputs.cycle_date }}" \
+            --token "${{ steps.cycle-claim.outputs.fencing_token }}" \
+            --manifest ScrapDB/RunLogs/retry-manifest/retry_manifest.json
 
       - name: No recovered stores
         if: ${{ steps.daily-run.outputs.run_id != '' && steps.daily-manifest.outputs.has_failures == 'true' && steps.retry-manifest.outputs.has_remaining_json != 'true' }}

@@ -102,6 +102,23 @@ async def _json_from_page(page: Any, script: str) -> Any:
     return json.loads(raw_value or "null")
 
 
+async def _start_browser(options: Any) -> Chrome:
+    browser = Chrome(options=options)
+    await browser.start()
+    return browser
+
+
+async def _stop_browser(browser: Chrome | None, *, timeout_seconds: int = 20) -> None:
+    if browser is None:
+        return
+    try:
+        await asyncio.wait_for(browser.stop(), timeout=timeout_seconds)
+    except TimeoutError:
+        print(f"[Winpy] browser stop timed out after {timeout_seconds}s; continuing with a fresh session.")
+    except Exception as exc:
+        print(f"[Winpy] browser stop warning: {exc}")
+
+
 async def _wait_for_category(page: Any, timeout_seconds: int) -> bool:
     deadline = asyncio.get_running_loop().time() + timeout_seconds
     while asyncio.get_running_loop().time() < deadline:
@@ -242,6 +259,7 @@ async def _collect_category(
     products_to_scrape: list[dict[str, str]],
     seen: set[tuple[str, str]],
     ready_timeout: int,
+    navigation_delay: int = 0,
 ) -> tuple[str, bool, str | None]:
     async with sem:
         page = None
@@ -264,6 +282,8 @@ async def _collect_category(
 
             for index, page_url in enumerate(page_urls, start=1):
                 if index > 1:
+                    if navigation_delay:
+                        await asyncio.sleep(navigation_delay)
                     if page is not None:
                         try:
                             await page.close()
@@ -275,6 +295,10 @@ async def _collect_category(
                         category_name=category_name,
                         ready_timeout=ready_timeout,
                         label=f"page {index}",
+                        # The complete category is retried later with a fresh
+                        # browser. Repeating a poisoned secondary navigation
+                        # three times here only delays that safer recovery.
+                        attempts=1,
                     )
                     if page is None:
                         print(f"[Winpy] {category_name}: timed out waiting for page {index}.")
@@ -416,8 +440,7 @@ async def _scrape_winpy_async() -> int:
     clean_output_dir(output_dir)
 
     options = _make_browser_options()
-    browser = Chrome(options=options)
-    await browser.start()
+    browser: Chrome | None = await _start_browser(options)
     try:
         active_category_map = _active_category_url_map()
         collector_concurrency = _env_int(
@@ -430,6 +453,10 @@ async def _scrape_winpy_async() -> int:
         )
         ready_timeout = _env_int("WINPY_PAGE_READY_TIMEOUT", 45)
         product_ready_timeout = _env_int("WINPY_PRODUCT_READY_TIMEOUT", 20)
+        listing_navigation_delay = _env_nonnegative_int(
+            "WINPY_LISTING_NAVIGATION_DELAY_SECONDS",
+            8,
+        )
         products_to_scrape: list[dict[str, str]] = []
         seen: set[tuple[str, str]] = set()
 
@@ -449,6 +476,7 @@ async def _scrape_winpy_async() -> int:
                         products_to_scrape=products_to_scrape,
                         seen=seen,
                         ready_timeout=ready_timeout,
+                        navigation_delay=listing_navigation_delay,
                     )
                 )
         collection_results = await asyncio.gather(*collect_tasks)
@@ -479,6 +507,7 @@ async def _scrape_winpy_async() -> int:
                         products_to_scrape=products_to_scrape,
                         seen=seen,
                         ready_timeout=retry_timeout,
+                        navigation_delay=listing_navigation_delay,
                     )
                     for category_name, category_url in failed_specs
                 ]
@@ -545,10 +574,7 @@ async def _scrape_winpy_async() -> int:
         )
         return saved_count
     finally:
-        try:
-            await browser.stop()
-        except Exception as exc:
-            print(f"[Winpy] browser stop warning: {exc}")
+        await _stop_browser(browser)
 
 
 def main() -> int:
