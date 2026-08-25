@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     # 09:30 America/Santiago in standard and daylight-saving time. The
-    # watchdog job rejects the UTC occurrence that is not 09:30 locally.
+    # watchdog selects the matching UTC schedule from Chile's current offset.
+    # It must not compare the actual minute: scheduled Actions commonly start
+    # late, sometimes by close to an hour.
     - cron: "30 12 * * *"
     - cron: "30 13 * * *"
 
@@ -33,11 +35,26 @@ jobs:
       - name: Check Chile watchdog time
         id: clock
         shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          TRIGGER_SCHEDULE: ${{ github.event.schedule }}
         run: |
           cycle_date="$(TZ=America/Santiago date +%F)"
           local_time="$(TZ=America/Santiago date +%H:%M)"
+          chile_offset="$(TZ=America/Santiago date +%z)"
           echo "cycle_date=${cycle_date}" >> "$GITHUB_OUTPUT"
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" || "$local_time" == "09:30" ]]; then
+
+          case "$chile_offset" in
+            -0300) expected_schedule="30 12 * * *" ;;
+            -0400) expected_schedule="30 13 * * *" ;;
+            *)
+              echo "Unsupported America/Santiago UTC offset: ${chile_offset}" >&2
+              exit 1
+              ;;
+          esac
+
+          echo "Local watchdog check: time=${local_time}, offset=${chile_offset}, trigger=${TRIGGER_SCHEDULE:-manual}, expected=${expected_schedule}"
+          if [[ "$EVENT_NAME" == "workflow_dispatch" || "$TRIGGER_SCHEDULE" == "$expected_schedule" ]]; then
             echo "due=true" >> "$GITHUB_OUTPUT"
           else
             echo "due=false" >> "$GITHUB_OUTPUT"
