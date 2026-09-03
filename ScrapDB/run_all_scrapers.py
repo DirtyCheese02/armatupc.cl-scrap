@@ -11,6 +11,14 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from source_policy import (
+	check_robots_access,
+    load_source_registry,
+    policy_decision,
+    public_audit_row,
+    validate_registry_coverage,
+)
+
 SCRAPDB_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRAPDB_DIR.parent
 SCRAPERS_DIR = SCRAPDB_DIR / "PythonsScrap"
@@ -302,9 +310,24 @@ def main() -> int:
     headless_scrapers = _parse_csv_env("SCRAPER_HEADLESS")
     no_headful_retry_scrapers = _parse_csv_env("SCRAPER_NO_HEADFUL_RETRY")
     required_non_empty_scrapers = _parse_csv_env("SCRAPER_REQUIRE_NON_EMPTY")
+    source_policy_mode = os.environ.get("SCRAPER_SOURCE_POLICY_MODE", "audit").strip().lower()
+    if source_policy_mode not in {"audit", "enforce"}:
+        print(
+            f"[WARN] SCRAPER_SOURCE_POLICY_MODE={source_policy_mode!r} is invalid. "
+            "Using enforce."
+        )
+        source_policy_mode = "enforce"
 
     scrapers = _discover_scrapers()
+    source_registry = load_source_registry()
+    registry_issues = validate_registry_coverage(
+        (item.name for item in SCRAPERS_DIR.glob("Scrap_*.py")), source_registry
+    )
+    if registry_issues:
+        print("[ERROR] Source registry coverage is invalid: " + ", ".join(registry_issues))
+        return 1
     print(f"Discovered {len(scrapers)} scraper(s) in {SCRAPERS_DIR}.")
+    print(f"Source policy mode: {source_policy_mode}.")
 
     scraper_results: list[dict[str, Any]] = []
     summary_path = run_dir / "summary.json"
@@ -328,6 +351,10 @@ def main() -> int:
             "scraper_timeout_overrides": scraper_timeout_overrides,
             "match_timeout_minutes": match_timeout_minutes,
             "run_match_products": run_match_products,
+            "source_policy_mode": source_policy_mode,
+            "source_policy_registry": [
+                public_audit_row(source_registry[item.name]) for item in scrapers
+            ],
             "scraper_count": len(scrapers),
             "scraper_failures": sum(not item.get("success", False) for item in scraper_results),
             "scraper_partials": sum(bool(item.get("partial")) for item in scraper_results),
@@ -343,6 +370,47 @@ def main() -> int:
     write_progress_summary()
     for index, scraper_path in enumerate(scrapers, start=1):
         script_name = scraper_path.name
+        source_policy = source_registry.get(script_name)
+        source_allowed, source_policy_reason = policy_decision(
+            source_policy, source_policy_mode
+        )
+        if not source_allowed:
+            print(
+                f"[{index}/{len(scrapers)}] Skipping {script_name}: "
+                f"{source_policy_reason}."
+            )
+            scraper_results.append(
+                {
+                    "name": script_name,
+                    "path": str(scraper_path),
+                    "success": False,
+                    "partial": True,
+                    "output_complete": False,
+                    "skipped": True,
+                    "failure_reason": source_policy_reason,
+                    "source_policy": (
+                        public_audit_row(source_policy) if source_policy else None
+                    ),
+                }
+            )
+            write_progress_summary()
+            continue
+        if source_policy_mode == "enforce":
+            robots_allowed, robots_reason = check_robots_access(source_policy)
+            if not robots_allowed:
+                print(f"[{index}/{len(scrapers)}] Skipping {script_name}: {robots_reason}.")
+                scraper_results.append({
+                    "name": script_name,
+                    "path": str(scraper_path),
+                    "success": False,
+                    "partial": True,
+                    "output_complete": False,
+                    "skipped": True,
+                    "failure_reason": robots_reason,
+                    "source_policy": public_audit_row(source_policy),
+                })
+                write_progress_summary()
+                continue
         script_headless = default_headless
         script_name_l = script_name.lower()
         if script_name_l in headful_scrapers:
@@ -366,10 +434,19 @@ def main() -> int:
                 "SCRAP_HEADLESS": "1" if script_headless else "0",
                 "SCRAPE_RUN_ID": scrape_run_id,
                 "SCRAPER_HEALTH_FILE": str(health_path),
+                "SCRAPER_SOURCE_NAME": source_policy.source_name,
+                "SCRAPER_SOURCE_POLICY_STATUS": source_policy.automation_status,
+                "SCRAPER_REQUEST_DELAY_SECONDS": str(
+                    source_policy.request_delay_seconds
+                ),
+                "HTML_REQUEST_DELAY_SECONDS": str(source_policy.request_delay_seconds),
+                "SPHINX_REQUEST_DELAY_SECONDS": str(source_policy.request_delay_seconds),
             },
             use_xvfb=use_xvfb and (not script_headless),
         )
         result["headless"] = script_headless
+        result["source_policy_reason"] = source_policy_reason
+        result["source_policy"] = public_audit_row(source_policy)
         result["used_headful_retry"] = False
         result["json_count"] = _count_json_files(output_dir)
         _apply_health_sidecar(result, health_path)
@@ -389,6 +466,13 @@ def main() -> int:
                     "SCRAP_HEADLESS": "0",
                     "SCRAPE_RUN_ID": scrape_run_id,
                     "SCRAPER_HEALTH_FILE": str(health_path),
+                    "SCRAPER_SOURCE_NAME": source_policy.source_name,
+                    "SCRAPER_SOURCE_POLICY_STATUS": source_policy.automation_status,
+                    "SCRAPER_REQUEST_DELAY_SECONDS": str(
+                        source_policy.request_delay_seconds
+                    ),
+                    "HTML_REQUEST_DELAY_SECONDS": str(source_policy.request_delay_seconds),
+                    "SPHINX_REQUEST_DELAY_SECONDS": str(source_policy.request_delay_seconds),
                 },
                 use_xvfb=use_xvfb,
             )
@@ -423,6 +507,13 @@ def main() -> int:
                     "SCRAP_HEADLESS": "0",
                     "SCRAPE_RUN_ID": scrape_run_id,
                     "SCRAPER_HEALTH_FILE": str(health_path),
+                    "SCRAPER_SOURCE_NAME": source_policy.source_name,
+                    "SCRAPER_SOURCE_POLICY_STATUS": source_policy.automation_status,
+                    "SCRAPER_REQUEST_DELAY_SECONDS": str(
+                        source_policy.request_delay_seconds
+                    ),
+                    "HTML_REQUEST_DELAY_SECONDS": str(source_policy.request_delay_seconds),
+                    "SPHINX_REQUEST_DELAY_SECONDS": str(source_policy.request_delay_seconds),
                 },
                 use_xvfb=use_xvfb,
             )
@@ -474,6 +565,10 @@ def main() -> int:
         "scraper_timeout_overrides": scraper_timeout_overrides,
         "match_timeout_minutes": match_timeout_minutes,
         "run_match_products": run_match_products,
+        "source_policy_mode": source_policy_mode,
+        "source_policy_registry": [
+            public_audit_row(source_registry[item.name]) for item in scrapers
+        ],
         "expected_scrapers": [item.name for item in scrapers],
         "pending_scrapers": [],
         "scraper_count": len(scrapers),
@@ -541,6 +636,10 @@ def main() -> int:
         "scraper_timeout_overrides": scraper_timeout_overrides,
         "match_timeout_minutes": match_timeout_minutes,
         "run_match_products": run_match_products,
+        "source_policy_mode": source_policy_mode,
+        "source_policy_registry": [
+            public_audit_row(source_registry[item.name]) for item in scrapers
+        ],
         "scraper_count": len(scrapers),
         "scraper_failures": len(scraper_failures),
         "scraper_partials": len(scraper_partials),

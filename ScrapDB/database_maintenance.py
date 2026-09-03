@@ -30,7 +30,7 @@ def _rpc(client, name: str, params: dict, *, attempts: int = 4):
             time.sleep(2**attempt)
 
 
-def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, int]:
+def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, object]:
     client = _client()
     offers_expired = 0
     for _ in range(max_batches):
@@ -52,6 +52,29 @@ def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, int
             break
     stats_response = _rpc(client, "refresh_daily_product_stats", {})
     stats_refreshed = int(stats_response.data or 0)
+    cycle_date = os.environ.get("SCRAPE_CYCLE_DATE", "").strip()
+    fencing_token = os.environ.get("SCRAPE_FENCING_TOKEN", "").strip()
+    if bool(cycle_date) != bool(fencing_token):
+        raise RuntimeError("SCRAPE_CYCLE_DATE and SCRAPE_FENCING_TOKEN must be provided together")
+    if cycle_date:
+        _rpc(
+            client,
+            "assert_scrape_cycle_fence",
+            {"p_cycle_date": cycle_date, "p_fencing_token": fencing_token},
+        )
+    source_run_id = os.environ.get("SCRAPE_RUN_ID", "").strip()
+    if not source_run_id and cycle_date:
+        source_run_id = f"scrape-cycle:{cycle_date}"
+    snapshot_response = _rpc(
+        client,
+        "refresh_public_home_snapshot",
+        {
+            "p_source_run_id": source_run_id or None,
+            "p_cycle_date": cycle_date or None,
+            "p_fencing_token": fencing_token or None,
+        },
+    )
+    snapshot_payload = snapshot_response.data or {}
     chile_today = dt.datetime.now(ZoneInfo("America/Santiago")).date()
     weekly_reports_refreshed = 0
     if chile_today.weekday() == 0:
@@ -66,6 +89,8 @@ def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, int
         "rawDeleted": raw_deleted,
         "issuesClosed": issues_closed,
         "dailyStatsRefreshed": stats_refreshed,
+        "homeSnapshotGeneratedAt": snapshot_payload.get("generatedAt"),
+        "homeSnapshotDataAsOf": snapshot_payload.get("dataAsOf"),
         "weeklyReportsRefreshed": weekly_reports_refreshed,
     }
     print(json.dumps(result, ensure_ascii=False, sort_keys=True))

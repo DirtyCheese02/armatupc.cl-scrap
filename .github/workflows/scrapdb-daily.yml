@@ -421,6 +421,9 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SCRAPE_CYCLE_DATE: ${{ needs.watchdog.outputs.cycle_date }}
+          SCRAPE_FENCING_TOKEN: ${{ needs.watchdog.outputs.fencing_token }}
+          SCRAPE_RUN_ID: ${{ steps.retry-manifest.outputs.scrape_run_id }}
         run: |
           python -m ScrapDB.scrape_cycle assert \
             --date "${{ needs.watchdog.outputs.cycle_date }}" \

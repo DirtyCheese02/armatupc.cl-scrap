@@ -1,5 +1,5 @@
 [Unit]
-Description=ArmaTuPC local daily scrape (shadow by default)
+Description=ArmaTuPC local daily scrape and fenced publication
 After=network-online.target docker.service
 Wants=network-online.target
 Requires=docker.service
@@ -8,10 +8,10 @@ Requires=docker.service
 Type=oneshot
 User=root
 WorkingDirectory=/srv/armatupc/scraper/current
-Environment=PUBLISH_ENABLED=0
-ExecStartPre=-/usr/bin/docker stop armatupc-llama
+Environment=PUBLISH_ENABLED=1
+ExecStartPre=-/usr/bin/docker stop armatupc-specdb-worker armatupc-llama
 ExecStart=/srv/armatupc/scraper/current/ops/server/run-local-daily.sh
-ExecStartPost=-/usr/bin/docker start armatupc-llama
+ExecStopPost=-/usr/bin/docker start armatupc-llama armatupc-specdb-worker
 TimeoutStartSec=8h
 Nice=5
 IOSchedulingClass=best-effort

@@ -26,6 +26,7 @@ Variables utiles:
 - `SCRAPER_TIMEOUT_MINUTES=90`: timeout base por scraper.
 - `MATCH_TIMEOUT_MINUTES=60`: timeout del matcher.
 - `SCRAPER_REQUIRE_NON_EMPTY=Scrap_SPDigital.py`: falla si el scraper no genera JSON.
+- `SCRAPER_SOURCE_POLICY_MODE=audit`: registra el estado contractual sin ocultarlo; `enforce` bloquea fuentes pendientes y exige que `robots.txt` permita la URL registrada.
 
 ## Stock safety
 
@@ -40,6 +41,15 @@ Variables utiles:
 Si una tienda falla, queda vacia, parcial o sospechosa, se actualizan metricas, pero no se modifican stocks vigentes.
 
 ## Politica de fuentes
+
+`ScrapDB/source_registry.json` es el inventario obligatorio de los 24 scrapers. Ninguna fuente sin registro puede ejecutarse. Todas comienzan en `review_required`: esto permite mantener telemetria en modo `audit`, pero **no equivale a permiso** y mantiene la fuente fuera de elegibilidad de monetizacion. Tras revisar términos, robots, límites y evidencia, el operador puede cambiar individualmente a `allowed`, `feed`, `api`, `denied` o `suspended`.
+
+```powershell
+python tools/audit_source_policies.py
+python tools/audit_source_policies.py --check-robots
+```
+
+`robots.txt` sólo expresa preferencias técnicas de rastreo; un resultado permitido no sustituye los términos ni un permiso de reutilización. El runner propaga al scraper el retardo mínimo registrado y, en modo `enforce`, falla de forma segura ante una fuente pendiente, denegada, no registrada o cuyo robots no pueda validarse.
 
 Las capturas nuevas desde PCPartPicker estan suspendidas. `SpecDB/Scrap_PCPP.py` termina sin navegar por defecto y nunca intenta resolver automaticamente Turnstile u otros challenges. Una futura reactivacion exige simultaneamente `PCPP_CAPTURE_ENABLED=1` y `PCPP_PERMISSION_REFERENCE` con la referencia verificable del permiso escrito o acuerdo de datos.
 

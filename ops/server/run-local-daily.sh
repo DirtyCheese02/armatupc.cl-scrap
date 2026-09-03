@@ -199,6 +199,8 @@ if [[ "${PUBLISH_ENABLED}" == "1" ]]; then
     --env-file "${ENV_FILE}" \
     -e SCRAPE_CYCLE_DATE="${CYCLE_DATE}" \
     -e SCRAPE_FENCING_TOKEN="${TOKEN}" \
+    -e SCRAPE_RUN_ID="${RUN_ID}" \
+    -v "${RELEASE_ROOT}:/app:ro" \
     "${IMAGE}" python -m ScrapDB.database_maintenance post-run
 
   coordinator finalize-manifest \
