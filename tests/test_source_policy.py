@@ -30,3 +30,10 @@ def test_pending_sources_are_visible_in_audit_and_blocked_in_enforce():
 
 def test_unregistered_source_is_always_blocked():
     assert policy_decision(None, "audit") == (False, "source_not_registered")
+
+
+def test_spdigital_is_suspended_until_an_authorized_integration_exists():
+    policy = load_source_registry()["Scrap_SPDigital.py"]
+    assert policy.automation_status == "suspended"
+    assert policy_decision(policy, "audit") == (False, "source_suspended")
+    assert policy_decision(policy, "enforce") == (False, "source_suspended")

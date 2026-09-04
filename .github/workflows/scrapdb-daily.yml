@@ -162,13 +162,6 @@ jobs:
             headful_scrapers: ""
             timeout_overrides: ""
             no_headful_retry: "Scrap_PCExpress.py"
-          - name: legacy-spdigital
-            timeout_minutes: 120
-            needs_browser: "true"
-            include_scrapers: "Scrap_SPDigital.py"
-            headful_scrapers: ""
-            timeout_overrides: ""
-            no_headful_retry: ""
           - name: legacy-winpy
             timeout_minutes: 180
             needs_browser: "true"

@@ -79,7 +79,6 @@ declare -A SHARDS=(
   [browser-blocked]="Scrap_Alltec.py,Scrap_CTMan.py,Scrap_MyBox.py,Scrap_NotebooksYa.py,Scrap_TruluStore.py"
   [legacy-kdtec]="Scrap_KDtec.py"
   [legacy-pcexpress]="Scrap_PCExpress.py"
-  [legacy-spdigital]="Scrap_SPDigital.py"
   [legacy-winpy]="Scrap_Winpy.py"
   [legacy-niceone]="Scrap_NiceOne.py"
 )

@@ -150,7 +150,6 @@ class ScraperTelemetryTest(unittest.TestCase):
         for shard in (
             "legacy-kdtec",
             "legacy-pcexpress",
-            "legacy-spdigital",
             "legacy-winpy",
             "legacy-niceone",
         ):
