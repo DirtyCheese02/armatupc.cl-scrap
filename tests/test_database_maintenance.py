@@ -30,8 +30,8 @@ class DatabaseMaintenanceTests(unittest.TestCase):
         responses = [
             SimpleNamespace(data=2),
             SimpleNamespace(data=0),
-            SimpleNamespace(data={"rawDeleted": 2, "issuesClosed": 1}),
-            SimpleNamespace(data={"rawDeleted": 0, "issuesClosed": 0}),
+            SimpleNamespace(data={"rawDeleted": 2, "candidatesDeleted": 2, "issuesClosed": 1}),
+            SimpleNamespace(data={"rawDeleted": 0, "candidatesDeleted": 0, "issuesClosed": 0}),
             SimpleNamespace(data=7),
             SimpleNamespace(data={"generatedAt": "2026-08-18T12:00:00Z", "dataAsOf": "2026-08-18T11:55:00Z"}),
         ]
@@ -50,6 +50,7 @@ class DatabaseMaintenanceTests(unittest.TestCase):
             {
                 "offersExpired": 2,
                 "rawDeleted": 2,
+                "candidatesDeleted": 2,
                 "issuesClosed": 1,
                 "dailyStatsRefreshed": 7,
                 "homeSnapshotGeneratedAt": "2026-08-18T12:00:00Z",

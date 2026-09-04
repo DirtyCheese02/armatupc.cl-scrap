@@ -40,15 +40,18 @@ def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, obj
         if expired < batch_size:
             break
     raw_deleted = 0
+    candidates_deleted = 0
     issues_closed = 0
     for _ in range(max_batches):
         response = _rpc(client, "purge_scrape_diagnostics", {"p_limit": batch_size})
         payload = response.data or {}
         deleted = int(payload.get("rawDeleted") or 0)
+        deleted_candidates = int(payload.get("candidatesDeleted") or 0)
         closed = int(payload.get("issuesClosed") or 0)
         raw_deleted += deleted
+        candidates_deleted += deleted_candidates
         issues_closed += closed
-        if deleted < batch_size and closed < batch_size:
+        if deleted < batch_size and deleted_candidates < batch_size and closed < batch_size:
             break
     stats_response = _rpc(client, "refresh_daily_product_stats", {})
     stats_refreshed = int(stats_response.data or 0)
@@ -87,6 +90,7 @@ def post_run(*, batch_size: int = 5000, max_batches: int = 100) -> dict[str, obj
     result = {
         "offersExpired": offers_expired,
         "rawDeleted": raw_deleted,
+        "candidatesDeleted": candidates_deleted,
         "issuesClosed": issues_closed,
         "dailyStatsRefreshed": stats_refreshed,
         "homeSnapshotGeneratedAt": snapshot_payload.get("generatedAt"),
